@@ -1,0 +1,172 @@
+{
+  "last_node_id": 8,
+  "last_link_id": 4,
+  "nodes": [
+    {
+      "id": 1,
+      "type": "OpenAIGPTImage1",
+      "pos": [120, 80],
+      "size": [520, 360],
+      "flags": {},
+      "order": 0,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {"name": "IMAGE", "type": "IMAGE", "links": [1], "slot_index": 0}
+      ],
+      "properties": {"Node name for S&R": "OpenAIGPTImage1"},
+      "widgets_values": [
+        "TOMA 01. Fotografia cinematografica 16:9, cine de autor independiente, luz natural de amanecer, lente 35mm, soft highlight rolloff, fine cinematic grain, composicion limpia, materiales limpios y mantenidos, textura real dignificada, no decadencia. Pequena tienda mexicana activa y cuidada en centro historico al amanecer. Cortina metalica limpia con textura sutil abriendose desde abajo, vista frontal en angulo tres cuartos bajo. Persona mexicana/latinoamericana parcialmente visible en silueta levantando la cortina. Luz dorada entra desde abajo. Fachada sencilla pero mantenida, muros completos, ambiente ordenado y calido, comercio popular tratado con belleza cotidiana. Evitar: texto, captions, subtitulos, numeros, labels, logos, marcas, UI final, HDR, piel plastica, manos malformadas, pobreza extrema, mugre excesiva, abandono, descuido, decadencia, grietas profundas, humedad, manchas negras, oxido pesado, pintura descascarada, superficies despintadas, paredes destruidas, elementos rotos o derrumbados.",
+        11001,
+        "randomize",
+        "low",
+        "opaque",
+        "1536x1024",
+        1,
+        "gpt-image-1.5"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "SaveImage",
+      "pos": [720, 190],
+      "size": [315, 58],
+      "flags": {},
+      "order": 1,
+      "mode": 0,
+      "inputs": [
+        {"name": "images", "type": "IMAGE", "link": 1}
+      ],
+      "outputs": [],
+      "properties": {"Node name for S&R": "SaveImage"},
+      "widgets_values": ["openai_storyboard_toma_01"]
+    },
+    {
+      "id": 3,
+      "type": "OpenAIGPTImage1",
+      "pos": [120, 520],
+      "size": [520, 360],
+      "flags": {},
+      "order": 2,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {"name": "IMAGE", "type": "IMAGE", "links": [2], "slot_index": 0}
+      ],
+      "properties": {"Node name for S&R": "OpenAIGPTImage1"},
+      "widgets_values": [
+        "TOMA 02. Fotografia cinematografica 16:9, cine de autor independiente, luz natural y contraluz de tunel, lente 35mm, shallow depth of field, soft highlight rolloff, fine cinematic grain, clean maintained materials, textura real dignificada. Futbolista ficticio mexicano/latinoamericano caminando por tunel de estadio. Camara muy baja cerca del suelo, solo piernas, espinilleras y siluetas. Contraluz fuerte al final del tunel, haze sutil. Uniforme ficticio: playera verde con dos lineas blancas, short blanco, calcetas rojas #DA3B2B, sin logos ni escudos. Jersey con textura geometrica abstracta sutil. Evitar: texto, captions, numeros, labels, logos, marcas deportivas, equipos reales, uniformes oficiales, tres lineas tipo marca, estadio reconocible, HDR, piel plastica, mugre excesiva, abandono, descuido, grietas profundas, oxido pesado, pintura descascarada, paredes destruidas.",
+        11002,
+        "randomize",
+        "low",
+        "opaque",
+        "1536x1024",
+        1,
+        "gpt-image-1.5"
+      ]
+    },
+    {
+      "id": 4,
+      "type": "SaveImage",
+      "pos": [720, 630],
+      "size": [315, 58],
+      "flags": {},
+      "order": 3,
+      "mode": 0,
+      "inputs": [
+        {"name": "images", "type": "IMAGE", "link": 2}
+      ],
+      "outputs": [],
+      "properties": {"Node name for S&R": "SaveImage"},
+      "widgets_values": ["openai_storyboard_toma_02"]
+    },
+    {
+      "id": 5,
+      "type": "OpenAIGPTImage1",
+      "pos": [120, 960],
+      "size": [520, 360],
+      "flags": {},
+      "order": 4,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {"name": "IMAGE", "type": "IMAGE", "links": [3], "slot_index": 0}
+      ],
+      "properties": {"Node name for S&R": "OpenAIGPTImage1"},
+      "widgets_values": [
+        "TOMA 03. Fotografia cinematografica 16:9, cine de autor independiente, luz natural suave, lente 50mm, medium depth of field, soft highlight rolloff, fine cinematic grain, clean maintained materials, textura real dignificada. Joven mexicano/latinoamericano visto de espaldas ascendiendo escaleras hacia la superficie. Mochila #DA3B2B como protagonista contra entorno neutro. Encuadre medio trasero centrado, lineas de escaleras y barandales guian la mirada. Luz natural suave al final, cielo y vegetacion desenfocados, movimiento pausado pero decidido, sensacion de progreso y salida. Evitar: texto, captions, numeros, labels, logos, marcas, pobreza extrema, mugre excesiva, abandono, descuido, decadencia, grietas profundas, cicatrices visuales fuertes, humedad, manchas negras, oxido pesado, pintura descascarada, superficies despintadas, paredes destruidas, elementos rotos o derrumbados.",
+        11003,
+        "randomize",
+        "low",
+        "opaque",
+        "1536x1024",
+        1,
+        "gpt-image-1.5"
+      ]
+    },
+    {
+      "id": 6,
+      "type": "SaveImage",
+      "pos": [720, 1070],
+      "size": [315, 58],
+      "flags": {},
+      "order": 5,
+      "mode": 0,
+      "inputs": [
+        {"name": "images", "type": "IMAGE", "link": 3}
+      ],
+      "outputs": [],
+      "properties": {"Node name for S&R": "SaveImage"},
+      "widgets_values": ["openai_storyboard_toma_03"]
+    },
+    {
+      "id": 7,
+      "type": "OpenAIGPTImage1",
+      "pos": [120, 1400],
+      "size": [520, 360],
+      "flags": {},
+      "order": 6,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {"name": "IMAGE", "type": "IMAGE", "links": [4], "slot_index": 0}
+      ],
+      "properties": {"Node name for S&R": "OpenAIGPTImage1"},
+      "widgets_values": [
+        "TOMA 04. Fotografia cinematografica 16:9, cine de autor independiente, luz de estadio suave, lente 35mm, medium depth of field, soft highlight rolloff, fine cinematic grain, clean maintained materials, textura real dignificada. Jugador ficticio mexicano/latinoamericano ascendiendo del tunel hacia el campo. Encuadre bajo desde atras, foco en piernas y tachones sobre escaleras de concreto. Fondo abre a estadio lleno con multitud desenfocada y contraluz suave. Uniforme ficticio verde con dos lineas blancas, short blanco, calcetas rojas #DA3B2B, sin logos ni identidad oficial. Evitar: texto, captions, numeros, labels, logos, marcas deportivas, equipos reales, uniformes oficiales, tres lineas tipo marca, estadio reconocible, HDR, piel plastica, mugre excesiva, abandono, descuido, grietas profundas, oxido pesado, pintura descascarada, paredes destruidas.",
+        11004,
+        "randomize",
+        "low",
+        "opaque",
+        "1536x1024",
+        1,
+        "gpt-image-1.5"
+      ]
+    },
+    {
+      "id": 8,
+      "type": "SaveImage",
+      "pos": [720, 1510],
+      "size": [315, 58],
+      "flags": {},
+      "order": 7,
+      "mode": 0,
+      "inputs": [
+        {"name": "images", "type": "IMAGE", "link": 4}
+      ],
+      "outputs": [],
+      "properties": {"Node name for S&R": "SaveImage"},
+      "widgets_values": ["openai_storyboard_toma_04"]
+    }
+  ],
+  "links": [
+    [1, 1, 0, 2, 0, "IMAGE"],
+    [2, 3, 0, 4, 0, "IMAGE"],
+    [3, 5, 0, 6, 0, "IMAGE"],
+    [4, 7, 0, 8, 0, "IMAGE"]
+  ],
+  "groups": [],
+  "config": {},
+  "extra": {},
+  "version": 0.4
+}

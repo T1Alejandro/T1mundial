@@ -1,0 +1,424 @@
+{
+  "last_node_id": 21,
+  "last_link_id": 18,
+  "nodes": [
+    {
+      "id": 1,
+      "type": "LoadImage",
+      "pos": [80, 80],
+      "size": [315, 314],
+      "flags": {},
+      "order": 0,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {"name": "IMAGE", "type": "IMAGE", "links": [1, 3, 5, 7, 9, 11, 13, 14, 15, 16, 17, 18], "slot_index": 0},
+        {"name": "MASK", "type": "MASK", "links": null, "slot_index": 1}
+      ],
+      "properties": {"Node name for S&R": "LoadImage"},
+      "widgets_values": ["storyboard_rack_reference.png", "image"]
+    },
+    {
+      "id": 2,
+      "type": "OpenAIGPTImage1",
+      "pos": [520, 40],
+      "size": [600, 360],
+      "flags": {},
+      "order": 1,
+      "mode": 0,
+      "inputs": [
+        {"name": "image", "type": "IMAGE", "link": 1}
+      ],
+      "outputs": [
+        {"name": "IMAGE", "type": "IMAGE", "links": [2], "slot_index": 0}
+      ],
+      "properties": {"Node name for S&R": "OpenAIGPTImage1"},
+      "widgets_values": [
+        "TOMA 01 ANGULO A. Usar la imagen adjunta solo como biblia visual de continuidad: look cinematografico, paleta, casting mexicano/latinoamericano, comercio popular, textura dignificada y tono general. No copiar el grid, no collage, no mosaico, no paneles, no bordes, no miniaturas; crear una imagen standalone nueva. CAMARA MULTIANGLE: frontal tres cuartos bajo, horizontal -20, vertical -8, zoom 1.10. Fotografia cinematografica 16:9, cine de autor independiente, amanecer, lente 35mm, composicion centrada, soft highlight rolloff, fine cinematic grain, luz natural dorada. Pequena tienda mexicana activa y cuidada en centro historico al amanecer. Cortina metalica limpia con textura sutil abriendose desde abajo. Persona mexicana/latinoamericana parcialmente visible en silueta levantando la cortina. Fachada sencilla pero mantenida, muros completos, ambiente ordenado y calido, comercio popular tratado con belleza cotidiana. Evitar texto visible, captions, subtitulos, numeros, labels, logos, marcas, UI final, pobreza extrema, mugre, abandono, descuido, decadencia, grietas profundas, humedad, oxido pesado, pintura descascarada, paredes destruidas, elementos rotos o derrumbados, HDR agresivo, piel plastica, anatomia deformada.",
+        14001,
+        "randomize",
+        "low",
+        "opaque",
+        "1536x1024",
+        1,
+        "gpt-image-1.5"
+      ]
+    },
+    {
+      "id": 3,
+      "type": "SaveImage",
+      "pos": [1180, 170],
+      "size": [315, 58],
+      "flags": {},
+      "order": 2,
+      "mode": 0,
+      "inputs": [
+        {"name": "images", "type": "IMAGE", "link": 2}
+      ],
+      "outputs": [],
+      "properties": {"Node name for S&R": "SaveImage"},
+      "widgets_values": ["qwen_plugin_t01_A_frontal_bajo"]
+    },
+    {
+      "id": 4,
+      "type": "OpenAIGPTImage1",
+      "pos": [520, 440],
+      "size": [600, 360],
+      "flags": {},
+      "order": 3,
+      "mode": 0,
+      "inputs": [
+        {"name": "image", "type": "IMAGE", "link": 3}
+      ],
+      "outputs": [
+        {"name": "IMAGE", "type": "IMAGE", "links": [4], "slot_index": 0}
+      ],
+      "properties": {"Node name for S&R": "OpenAIGPTImage1"},
+      "widgets_values": [
+        "TOMA 01 ANGULO B. Usar la imagen adjunta solo como biblia visual de continuidad: look cinematografico, paleta, casting mexicano/latinoamericano, comercio popular, textura dignificada y tono general. No copiar el grid, no collage, no mosaico, no paneles, no bordes, no miniaturas; crear una imagen standalone nueva. CAMARA MULTIANGLE: vista desde interior de tienda hacia afuera, horizontal 0, vertical -14, zoom 1.20, angulo bajo e intimo. Fotografia cinematografica 16:9, cine de autor independiente, amanecer, lente 35mm, soft highlight rolloff, fine cinematic grain. Cortina metalica limpia abriendose desde abajo, borde inferior de la cortina en primer plano, manos o silueta parcial de persona mexicana/latinoamericana levantandola, luz dorada entrando al local, productos ordenados apenas visibles en sombra suave. Tienda activa, cuidada, sencilla y calida, materiales mantenidos, textura real sin decadencia. Evitar texto visible, captions, subtitulos, numeros, labels, logos, marcas, UI final, pobreza extrema, mugre, abandono, descuido, decadencia, grietas profundas, humedad, oxido pesado, pintura descascarada, paredes destruidas, elementos rotos o derrumbados, HDR agresivo, piel plastica, anatomia deformada.",
+        14002,
+        "randomize",
+        "low",
+        "opaque",
+        "1536x1024",
+        1,
+        "gpt-image-1.5"
+      ]
+    },
+    {
+      "id": 5,
+      "type": "SaveImage",
+      "pos": [1180, 570],
+      "size": [315, 58],
+      "flags": {},
+      "order": 4,
+      "mode": 0,
+      "inputs": [
+        {"name": "images", "type": "IMAGE", "link": 4}
+      ],
+      "outputs": [],
+      "properties": {"Node name for S&R": "SaveImage"},
+      "widgets_values": ["qwen_plugin_t01_B_interior"]
+    },
+    {
+      "id": 6,
+      "type": "OpenAIGPTImage1",
+      "pos": [520, 840],
+      "size": [600, 360],
+      "flags": {},
+      "order": 5,
+      "mode": 0,
+      "inputs": [
+        {"name": "image", "type": "IMAGE", "link": 5}
+      ],
+      "outputs": [
+        {"name": "IMAGE", "type": "IMAGE", "links": [6], "slot_index": 0}
+      ],
+      "properties": {"Node name for S&R": "OpenAIGPTImage1"},
+      "widgets_values": [
+        "TOMA 01 ANGULO C. Usar la imagen adjunta solo como biblia visual de continuidad: look cinematografico, paleta, casting mexicano/latinoamericano, comercio popular, textura dignificada y tono general. No copiar el grid, no collage, no mosaico, no paneles, no bordes, no miniaturas; crear una imagen standalone nueva. CAMARA MULTIANGLE: lateral desde banqueta, horizontal 35, vertical -4, zoom 1.05. Fotografia cinematografica 16:9, cine de autor independiente, amanecer, lente 50mm, camara baja a media altura, profundidad de campo media, soft highlight rolloff, fine cinematic grain. Pequena tienda mexicana activa y cuidada, cortina metalica limpia medio abierta, persona mexicana/latinoamericana levantandola en silueta parcial, luz dorada filtrandose hacia la calle. Calle de centro historico generico, sin monumentos reconocibles, fachada completa y mantenida, ambiente ordenado, cotidiano y curado como cine. Evitar texto visible, captions, subtitulos, numeros, labels, logos, marcas, UI final, pobreza extrema, mugre, abandono, descuido, decadencia, grietas profundas, humedad, oxido pesado, pintura descascarada, paredes destruidas, elementos rotos o derrumbados, HDR agresivo, piel plastica, anatomia deformada.",
+        14003,
+        "randomize",
+        "low",
+        "opaque",
+        "1536x1024",
+        1,
+        "gpt-image-1.5"
+      ]
+    },
+    {
+      "id": 7,
+      "type": "SaveImage",
+      "pos": [1180, 970],
+      "size": [315, 58],
+      "flags": {},
+      "order": 6,
+      "mode": 0,
+      "inputs": [
+        {"name": "images", "type": "IMAGE", "link": 6}
+      ],
+      "outputs": [],
+      "properties": {"Node name for S&R": "SaveImage"},
+      "widgets_values": ["qwen_plugin_t01_C_lateral"]
+    },
+    {
+      "id": 8,
+      "type": "OpenAIGPTImage1",
+      "pos": [520, 1320],
+      "size": [600, 360],
+      "flags": {},
+      "order": 7,
+      "mode": 0,
+      "inputs": [
+        {"name": "image", "type": "IMAGE", "link": 7}
+      ],
+      "outputs": [
+        {"name": "IMAGE", "type": "IMAGE", "links": [8], "slot_index": 0}
+      ],
+      "properties": {"Node name for S&R": "OpenAIGPTImage1"},
+      "widgets_values": [
+        "TOMA 02 ANGULO A. Usar la imagen adjunta solo como biblia visual de continuidad: look cinematografico, paleta, casting mexicano/latinoamericano, uniforme verde/blanco/rojo, estadio, balon y tono general. No copiar el grid, no collage, no mosaico, no paneles, no bordes, no miniaturas; crear una imagen standalone nueva. CAMARA MULTIANGLE: muy baja desde atras, horizontal 0, vertical -18, zoom 1.25. Fotografia cinematografica 16:9, cine de autor independiente, lente 35mm, shallow depth of field, soft highlight rolloff, fine cinematic grain. Futbolista ficticio mexicano/latinoamericano caminando por tunel de estadio generico. Solo piernas, espinilleras y siluetas inferiores visibles. Contraluz fuerte y calido al final del tunel, haze sutil. Uniforme ficticio: playera verde con dos lineas blancas apenas visible en el borde inferior, short blanco, calcetas rojas #DA3B2B, sin logos ni escudos. Materiales mantenidos, tunel limpio con textura real. Evitar texto visible, logos, marcas deportivas, equipos reales, uniformes oficiales, tres lineas tipo marca, estadio reconocible, FIFA, World Cup, sponsor boards, balon con marca, atleta real, celebridad, banderas, abandono, grietas, oxido pesado, pintura descascarada, paredes destruidas, HDR agresivo, piel plastica, anatomia deformada.",
+        14004,
+        "randomize",
+        "low",
+        "opaque",
+        "1536x1024",
+        1,
+        "gpt-image-1.5"
+      ]
+    },
+    {
+      "id": 9,
+      "type": "SaveImage",
+      "pos": [1180, 1450],
+      "size": [315, 58],
+      "flags": {},
+      "order": 8,
+      "mode": 0,
+      "inputs": [
+        {"name": "images", "type": "IMAGE", "link": 8}
+      ],
+      "outputs": [],
+      "properties": {"Node name for S&R": "SaveImage"},
+      "widgets_values": ["qwen_plugin_t02_A_bajo_atras"]
+    },
+    {
+      "id": 10,
+      "type": "OpenAIGPTImage1",
+      "pos": [520, 1720],
+      "size": [600, 360],
+      "flags": {},
+      "order": 9,
+      "mode": 0,
+      "inputs": [
+        {"name": "image", "type": "IMAGE", "link": 9}
+      ],
+      "outputs": [
+        {"name": "IMAGE", "type": "IMAGE", "links": [10], "slot_index": 0}
+      ],
+      "properties": {"Node name for S&R": "OpenAIGPTImage1"},
+      "widgets_values": [
+        "TOMA 02 ANGULO B. Usar la imagen adjunta solo como biblia visual de continuidad: look cinematografico, paleta, casting mexicano/latinoamericano, uniforme verde/blanco/rojo, estadio, balon y tono general. No copiar el grid, no collage, no mosaico, no paneles, no bordes, no miniaturas; crear una imagen standalone nueva. CAMARA MULTIANGLE: perfil lateral bajo, horizontal 75, vertical -10, zoom 1.15. Fotografia cinematografica 16:9, cine de autor independiente, lente 50mm, camara a la altura de las rodillas, shallow depth of field, soft highlight rolloff, fine cinematic grain. Futbolista ficticio mexicano/latinoamericano avanzando por tunel de estadio generico de izquierda a derecha. Piernas y torso bajo en silueta parcial, calcetas rojas #DA3B2B como acento, short blanco, borde de playera verde con dos lineas blancas sin logos. Contraluz calido al fondo, paredes de concreto limpias y mantenidas, textura sutil no decadente. Evitar texto visible, logos, marcas deportivas, equipos reales, uniformes oficiales, tres lineas tipo marca, estadio reconocible, FIFA, World Cup, sponsor boards, balon con marca, atleta real, celebridad, banderas, abandono, grietas, oxido pesado, pintura descascarada, paredes destruidas, HDR agresivo, piel plastica, anatomia deformada.",
+        14005,
+        "randomize",
+        "low",
+        "opaque",
+        "1536x1024",
+        1,
+        "gpt-image-1.5"
+      ]
+    },
+    {
+      "id": 11,
+      "type": "SaveImage",
+      "pos": [1180, 1850],
+      "size": [315, 58],
+      "flags": {},
+      "order": 10,
+      "mode": 0,
+      "inputs": [
+        {"name": "images", "type": "IMAGE", "link": 10}
+      ],
+      "outputs": [],
+      "properties": {"Node name for S&R": "SaveImage"},
+      "widgets_values": ["qwen_plugin_t02_B_lateral"]
+    },
+    {
+      "id": 12,
+      "type": "OpenAIGPTImage1",
+      "pos": [520, 2120],
+      "size": [600, 360],
+      "flags": {},
+      "order": 11,
+      "mode": 0,
+      "inputs": [
+        {"name": "image", "type": "IMAGE", "link": 11}
+      ],
+      "outputs": [
+        {"name": "IMAGE", "type": "IMAGE", "links": [12], "slot_index": 0}
+      ],
+      "properties": {"Node name for S&R": "OpenAIGPTImage1"},
+      "widgets_values": [
+        "TOMA 02 ANGULO C. Usar la imagen adjunta solo como biblia visual de continuidad: look cinematografico, paleta, casting mexicano/latinoamericano, uniforme verde/blanco/rojo, estadio, balon y tono general. No copiar el grid, no collage, no mosaico, no paneles, no bordes, no miniaturas; crear una imagen standalone nueva. CAMARA MULTIANGLE: frontal bajo desde salida del tunel, horizontal 0, vertical -12, zoom 1.20. Fotografia cinematografica 16:9, cine de autor independiente, lente 35mm, figura en silueta parcial contra contraluz calido, shallow depth of field, soft highlight rolloff, fine cinematic grain. Futbolista ficticio mexicano/latinoamericano avanzando hacia la camara por tunel de estadio generico. Piernas dominantes, rostro no protagonista, uniforme ficticio verde con dos lineas blancas, short blanco, calcetas rojas #DA3B2B, sin logos ni escudos. Luz del campo al fondo, tunel limpio, textura real mantenida. Evitar texto visible, logos, marcas deportivas, equipos reales, uniformes oficiales, tres lineas tipo marca, estadio reconocible, FIFA, World Cup, sponsor boards, balon con marca, atleta real, celebridad, banderas, abandono, grietas, oxido pesado, pintura descascarada, paredes destruidas, HDR agresivo, piel plastica, anatomia deformada.",
+        14006,
+        "randomize",
+        "low",
+        "opaque",
+        "1536x1024",
+        1,
+        "gpt-image-1.5"
+      ]
+    },
+    {
+      "id": 13,
+      "type": "SaveImage",
+      "pos": [1180, 2250],
+      "size": [315, 58],
+      "flags": {},
+      "order": 12,
+      "mode": 0,
+      "inputs": [
+        {"name": "images", "type": "IMAGE", "link": 12}
+      ],
+      "outputs": [],
+      "properties": {"Node name for S&R": "SaveImage"},
+      "widgets_values": ["qwen_plugin_t02_C_frontal"]
+    },
+    {
+      "id": 14,
+      "type": "QwenMultiangleCamera",
+      "pos": [80, 520],
+      "size": [315, 280],
+      "flags": {},
+      "order": 13,
+      "mode": 0,
+      "inputs": [
+        {"name": "image", "type": "IMAGE", "link": 13}
+      ],
+      "outputs": [
+        {"name": "Prompt", "type": "STRING", "links": null, "slot_index": 0}
+      ],
+      "properties": {"Node name for S&R": "QwenMultiangleCamera"},
+      "widgets_values": [-20, -8, 1.1, true, true]
+    },
+    {
+      "id": 15,
+      "type": "QwenMultiangleCamera",
+      "pos": [80, 840],
+      "size": [315, 280],
+      "flags": {},
+      "order": 14,
+      "mode": 0,
+      "inputs": [
+        {"name": "image", "type": "IMAGE", "link": 14}
+      ],
+      "outputs": [
+        {"name": "Prompt", "type": "STRING", "links": null, "slot_index": 0}
+      ],
+      "properties": {"Node name for S&R": "QwenMultiangleCamera"},
+      "widgets_values": [0, -14, 1.2, true, true]
+    },
+    {
+      "id": 16,
+      "type": "QwenMultiangleCamera",
+      "pos": [80, 1160],
+      "size": [315, 280],
+      "flags": {},
+      "order": 15,
+      "mode": 0,
+      "inputs": [
+        {"name": "image", "type": "IMAGE", "link": 15}
+      ],
+      "outputs": [
+        {"name": "Prompt", "type": "STRING", "links": null, "slot_index": 0}
+      ],
+      "properties": {"Node name for S&R": "QwenMultiangleCamera"},
+      "widgets_values": [35, -4, 1.05, true, true]
+    },
+    {
+      "id": 17,
+      "type": "QwenMultiangleCamera",
+      "pos": [80, 1520],
+      "size": [315, 280],
+      "flags": {},
+      "order": 16,
+      "mode": 0,
+      "inputs": [
+        {"name": "image", "type": "IMAGE", "link": 16}
+      ],
+      "outputs": [
+        {"name": "Prompt", "type": "STRING", "links": null, "slot_index": 0}
+      ],
+      "properties": {"Node name for S&R": "QwenMultiangleCamera"},
+      "widgets_values": [0, -18, 1.25, true, true]
+    },
+    {
+      "id": 18,
+      "type": "QwenMultiangleCamera",
+      "pos": [80, 1840],
+      "size": [315, 280],
+      "flags": {},
+      "order": 17,
+      "mode": 0,
+      "inputs": [
+        {"name": "image", "type": "IMAGE", "link": 17}
+      ],
+      "outputs": [
+        {"name": "Prompt", "type": "STRING", "links": null, "slot_index": 0}
+      ],
+      "properties": {"Node name for S&R": "QwenMultiangleCamera"},
+      "widgets_values": [75, -10, 1.15, true, true]
+    },
+    {
+      "id": 19,
+      "type": "QwenMultiangleCamera",
+      "pos": [80, 2160],
+      "size": [315, 280],
+      "flags": {},
+      "order": 18,
+      "mode": 0,
+      "inputs": [
+        {"name": "image", "type": "IMAGE", "link": 18}
+      ],
+      "outputs": [
+        {"name": "Prompt", "type": "STRING", "links": null, "slot_index": 0}
+      ],
+      "properties": {"Node name for S&R": "QwenMultiangleCamera"},
+      "widgets_values": [0, -12, 1.2, true, true]
+    },
+    {
+      "id": 20,
+      "type": "Note",
+      "pos": [80, 400],
+      "size": [315, 90],
+      "flags": {},
+      "order": 19,
+      "mode": 0,
+      "properties": {},
+      "widgets_values": [
+        "REQUIERE PLUGIN: ComfyUI-qwenmultiangle / QwenMultiangleCamera. Si Comfy Cloud marca missing node, instala el plugin o corre este patch en un entorno que acepte custom nodes."
+      ]
+    },
+    {
+      "id": 21,
+      "type": "Note",
+      "pos": [520, 2500],
+      "size": [600, 160],
+      "flags": {},
+      "order": 20,
+      "mode": 0,
+      "properties": {},
+      "widgets_values": [
+        "IMPORTANTE: QwenMultiangleCamera genera un prompt/camara STRING, pero el nodo OpenAI GPT Image de esta instalacion normalmente no acepta prompt por cable. Por eso los valores del plugin estan duplicados dentro de cada prompt OpenAI. Si tu OpenAI node permite convertir prompt a input STRING, conecta cada salida Prompt del Qwen al prompt correspondiente y concatena con el texto base."
+      ]
+    }
+  ],
+  "links": [
+    [1, 1, 0, 2, 0, "IMAGE"],
+    [2, 2, 0, 3, 0, "IMAGE"],
+    [3, 1, 0, 4, 0, "IMAGE"],
+    [4, 4, 0, 5, 0, "IMAGE"],
+    [5, 1, 0, 6, 0, "IMAGE"],
+    [6, 6, 0, 7, 0, "IMAGE"],
+    [7, 1, 0, 8, 0, "IMAGE"],
+    [8, 8, 0, 9, 0, "IMAGE"],
+    [9, 1, 0, 10, 0, "IMAGE"],
+    [10, 10, 0, 11, 0, "IMAGE"],
+    [11, 1, 0, 12, 0, "IMAGE"],
+    [12, 12, 0, 13, 0, "IMAGE"],
+    [13, 1, 0, 14, 0, "IMAGE"],
+    [14, 1, 0, 15, 0, "IMAGE"],
+    [15, 1, 0, 16, 0, "IMAGE"],
+    [16, 1, 0, 17, 0, "IMAGE"],
+    [17, 1, 0, 18, 0, "IMAGE"],
+    [18, 1, 0, 19, 0, "IMAGE"]
+  ],
+  "groups": [
+    {"title": "Rack + plugin Qwen Multiangle", "bounding": [50, 40, 380, 2420], "color": "#5b2a86", "font_size": 24},
+    {"title": "Toma 01 - tienda / 3 angulos", "bounding": [490, 0, 1040, 1240], "color": "#8b6f2a", "font_size": 24},
+    {"title": "Toma 02 - tunel estadio / 3 angulos", "bounding": [490, 1280, 1040, 1220], "color": "#6b4a8f", "font_size": 24}
+  ],
+  "config": {},
+  "extra": {},
+  "version": 0.4
+}

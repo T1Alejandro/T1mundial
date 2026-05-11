@@ -1,0 +1,316 @@
+{
+  "last_node_id": 15,
+  "last_link_id": 12,
+  "nodes": [
+    {
+      "id": 1,
+      "type": "LoadImage",
+      "pos": [80, 80],
+      "size": [315, 314],
+      "flags": {},
+      "order": 0,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {"name": "IMAGE", "type": "IMAGE", "links": [1, 3, 5, 7, 9, 11], "slot_index": 0},
+        {"name": "MASK", "type": "MASK", "links": null, "slot_index": 1}
+      ],
+      "properties": {"Node name for S&R": "LoadImage"},
+      "widgets_values": ["storyboard_rack_reference.png", "image"]
+    },
+    {
+      "id": 2,
+      "type": "OpenAIGPTImage1",
+      "pos": [520, 40],
+      "size": [600, 360],
+      "flags": {},
+      "order": 1,
+      "mode": 0,
+      "inputs": [
+        {"name": "image", "type": "IMAGE", "link": 1}
+      ],
+      "outputs": [
+        {"name": "IMAGE", "type": "IMAGE", "links": [2], "slot_index": 0}
+      ],
+      "properties": {"Node name for S&R": "OpenAIGPTImage1"},
+      "widgets_values": [
+        "TOMA 01 ANGULO A. Usar la imagen adjunta solo como biblia visual de continuidad: look cinematografico, paleta, casting mexicano/latinoamericano, comercio popular, textura dignificada y tono general. No copiar el grid, no collage, no mosaico, no paneles, no bordes, no miniaturas; crear una imagen standalone nueva. Fotografia cinematografica 16:9, cine de autor independiente, amanecer, lente 35mm, encuadre frontal tres cuartos bajo, composicion centrada, soft highlight rolloff, fine cinematic grain, luz natural dorada. Pequena tienda mexicana activa y cuidada en centro historico al amanecer. Cortina metalica limpia con textura sutil abriendose desde abajo. Persona mexicana/latinoamericana parcialmente visible en silueta levantando la cortina. Fachada sencilla pero mantenida, muros completos, ambiente ordenado y calido, comercio popular tratado con belleza cotidiana. Evitar texto visible, captions, subtitulos, numeros, labels, logos, marcas, UI final, pobreza extrema, mugre, abandono, descuido, decadencia, grietas profundas, humedad, oxido pesado, pintura descascarada, paredes destruidas, elementos rotos o derrumbados, HDR agresivo, piel plastica, anatomia deformada.",
+        13001,
+        "randomize",
+        "low",
+        "opaque",
+        "1536x1024",
+        1,
+        "gpt-image-1.5"
+      ]
+    },
+    {
+      "id": 3,
+      "type": "SaveImage",
+      "pos": [1180, 170],
+      "size": [315, 58],
+      "flags": {},
+      "order": 2,
+      "mode": 0,
+      "inputs": [
+        {"name": "images", "type": "IMAGE", "link": 2}
+      ],
+      "outputs": [],
+      "properties": {"Node name for S&R": "SaveImage"},
+      "widgets_values": ["ma_toma_01_angulo_A_frontal_bajo"]
+    },
+    {
+      "id": 4,
+      "type": "OpenAIGPTImage1",
+      "pos": [520, 440],
+      "size": [600, 360],
+      "flags": {},
+      "order": 3,
+      "mode": 0,
+      "inputs": [
+        {"name": "image", "type": "IMAGE", "link": 3}
+      ],
+      "outputs": [
+        {"name": "IMAGE", "type": "IMAGE", "links": [4], "slot_index": 0}
+      ],
+      "properties": {"Node name for S&R": "OpenAIGPTImage1"},
+      "widgets_values": [
+        "TOMA 01 ANGULO B. Usar la imagen adjunta solo como biblia visual de continuidad: look cinematografico, paleta, casting mexicano/latinoamericano, comercio popular, textura dignificada y tono general. No copiar el grid, no collage, no mosaico, no paneles, no bordes, no miniaturas; crear una imagen standalone nueva. Fotografia cinematografica 16:9, cine de autor independiente, amanecer, lente 35mm, camara desde el interior de la tienda mirando hacia afuera por debajo de la cortina metalica, angulo bajo e intimo, soft highlight rolloff, fine cinematic grain. Cortina metalica limpia abriendose desde abajo, borde inferior de la cortina en primer plano, manos o silueta parcial de persona mexicana/latinoamericana levantandola, luz dorada de la calle entrando al local, frutas o productos ordenados apenas visibles en sombra suave. Tienda activa, cuidada, sencilla y calida, materiales mantenidos, textura real sin decadencia. Evitar texto visible, captions, subtitulos, numeros, labels, logos, marcas, UI final, pobreza extrema, mugre, abandono, descuido, decadencia, grietas profundas, humedad, oxido pesado, pintura descascarada, paredes destruidas, elementos rotos o derrumbados, HDR agresivo, piel plastica, anatomia deformada.",
+        13002,
+        "randomize",
+        "low",
+        "opaque",
+        "1536x1024",
+        1,
+        "gpt-image-1.5"
+      ]
+    },
+    {
+      "id": 5,
+      "type": "SaveImage",
+      "pos": [1180, 570],
+      "size": [315, 58],
+      "flags": {},
+      "order": 4,
+      "mode": 0,
+      "inputs": [
+        {"name": "images", "type": "IMAGE", "link": 4}
+      ],
+      "outputs": [],
+      "properties": {"Node name for S&R": "SaveImage"},
+      "widgets_values": ["ma_toma_01_angulo_B_interior"]
+    },
+    {
+      "id": 6,
+      "type": "OpenAIGPTImage1",
+      "pos": [520, 840],
+      "size": [600, 360],
+      "flags": {},
+      "order": 5,
+      "mode": 0,
+      "inputs": [
+        {"name": "image", "type": "IMAGE", "link": 5}
+      ],
+      "outputs": [
+        {"name": "IMAGE", "type": "IMAGE", "links": [6], "slot_index": 0}
+      ],
+      "properties": {"Node name for S&R": "OpenAIGPTImage1"},
+      "widgets_values": [
+        "TOMA 01 ANGULO C. Usar la imagen adjunta solo como biblia visual de continuidad: look cinematografico, paleta, casting mexicano/latinoamericano, comercio popular, textura dignificada y tono general. No copiar el grid, no collage, no mosaico, no paneles, no bordes, no miniaturas; crear una imagen standalone nueva. Fotografia cinematografica 16:9, cine de autor independiente, amanecer, lente 50mm, vista lateral desde banqueta, camara baja a media altura, profundidad de campo media, soft highlight rolloff, fine cinematic grain. Pequena tienda mexicana activa y cuidada, cortina metalica limpia medio abierta, persona mexicana/latinoamericana levantandola en silueta parcial, luz dorada filtrandose hacia la calle. Calle de centro historico generico, sin monumentos reconocibles, fachada completa y mantenida, ambiente ordenado, cotidiano y curado como cine. Evitar texto visible, captions, subtitulos, numeros, labels, logos, marcas, UI final, pobreza extrema, mugre, abandono, descuido, decadencia, grietas profundas, humedad, oxido pesado, pintura descascarada, paredes destruidas, elementos rotos o derrumbados, HDR agresivo, piel plastica, anatomia deformada.",
+        13003,
+        "randomize",
+        "low",
+        "opaque",
+        "1536x1024",
+        1,
+        "gpt-image-1.5"
+      ]
+    },
+    {
+      "id": 7,
+      "type": "SaveImage",
+      "pos": [1180, 970],
+      "size": [315, 58],
+      "flags": {},
+      "order": 6,
+      "mode": 0,
+      "inputs": [
+        {"name": "images", "type": "IMAGE", "link": 6}
+      ],
+      "outputs": [],
+      "properties": {"Node name for S&R": "SaveImage"},
+      "widgets_values": ["ma_toma_01_angulo_C_lateral"]
+    },
+    {
+      "id": 8,
+      "type": "OpenAIGPTImage1",
+      "pos": [520, 1320],
+      "size": [600, 360],
+      "flags": {},
+      "order": 7,
+      "mode": 0,
+      "inputs": [
+        {"name": "image", "type": "IMAGE", "link": 7}
+      ],
+      "outputs": [
+        {"name": "IMAGE", "type": "IMAGE", "links": [8], "slot_index": 0}
+      ],
+      "properties": {"Node name for S&R": "OpenAIGPTImage1"},
+      "widgets_values": [
+        "TOMA 02 ANGULO A. Usar la imagen adjunta solo como biblia visual de continuidad: look cinematografico, paleta, casting mexicano/latinoamericano, uniforme verde/blanco/rojo, estadio, balon y tono general. No copiar el grid, no collage, no mosaico, no paneles, no bordes, no miniaturas; crear una imagen standalone nueva. Fotografia cinematografica 16:9, cine de autor independiente, lente 35mm, camara muy baja cerca del suelo desde atras, vertical bajo, zoom ligero, shallow depth of field, soft highlight rolloff, fine cinematic grain. Futbolista ficticio mexicano/latinoamericano caminando por tunel de estadio generico. Solo piernas, espinilleras y siluetas inferiores visibles. Contraluz fuerte y calido al final del tunel, haze sutil. Uniforme ficticio: playera verde con dos lineas blancas apenas visible en el borde inferior, short blanco, calcetas rojas #DA3B2B, sin logos ni escudos. Materiales mantenidos, tunel limpio con textura real. Evitar texto visible, logos, marcas deportivas, equipos reales, uniformes oficiales, tres lineas tipo marca, estadio reconocible, FIFA, World Cup, sponsor boards, balon con marca, atleta real, celebridad, banderas, abandono, grietas, oxido pesado, pintura descascarada, paredes destruidas, HDR agresivo, piel plastica, anatomia deformada.",
+        13004,
+        "randomize",
+        "low",
+        "opaque",
+        "1536x1024",
+        1,
+        "gpt-image-1.5"
+      ]
+    },
+    {
+      "id": 9,
+      "type": "SaveImage",
+      "pos": [1180, 1450],
+      "size": [315, 58],
+      "flags": {},
+      "order": 8,
+      "mode": 0,
+      "inputs": [
+        {"name": "images", "type": "IMAGE", "link": 8}
+      ],
+      "outputs": [],
+      "properties": {"Node name for S&R": "SaveImage"},
+      "widgets_values": ["ma_toma_02_angulo_A_bajo_atras"]
+    },
+    {
+      "id": 10,
+      "type": "OpenAIGPTImage1",
+      "pos": [520, 1720],
+      "size": [600, 360],
+      "flags": {},
+      "order": 9,
+      "mode": 0,
+      "inputs": [
+        {"name": "image", "type": "IMAGE", "link": 9}
+      ],
+      "outputs": [
+        {"name": "IMAGE", "type": "IMAGE", "links": [10], "slot_index": 0}
+      ],
+      "properties": {"Node name for S&R": "OpenAIGPTImage1"},
+      "widgets_values": [
+        "TOMA 02 ANGULO B. Usar la imagen adjunta solo como biblia visual de continuidad: look cinematografico, paleta, casting mexicano/latinoamericano, uniforme verde/blanco/rojo, estadio, balon y tono general. No copiar el grid, no collage, no mosaico, no paneles, no bordes, no miniaturas; crear una imagen standalone nueva. Fotografia cinematografica 16:9, cine de autor independiente, lente 50mm, perfil lateral bajo, camara a la altura de las rodillas, shallow depth of field, soft highlight rolloff, fine cinematic grain. Futbolista ficticio mexicano/latinoamericano avanzando por tunel de estadio generico de izquierda a derecha. Piernas y torso bajo en silueta parcial, calcetas rojas #DA3B2B como acento, short blanco, borde de playera verde con dos lineas blancas sin logos. Contraluz calido al fondo, paredes de concreto limpias y mantenidas, textura sutil no decadente. Evitar texto visible, logos, marcas deportivas, equipos reales, uniformes oficiales, tres lineas tipo marca, estadio reconocible, FIFA, World Cup, sponsor boards, balon con marca, atleta real, celebridad, banderas, abandono, grietas, oxido pesado, pintura descascarada, paredes destruidas, HDR agresivo, piel plastica, anatomia deformada.",
+        13005,
+        "randomize",
+        "low",
+        "opaque",
+        "1536x1024",
+        1,
+        "gpt-image-1.5"
+      ]
+    },
+    {
+      "id": 11,
+      "type": "SaveImage",
+      "pos": [1180, 1850],
+      "size": [315, 58],
+      "flags": {},
+      "order": 10,
+      "mode": 0,
+      "inputs": [
+        {"name": "images", "type": "IMAGE", "link": 10}
+      ],
+      "outputs": [],
+      "properties": {"Node name for S&R": "SaveImage"},
+      "widgets_values": ["ma_toma_02_angulo_B_lateral"]
+    },
+    {
+      "id": 12,
+      "type": "OpenAIGPTImage1",
+      "pos": [520, 2120],
+      "size": [600, 360],
+      "flags": {},
+      "order": 11,
+      "mode": 0,
+      "inputs": [
+        {"name": "image", "type": "IMAGE", "link": 11}
+      ],
+      "outputs": [
+        {"name": "IMAGE", "type": "IMAGE", "links": [12], "slot_index": 0}
+      ],
+      "properties": {"Node name for S&R": "OpenAIGPTImage1"},
+      "widgets_values": [
+        "TOMA 02 ANGULO C. Usar la imagen adjunta solo como biblia visual de continuidad: look cinematografico, paleta, casting mexicano/latinoamericano, uniforme verde/blanco/rojo, estadio, balon y tono general. No copiar el grid, no collage, no mosaico, no paneles, no bordes, no miniaturas; crear una imagen standalone nueva. Fotografia cinematografica 16:9, cine de autor independiente, lente 35mm, angulo frontal bajo mirando hacia el jugador desde la salida del tunel, figura en silueta parcial contra contraluz calido, shallow depth of field, soft highlight rolloff, fine cinematic grain. Futbolista ficticio mexicano/latinoamericano avanzando hacia la camara por tunel de estadio generico. Piernas dominantes, rostro no protagonista, uniforme ficticio verde con dos lineas blancas, short blanco, calcetas rojas #DA3B2B, sin logos ni escudos. Luz del campo al fondo, tunel limpio, textura real mantenida. Evitar texto visible, logos, marcas deportivas, equipos reales, uniformes oficiales, tres lineas tipo marca, estadio reconocible, FIFA, World Cup, sponsor boards, balon con marca, atleta real, celebridad, banderas, abandono, grietas, oxido pesado, pintura descascarada, paredes destruidas, HDR agresivo, piel plastica, anatomia deformada.",
+        13006,
+        "randomize",
+        "low",
+        "opaque",
+        "1536x1024",
+        1,
+        "gpt-image-1.5"
+      ]
+    },
+    {
+      "id": 13,
+      "type": "SaveImage",
+      "pos": [1180, 2250],
+      "size": [315, 58],
+      "flags": {},
+      "order": 12,
+      "mode": 0,
+      "inputs": [
+        {"name": "images", "type": "IMAGE", "link": 12}
+      ],
+      "outputs": [],
+      "properties": {"Node name for S&R": "SaveImage"},
+      "widgets_values": ["ma_toma_02_angulo_C_frontal"]
+    },
+    {
+      "id": 14,
+      "type": "Note",
+      "pos": [80, 430],
+      "size": [315, 330],
+      "flags": {},
+      "order": 13,
+      "mode": 0,
+      "properties": {},
+      "widgets_values": [
+        "MULTIANGULO SIN CUSTOM NODES: este patch funciona en Comfy Cloud porque no usa QwenMultiangleCamera. Cada angulo es un OpenAI GPT Image separado con el mismo rack de referencia. Para ahorrar creditos, corre solo un SaveImage a la vez con ejecucion parcial. Si un angulo gusta, luego se puede convertir en referencia para img2img o upscale."
+      ]
+    },
+    {
+      "id": 15,
+      "type": "Note",
+      "pos": [1180, 40],
+      "size": [315, 100],
+      "flags": {},
+      "order": 14,
+      "mode": 0,
+      "properties": {},
+      "widgets_values": [
+        "RACK: sube tu imagen como storyboard_rack_reference.png en el nodo Load Image. La referencia mantiene continuidad de paleta, casting, uniforme, estadio y textura."
+      ]
+    }
+  ],
+  "links": [
+    [1, 1, 0, 2, 0, "IMAGE"],
+    [2, 2, 0, 3, 0, "IMAGE"],
+    [3, 1, 0, 4, 0, "IMAGE"],
+    [4, 4, 0, 5, 0, "IMAGE"],
+    [5, 1, 0, 6, 0, "IMAGE"],
+    [6, 6, 0, 7, 0, "IMAGE"],
+    [7, 1, 0, 8, 0, "IMAGE"],
+    [8, 8, 0, 9, 0, "IMAGE"],
+    [9, 1, 0, 10, 0, "IMAGE"],
+    [10, 10, 0, 11, 0, "IMAGE"],
+    [11, 1, 0, 12, 0, "IMAGE"],
+    [12, 12, 0, 13, 0, "IMAGE"]
+  ],
+  "groups": [
+    {"title": "Referencia rack", "bounding": [50, 40, 380, 740], "color": "#3f789e", "font_size": 24},
+    {"title": "Toma 01 - tienda / tres angulos", "bounding": [490, 0, 1040, 1240], "color": "#8b6f2a", "font_size": 24},
+    {"title": "Toma 02 - tunel estadio / tres angulos", "bounding": [490, 1280, 1040, 1220], "color": "#6b4a8f", "font_size": 24}
+  ],
+  "config": {},
+  "extra": {},
+  "version": 0.4
+}

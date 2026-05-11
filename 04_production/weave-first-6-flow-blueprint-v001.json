@@ -1,0 +1,83 @@
+{
+  "name": "T1Mundial_First_6_Motion_Test_v001",
+  "status": "blueprint_not_confirmed_importable",
+  "tool": "Figma Weave / app.weavy.ai/flow",
+  "created": "2026-05-06",
+  "purpose": "Manual node-by-node blueprint for first 6 image-to-video motion tests. Official docs confirm media import nodes and shared workflow duplication, but no public JSON workflow import format was found.",
+  "global": {
+    "style_text_node": "Cinematic Mexican commerce and football parallel world, grounded realism, authorial film language, soft analog highlight rolloff, fine grain, lifted blacks, textured skin, fabric, metal, concrete, grass, dust and haze, natural light first, practical light second, restrained warm-gold and cool-shadow palette, red accent #DA3B2B only where present in the reference, emotional but not patriotic, never stock advertising.",
+    "motion_text_node": "Animate from the provided still reference as a strict keyframe anchor. Preserve the original composition, lens language, character identity, wardrobe, environment, lighting and color. Use cinematic camera movement: controlled push-in, dolly, short pan, rack focus, shallow depth of field, natural motion blur, and purposeful atmospheric movement. Keep the shot elegant, grounded and realistic. Do not invent story elements.",
+    "negative_text_node": "no text, no captions, no subtitles, no labels, no titles, no watermarks, no logos, no brands, no trademarks, no sports brands, no official uniforms, no real football kits, no national team, no FIFA, no World Cup, no Mexico 2026, no real team symbols, no stadium names, no recognizable stadium architecture, no branded ball, no branded boots, no real athlete likeness, no celebrity likeness, no payment brands, no readable screen, no generated UI, no app icons, no UI labels, no UI numbers, no QR codes, no flag overlay, no national emblem, no eagle, no political map borders, no city labels, no map pins, no stock look, no HDR overprocessing, no plastic skin, no waxy faces, no distorted anatomy, no extra fingers, no malformed hands, no broken wrists, no artifacts, no chaotic morphing, no fake blur, no excessive lens flares, no heavy grime, no abandonment, no neglect, no destroyed walls."
+  },
+  "recommended_model_order_inside_weave": [
+    {
+      "priority": 1,
+      "model": "Seedance 2.0 Reference",
+      "reason": "Best first guess for reference-driven motion inside Weave."
+    },
+    {
+      "priority": 2,
+      "model": "Veo 3.1 Image to Video",
+      "reason": "Higher-end image-to-video fallback if Seedance loses consistency."
+    },
+    {
+      "priority": 3,
+      "model": "Runway Gen-4 Turbo or Kling 2.5 First & Last Frame",
+      "reason": "Alternative inside Weave if camera motion or identity retention fails."
+    }
+  ],
+  "default_settings": {
+    "aspect_ratio": "16:9",
+    "duration_seconds": 4,
+    "resolution_first_pass": "720p",
+    "versions_per_shot_first_pass": 1,
+    "audio_generation": false,
+    "camera_fixed": false
+  },
+  "node_pattern_per_shot": [
+    "Import Node: still PNG",
+    "Text Node: shot prompt",
+    "Text Node or direct field: global negative prompt",
+    "Video Model Node: image/reference + prompt + negative",
+    "Preview Node: generated video",
+    "Export Node: MP4 export"
+  ],
+  "shots": [
+    {
+      "id": "shot-01",
+      "reference": "02_references/visual/Stills T1mundial/01.png",
+      "export_folder": "04_production/ai-generations/motion-tests/shot-01/exports",
+      "prompt": "Use the input image as the strict visual anchor.\n\nSHOT:\nShot 01, small Mexican storefront opening at dawn, frontal symmetrical composition. A centered person in partial silhouette lifts a metal rolling shutter with both hands. Golden light rises from below and the metal texture is the hero.\n\nCAMERA:\nLow frontal camera. Slow cinematic push-in, almost imperceptible, with slight handheld presence.\n\nACTION:\nThe shutter rises subtly, warm dawn light breathes through the lower gap, tiny dust particles move in the air. Keep the scene quiet and suspended.\n\nCONTINUITY:\nPreserve the centered symmetry, low angle, golden light from below, metal texture and stillness from the reference."
+    },
+    {
+      "id": "shot-02",
+      "reference": "02_references/visual/Stills T1mundial/02.png",
+      "export_folder": "04_production/ai-generations/motion-tests/shot-02/exports",
+      "prompt": "Use the input image as the strict visual anchor.\n\nSHOT:\nShot 02, fictional football player walking through a stadium tunnel. Low camera close to the floor, centered silhouettes, only legs, shin guards and partial bodies visible. Strong backlight at the end of the tunnel.\n\nCAMERA:\nLow dolly forward near the ground, matching the upward light energy from shot 01. Shallow depth of field.\n\nACTION:\nSubtle walking motion, fabric movement, tunnel haze and breathing light. The player advances toward the stadium without revealing logos or official identity.\n\nCONTINUITY:\nPreserve the fictional green jersey with one white shoulder line, white shorts, red socks #DA3B2B, no logos, same tunnel composition and backlight."
+    },
+    {
+      "id": "shot-03",
+      "reference": "02_references/visual/Stills T1mundial/03.png",
+      "export_folder": "04_production/ai-generations/motion-tests/shot-03/exports",
+      "prompt": "Use the input image as the strict visual anchor.\n\nSHOT:\nShot 03, young person seen from behind ascending stairs toward the surface at dusk. Red backpack #DA3B2B is the main color accent. All clothing is black. Symmetrical stair lines guide the eye upward.\n\nCAMERA:\nRear centered tracking shot, slow upward dolly following the character's ascent.\n\nACTION:\nThe character climbs steadily. The red backpack sways subtly. Warm low side light and deep blue-orange dusk atmosphere remain stable.\n\nCONTINUITY:\nPreserve the rear view, centered composition, black outfit, red backpack, stair symmetry and crepuscular lighting."
+    },
+    {
+      "id": "shot-04",
+      "reference": "02_references/visual/Stills T1mundial/04.png",
+      "export_folder": "04_production/ai-generations/motion-tests/shot-04/exports",
+      "prompt": "Use the input image as the strict visual anchor.\n\nSHOT:\nShot 04, fictional football player ascending a tunnel toward the field. Low rear angle, focus on legs and unbranded boots. Concrete stairs create forward lines. Stadium crowd opens in the background, softly blurred.\n\nCAMERA:\nLow rear dolly upward, close to the steps and boots, with gentle rack focus toward the stadium light.\n\nACTION:\nThe player climbs toward the field. Boots contact concrete naturally. Stadium light blooms softly ahead, with no logos or official identity.\n\nCONTINUITY:\nPreserve the low rear composition, concrete stair geometry, one white shoulder line, red socks #DA3B2B and fictional uniform."
+    },
+    {
+      "id": "shot-05",
+      "reference": "02_references/visual/Stills T1mundial/05.png",
+      "export_folder": "04_production/ai-generations/motion-tests/shot-05/exports",
+      "prompt": "Use the input image as the strict visual anchor.\n\nSHOT:\nShot 05, the same young person now standing on a wide central CDMX sidewalk after emerging from the metro. Frontal medium shot or slight low angle. Face sharp and centered, looking forward with determination and hope. Black clothing, red backpack #DA3B2B as the only color accent.\n\nCAMERA:\nVery slow frontal push-in from chest height or slightly lower, with shallow depth of field.\n\nACTION:\nThe character holds still, breathing naturally. The city background stays open, quiet and anonymous, with dusk light framing the face.\n\nCONTINUITY:\nPreserve the same young person from shot 03, same black outfit, red backpack, centered frontal posture, open street feeling and warm low dusk light."
+    },
+    {
+      "id": "shot-06",
+      "reference": "02_references/visual/Stills T1mundial/06.png",
+      "export_folder": "04_production/ai-generations/motion-tests/shot-06/exports",
+      "prompt": "Use the input image as the strict visual anchor.\n\nSHOT:\nShot 06, the same young person in a frontal centered composition, but the background has transformed completely into the interior of a full fictional stadium. Slight low angle, face looking upward with awe and determination. Stands rise behind the character with thousands of softly blurred spectators.\n\nCAMERA:\nSlow frontal push-in with a very subtle upward tilt, letting the stadium expand visually behind the character.\n\nACTION:\nThe character looks upward and breathes, with controlled emotion. Stadium lights and crowd atmosphere move subtly in the background, but the face remains stable and centered.\n\nCONTINUITY:\nPreserve the same young person from shots 03 and 05, same posture, same soft face light, same centered composition, no recognizable stadium architecture."
+    }
+  ]
+}

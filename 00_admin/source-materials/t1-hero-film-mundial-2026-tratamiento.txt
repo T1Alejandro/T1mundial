@@ -1,0 +1,919 @@
+                                              T1
+                  TODO MÉXICO ES UNO. TODO EN UNO.
+                              Hero Film · YouTube · 60-90 segundos
+
+
+
+                            Tratamiento Creativo y Producción
+                        Documento de entrega para equipo de animación, diseño y AI
+
+
+
+
+                               Versión 1.0 · Confidencial · Uso interno T1
+
+                           Estreno: martes 26 de mayo de 2026 · 2:00 PM CDMX
+
+
+
+1. Resumen Ejecutivo
+
+Objetivo
+Construir awareness masivo de la marca T1 entre la audiencia mexicana, capitalizando el momento
+futbolístico más grande del año, mediante un hero film cinematográfico de 60-90 segundos generado
+100% con AI, distribuido por YouTube como pieza central de campaña.
+
+
+Concepto creativo
+Un voice over femenino narra simultáneamente dos mundos que se entrelazan: la preparación de un
+equipo deportivo nacional rumbo al partido más grande de su vida, y la rutina cotidiana de comerciantes
+mexicanos preparando su negocio. Conforme avanza el spot, ambas realidades se revelan como una sola:
+México entero moviéndose al mismo tiempo, jugando el mismo juego.
+
+
+Tesis
+        Cuando México juega, México entero juega. Once en el campo, millones en sus negocios. Un solo
+        país. Un solo equipo. Y todo se mueve al mismo tiempo, todo conectado en uno.
+Slogan de cierre
+        Todo México es uno. Todo en uno. T1.
+
+
+Mensaje al equipo de producción
+Este spot debe sentirse como cine, no como comercial. La barra de calidad es Apple narrado en español.
+Spotify Wrapped con épica cinematográfica. Vortex de Gaspar Noé en sus momentos clave. La gente debe
+verlo dos veces para captar todos los detalles. Cada toma debe ganarse su lugar.
+La calidad técnica del AI es no negociable. Si una toma tiene manos raras, caras inconsistentes, físicas
+rotas, o textos que se distorsionan, NO entra al cut final. Mejor 12 tomas excelentes que 18 tomas con
+compromisos visuales.
+
+
+
+
+2. Sinopsis Cinematográfica
+Amanece en México. Una cortina metálica empieza a subir lenta en el centro histórico de una ciudad
+mexicana, dejando ver una tienda. Simultáneamente, en otro lugar imposible de definir, el túnel de un
+estadio se ilumina mientras un equipo de futbolistas vestidos de verde camina hacia la luz.
+Una voz femenina en off comienza a narrar. No queda claro si habla del equipo o del comerciante. Sus
+palabras tienen doble lectura: cada frase puede aplicar a ambos mundos.
+La cámara fluye entre escenas. Una señora en un mercado popular cobra a una clienta con un código QR.
+Un medio campo recibe el balón y lo distribuye en milisegundos. En una bodega de una colonia
+trabajadora, un hombre empaca pedidos con disciplina silenciosa. Un defensa se venda la muñeca, se ata
+las espinilleras.
+Una emprendedora joven en una colonia moderna revisa facturas y dashboards en su laptop. Un delantero
+estudia video del rival en un tablet. Una dueña de tienda en la provincia mexicana gestiona ventas en
+múltiples canales. La banca calienta. Todos suman.
+El ritmo se acelera. Match cuts brutales conectan los dos mundos: agujetas atándose se vuelven cintas de
+paquete cerrándose, balones rodando se vuelven monedas en terminales, el verde de la cancha se vuelve el
+verde del producto en un puesto.
+En el clímax, un portero ataja un penal en cámara lenta imposible. Simultáneamente, en pantalla, una
+transacción se aprueba. El comercio queda protegido. La portería también.
+Y entonces los dos mundos colapsan. El estadio se vuelve mercado. Las gradas se vuelven puestos. Los
+aficionados se vuelven comerciantes y compradores. La cámara hace zoom out vertiginoso hasta ver
+México completo desde el cielo, iluminado por dentro: cada negocio es una luz titilando. Millones de
+luces. Un solo país.
+Silencio total. Tres segundos. Solo un latido.
+Y el cierre llega: tipografía limpia que aparece letra por letra.
+
+        Todo México es uno.
+
+        Todo en uno.
+
+        T1.
+
+Logo. Fade to black. Fin.
+
+
+
+
+3. Especificaciones Técnicas
+
+Formato de entrega
+  •     Duración primaria: 75 segundos (cut maestro)
+  •     Duraciones secundarias derivadas: 90s, 60s, 30s, 15s, 6s
+  •     Resolución: 4K nativo (3840 x 2160)
+  •     Aspect ratio principal: 16:9 horizontal
+  •     Aspect ratio secundario: 9:16 vertical (Shorts), 1:1 cuadrado (feeds)
+  •     Frame rate: 24 fps (look cinematográfico)
+  •     Codec entrega final: ProRes 422 HQ master + H.264 para distribución
+  •     Audio: estéreo 48 kHz, mezclado para escucha en celular y laptop
+
+
+Stack de generación AI
+Modelo de dirección y consistencia de personajes:
+  •     Higgsfield Cinema Studio 3.5 — capa principal de dirección, control óptico, Soul Cast para
+        personajes consistentes, multi-axis motion control
+Modelos de generación de video:
+  •     Veo 3.1 (Google) — hero shots con audio nativo, cierre, climax cinematográfico. Limitación:
+        clips de 8 segundos
+  •     Seedance 2.0 (ByteDance) — multi-shot consistency, hero shots con peso visual, hasta 9
+        imágenes de referencia
+  •     Kling 3.0 — secuencias multi-shot conectadas, match cuts, hasta 6 tomas en una sola pasada con
+        consistencia preservada
+Modelos de imagen base (para image-to-video):
+  •     Nano Banana Pro — generación de hero stills para casting de personajes y locaciones
+  •     Flux 2 Pro — close-ups con texturas naturales y realismo humano
+Edición y post:
+  •     DaVinci Resolve 19 o Adobe Premiere Pro 2026 para corte final
+  •     DaVinci Resolve para color grading (look cinematográfico, NO el default AI)
+  •     Adobe After Effects para tipografía animada del cierre
+
+
+Voice over
+  •     Locutora humana real (NO AI voice)
+  •     Perfil: mujer mexicana, 32-42 años, voz grave-cálida, español neutro mexicano
+  •     Grabación en estudio profesional con micrófono Neumann U87 o equivalente
+  •     Tracking: voz limpia + room tone para mezcla
+  •     Cesión total de derechos para uso publicitario nacional, todos los medios, in perpetuum
+
+
+Música
+  •     Composición original orquestal-electrónica con elementos prehispánicos sutiles (tambores,
+        ocarina)
+  •     Estructura: introducción contemplativa (0-15s), build progresivo (15-50s), climax con percusión
+        (50-65s), resolución mínima (65-75s)
+  •     BPM creciente: 60 BPM al inicio, 120 BPM en climax, regreso a 60 al cierre
+  •     Alternativa licenciada: Musicbed, Artlist Pro, o Premium Beat con licencia comercial completa
+  •     PROHIBIDO: música AI generada (Suno, Udio) por riesgos legales pendientes
+
+
+
+
+4. Voice Over - Guion Completo
+
+Guía de interpretación para la locutora
+La voz nunca debe sentirse como narradora deportiva tradicional. La referencia es Apple narrado en
+español, no Christian Martinoli. Tono pausado, casi íntimo al inicio, creciendo en intensidad pero nunca
+gritando. Cada frase debe poderse leer como si hablara del jugador o del comerciante: la ambigüedad
+poética es deliberada y debe respetarse.
+Mantener pausas amplias. El silencio entre frases es parte del guion. NO acelerar para meter más
+palabras.
+Guion sincronizado con timing
+ TC                                 Voice Over (en off)                     Notas de interpretación
+                                    (silencio. Solo música suave y
+ 00:00 - 00:05                                                              Ningún texto durante el hook visual
+                                    ambiente.)
+ 00:05 - 00:10                      Hay días que no son como los demás.     Pausada. Casi susurro.
+                                    Días donde uno se prepara para algo
+ 00:10 - 00:15                                                              Sostenida. Reflexiva.
+                                    grande.
+ 00:15 - 00:20                      Donde cada movimiento cuenta.           Más firme. Empieza el build.
+                                    Donde no se falla en los detalles.
+ 00:20 - 00:28                                                              Tono creciente. Claridad.
+                                    Donde el equipo es todo.
+                                    Hay quien lo entrena toda la vida.
+                                                                            Doble lectura explícita. Pausa entre
+ 00:28 - 00:35                      Hay quien lo entrena cada mañana,
+                                                                            'lo entrena' y 'cada mañana'.
+                                    cuando abre.
+                                    Hay quien estudia al rival. Hay quien
+ 00:35 - 00:42                                                              Espejo perfecto. Ritmo paralelo.
+                                    estudia el mercado.
+                                    Hay quien sabe que el balón se mueve
+ 00:42 - 00:48                                                              Aumento de intensidad.
+                                    rápido.
+                                    Y hay quien sabe que el dinero          Punto de inflexión. La revelación de
+ 00:48 - 00:55
+                                    también.                                la doble lectura.
+                                    Hoy todo México juega. Once en la
+ 00:55 - 01:02                                                              Crescendo. Voz se eleva.
+                                    cancha. Millones en las suyas.
+ 01:02 - 01:08                      Mismo país. Mismo equipo.               Firme. Casi gritado pero controlado.
+                                                                            El silencio es parte del guion. NO
+ 01:08 - 01:12                      (silencio total. 4 segundos.)
+                                                                            llenar.
+ 01:12 - 01:15                      Todo México es uno.                     Susurro íntimo. Casi confesión.
+ 01:15 - 01:18                      Todo en uno.                            Pausa entre las dos partes del slogan.
+ 01:18 - 01:20                      T1.                                     Una sola sílaba. Sostenida.
+ 01:20 - 01:25                      (silencio. Logo en pantalla. Fade.)     Cierre limpio.
+
+
+Notas legales sobre el guion
+El guion NO menciona en ningún momento las palabras 'Mundial', 'Selección', 'FIFA', 'Copa del Mundo',
+'World Cup', 'México 2026', ni ninguna marca registrada o término protegido por FIFA o por la
+Federación Mexicana de Futbol. El contexto se sugiere por timing de campaña, no se nombra.
+La frase 'Hoy todo México juega' es deliberadamente abierta y no infringe ninguna marca. La frase de
+cierre debe registrarse ante el IMPI antes del lanzamiento como eslogan propietario de T1.
+
+
+
+
+5. Shot List - Tomas Detalladas
+16 tomas principales. Cada toma es de 4-6 segundos en su forma final editada. Se generan múltiples
+variantes por toma para selección.
+Cada prompt incluye: descripción visual, especificación técnica de cámara, mood, prompt negativo (lo
+que NO debe aparecer), y modelo AI recomendado.
+Toma 01 — Hook: la cortina
+Duración: 0:00 - 0:05 · Modelo: Higgsfield Cinema Studio + Veo 3.1
+Amanecer. Una cortina metálica industrial empieza a subir lentamente desde abajo del cuadro. Detrás de
+ella se revela gradualmente el interior de una pequeña tienda en el centro histórico de una ciudad
+mexicana. Polvo dorado flota en el aire iluminado por la luz del amanecer que entra por la calle. La
+cámara está estática a nivel medio, esperando. El sonido es solo la cortina deslizándose.
+Prompt principal:
+
+        "Cinematic dawn shot, slow upward reveal of metal rolling shutter at a small Mexican shop in a
+        historic city center, golden hour sunlight backlighting dust particles in the air, warm tones,
+        anamorphic lens, shallow depth of field, 24fps, hyperrealistic, the camera is static at medium
+        height waiting for the reveal, ambient morning sound, no people visible yet, original architecture
+        inspired by Mexico City centro historico, no recognizable brand names or logos visible anywhere,
+        no signs with real business names, generic Spanish-language signage only if necessary, original
+        character store"
+
+Prompt negativo:
+
+        "no logos, no brands, no trademarks, no real product packaging, no Coca-Cola, no Telcel, no
+        recognizable signs, no celebrities, no real people likeness, no FIFA, no Adidas, no Nike, no
+        Mexican national team jersey"
+
+
+
+
+Toma 02 — Match cut: el túnel
+Duración: 0:05 - 0:10 · Modelo: Veo 3.1
+Match cut directo desde la toma anterior. La cortina termina de subir y de pronto la imagen es el túnel de
+un estadio de futbol iluminándose. Mismo movimiento ascendente de luz. Un equipo de jugadores con
+uniforme verde sólido (sin escudo, sin patrocinador, sin marca visible) camina hacia la cancha. Solo
+vemos sus piernas y espinilleras desde un ángulo bajo. Luz brutal de estadio al final del túnel.
+Prompt principal:
+
+        "Cinematic shot of a soccer team walking through a stadium tunnel toward a bright field, low
+        angle showing only legs and shin guards, players wearing solid green jerseys with NO logos, NO
+        crest, NO sponsor, NO brand markings whatsoever, plain green fabric only, generic black shorts,
+        white athletic socks, the tunnel is lit from the end by powerful stadium floodlights creating
+        silhouettes, fictional generic soccer team, original characters not based on any real player,
+        anamorphic lens, shallow depth of field, 24fps, hyperrealistic, dust particles in light beams"
+
+Prompt negativo:
+
+        "no Mexican national team logo, no FIFA logo, no Adidas, no Nike, no Puma, no team crest, no
+        national emblem, no World Cup logo, no recognizable kit design, no real player faces, no
+        celebrity likeness, no Mexico shield, no Tri logo"
+
+
+
+
+Toma 03 — La señora del tianguis
+Duración: 0:10 - 0:15 · Modelo: Seedance 2.0 + Higgsfield Soul Cast
+Mercado popular mexicano vibrante a media mañana. Una mujer mexicana de unos 45 años, atendiendo
+su puesto de frutas y verduras, sostiene una pequeña terminal de cobro genérica. La cliente acerca su
+celular para escanear un código QR. La cámara hace un dolly suave hacia adelante mientras la transacción
+se aprueba. La señora sonríe con la calma de quien hizo esto miles de veces. Luz natural del mercado,
+colores cálidos.
+Prompt principal:
+
+        "Vibrant Mexican popular market mid-morning, woman vendor in her mid-40s with warm smile
+        working her fruit and vegetable stall, she holds a small generic payment terminal in her hand,
+        customer extends a smartphone to scan a QR code on the terminal screen, the QR code displays a
+        clean abstract geometric design with no recognizable logo, the terminal screen is custom generic
+        UI in dark green and gold tones, dolly camera move forward, natural market lighting with warm
+        tones, fictional original character, hyperrealistic, anamorphic lens, 24fps, the woman wears a
+        simple apron, the stall has fresh produce in baskets"
+
+Prompt negativo:
+
+        "no Mercado Pago logo, no Clip terminal, no SR Pago, no Visa, no Mastercard, no real bank
+        logos, no real payment processor branding, no recognizable QR brand, no Coca-Cola signs in
+        background, no Telcel, no Bimbo packaging, no real product brands on display"
+
+
+
+
+Toma 04 — Match cut: el medio campo
+Duración: 0:15 - 0:20 · Modelo: Kling 3.0 multi-shot
+Match cut por movimiento desde la toma anterior. El gesto de la señora entregando algo se convierte en el
+gesto de un medio campo verde recibiendo y distribuyendo el balón con un toque rápido. Cámara nivel
+cancha siguiendo el movimiento del balón. Bullet time sutil en el momento del toque. Estadio lleno de
+fondo desenfocado.
+Prompt principal:
+
+        "Soccer midfielder in solid green jersey with no logos receiving and distributing a ball with a
+        quick first touch, low angle ground level camera following the ball movement, subtle slow motion
+        at the moment of contact, packed stadium crowd blurred in background, anamorphic lens, golden
+        hour stadium lights, fictional generic player not based on any real athlete, original character,
+        jersey is plain green with NO crest NO sponsor NO brand marks, generic ball with no brand
+        visible, hyperrealistic, 24fps"
+
+Prompt negativo:
+        "no Mexican national team logo, no Adidas ball, no Nike ball, no FIFA ball, no real player
+        likeness, no team crest, no World Cup branding, no celebrity faces, no recognizable stadium (no
+        Estadio Azteca specific architecture)"
+
+
+
+
+Toma 05 — Bodega empacando
+Duración: 0:20 - 0:25 · Modelo: Seedance 2.0
+Interior de una bodega/taller en una colonia trabajadora mexicana. Un hombre de unos 35 años empaca un
+pedido de ecommerce con disciplina. Sus manos cierran una caja de cartón neutra, le pegan una etiqueta
+genérica de envío que sale de una impresora térmica. La luz es funcional, fría, contrastando con la luz
+cálida de las tomas previas. Detalle macro de las manos.
+Prompt principal:
+
+        "Interior of a small Mexican working-class warehouse or workshop, man in his mid-30s
+        methodically packing an ecommerce order, his hands close a plain unbranded brown cardboard
+        box and apply a generic shipping label freshly printed from a thermal printer, the label has only
+        abstract barcode and generic text in Spanish, no carrier logo visible, cold functional fluorescent
+        and natural lighting through windows, macro detail on hands and packaging, anamorphic lens,
+        shallow depth of field, hyperrealistic, fictional original character, simple work clothes, the
+        workspace is clean and organized"
+
+Prompt negativo:
+
+        "no FedEx, no DHL, no Estafeta, no Mercado Libre, no Amazon, no UPS, no carrier logos, no
+        real shipping company branding, no Mercado Envios, no 99 Minutos, no recognizable courier
+        branding, no real product packaging visible, no celebrity likeness"
+
+
+
+
+Toma 06 — Match cut: el defensa
+Duración: 0:25 - 0:30 · Modelo: Kling 3.0 multi-shot
+Match cut por movimiento. Las manos cerrando la caja se convierten en las manos de un defensa atándose
+las espinilleras con cinta. Mismo gesto de cerrar, asegurar. Detalle macro de las manos en el vestidor del
+estadio. Luz cálida de vestidor. Lockers de fondo desenfocados.
+Prompt principal:
+
+        "Macro detail of soccer defender hands wrapping athletic tape around shin guards in a stadium
+        locker room, the same hand motion as closing a box, warm locker room lighting, blurred lockers
+        and gear in background, anamorphic lens, hyperrealistic, original character athlete not based on
+        any real player, no team logos visible on equipment, generic athletic gear, plain solid green jersey
+        hanging slightly visible in background with NO logos NO crest NO brand marks, 24fps"
+
+Prompt negativo:
+        "no Adidas, no Nike, no Puma, no Under Armour, no team logos, no national crest, no FIFA
+        branding, no World Cup, no real player faces, no recognizable kit"
+
+
+
+
+Toma 07 — Founder DTC en Condesa
+Duración: 0:30 - 0:35 · Modelo: Veo 3.1
+Espacio de trabajo moderno en una colonia urbana aspiracional (estilo Condesa o Roma). Una mujer
+mexicana de unos 32 años, founder de una marca propia, revisa su laptop. En la pantalla se ve un
+dashboard limpio con interfaz T1 (diseño propio, NO de Shopify ni Mercado Libre). Datos de ventas,
+facturas, métricas. Concentración serena. Plantas, luz natural, café en la mesa, productos minimalistas de
+su marca al fondo.
+Prompt principal:
+
+        "Modern aspirational workspace in a trendy Mexican urban neighborhood, young Mexican
+        woman entrepreneur in her early 30s focused on her laptop reviewing a clean custom dashboard
+        with green and gold accent UI, the screen shows abstract sales data and metrics in a custom-
+        designed interface that looks original and proprietary, plants on shelves, natural daylight,
+        minimalist branded products in background with no real brand visible, ceramic coffee cup,
+        fictional original character, hyperrealistic, anamorphic lens, shallow depth of field, 24fps, the UI
+        on screen is custom design in dark green and gold tones, no recognizable software interface"
+
+Prompt negativo:
+
+        "no Shopify interface, no Mercado Libre dashboard, no Amazon Seller Central, no Google
+        Analytics, no Stripe dashboard, no real software UI, no Apple logo on laptop visible, no Mac
+        logo, no recognizable brand on coffee cup, no celebrity likeness"
+
+
+
+
+Toma 08 — Match cut: el delantero
+Duración: 0:35 - 0:40 · Modelo: Kling 3.0
+Match cut. La founder con su laptop se convierte en un delantero con una tablet, estudiando video del
+rival en un cuarto de análisis. Misma postura de concentración. Misma luz. La tablet muestra patrones de
+juego, no caras de jugadores específicos. Pizarra táctica detrás con jugadas dibujadas.
+Prompt principal:
+
+        "Soccer striker in plain solid green training jersey studying tactical video on a tablet in an
+        analysis room, same concentrated posture as the entrepreneur in previous shot, the tablet shows
+        abstract play patterns and tactical diagrams, no real player faces visible on the screen, tactical
+        whiteboard behind with chalk arrows and X marks, warm focused lighting, fictional original
+        athlete, anamorphic lens, shallow depth of field, hyperrealistic, 24fps"
+
+Prompt negativo:
+       "no real player faces on tablet, no recognizable team logos, no FIFA branding, no real team
+       crests, no Mexican national team logo, no real coach likeness, no Adidas, no Nike, no celebrity
+       faces"
+
+
+
+
+Toma 09 — Tienda de provincia
+Duración: 0:40 - 0:45 · Modelo: Seedance 2.0
+Una tienda en la provincia mexicana (tipo Mérida, Guadalajara, San Luis Potosí). Mueblería artesanal,
+ropa mexicana contemporánea, o tienda de productos locales. La dueña, mujer de unos 50 años, gestiona
+ventas en una tablet mientras un cliente sale con una compra. Luz cálida de tarde. Ventana muestra
+arquitectura colonial mexicana al fondo (genérica, no monumento específico).
+Prompt principal:
+
+       "Charming provincial Mexican shop interior, woman shop owner in her 50s managing sales on a
+       tablet, customer in background leaving with a purchase, warm afternoon light streaming through
+       colonial-style architecture window in background showing generic colonial Mexican street, the
+       shop sells artisan furniture or contemporary Mexican clothing, no recognizable real-world
+       products, original character, hyperrealistic, anamorphic lens, 24fps, the tablet shows a custom
+       multi-channel sales dashboard with green and gold UI, abstract not literal data"
+
+Prompt negativo:
+
+       "no famous Mexican landmarks (no Catedral de Guadalajara, no Catedral de Morelia, no
+       specific recognizable monument), no real brand products, no Shopify UI, no celebrity likeness, no
+       recognizable software"
+
+
+
+
+Toma 10 — Banca calentando
+Duración: 0:45 - 0:48 · Modelo: Kling 3.0
+Match cut rápido. Suplentes de un equipo de futbol calentando al borde de la cancha. Movimientos
+sincronizados, estiramientos, jumping jacks. Solidaridad grupal. Luz de cancha de noche. Cámara dolly
+lateral siguiendo la línea de banca.
+Prompt principal:
+
+       "Soccer substitutes warming up on the sideline at night under stadium floodlights, synchronized
+       stretching and dynamic warmup, all in plain solid green training jerseys with NO logos NO crests
+       NO brand marks, plain athletic shorts, lateral dolly camera following the bench line,
+       hyperrealistic, anamorphic lens, 24fps, fictional original characters not based on any real
+       players, motivational team energy"
+
+Prompt negativo:
+
+       "no team logos, no national crest, no Adidas, no Nike, no Puma, no real player faces, no celebrity
+        likeness, no FIFA branding"
+
+
+
+
+Toma 11 — El portero (T1Score)
+Duración: 0:48 - 0:55 · Modelo: Veo 3.1 + Higgsfield Cinema Studio
+Momento clave del spot. Cámara lenta extrema. Un portero con uniforme verde-amarillo (también sin
+marcas) se estira en cámara lenta hacia un balón que va al ángulo. Sus manos lo desvían en el último
+milisegundo. Polvo, focos del estadio, expresión de concentración brutal. Es el momento más
+cinematográfico del spot. Inserta brevísima de pantalla con UI T1: 'transacción protegida' en un terminal
+en la otra realidad.
+Prompt principal:
+
+        "Extreme slow motion shot of a soccer goalkeeper in plain solid green-yellow gradient jersey
+        with NO logos NO crest, diving athletically toward the upper corner of the goal to deflect a shot
+        in the final millisecond, his fingertips graze the ball pushing it just over the crossbar, dust
+        particles flying, dramatic stadium floodlights, intense focused expression, fictional original
+        character not based on any real goalkeeper, hyperrealistic, anamorphic lens, 24fps with slow
+        motion ramping, the goal net is plain white with no sponsor visible"
+
+Prompt negativo:
+
+        "no Memo Ochoa likeness, no real goalkeeper faces, no Adidas, no Nike, no team crest, no
+        Mexican national team kit, no FIFA branding, no World Cup, no celebrity likeness"
+
+
+
+
+Toma 12 — Inserto: transacción protegida
+Duración: 0:50 - 0:53 (overlay) · Modelo: After Effects + diseño T1 propio
+Brevísima inserción gráfica que se superpone medio segundo a la toma del portero. Pantalla de terminal
+de pago T1 (UI propia diseñada) mostrando 'TRANSACCIÓN PROTEGIDA' con un check verde y un
+escudo. Esto sucede simultáneamente con la atajada. Es el detalle del 'second viewing'.
+NOTA: esta toma se diseña en After Effects, no se genera con AI. UI 100% propia de T1.
+
+
+
+
+Toma 13 — La fusión
+Duración: 0:55 - 1:02 · Modelo: Higgsfield Cinema Studio + Kling 3.0
+La toma más ambiciosa técnicamente. El estadio gradualmente se transforma en un mercado mexicano
+lleno de gente. Las gradas se vuelven puestos. Los aficionados se vuelven comerciantes y compradores.
+La cancha se vuelve plaza. Todo en una sola toma continua, sin corte, transformación orgánica tipo
+Vortex. Cámara haciendo un giro lento de 360 grados mientras el mundo cambia.
+Prompt principal:
+
+        "A grand cinematic morphing shot where a packed soccer stadium gradually transforms into a
+        vibrant crowded Mexican market in a single continuous take with no cuts, the stadium seats
+        organically morph into market stalls, the crowd of fans gradually transforms into merchants and
+        customers in everyday clothes, the soccer pitch becomes a plaza of commerce, slow 360 degree
+        camera rotation, surreal but plausible transformation, magical realism, hyperrealistic,
+        anamorphic lens, golden hour lighting, no logos visible anywhere, no real brand stalls, no
+        recognizable products, fictional generic Mexican market, 24fps"
+
+Prompt negativo:
+
+        "no real brand products, no Coca-Cola umbrellas, no Telcel banners, no Mercado Libre signs, no
+        real Mexican market vendor uniforms, no celebrity faces, no team merchandise, no FIFA
+        branding, no real stadium architecture (no Azteca specific shape), no recognizable monument"
+
+
+
+
+Toma 14 — Zoom out: México iluminado
+Duración: 1:02 - 1:08 · Modelo: Veo 3.1 + Higgsfield
+Zoom out vertiginoso desde el mercado-estadio hasta ver México completo desde el cielo nocturno. Cada
+negocio activo es un punto de luz titilando. Millones de luces. Patrón orgánico de constelación. Como ver
+el cielo estrellado pero al revés: las luces son negocios mexicanos prosperando en tiempo real. La forma
+de México emerge gradualmente.
+Prompt principal:
+
+        "Vertiginous zoom out from a Mexican market scene up into the night sky, revealing the entire
+        country of Mexico from above as a constellation of glowing warm yellow and gold points of light
+        scattered across the geographic shape of Mexico, each light representing an active business,
+        organic twinkling pattern like an inverted starfield, cinematic scale, dramatic but emotional, the
+        geographic outline of Mexico becomes visible as the lights cluster, anamorphic lens,
+        hyperrealistic, 24fps, no city names visible, no political borders highlighted, just the organic
+        shape and glow"
+
+Prompt negativo:
+
+        "no city name labels, no political map elements, no flag overlay, no national emblem, no eagle,
+        no Mexican flag colors as overlay, no FIFA logo, no World Cup elements, no specific city
+        skylines"
+
+
+
+
+Toma 15 — Silencio sobre México
+Duración: 1:08 - 1:12 · Modelo: Foto fija + sutil parallax
+La imagen anterior se queda casi estática durante 4 segundos. Solo un latido de corazón muy bajo, casi
+inaudible. Las luces parpadean al ritmo del latido. La cámara hace un parallax mínimo, casi
+imperceptible. Es el momento de respiración del spot.
+Implementación:
+Frame final de la toma 14 con un movimiento de parallax muy sutil agregado en post (After Effects). El
+sonido es solo bumbum, bumbum, bumbum, casi como sentirlo más que oírlo. Esta es la pausa antes del
+cierre.
+
+
+
+
+Toma 16 — Cierre: slogan + logo
+Duración: 1:12 - 1:25 · Modelo: After Effects + tipografía custom
+Sobre fondo negro o sobre la imagen tenue de México iluminado, aparece tipografía animada letra por
+letra. Tipografía limpia, moderna, propietaria de T1 (no Helvetica genérica, debe ser la tipo de marca).
+Texto en pantalla:
+
+        Todo México es uno.
+
+        Todo en uno.
+
+Luego transición:
+
+        T1
+
+Logo T1 final, limpio, en color signature de marca. 4 segundos sostenidos. Fade to black.
+NO incluir: t1.com, redes sociales, hashtags, CTAs, fechas, ubicaciones. El cierre debe ser limpio como
+un cierre de marca premium (Apple, Nike, Mercedes). Logo y silencio.
+
+
+
+
+6. Transiciones y Ritmo
+
+Mapa de transiciones
+ De toma                    A toma                      Tipo de transición         Detalle técnico
+                                                        Match cut por movimiento   Cortina subiendo → luz del
+ 01                         02
+                                                        ascendente                 túnel encendiéndose
+                                                                                   Barrida amarilla brutal de
+ 02                         03                          Whip pan dorado
+                                                                                   izquierda a derecha
+                                                        Match cut por gesto de     Mano entregando producto
+ 03                         04
+                                                        mano                       → mano tocando balón
+                                                                                   Silbatazo de árbitro →
+ 04                         05                          Match cut por sonido       impresora térmica
+                                                                                   imprimiendo
+                                                                                   Manos cerrando caja →
+ 05                         06                          Match cut macro de manos   manos atándose
+                                                                                   espinilleras
+                                                                                   Luz fría de vestidor → luz
+ 06                         07                          Disolvencia de luz
+                                                                                   cálida de oficina
+                                                                                   Mujer con laptop → atleta
+ 07                         08                          Match cut por postura
+                                                                              Barrida amarilla brutal de
+02                      03                         Whip pan dorado
+                                                                              izquierda a derecha
+                                                   Match cut por gesto de     Mano entregando producto
+03                      04
+                                                   mano                       → mano tocando balón
+                                                                              Silbatazo de árbitro →
+04                      05                         Match cut por sonido       impresora térmica
+                                                                              imprimiendo
+                                                                              Manos cerrando caja →
+05                      06                         Match cut macro de manos   manos atándose
+                                                                              espinilleras
+                                                                              Luz fría de vestidor → luz
+06                      07                         Disolvencia de luz
+                                                                              cálida de oficina
+                                                                              Mujer con laptop → atleta
+07                      08                         Match cut por postura
+                                                                              con tablet, misma posición
+                                                                              Barrida hacia abajo
+08                      09                         Whip pan vertical
+                                                                              conectando dos espacios
+                                                                              Cliente saliendo →
+                                                   Match cut por movimiento
+09                      10                                                    suplentes calentando en
+                                                   grupal
+                                                                              grupo
+                                                                              Aceleración brutal hacia
+10                      11                         Cámara lenta ramping
+                                                                              bullet time del portero
+                                                                              El estadio gradualmente se
+11                      13                         Vortex morph
+                                                                              vuelve mercado, sin corte
+                                                                              Cámara saliendo del
+13                      14                         Zoom out vertiginoso       mercado-estadio hasta
+                                                                              México completo
+                                                                              Imagen casi estática 4
+14                      15                         Sostener (no transición)
+                                                                              segundos
+                                                                              0.5 segundos de negro
+15                      16                         Fade through black breve
+                                                                              antes del logo
+
+
+Ritmo de edición
+ •   Hook (0-10s): cortes lentos, respirados. 2 cortes en 10 segundos. Construir misterio.
+ •   Build (10-50s): cortes acelerándose. 6-8 cortes por 10 segundos en el peak. Ritmo creciente.
+ •   Climax (50-65s): UN solo movimiento continuo (la fusión + zoom out). Sin cortes durante 15
+     segundos. Esto es deliberado: el contraste con el ritmo veloz anterior amplifica el momento.
+ •   Cierre (65-75s): silencio visual. 1 corte total (de México iluminado a slogan). Mínimo absoluto.
+
+
+
+
+7. Sound Design y Música
+
+Estructura sonora del spot
+ •   0:00 - 0:05 · Silencio dramático con ambiente sutil (cortina deslizándose). Solo notas suaves de
+     piano sostenidas.
+ •   0:05 - 0:15 · Entra música contemplativa: cuerdas suaves, piano espaciado. Voice over arranca.
+ •   0:15 - 0:30 · Build inicial: percusión muy sutil, tambores prehispánicos en el fondo. BPM lento.
+ •   0:30 - 0:50 · Crescendo: capas de instrumentos entrando, percusión tomando protagonismo,
+     sintetizadores modernos sumándose. BPM creciendo a 100-120.
+ •   0:50 - 0:55 · Climax sonoro: percusión brutal, momento de la atajada del portero. Toda la música
+        se sostiene en una nota.
+  •     0:55 - 1:08 · Resolución épica: orquesta completa, momento de fusión y zoom out. Punto más
+        alto emocional.
+  •     1:08 - 1:12 · Casi silencio. Solo latido de corazón sutil. Última respiración.
+  •     1:12 - 1:25 · Reentra una nota sostenida muy suave para acompañar el slogan y logo. Termina en
+        silencio.
+
+
+Elementos de sound design específicos
+  •     Sonido de cortina metálica (toma 01): grabación real de archivo, NO AI
+  •     Sonido de estadio: ambiente genérico de multitud (sin cánticos identificables como 'cielito lindo'
+        o cualquier canción protegida)
+  •     Sonidos de mercado: rumor humano genérico, pasos, monedas, sin diálogos identificables
+  •     Silbato de árbitro en transición: sonido genérico de silbato deportivo, no de árbitro identificable
+  •     Latido de corazón final: sample real grabado o de biblioteca comercial
+  •     Sonido del logo T1: signature sonora propia de marca (debe componerse aparte como audio brand
+        asset)
+
+
+Música original o licenciada
+Opción A: Composición original (recomendada)
+Briefing al compositor: pieza orquestal-electrónica de 75 segundos con elementos prehispánicos sutiles
+(tambor wankara, ocarina, flauta de carrizo) fusionados con cuerdas modernas y sintetizadores. Estructura
+ABCA: contemplativa → build → climax → resolución. Que NO suene a himno deportivo. Que SÍ suene
+a documentario premium de Netflix con alma mexicana. Reference tracks: Hans Zimmer en Dune para la
+épica, Ramin Djawadi en Westworld para la electrónica, Lila Downs para los elementos folk.
+Opción B: Música licenciada
+Buscar en Musicbed, Artlist Pro, Premium Beat tracks que cumplan: orquestal-electrónica, 60-120 BPM
+creciente, emocional pero no cliché deportivo, licencia comercial completa para spot publicitario nacional
+en México, ningún elemento que evoque marca específica.
+PROHIBIDO terminantemente:
+  •     Música generada con AI (Suno, Udio, MusicGen) - tienen disputas legales pendientes
+  •     Cualquier canción comercial conocida en México (Maná, Café Tacuba, Caifanes, Molotov, etc.)
+  •     Cualquier canción asociada al folklore deportivo mexicano (Cielito Lindo, México lindo y
+        querido, etc.)
+  •     Cualquier himno deportivo conocido
+  •     Cualquier track que el equipo creativo haya escuchado y crea recordar - hay que verificarlo todo
+        legalmente
+8. Restricciones Legales - Checklist Obligatorio
+Este checklist debe revisarse FRAME POR FRAME antes de publicar. Si un solo elemento de esta lista
+aparece en el cut final, el spot NO se publica hasta corregirse.
+
+
+Elementos prohibidos en imagen
+ Categoría                            Específicamente prohibido               Cómo verificar
+                                      Logo FIFA, Copa del Mundo, trofeo,
+ FIFA / Mundial                       mascota oficial, slogan oficial,        Revisión visual frame por frame
+                                      números '2026' asociados a futbol
+                                      Escudo del Tri, escudo FMF,
+                                      uniforme oficial 2026, frase            Comparar con uniforme oficial
+ Selección Mexicana
+                                      'Selección', águila azteca como         vigente
+                                      escudo deportivo
+                                      Adidas, Nike, Puma, Under Armour,
+                                      New Balance, cualquier swoosh o         Inspección detallada de cada
+ Marcas deportivas
+                                      logo deportivo en uniformes, balones,   uniforme y equipo
+                                      equipo
+                                      Visa, Mastercard, AMEX, Mercado
+ Plataformas pago                     Pago, Clip, SR Pago, Stripe, PayPal     UI debe ser 100% T1 propia
+                                      logos en terminales
+                                      Shopify, Mercado Libre, Amazon,
+ Marketplaces                         Walmart, Tiendanube interface o         Dashboards deben ser T1 propios
+                                      branding
+                                      FedEx, DHL, UPS, Estafeta,
+ Carriers                             Paquetexpress, 99 Minutos en cajas,     Empaques completamente neutros
+                                      etiquetas, vehículos
+                                      Coca-Cola, Telcel, Bimbo, Walmart,
+ Marcas de consumo                                                            Espectaculares y productos genéricos
+                                      Liverpool, Soriana en fondos
+                                      Cualquier rostro reconocible:
+ Personas reales                      jugadores famosos, celebridades,        Curaduría manual de cada toma
+                                      influencers, políticos
+                                      Estadio Azteca con su arquitectura      Estadio genérico inspirado, no
+ Estadios reales
+                                      específica, BBVA, Akron identificable   replicado
+                                      Cualquier canción comercial, himno
+                                                                              Composición original o licencia
+ Música protegida                     deportivo, cántico de barra
+                                                                              comercial verificada
+                                      identificable
+
+
+Términos prohibidos en voice over
+  •     'Mundial', 'World Cup', 'Copa del Mundo', 'FIFA'
+  •     'Selección', 'Selección Mexicana', 'el Tri', 'la Verde Olímpica'
+  •     'México 2026' en contexto deportivo
+  •     'Vamos México', 'Sí se puede' (asociadas a Selección)
+  •     Nombres de jugadores, técnico, comentaristas conocidos
+  •     Frases de transmisión deportiva conocidas (de Faitelson, Martinoli, Cantor)
+
+
+Acciones legales pre-lanzamiento
+  •     Registro IMPI del eslogan 'Todo México es uno. Todo en uno.' en clase apropiada
+  •     Búsqueda fonética y visual del eslogan en bases de datos IMPI
+  •     Contratos firmados con cesión total de derechos: locutora, compositor musical, equipo de
+        animación, equipo de prompt engineering
+  •     Términos de servicio archivados de cada plataforma AI usada (Higgsfield, Veo, Seedance, Kling,
+        Nano Banana) a la fecha de generación
+  •     Plan enterprise activo en cada plataforma AI usada (planes baratos pueden limitar uso comercial)
+  •     Audit trail completo de prompts, generaciones, selecciones e iteraciones (por si hay disputa)
+  •     Software de detección de marcas (Brandwatch o similar) corrido sobre cut final antes de publicar
+  •     Revisión legal independiente del cut final por abogado de propiedad intelectual
+  •     Declaración de contenido sintético en YouTube al subir (cumple con su requisito sin afectar
+        experiencia)
+  •     Documentación de derechos de uso de música licenciada (si se opta por esa vía vs original)
+
+
+Disclosure de AI
+Decisión: NO se incluye disclosure visible de AI en el spot. Se cumple con la declaración interna en
+YouTube al subir el video (formulario de contenido sintético), lo cual protege contra acusaciones de
+ocultamiento sin afectar la experiencia del espectador.
+Esta decisión se basa en investigación de comportamiento del consumidor mexicano y benchmark de
+prácticas de la industria publicitaria global en abril 2026. Si la regulación mexicana cambia durante la
+campaña, se revisará y se ajustará.
+
+
+
+
+9. Calendario de Producción
+
+Fecha de estreno
+Martes 26 de mayo de 2026 · 2:00 PM hora CDMX · YouTube
+
+
+Calendario inverso desde estreno
+ Semana                              Fechas                              Entregables
+                                                                         Aprobación tratamiento. Casting AI
+                                                                         de personajes en Higgsfield Soul Cast
+ Semana 1                            28 abril - 4 mayo                   (jugador A, B, C, comerciante 1, 2, 3,
+                                                                         4, 5). Briefing locutora. Briefing
+                                                                         compositor musical.
+                                                                         Primera ronda generación de tomas
+Semana                                 Fechas                               Entregables
+                                                                            Aprobación tratamiento. Casting AI
+                                                                            de personajes en Higgsfield Soul Cast
+Semana 1                               28 abril - 4 mayo                    (jugador A, B, C, comerciante 1, 2, 3,
+                                                                            4, 5). Briefing locutora. Briefing
+                                                                            compositor musical.
+                                                                            Primera ronda generación de tomas
+                                                                            en Higgsfield + Veo + Seedance +
+                                                                            Kling. Mínimo 3 variantes por toma.
+Semana 2                               5 - 11 mayo
+                                                                            Selección preliminar. Grabación
+                                                                            voice over en estudio. Composición
+                                                                            musical primera versión.
+                                                                            Segunda ronda generación AI con
+                                                                            ajustes. Curaduría final. Ensamble
+Semana 3                               12 - 18 mayo                         preliminar. Edición rough cut.
+                                                                            Música versión final. Sound design
+                                                                            preliminar.
+                                                                            Color grading final en DaVinci
+                                                                            Resolve. Sound design final. Mezcla
+                                                                            de audio. Tipografía y logo en After
+Semana 4                               19 - 25 mayo
+                                                                            Effects. Cut final. Revisión legal
+                                                                            frame por frame. Master 4K. Subida
+                                                                            a YouTube programada.
+                                                                            Video público en YouTube. Pauta
+Estreno                                Martes 26 mayo · 2:00 PM CDMX        inicial activa. Tracking de métricas
+                                                                            comienza.
+                                                                            Pauta moderada. 25% del budget de
+Wave 1                                 26 mayo - 10 junio                   medios. Algoritmo aprende.
+                                                                            Construye base orgánica.
+                                                                            Pauta pico durante días de partido
+Wave 2                                 11 - 24 junio                        importantes. 50% del budget.
+                                                                            Saturación máxima.
+                                                                            Pauta táctica según avance del
+Wave 3                                 25 junio - 19 julio                  torneo. 25% del budget. Cortes
+                                                                            cortos en redes.
+
+
+Equipo mínimo
+ •        1 director creativo (responsable del cut final, decisión última en todo)
+ •        1 prompt engineer senior (responsable de generaciones AI, conoce los modelos a profundidad)
+ •        1 editor / motion designer (DaVinci + After Effects)
+ •        1 sound designer / mezclador (puede ser freelance)
+ •        1 compositor musical (freelance, contratado para esta pieza)
+ •        1 locutora profesional (contratada con cesión completa)
+ •        1 abogado de PI revisor (puede ser asesor externo)
+ •        1 productor / project manager que coordina todo
+10. Métricas de Éxito
+
+KPIs primarios (Awareness)
+ •   Views totales en YouTube: meta mínima 8M, meta deseable 15M, meta ambiciosa 25M
+ •   View-through rate (% que ven más del 75%): meta mínima 40%, meta deseable 55%
+ •   Average view duration: meta mínima 50 segundos, meta deseable 65 segundos
+ •   Brand lift (estudio pre/post): aumento mínimo de 15 puntos en awareness de marca T1
+
+
+KPIs secundarios (Engagement)
+ •   Likes: ratio mínimo de 3% sobre views
+ •   Shares: ratio mínimo de 0.5% sobre views
+ •   Comentarios positivos / negativos: ratio mínimo 5:1
+ •   Menciones orgánicas en redes (Twitter/X, Instagram, TikTok)
+ •   Coverage en prensa (Marketing Brew, AdWeek, Merca2.0, Expansión, El Financiero, Reforma)
+
+
+KPIs terciarios (Conversión indirecta)
+ •   Búsquedas de 'T1' en Google durante y después de la campaña
+ •   Tráfico directo a t1.com durante campaña
+ •   Registros nuevos en T1 (especialmente T1 Finanzas freemium)
+ •   Audiencias de retargeting construidas para campañas posteriores
+
+
+Tracking obligatorio
+ •   Pixel Meta y Pixel TikTok en página de destino
+ •   Google Analytics 4 con eventos custom de campaña
+ •   UTM parameters consistentes en toda la pauta
+ •   Brand lift study con Google (servicio nativo de YouTube)
+ •   Social listening con Brandwatch o Talkwalker durante toda la campaña
+11. Contactos y Aprobaciones
+
+Decisor final del cut
+Arturo (CEO, T1). Aprobación final indispensable antes de publicación.
+
+
+Aprobadores intermedios
+  •    Director creativo (cut maestro)
+  •    Equipo de marketing T1 (alineación con marca)
+  •    Equipo de producto T1 (representación correcta de cada producto)
+  •    Asesor legal (revisión final pre-publicación)
+
+
+Process de revisión
+  •    Director creativo aprueba cut interno
+  •    Marketing T1 revisa y aprueba alineación de marca
+  •    Producto T1 revisa y aprueba representación de cada herramienta
+  •    Asesor legal revisa frame por frame con checklist legal
+  •    Arturo aprueba cut final
+  •    Subida a YouTube en horario programado
+  •    Activación de pauta inmediata post-publicación
+
+
+
+
+12. Anexos y Referencias Visuales
+
+Referencias cinematográficas
+  •    Vortex (2021) de Gaspar Noé — split screen orgánico, simultaneidad de mundos
+  •    1917 (2019) de Sam Mendes — sensación de toma continua
+  •    Roma (2018) de Alfonso Cuarón — luz mexicana, dignidad del cotidiano
+  •    Apple '1984' — power cinematográfico para cambiar percepción de marca
+  •    Nike 'Write the Future' (2010) — match cuts deportivos
+ •    Honda 'Cog' (2003) — cadena de causalidad imposible
+ •    Spotify Wrapped 2024 — saturación visual sin perder claridad
+
+
+Referencias musicales
+ •    Hans Zimmer — Dune (2021) — épica orquestal moderna
+ •    Ramin Djawadi — Westworld OST — fusión orquestal-electrónica
+ •    Lila Downs — elementos folk mexicanos contemporáneos
+ •    Mexican Institute of Sound — fusión electrónica con raíces
+ •    Café Tacvba (NO usar pero referenciar mood) — alma mexicana moderna
+
+
+Referencias de voz
+ •    Cate Blanchett en narraciones documentales
+ •    Yalitza Aparicio en Roma (textura, no actuación)
+ •    Documentales premium de Netflix narrados en español
+ •    Apple keynotes en español latinoamericano
+
+
+Referencias de UI / diseño T1 en pantalla
+ •    Linear app — claridad y minimalismo
+ •    Stripe Dashboard — densidad de información elegante
+ •    Notion — simplicidad funcional
+ •    Apple Wallet — confianza visual en transacciones
+
+
+
+
+                                     — Fin del documento —
+                            Versión 1.0 · T1 Confidencial · 28 de abril de 2026
+
