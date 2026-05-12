@@ -1008,6 +1008,7 @@ Cortina metálica corrugada, limpia, mantenida y con textura real de uso.
 Banqueta de concreto limpio. Jamba o marco de metal o madera oscura.
 Fachada sencilla, anónima, digna. No precaria. No en ruinas.
 Puede haber una pequeña planta discreta o maceta al costado.
+Calle del centro de la ciduad de México.
 
 LUZ Y ATMÓSFERA:
 Amanecer o madrugada tardía: luz dorada muy baja rasante sobre el metal.
@@ -1101,7 +1102,7 @@ LOCACIÓN:
 Nombre interno: Mercado de frutas y verduras.
 Tipo: mercado interior o de calle, popular cuidado.
 Rol narrativo: comercio vivo y táctil, cancha de la vida cotidiana.
-Emoción: movimiento, precisión, transacción, vida plena.
+Emoción: movimiento, precisión, transacción, vida plena. Tinaguis tipico sobre ruedas de la Ciudad de México.
 
 ARQUITECTURA Y MATERIALES:
 Puestos con cajas limpias de madera o plástico neutro.
@@ -1166,6 +1167,7 @@ PALETA:
 Cartón #A87545. Cinta #D8D6D0.
 Pared neutra #C8C4B8. Luz fría #D8E0E4.
 Negro ropa #1B1B1B. Piel #C98963. Sombra #2D3A4A.
+Cinta adhesiva #D8E0E4, Maquina de ticket #DB3B2B
 
 REGLAS DE CONTINUIDAD:
 Misma bodega en toma 14. Sin texto ni marcas en ninguna superficie.
@@ -1213,7 +1215,7 @@ Sombras suaves. No ring light. No luz de influencer.
 PALETA:
 Madera oscura #4A2E1A. Neutro cálido #D7C4AE.
 Cream fondo #F7F5F0. Pantalla blanca #FAFAF7.
-Rojo pulsera #DB3B2B. Sombra fría #2D3A4A. Negro texto #1B1B1B.
+Rojo maseta #DB3B2B. Sombra fría #2D3A4A. Negro texto #1B1B1B.
 
 REGLAS DE CONTINUIDAD:
 Misma mesa y entorno en toma 17. Laptop con pantalla siempre blanca.
@@ -1289,73 +1291,39 @@ SECCIONES:
 7. Negativos legales y visuales.
 
 LOCACIÓN:
-Nombre interno: Restaurante mexicano contemporáneo CDMX.
-Tipo: restaurante de barrio cuidado en Ciudad de México, aspiracional real.
+Nombre interno: Restaurante mexicano contemporáneo.
+Tipo: restaurante de barrio cuidado, aspiracional real.
 Rol narrativo: tensión colectiva durante el partido y celebración final.
-Emoción: expectativa, comunidad, ansiedad compartida, alegría contenida que explota.
+Emoción: expectativa, comunidad, alegría contenida que explota.
 
 ARQUITECTURA Y MATERIALES:
-Restaurante contemporáneo de CDMX: paredes de concreto pulido limpio, piso de concreto o piedra neutra, mesas sencillas de madera o material oscuro sobrio, sillas sencillas, ventanales urbanos amplios, luz natural de tarde entrando desde un lateral, barra o cocina desenfocada al fondo.
-Comida mexicana real sobre las mesas: tacos, guisados, totopos, salsas, agua fresca, tortillas, platos compartidos. Sin marcas.
-Personas vistiendo textil deportivo genérico ficticio, siguiendo exactamente las especificaciones del personaje "Cliente T1 restaurante": playera casual deportiva de manga corta, cuello redondo, corte sencillo, sin cuello polo, sin escudo, sin número y sin logo.
-El protagonista o cliente principal debe llevar playera roja T1 #DB3B2B con UNA sola línea blanca vertical en cada hombro: una línea en hombro izquierdo y una línea en hombro derecho, colocada sobre la costura superior del hombro, desde cerca del cuello hacia el inicio de la manga. No debe haber doble línea, triple línea, franjas laterales ni stripes de marca.
-Otros clientes pueden usar variaciones coherentes del mismo sistema: verde #194D36 con una línea blanca en cada hombro, blanco #F7F5F0 con una línea roja #DB3B2B o verde #194D36 en cada hombro. Todos sin logos, sin escudos, sin números.
-Decoración mínima: algunas macetas color rojo T1 #DB3B2B con plantas discretas no tropicales; arte abstracto en pared con trazos negros sobrios, sin texto ni símbolos reconocibles.
-No cantina. No bar. No antro. No palapa. No tulum. No boho playero. No restaurante rústico. No ladrillo expuesto dominante.
-
-DISTRIBUCIÓN ESPACIAL:
-El restaurante debe sentirse como un espacio real con varias mesas y varios grupos, no como una fila de extras posando.
-Las mesas deben estar orientadas en diferentes ángulos: unas de frente, otras en diagonal, otras laterales.
-Las personas NO deben mirar todas hacia la misma dirección.
-Debe haber varios puntos de atención: televisiones fuera de cuadro en distintos muros, una pantalla al fondo desenfocada, una televisión lateral invisible para cámara, gente mirando a izquierda, derecha, arriba y hacia el fondo.
-Algunos clientes ven el partido, otros miran su celular, otros se tapan la boca, otros están volteando hacia otra mesa, otros reaccionan al audio sin mirar directo.
-La composición puede ser un plano cinematográfico de media distancia, con primer plano ligeramente desenfocado de comida y vasos, grupo principal en foco medio, y mesas/fans desenfocados al fondo.
-No hacer una composición teatral con todos los rostros alineados hacia cámara o hacia el mismo televisor.
+Mesas de madera limpia. Sillas sencillas. Muros lisos neutros.
+Plantas discretas no tropicales. Vidrio. Luz de lámpara práctica cálida.
+Comida mexicana real sobre las mesas: tacos, guisados, agua fresca, tortillas.
+Personas al fondo vistiendo jerseys deportivos genéricos ficticios.
+No cantina. No bar. No antro. No palapa. No tulum. No boho playero.
 
 LUZ Y ATMÓSFERA:
-Luz natural de tarde de partido, suave y lateral, entrando por ventanales. No debe sentirse como luz amarilla de lámpara ni restaurante nocturno.
-Temperatura neutra-cálida controlada: tarde real en CDMX, con sombras abiertas y contraste cinematográfico moderado.
-Ambiente vivo, familiar, aspiracional real, con tensión de partido. Puede ser un poco cinematográfico y contrastado, pero nunca lúgubre, sucio ni demasiado cálido.
-Profundidad de campo natural: no todo necesita estar perfectamente nítido; permitir fondo suave y rostros secundarios desenfocados para que se sienta fotografía real.
+Luz cálida de tarde-noche. Práctica interior + luz natural si hay ventana.
+Ambiente vivo, familiar, aspiracional real.
 
 PALETA:
-Concreto pulido #B8B4AA.
-Concreto sombra #8C8980.
-Negro trazos arte #1B1B1B.
-Rojo T1 macetas / jersey #DB3B2B.
-Madera oscura sobria #5A4032.
-Maíz / tortilla #DDBB75.
-Verdes comida #53694C.
-Sombra fría #2D3A4A.
-Luz natural tarde #D8C7A3.
+Madera #8A5C3A. Maíz/tortilla #DDBB75.
+Verdes comida #53694C. Rojo jersey #DB3B2B.
+Cream muro #D8D6D0. Sombra fría #2D3A4A.
+Luz cálida #C99245.
 
 REGLAS DE CONTINUIDAD:
 El mismo restaurante en tomas 20, 22, 24, 31, 32.
-Textil deportivo genérico: playeras casuales deportivas de manga corta y cuello redondo, siguiendo exactamente el lenguaje del personaje "Cliente T1 restaurante". Protagonista en rojo T1 #DB3B2B con una sola línea blanca vertical en cada hombro, sobre la costura superior. Variaciones secundarias: verde #194D36 con línea blanca, blanco #F7F5F0 con línea roja o verde.
+Jerseys deportivos genéricos: verde con línea blanca, rojo con línea blanca, blanco con línea roja.
 Sin logos, escudos ni marcas en ninguna variación.
-Distribución de miradas siempre natural y variada, con varios puntos de televisión fuera de cuadro.
 
 NEGATIVOS:
 No alcohol. No cerveza. No cervezas de marca.
 No pantallas con UI visible. No logos. No marcas en menús.
 No Tulum. No palapa. No barro excesivo.
 No decoración turística. No cantina oscura.
-No ladrillo expuesto dominante.
-No luz amarilla nocturna.
-No lámparas cálidas como fuente principal.
-No restaurante rústico.
-No uniformes oficiales.
-No jerseys profesionales.
-No playeras con doble línea.
-No playeras con triple línea.
-No franjas tipo Adidas.
 No suciedad. No grasa visible. No mesas pegajosas. No ambiente lúgubre.
-No todos mirando hacia la misma dirección.
-No extras alineados como coro.
-No pose publicitaria.
-No restaurante vacío.
-No televisor enorme protagonista.
-No pantallas con contenido legible.
 ```
 
 ---
