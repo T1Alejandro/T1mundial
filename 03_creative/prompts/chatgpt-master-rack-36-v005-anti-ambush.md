@@ -24,29 +24,29 @@ Regla critica: respetar las posiciones de camara, escala de plano, angulos, ejes
 
 ## Color y textura
 
-* Verdes naturales poco saturados, azules escolares sobrios, amarillos calidos tipo golden hour, sombras con leve tendencia fria.
+* Verdes naturales poco saturados, verdes escolares elegantes, grises limpios y azules frios sobrios, amarillos calidos tipo golden hour solo como acento de luz, sombras con leve tendencia fria.
 * Evitar paleta arena/beige/tierra como dominante. No todo debe verse cafe, seco o polvoso.
-* Color mas vibrante que el primer test: piel calida real, rojos T1 controlados, azules escolares limpios, verdes cotidianos vivos pero no saturados.
+* Color mas vibrante que el primer test: piel calida real, rojos T1 controlados, grises limpios, azules frios y verdes escolares/cotidianos vivos pero no saturados.
 * Acento rojo #DA3B2B unicamente donde se especifique por toma: mochila, vaso, objeto pequeno, pulsera, detalle T1 o luz puntual.
-* Texturas visibles: metal, piel, tela, carton, fruta, concreto cuidado, piso escolar, madera, polvo ligero y haze.
+* Texturas visibles: metal, piel, tela, carton, fruta, concreto cuidado, piso escolar pulido, madera limpia y haze de luz limpio.
 * Materiales totalmente limpios, mantenidos y dignificados. Realismo curado como cine.
-* El mundo debe sentirse limpio, premium, aspiracional real y cuidado.
+* El mundo debe sentirse limpio, premium, aspiracional real, nuevo y cuidado.
 * No lugubre. No sucio. No tierra excesiva. No basura. No polvo pesado. No piso terroso. No color arena dominante. No pobreza extrema. No mugre. No abandono. No decadencia. No grietas profundas. No herrumbre pesada. No paredes destruidas. No humedad. No barrio peligroso. No explotacion visual de pobreza.
 
 ## Casting
 
 * Personas mexicanas/latinoamericanas realistas para comerciantes, emprendedores, familia, jovenes y ninos. Diversidad natural de tonos de piel, edades y rasgos regionales, sin caricatura.
-* Familia mexicana y ninos de estrato social medio alto, ropa nueva, limpia y bien cuidada, sin ostentacion ni lujo exagerado.
-* Ninos y adolescentes naturales, expresivos, de escuela privada o publica cuidada/generica, sin verse como actores perfectos.
+* Familia mexicana y ninos/adolescentes de estrato social medio alto, ropa nueva, limpia y bien cuidada, sin ostentacion ni lujo exagerado.
+* Ninos y adolescentes naturales, expresivos, de escuela privada o publica muy cuidada/generica, sin verse como actores perfectos.
 * Nadie debe parecer celebridad, figura publica ni atleta real.
 * No deportistas profesionales, no arbitros profesionales, no porteros profesionales.
 
 ## Vestuario y objetos
 
-* Ropa escolar generica y natural, sueteres, polos lisos, camisas, mochilas, streetwear sencillo, mandiles, ropa de negocio.
-* Tenis genericos sin logos, zapatos escolares, ropa limpia y cuidada.
-* Nada de jerseys deportivos, uniformes oficiales, escudos, marcas deportivas ni patrones de seleccion.
-* Evitar que los ninos parezcan un equipo uniformado. Deben verse como ninos de escuela con ropa variada y limpia: sueteres distintos, camisas, polos, mochilas, pants o jeans. No todos del mismo color, no mismo kit.
+* Uniformes escolares premium y genericos en paleta verde y gris: sueteres verde oscuro o verde bosque, polos/camisas blancas o gris claro, pantalones o faldas gris oscuro, mochilas sobrias.
+* Ropa nueva, limpia, planchada y cuidada. Tenis genericos sin logos o zapatos escolares negros limpios.
+* Nada de jerseys deportivos, uniformes oficiales de seleccion/equipo, escudos, marcas deportivas ni patrones de seleccion.
+* Los ninos pueden compartir paleta escolar verde/gris, pero no deben parecer equipo deportivo: no kit de futbol, no shorts deportivos, no calcetas de equipo, no numeros, no escudos, no sponsor, no logotipo de escuela reconocible.
 * El juego escolar usa bolita de papel, pelota casera o botella PET limpia generica. No balon profesional.
 * Los marcos de juego son improvisados: cortina metalica, pasillo, almacen escolar, mesa, mochila o pared. No porteria profesional, no red profesional.
 
@@ -58,7 +58,7 @@ Regla critica: respetar las posiciones de camara, escala de plano, angulos, ejes
 
 ## Espacios
 
-* Escuela mexicana contemporanea y digna: patio, pasillos, salon, escaleras, muros cuidados, luz calida, energia de recreo.
+* Escuela mexicana contemporanea, limpia y de nivel medio alto: patio pulido, pasillos cuidados, salon ordenado, escaleras limpias, muros cuidados, luz calida/fria balanceada, energia de recreo.
 * Comercios mexicanos dignos: tienda, mercado limpio, bodega ecommerce, sala familiar minimalista, emprendimiento, tienda de sneakers sin logos.
 * Sala familiar: interior mexicano contemporaneo, medio alto, minimalista, mesa limpia con pocos objetos basicos; no tacos, no restaurante, no comida abundante, no cantina, no mesa caotica.
 * Ciudad abstracta, sin landmarks reconocibles.
@@ -90,7 +90,7 @@ IMPORTANTE: conservar exactamente la numeracion, orden y funcion narrativa del r
 * Camara baja cerca del suelo, siluetas centradas en el encuadre.
 * Solo piernas, zapatos/tenis genericos y parcial de cuerpos visibles.
 * Contraluz fuerte al final del tunel/pasillo, fondo totalmente desenfocado con bokeh calido.
-* Ropa limpia de escuela o streetwear, no ropa deportiva.
+* Uniforme escolar verde y gris, nuevo, limpio y bien cuidado; no ropa deportiva.
 * Misma energia de luz ascendente que toma 01.
 
 03.
@@ -108,7 +108,7 @@ IMPORTANTE: conservar exactamente la numeracion, orden y funcion narrativa del r
 * Encuadre bajo desde atras, foco en piernas y zapatos genericos, mismo eje que v004 toma 04.
 * Escaleras o piso de concreto cuidado generan lineas de avance.
 * Fondo abre a patio escolar/cielo con bokeh calido y movimiento infantil desenfocado.
-* No cancha profesional, no gradas, no estadio, no jerseys.
+* Uniforme escolar verde y gris, nuevo y limpio. No cancha profesional, no gradas, no estadio, no jerseys.
 * Transicion clara: backstage cotidiano a juego escolar.
 
 05.
@@ -148,8 +148,8 @@ IMPORTANTE: conservar exactamente la numeracion, orden y funcion narrativa del r
 * Sustituye close-up de manos estrechandose entre jugadores antes del partido.
 * Ninos en patio escolar lanzando una moneda al aire para decidir quien empieza un juego.
 * Close-up de manos pequenas y caras mirando hacia arriba, moneda centrada en el aire.
-* Ropa escolar generica y streetwear sencillo, variada, no uniforme de equipo.
-* Fondo de escuela desenfocado, luz calida.
+* Uniformes escolares verde y gris, nuevos y limpios, no uniforme de equipo deportivo.
+* Fondo de escuela desenfocado, luz calida/fria limpia.
 * Tension previa al inicio, sin arbitro profesional ni cancha.
 
 10.
@@ -164,14 +164,14 @@ IMPORTANTE: conservar exactamente la numeracion, orden y funcion narrativa del r
 * Sustituye arbitro revisando smartwatch.
 * Close-up cerrado de chicharra/campana escolar montada en pared limpia o techo de pasillo.
 * Encuadre cerrado y grafico, mismo peso narrativo que el arbitro controlando el inicio.
-* Luz calida de escuela, fondo desenfocado, textura limpia de metal/plastico.
+* Luz limpia de escuela, fondo desenfocado, textura nueva y limpia de metal/plastico.
 * Sensacion de que la chicharra esta a punto de sonar e iniciar el juego.
 
 12.
 * Sustituye pie de futbolista pisando balon clasico y empujandolo hacia adelante.
 * Encuadre bajo a ras de piso de piernas de ninos jugando con bolita de papel o pelota casera, copiando la camara de la toma original de patada/balon.
 * Tenis genericos sin marca en foco, bolita cruzando el encuadre.
-* Movimiento diagonal, piso escolar limpio con polvo ligero y luz.
+* Movimiento diagonal, piso escolar pulido y totalmente limpio con reflejos suaves de luz.
 * Energia de juego improvisado, sin pasto ni estadio.
 
 13.
@@ -179,7 +179,7 @@ IMPORTANTE: conservar exactamente la numeracion, orden y funcion narrativa del r
 * Toma abierta a ras de suelo de juego escolar entre pies de varios ninos, misma composicion de jugada entre piernas que en el rack anterior.
 * Bolita de papel o pelota casera corre con velocidad.
 * Piernas cruzando el encuadre, tenis sin logo ni marca.
-* Ropa escolar variada, sin jerseys.
+* Uniformes escolares verde y gris, nuevos y limpios, sin jerseys.
 * Fondo de patio escolar desenfocado, energia de juego en progreso.
 
 14.
@@ -216,7 +216,7 @@ IMPORTANTE: conservar exactamente la numeracion, orden y funcion narrativa del r
 * Zapatos de ninos corriendo en patio escolar, misma camara baja y dinamica de las tomas deportivas del rack original.
 * Tenis genericos, calcetas y pantalones variados, sin marcas.
 * Bolita de papel cruza el encuadre.
-* Polvo ligero y luz de tarde, sensacion de juego y velocidad.
+* Piso pulido y limpio con reflejos frios/verdes, sensacion de juego y velocidad.
 
 19.
 * Joven vendedor de sneakers y accesorios.
@@ -254,8 +254,8 @@ IMPORTANTE: conservar exactamente la numeracion, orden y funcion narrativa del r
 * Sustituye jugador colocando balon sobre cesped.
 * Bolita de papel colocada cuidadosamente sobre el piso.
 * Encuadre a ras de piso, enfoque en manos pequenas y bolita.
-* Piernas de ninos alrededor, ropa escolar variada.
-* Textura del piso como protagonista en primer plano.
+* Piernas de ninos alrededor, uniformes escolares verde y gris, nuevos y limpios.
+* Textura del piso pulido y limpio como protagonista en primer plano.
 * Fondo de escuela desenfocado, luz calida anocheciendo con leve haze.
 * Tension contenida, preparacion previa a ejecucion.
 
@@ -279,7 +279,7 @@ IMPORTANTE: conservar exactamente la numeracion, orden y funcion narrativa del r
 * Sustituye pie de futbolista impactando balon.
 * Pie de nino haciendo contacto directo con bolita de papel o botella PET limpia, mismo encuadre macro de impacto que la toma de balon original.
 * Encuadre macro a ras de piso.
-* Tenis sin logo visible, polvo ligero y particulas en suspension.
+* Tenis sin logo visible, piso totalmente limpio; particulas solo de luz/bokeh, no polvo ni tierra.
 * Acento rojo #DA3B2B solo si aparece en un pequeno detalle de ropa o mochila.
 * Momento exacto de impacto, energia liberandose.
 
@@ -289,7 +289,7 @@ IMPORTANTE: conservar exactamente la numeracion, orden y funcion narrativa del r
 * Composicion simetrica identica al portero del rack original: el nino centrado en el encuadre, el marco improvisado centrado detras de el.
 * Encuadre frontal, cuerpo completo visible, camara a nivel del pecho o cadera.
 * Piernas flexionadas, brazos abiertos, postura de maximo estado de alerta.
-* Ropa escolar o streetwear limpio, sin guantes profesionales.
+* Uniforme escolar verde y gris, nuevo y limpio, sin guantes profesionales.
 * Silencio antes del disparo, tension llevada al limite.
 
 28.
@@ -314,7 +314,7 @@ IMPORTANTE: conservar exactamente la numeracion, orden y funcion narrativa del r
 * Bolita de papel impactando una cortina metalica o marco improvisado desde angulo lateral extremo, misma composicion diagonal que el balon impactando red en el rack original.
 * Encuadre en diagonal, camara ligeramente inclinada.
 * Cortina o metal vibrando alrededor de la bolita, momento exacto del impacto.
-* Bolita y metal en foco, polvo ligero.
+* Bolita y metal en foco, superficies limpias, sin polvo ni tierra.
 * Al fondo, completamente desenfocado: ninos y escuela como masas de luz y color.
 * Climax absoluto, energia liberada, eco visual con toma 01.
 
