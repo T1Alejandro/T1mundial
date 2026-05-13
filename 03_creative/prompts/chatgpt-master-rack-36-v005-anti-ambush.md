@@ -75,6 +75,8 @@ Regla critica: respetar las posiciones de camara, escala de plano, angulos, ejes
 
 ## TOMAS
 
+IMPORTANTE: conservar exactamente la numeracion, orden y funcion narrativa del rack v004. No recorrer tomas. No compactar. No mezclar. Cada numero de abajo sustituye el mismo numero del v004.
+
 01.
 * Cortina metalica de pequena tienda mexicana abriendose al amanecer, vista frontal.
 * Persona centrada en el encuadre, en silueta parcial, levanta la cortina con ambas manos.
@@ -83,6 +85,7 @@ Regla critica: respetar las posiciones de camara, escala de plano, angulos, ejes
 * Camara baja, angulo frontal, atmosfera silenciosa y suspendida.
 
 02.
+* Sustituye futbolista ficticio caminando por tunel de estadio.
 * Nino/joven escolar caminando por un tunel/pasillo interior hacia una luz intensa al fondo.
 * Camara baja cerca del suelo, siluetas centradas en el encuadre.
 * Solo piernas, zapatos/tenis genericos y parcial de cuerpos visibles.
@@ -100,7 +103,8 @@ Regla critica: respetar las posiciones de camara, escala de plano, angulos, ejes
 * Sensacion de progreso, avance hacia el momento decisivo.
 
 04.
-* Nino/joven escolar ascendiendo por pasillo o escaleras hacia patio/cielo, sustituyendo exactamente la toma del jugador ascendiendo por tunel.
+* Sustituye jugador ascendiendo por tunel hacia el campo.
+* Nino/joven escolar ascendiendo por pasillo o escaleras hacia patio/cielo.
 * Encuadre bajo desde atras, foco en piernas y zapatos genericos, mismo eje que v004 toma 04.
 * Escaleras o piso de concreto cuidado generan lineas de avance.
 * Fondo abre a patio escolar/cielo con bokeh calido y movimiento infantil desenfocado.
@@ -117,6 +121,7 @@ Regla critica: respetar las posiciones de camara, escala de plano, angulos, ejes
 * Faros o luces de calle desenfocadas en el fondo superior pueden simular emocionalmente luces de estadio sin mostrar estadio.
 
 06.
+* Sustituye al mismo joven con fondo de estadio lleno.
 * Mismo joven, encuadre frontal, pero el fondo se transforma en un patio escolar o pasillo con cielo abierto.
 * Camara en contra-picada leve, guiada por la mirada del joven.
 * El joven mira hacia arriba con asombro y determinacion, contemplando cielo, faros altos o luces desenfocadas tipo bokeh.
@@ -140,7 +145,7 @@ Regla critica: respetar las posiciones de camara, escala de plano, angulos, ejes
 * Sin codigo QR, sin marcas de pago, sin jerseys.
 
 09.
-* Misma composicion que la toma original de arbitro y jugadores antes del inicio, pero convertida a ninos.
+* Sustituye close-up de manos estrechandose entre jugadores antes del partido.
 * Ninos en patio escolar lanzando una moneda al aire para decidir quien empieza un juego.
 * Close-up de manos pequenas y caras mirando hacia arriba, moneda centrada en el aire.
 * Ropa escolar generica y streetwear sencillo, variada, no uniforme de equipo.
@@ -148,24 +153,29 @@ Regla critica: respetar las posiciones de camara, escala de plano, angulos, ejes
 * Tension previa al inicio, sin arbitro profesional ni cancha.
 
 10.
-* Detalle cinematografico de vaso rojo #DA3B2B de cafe o bebida caliente sobre barra o mesa de comercio.
-* Vapor suave, manos trabajando fuera de foco.
-* Pausa emocional y acento de color.
-* Luz calida, superficie limpia, textura cuidada.
+* Sustituye conductora revisando smartwatch en auto.
+* Nino/joven en sala familiar minimalista, visto desde atras/lado derecho, sosteniendo smartphone vertical con pantalla blanca limpia.
+* Pulsera o pequeno acento rojo #DA3B2B en la muneca o funda del telefono, sin marca.
+* Encuadre POV desde atras/lado derecho, mismo eje que v004 toma 10.
+* Familia mexicana medio alta desenfocada al fondo, sentada en sofa; TV fuera de cuadro o luces abstractas, nada visible.
+* Sensacion de pausa, espera y concentracion dentro de casa.
 
 11.
-* Grupo de ninos y adolescentes reunidos en circulo antes de jugar en patio escolar, con el mismo encuadre y energia de huddle del rack anterior.
-* Manos al centro como equipo, mochilas cerca, energia de complicidad.
-* Ropa escolar generica, sueteres, polos, camisas y streetwear.
-* Nada de jerseys, escudos ni uniforme deportivo.
+* Sustituye arbitro revisando smartwatch.
+* Close-up cerrado de chicharra/campana escolar montada en pared limpia o techo de pasillo.
+* Encuadre cerrado y grafico, mismo peso narrativo que el arbitro controlando el inicio.
+* Luz calida de escuela, fondo desenfocado, textura limpia de metal/plastico.
+* Sensacion de que la chicharra esta a punto de sonar e iniciar el juego.
 
 12.
+* Sustituye pie de futbolista pisando balon clasico y empujandolo hacia adelante.
 * Encuadre bajo a ras de piso de piernas de ninos jugando con bolita de papel o pelota casera, copiando la camara de la toma original de patada/balon.
 * Tenis genericos sin marca en foco, bolita cruzando el encuadre.
 * Movimiento diagonal, piso escolar limpio con polvo ligero y luz.
 * Energia de juego improvisado, sin pasto ni estadio.
 
 13.
+* Sustituye toma abierta a ras de suelo de jugada entre pies de dos equipos.
 * Toma abierta a ras de suelo de juego escolar entre pies de varios ninos, misma composicion de jugada entre piernas que en el rack anterior.
 * Bolita de papel o pelota casera corre con velocidad.
 * Piernas cruzando el encuadre, tenis sin logo ni marca.
@@ -179,12 +189,14 @@ Regla critica: respetar las posiciones de camara, escala de plano, angulos, ejes
 * Practico, disciplinado, silencioso.
 
 15.
+* Sustituye delantero ajustando cinta de capitan.
 * Nino ajustandose la manga de su sueter o playera escolar.
 * Match visual con el gesto de cerrar caja en toma anterior.
 * Macro de manos y manga; en la tela se lee escrito a mano "Carlitos" como etiqueta personal o nombre de cuaderno, no como brazalete.
 * Fondo escolar desenfocado, gesto de preparacion infantil.
 
 16.
+* Sustituye entrenador estudiando tablet en borde del campo.
 * Nino estratega y simpatico estudiando una libreta o celular con dibujo casero de jugadas inventadas.
 * Encuadre over-the-shoulder desde atras del hombro derecho, rima con dispositivos posteriores.
 * Pantalla o libreta limpia, sin UI real ni app reconocible.
@@ -215,6 +227,7 @@ Regla critica: respetar las posiciones de camara, escala de plano, angulos, ejes
 * Sneakers rojos #DA3B2B dentro de repisa de acrilico, sin swoosh ni logo visible.
 
 20.
+* Sustituye restaurante durante partido en vivo.
 * Nino en sala familiar atento a su celular.
 * Familia mexicana de estrato medio alto en sala minimalista, mirando una TV fuera de cuadro o una pared de luz desenfocada; no se muestra contenido de TV.
 * Luz domestica calida, tension contenida.
@@ -223,20 +236,22 @@ Regla critica: respetar las posiciones de camara, escala de plano, angulos, ejes
 * Mesa de sala limpia con elementos basicos minimalistas; no tacos, no comida abundante, no restaurante.
 
 21.
-* Manos sosteniendo smartphone vertical en primer plano.
-* Pantalla blanca limpia, completamente en blanco.
-* Encuadre cerrado desde detras del hombro derecho, over-the-right-shoulder.
-* Foco en interaccion dedo-pantalla.
-* Fondo desenfocado de sala familiar o mesa domestica.
+* Sustituye arbitro marcando decision con silbato y senal directa.
+* Encuadre cerrado de chicharra escolar sonando en pared o pasillo limpio.
+* La chicharra vibra o queda en primer plano con ligera tension visual, fondo escolar completamente desenfocado.
+* Luz calida, metal/plastico limpio, composicion firme y directa.
+* Sensacion de corte narrativo y decision irreversible, sin arbitro ni silbato profesional.
 
 22.
-* Chicharra escolar interrumpe el juego; sustituye la toma de decision/arbitro con el mismo peso narrativo.
-* Patio escolar con ninos que se congelan un instante mirando hacia la accion.
-* Luz dura de tarde suavizada por haze ligero.
-* Composicion con expectativa, sin silbato ni arbitraje profesional.
-* Momento de decision y corte narrativo.
+* Sustituye restaurante durante partido en vivo con protagonista listo para ejecutar.
+* Nino/joven en sala familiar minimalista sosteniendo smartphone vertical con ambas manos; vemos la parte trasera del celular, no la pantalla.
+* Mirada fija fuera de cuadro, pulgares listos para ejecutar.
+* Familia alrededor casi levantandose con tension y asombro, TV fuera de cuadro.
+* Postura contenida, respiracion tensa, concentracion interna.
+* Mesa limpia con pocos objetos basicos; no comida abundante, no tacos, no restaurante.
 
 23.
+* Sustituye jugador colocando balon sobre cesped.
 * Bolita de papel colocada cuidadosamente sobre el piso.
 * Encuadre a ras de piso, enfoque en manos pequenas y bolita.
 * Piernas de ninos alrededor, ropa escolar variada.
@@ -245,6 +260,7 @@ Regla critica: respetar las posiciones de camara, escala de plano, angulos, ejes
 * Tension contenida, preparacion previa a ejecucion.
 
 24.
+* Sustituye manos sosteniendo smartphone vertical sobre mesa con comida mexicana.
 * Manos sosteniendo smartphone vertical sobre mesa limpia de sala familiar minimalista.
 * Encuadre cerrado over-the-right-shoulder.
 * Pantalla blanca limpia, completamente en blanco.
@@ -252,6 +268,7 @@ Regla critica: respetar las posiciones de camara, escala de plano, angulos, ejes
 * Interaccion directa con el pulgar, sensacion de accion y control inmediato.
 
 25.
+* Sustituye balon reposando frente a porteria desde punto de vista del portero.
 * Bolita de papel reposando en el piso justo frente a un marco improvisado.
 * Camara a ras de piso, entre los pies de un nino "portero" a ambos lados en primer plano.
 * El punto de vista da sensacion de espera, vigilancia y suspenso maximo.
@@ -259,6 +276,7 @@ Regla critica: respetar las posiciones de camara, escala de plano, angulos, ejes
 * Bolita en foco absoluto, zapatos del nino en primer plano desenfocados.
 
 26.
+* Sustituye pie de futbolista impactando balon.
 * Pie de nino haciendo contacto directo con bolita de papel o botella PET limpia, mismo encuadre macro de impacto que la toma de balon original.
 * Encuadre macro a ras de piso.
 * Tenis sin logo visible, polvo ligero y particulas en suspension.
@@ -266,6 +284,7 @@ Regla critica: respetar las posiciones de camara, escala de plano, angulos, ejes
 * Momento exacto de impacto, energia liberandose.
 
 27.
+* Sustituye portero profesional frente a porteria.
 * Nino "portero" frente a marco improvisado hecho por cortina metalica, pasillo o almacen escolar.
 * Composicion simetrica identica al portero del rack original: el nino centrado en el encuadre, el marco improvisado centrado detras de el.
 * Encuadre frontal, cuerpo completo visible, camara a nivel del pecho o cadera.
@@ -274,6 +293,7 @@ Regla critica: respetar las posiciones de camara, escala de plano, angulos, ejes
 * Silencio antes del disparo, tension llevada al limite.
 
 28.
+* Sustituye balon clasico en pleno vuelo.
 * Bolita de papel en pleno vuelo a maxima velocidad, misma logica de encuadre cerrado y movimiento del balon en vuelo del rack original.
 * La bolita tiene desenfoque de movimiento, comunica velocidad extrema.
 * Encuadre cerrado, bolita centrada y dominante en el cuadro.
@@ -281,6 +301,7 @@ Regla critica: respetar las posiciones de camara, escala de plano, angulos, ejes
 * Sensacion de urgencia, disparo imparable pero casero.
 
 29.
+* Sustituye mano enguantada del portero rozando el balon.
 * Encuadre extremadamente cerrado, macro absoluto.
 * Solo vemos la mano del nino extendida al maximo, dedos estirados.
 * Las yemas de los dedos apenas rozan el 1% de la bolita de papel, misma composicion extrema que la toma del guante rozando balon del rack original.
@@ -289,6 +310,7 @@ Regla critica: respetar las posiciones de camara, escala de plano, angulos, ejes
 * Fondo totalmente desenfocado, escuela como masa de luz.
 
 30.
+* Sustituye balon impactando la red desde angulo lateral extremo.
 * Bolita de papel impactando una cortina metalica o marco improvisado desde angulo lateral extremo, misma composicion diagonal que el balon impactando red en el rack original.
 * Encuadre en diagonal, camara ligeramente inclinada.
 * Cortina o metal vibrando alrededor de la bolita, momento exacto del impacto.
@@ -297,12 +319,14 @@ Regla critica: respetar las posiciones de camara, escala de plano, angulos, ejes
 * Climax absoluto, energia liberada, eco visual con toma 01.
 
 31.
+* Sustituye protagonista con smartphone sobre mesa de comida mexicana.
 * El nino o joven sostiene su smartphone vertical con ambas manos sobre mesa limpia de sala familiar minimalista.
 * Pantalla blanca limpia, completamente en blanco, visible de frente.
 * Fondo con elementos domesticos discretos desenfocados: sofa, lampara, vaso de agua, planta pequena o control remoto.
 * Sensacion de logro instantaneo, paralelo narrativo con el impacto de la bolita.
 
 32.
+* Sustituye celebracion en restaurante.
 * Celebracion en sala familiar.
 * Familia mexicana de estrato medio alto abraza al nino o joven; el abrazo viene desde el lado para que siga de frente hacia camara.
 * El protagonista todavia sostiene el smartphone con una mano de forma natural; vemos el respaldo del celular, no la pantalla.
@@ -311,6 +335,7 @@ Regla critica: respetar las posiciones de camara, escala de plano, angulos, ejes
 * Sala minimalista, limpia, calida, con ropa nueva y cuidada. No restaurante, no tacos, no mesa caotica.
 
 33.
+* Sustituye celebracion en multitud de estadio.
 * Celebracion de ninos en patio o salon de escuela despues del juego.
 * Ninos saltan, se abrazan y rien; bolita de papel queda en el piso.
 * Encuadre amplio con siluetas contra luz calida.
@@ -318,6 +343,7 @@ Regla critica: respetar las posiciones de camara, escala de plano, angulos, ejes
 * Momento de alegria cotidiana, no aficion oficial.
 
 34.
+* Sustituye vista cenital de estadio brutalista.
 * Vista cenital de escuela, colonia o conjunto de comercios al anochecer.
 * Forma amplia de patios, calles y locales iluminados; no estadio, no gradas.
 * Personas pequenas moviendose como actividad humana, no multitud de evento.
