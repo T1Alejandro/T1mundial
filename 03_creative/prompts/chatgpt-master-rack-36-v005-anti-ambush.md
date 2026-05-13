@@ -6,6 +6,8 @@ Formato: una sola imagen horizontal grande, contact sheet limpio de 36 tomas en 
 
 Este prompt actualiza el rack v004 a una version anti-ambush. Mantener el lenguaje visual, encuadres, ritmo, limpieza y curva del rack anterior, pero convertir el futbol profesional en analogia de juego escolar/cotidiano y comercio mexicano. No reinventar desde cero: convertir cada toma riesgosa.
 
+Regla critica: respetar las posiciones de camara, escala de plano, angulos, ejes, profundidad, continuidad y composicion del rack v004. El cambio debe ser de contenido legal/riesgoso, no de direccion de arte ni de camara. Si en v004 una toma era macro, sigue siendo macro. Si era ras de piso, sigue ras de piso. Si era simetrica, sigue simetrica. Si era over-the-shoulder derecho, sigue over-the-shoulder derecho. Si era frontal y baja, sigue frontal y baja.
+
 ## Look global
 
 * Tono fotografico suave, sin HDR agresivo.
@@ -13,7 +15,7 @@ Este prompt actualiza el rack v004 a una version anti-ambush. Mantener el lengua
 * Altas luces con roll-off suave tipo cine analogico.
 * Grano fino cinematografico.
 * Mas cine autoral independiente que publicidad comercial.
-* Menos contraste, mas atmosfera, mas silencio visual.
+* Mas atmosfera y silencio visual, pero con contraste cinematografico vivo: negros levantados sin verse lavados, highlights calidos, color presente y elegante.
 * Mas textura que nitidez digital.
 * Luz natural primero, luz practica despues.
 * Sensacion ligeramente nostalgica pero contemporanea.
@@ -23,10 +25,13 @@ Este prompt actualiza el rack v004 a una version anti-ambush. Mantener el lengua
 ## Color y textura
 
 * Verdes naturales poco saturados, azules escolares sobrios, amarillos calidos tipo golden hour, sombras con leve tendencia fria.
+* Evitar paleta arena/beige/tierra como dominante. No todo debe verse cafe, seco o polvoso.
+* Color mas vibrante que el primer test: piel calida real, rojos T1 controlados, azules escolares limpios, verdes cotidianos vivos pero no saturados.
 * Acento rojo #DA3B2B unicamente donde se especifique por toma: mochila, vaso, objeto pequeno, pulsera, detalle T1 o luz puntual.
 * Texturas visibles: metal, piel, tela, carton, fruta, concreto cuidado, piso escolar, madera, polvo ligero y haze.
-* Materiales limpios, mantenidos y dignificados. Realismo curado como cine.
-* No lugubre. No sucio. No tierra excesiva. No basura. No pobreza extrema. No mugre. No abandono. No decadencia. No grietas profundas. No herrumbre pesada. No paredes destruidas. No humedad. No barrio peligroso. No explotacion visual de pobreza.
+* Materiales totalmente limpios, mantenidos y dignificados. Realismo curado como cine.
+* El mundo debe sentirse limpio, premium, aspiracional real y cuidado.
+* No lugubre. No sucio. No tierra excesiva. No basura. No polvo pesado. No piso terroso. No color arena dominante. No pobreza extrema. No mugre. No abandono. No decadencia. No grietas profundas. No herrumbre pesada. No paredes destruidas. No humedad. No barrio peligroso. No explotacion visual de pobreza.
 
 ## Casting
 
@@ -37,9 +42,10 @@ Este prompt actualiza el rack v004 a una version anti-ambush. Mantener el lengua
 
 ## Vestuario y objetos
 
-* Ropa escolar generica, sueteres, polos lisos, camisas, mochilas, streetwear sencillo, mandiles, ropa de negocio.
+* Ropa escolar generica y natural, sueteres, polos lisos, camisas, mochilas, streetwear sencillo, mandiles, ropa de negocio.
 * Tenis genericos sin logos, zapatos escolares, ropa limpia y cuidada.
 * Nada de jerseys deportivos, uniformes oficiales, escudos, marcas deportivas ni patrones de seleccion.
+* Evitar que los ninos parezcan un equipo uniformado. Deben verse como ninos de escuela con ropa variada y limpia: sueteres distintos, camisas, polos, mochilas, pants o jeans. No todos del mismo color, no mismo kit.
 * El juego escolar usa bolita de papel, pelota casera o botella PET limpia generica. No balon profesional.
 * Los marcos de juego son improvisados: cortina metalica, pasillo, almacen escolar, mesa, mochila o pared. No porteria profesional, no red profesional.
 
@@ -55,6 +61,13 @@ Este prompt actualiza el rack v004 a una version anti-ambush. Mantener el lengua
 * Comercios mexicanos dignos: tienda, mercado, bodega ecommerce, restaurante/sala familiar, emprendimiento, tienda de sneakers sin logos.
 * Ciudad abstracta, sin landmarks reconocibles.
 * No estadio profesional. No cancha profesional. No gradas masivas. No crowd de estadio.
+
+## Conversion desde v004
+
+* La imagen puede usar el rack anterior como referencia estricta de encuadre, lente, profundidad, ritmo y continuidad.
+* No debe copiar los elementos deportivos profesionales.
+* El objetivo no es crear un rack nuevo desde cero, sino convertir el rack existente: donde habia jugador profesional, ahora hay nino/joven escolar; donde habia estadio, ahora patio/pasillo/cielo/faros; donde habia balon, ahora bolita de papel; donde habia porteria/red, ahora cortina o marco improvisado; donde habia arbitro, ahora ninos decidiendo el inicio del juego.
+* La toma debe quedar tan parecida en camara al v004 que se pueda reemplazar en edicion sin romper el ritmo.
 
 ---
 
@@ -73,6 +86,7 @@ Este prompt actualiza el rack v004 a una version anti-ambush. Mantener el lengua
 * Solo piernas y zapatos sencillos visibles, no ropa deportiva.
 * El piso limpio refleja una franja de luz dorada que entra desde la cortina.
 * Misma energia de luz ascendente que toma 01.
+* Composicion muy cercana a la toma original del jugador caminando por tunel: pies centrados avanzando por un pasillo/interior de negocio, fondo completamente desenfocado con bokeh calido.
 * Transicion de abrir negocio a ponerse en marcha, sin ningun elemento deportivo.
 
 03.
@@ -85,26 +99,28 @@ Este prompt actualiza el rack v004 a una version anti-ambush. Mantener el lengua
 * Sensacion de progreso, avance hacia el momento decisivo.
 
 04.
-* Patio o pasillo de escuela mexicana visto con el mismo sentido de apertura que antes tenia el estadio.
-* Encuadre bajo desde atras o a nivel de piernas, ninos corren hacia un espacio abierto de recreo.
+* Nino/joven escolar ascendiendo por pasillo o escaleras hacia patio/cielo, sustituyendo exactamente la toma del jugador ascendiendo por tunel.
+* Encuadre bajo desde atras, foco en piernas y zapatos genericos, mismo eje que v004 toma 04.
 * Escaleras o piso de concreto cuidado generan lineas de avance.
-* Fondo abre a patio escolar con luz calida y movimiento infantil desenfocado.
+* Fondo abre a patio escolar/cielo con bokeh calido y movimiento infantil desenfocado.
 * No cancha profesional, no gradas, no estadio, no jerseys.
 * Transicion clara: backstage cotidiano a juego escolar.
 
 05.
 * Mismo joven ya en la calle, de pie en banqueta de zona centrica anonima — acaba de salir del metro o paso subterraneo.
-* La calle que se abre detras de el es abierta y respirable, sin landmarks.
-* Encuadre frontal a nivel medio o contra-picada suave.
+* La parte baja del plano casi no muestra calle: privilegiar cielo, faros, luces altas y bokeh en la parte superior.
+* Encuadre frontal a nivel medio o contra-picada suave, mas panoramico hacia arriba que el test anterior.
 * Rostro nitido y centrado, mirada hacia adelante con determinacion y esperanza.
 * Vestimenta completamente negra excepto la mochila roja #DA3B2B.
 * Luz de ocaso/crepusculo, tonos calidos bajos que enmarcan al personaje.
+* Faros o luces de calle desenfocadas en el fondo superior pueden simular emocionalmente luces de estadio sin mostrar estadio.
 
 06.
 * Mismo joven, encuadre frontal, pero el fondo se transforma en un patio escolar o pasillo con cielo abierto.
 * Camara en contra-picada leve, guiada por la mirada del joven.
-* El joven mira hacia arriba con asombro y determinacion, contemplando luz, ninos corriendo y energia de recreo.
-* El espacio se expande visualmente hacia el cielo, sensacion de escala emocional sin estadio.
+* El joven mira hacia arriba con asombro y determinacion, contemplando cielo, faros altos o luces desenfocadas tipo bokeh.
+* La toma debe ser mucho mas hacia cielo/luz que hacia patio; abajo casi no debe verse suelo.
+* El espacio se expande visualmente hacia arriba, sensacion de escala emocional sin estadio.
 * Misma postura centrada, misma luz suave sobre el rostro.
 
 07.
@@ -123,9 +139,10 @@ Este prompt actualiza el rack v004 a una version anti-ambush. Mantener el lengua
 * Sin codigo QR, sin marcas de pago, sin jerseys.
 
 09.
+* Misma composicion que la toma original de arbitro y jugadores antes del inicio, pero convertida a ninos.
 * Ninos en patio escolar lanzando una moneda al aire para decidir quien empieza un juego.
-* Close-up de manos pequenas y caras mirando hacia arriba.
-* Ropa escolar generica y streetwear sencillo.
+* Close-up de manos pequenas y caras mirando hacia arriba, moneda centrada en el aire.
+* Ropa escolar generica y streetwear sencillo, variada, no uniforme de equipo.
 * Fondo de escuela desenfocado, luz calida.
 * Tension previa al inicio, sin arbitro profesional ni cancha.
 
@@ -136,19 +153,19 @@ Este prompt actualiza el rack v004 a una version anti-ambush. Mantener el lengua
 * Luz calida, superficie limpia, textura cuidada.
 
 11.
-* Grupo de ninos y adolescentes reunidos en circulo antes de jugar en patio escolar.
+* Grupo de ninos y adolescentes reunidos en circulo antes de jugar en patio escolar, con el mismo encuadre y energia de huddle del rack anterior.
 * Manos al centro como equipo, mochilas cerca, energia de complicidad.
 * Ropa escolar generica, sueteres, polos, camisas y streetwear.
 * Nada de jerseys, escudos ni uniforme deportivo.
 
 12.
-* Encuadre bajo a ras de piso de piernas de ninos jugando con bolita de papel o pelota casera.
+* Encuadre bajo a ras de piso de piernas de ninos jugando con bolita de papel o pelota casera, copiando la camara de la toma original de patada/balon.
 * Tenis genericos sin marca en foco, bolita cruzando el encuadre.
 * Movimiento diagonal, piso escolar limpio con polvo ligero y luz.
 * Energia de juego improvisado, sin pasto ni estadio.
 
 13.
-* Toma abierta a ras de suelo de juego escolar entre pies de varios ninos.
+* Toma abierta a ras de suelo de juego escolar entre pies de varios ninos, misma composicion de jugada entre piernas que en el rack anterior.
 * Bolita de papel o pelota casera corre con velocidad.
 * Piernas cruzando el encuadre, tenis sin logo ni marca.
 * Ropa escolar variada, sin jerseys.
@@ -183,7 +200,7 @@ Este prompt actualiza el rack v004 a una version anti-ambush. Mantener el lengua
 * Luz natural, concentracion tranquila y segura.
 
 18.
-* Zapatos de ninos corriendo en patio escolar.
+* Zapatos de ninos corriendo en patio escolar, misma camara baja y dinamica de las tomas deportivas del rack original.
 * Tenis genericos, calcetas y pantalones variados, sin marcas.
 * Bolita de papel cruza el encuadre.
 * Polvo ligero y luz de tarde, sensacion de juego y velocidad.
@@ -211,7 +228,7 @@ Este prompt actualiza el rack v004 a una version anti-ambush. Mantener el lengua
 * Fondo desenfocado de sala familiar o mesa domestica.
 
 22.
-* Chicharra escolar interrumpe el juego.
+* Chicharra escolar interrumpe el juego; sustituye la toma de decision/arbitro con el mismo peso narrativo.
 * Patio escolar con ninos que se congelan un instante mirando hacia la accion.
 * Luz dura de tarde suavizada por haze ligero.
 * Composicion con expectativa, sin silbato ni arbitraje profesional.
@@ -240,7 +257,7 @@ Este prompt actualiza el rack v004 a una version anti-ambush. Mantener el lengua
 * Bolita en foco absoluto, zapatos del nino en primer plano desenfocados.
 
 26.
-* Pie de nino haciendo contacto directo con bolita de papel o botella PET limpia.
+* Pie de nino haciendo contacto directo con bolita de papel o botella PET limpia, mismo encuadre macro de impacto que la toma de balon original.
 * Encuadre macro a ras de piso.
 * Tenis sin logo visible, polvo ligero y particulas en suspension.
 * Acento rojo #DA3B2B solo si aparece en un pequeno detalle de ropa o mochila.
@@ -248,14 +265,14 @@ Este prompt actualiza el rack v004 a una version anti-ambush. Mantener el lengua
 
 27.
 * Nino "portero" frente a marco improvisado hecho por cortina metalica, pasillo o almacen escolar.
-* Composicion simetrica: el nino centrado en el encuadre, el marco improvisado centrado detras de el.
+* Composicion simetrica identica al portero del rack original: el nino centrado en el encuadre, el marco improvisado centrado detras de el.
 * Encuadre frontal, cuerpo completo visible, camara a nivel del pecho o cadera.
 * Piernas flexionadas, brazos abiertos, postura de maximo estado de alerta.
 * Ropa escolar o streetwear limpio, sin guantes profesionales.
 * Silencio antes del disparo, tension llevada al limite.
 
 28.
-* Bolita de papel en pleno vuelo a maxima velocidad.
+* Bolita de papel en pleno vuelo a maxima velocidad, misma logica de encuadre cerrado y movimiento del balon en vuelo del rack original.
 * La bolita tiene desenfoque de movimiento, comunica velocidad extrema.
 * Encuadre cerrado, bolita centrada y dominante en el cuadro.
 * Fondo de escuela, sala o pasillo completamente desenfocado, solo masas de luz y color.
@@ -264,13 +281,13 @@ Este prompt actualiza el rack v004 a una version anti-ambush. Mantener el lengua
 29.
 * Encuadre extremadamente cerrado, macro absoluto.
 * Solo vemos la mano del nino extendida al maximo, dedos estirados.
-* Las yemas de los dedos apenas rozan el 1% de la bolita de papel.
+* Las yemas de los dedos apenas rozan el 1% de la bolita de papel, misma composicion extrema que la toma del guante rozando balon del rack original.
 * La mano llena la mayor parte del encuadre; la bolita apenas asoma por el borde.
 * Textura real de piel, unas, tela de manga.
 * Fondo totalmente desenfocado, escuela como masa de luz.
 
 30.
-* Bolita de papel impactando una cortina metalica o marco improvisado desde angulo lateral extremo.
+* Bolita de papel impactando una cortina metalica o marco improvisado desde angulo lateral extremo, misma composicion diagonal que el balon impactando red en el rack original.
 * Encuadre en diagonal, camara ligeramente inclinada.
 * Cortina o metal vibrando alrededor de la bolita, momento exacto del impacto.
 * Bolita y metal en foco, polvo ligero.
