@@ -1,13 +1,13 @@
 # HANDS-UP — Estado del proyecto T1 Mundial 2026
-_Última actualización: 13 mayo 2026 — revisión legal anti-ambush_
+_Última actualización: 13 mayo 2026 — briefing v08 + anexo branding_
 
 ---
 
 ## Qué es este proyecto
 
-Hero film cinematográfico 60-90s para YouTube de T1, lanzamiento 26 mayo 2026.
+Hero film cinematografico 60-90s para YouTube de T1, lanzamiento 26 mayo 2026.
 
-**Tesis:** Cuando México juega, México entero juega. Once en el campo, millones en sus negocios. Un solo país, un solo equipo. Todo conectado en uno.
+**Tesis vigente v08:** El comerciante mexicano es el atleta de su propio negocio. La epica ya no esta en el futbol explicito, sino en la precision, disciplina, preparacion y dignidad del comercio mexicano.
 
 **Frase final:** Todo México es uno. Todo en uno. T1.
 
@@ -17,58 +17,118 @@ Hero film cinematográfico 60-90s para YouTube de T1, lanzamiento 26 mayo 2026.
 
 ## Estado vigente — 13 mayo 2026
 
-> Esta sección es el estado operativo actual. Las secciones de 11 mayo, 8 mayo y 4 mayo quedan abajo como historial.
+> Esta seccion es el estado operativo actual. Las secciones anti-ambush escolar, 11 mayo, 8 mayo y 4 mayo quedan abajo como historial.
 
-### Resumen de cambio legal / creativo
+### Source of truth vigente
 
-El 13 mayo se recibió feedback de legal sobre el riesgo de ambush marketing. El fundamento compartido fue el artículo 386, fracción II, inciso e), de la Ley Federal de Protección a la Propiedad Industrial: es infracción administrativa inducir al público a creer o suponer infundadamente la existencia de una relación de patrocinio oficial entre un signo distintivo y un evento público o privado de concentración masiva.
+- `00_admin/source-materials/T1_mundial_v08_Briefing_Alejandro.docx`
+- `00_admin/source-materials/T1_mundial_v08_Anexo_Branding.docx`
+- `03_creative/briefing/t1-mundial-v08-extraction-v001.md`
+- `03_creative/script/vo-script-v08-final.md`
+- `03_creative/prompts/chatgpt-master-rack-14-v008-commerce-athlete.md`
 
-Lectura operativa para T1 Mundial: no basta con quitar logos, marcas o nombres protegidos. La campaña debe evitar que el conjunto de imagen, timing, copy, uniforme, estadio, cancha, portería, afición y cierre haga pensar que T1 es patrocinador oficial o que se está colgando del evento.
+Estos dos `.docx` son la direccion oficial mas reciente. El briefing v08 fija concepto, guion, personajes, 14 tomas y reglas legales. El anexo de branding fija como aparece T1 en pantallas, empaques, terminales, props, pulseras, paleta y cierre.
 
-Analogía útil de trabajo: tratar el evento como un territorio sensible parecido a la representación de alcohol en una campaña regulada. La pieza puede trabajar con tensión, preparación, comunidad, país, negocio, velocidad y celebración, pero sin mostrar ni inducir explícitamente la lectura de evento oficial, patrocinio, sede, torneo o partido reconocible.
+### Resumen del cambio v08
 
-### Decisiones / entendimiento actualizado
+v08 reemplaza el tratamiento anterior, v06, v07, el rack escolar y el feedback informal. El nuevo concepto oficial es:
 
-- La abogada fue reservada y levantó advertencias: hay que asumir una revisión conservadora.
-- El storyboard debe aterrizarse de nuevo para darle la vuelta al ambush marketing.
-- Se deben explorar analogías visuales sin uniformes, portería, estadio ni elementos deportivos demasiado directos si activan la lectura de torneo.
-- El estadio y otros assets deportivos pasan a revisión/deprecación creativa, aunque existan model sheets previos.
-- Pantallas T1 y música quedan casi al final; no son el bloqueo actual.
-- Ya existe teaser motion test en borrador.
-- Seedance funcionó bien en pruebas.
-- Higgsfield queda decidido como herramienta principal por ahora.
-- Se contrató plan Ultra con aproximadamente 6,000 créditos.
-- Sigue abierta la posibilidad de contratar Figma Wave por cuenta propia para mayor control nodal.
-- ElevenLabs está en pruebas para VO con el guion.
-- El rough cut se arma después de reaterrizar storyboard anti-ambush, primero con stills.
-- La revisión legal del master será por separado y se irá peloteando conforme avance el corte.
+**El atleta del comercio mexicano.**
+
+No hay futbolistas explicitos. No hay estadio. No hay balon. No hay uniforme deportivo. No hay arbitro. No hay cancha. La energia atletica se conserva en el tratamiento: camara lenta heroica, angulos bajos, manos disciplinadas, macro precision, respiraciones, latidos, ritual de apertura, cobro, empaque, analisis y entrega.
+
+La decision estrategica es usar el mood nacional/competitivo del periodo sin inducir patrocinio oficial ni relacion con evento masivo. T1 se diferencia de las campanas obvias de futbol y pone al comerciante como protagonista real.
+
+### Branding T1 segun anexo
+
+El anexo corrige algo clave: el spot no puede verse como un comercial bonito de comerciantes donde T1 aparece solo al final. T1 debe existir dentro del mundo de trabajo del comerciante:
+
+- Pulsera roja en los 5 personajes como hilo narrativo/comunidad.
+- Rojo T1 oficial `#DA3B2B` en superficies de marca: terminales, pantallas, dashboards, packaging, etiquetas, cinta, notificaciones y cierre.
+- El rojo T1 no es decoracion aleatoria ni bandera; si algo rojo aparece, debe ser marca T1, pulsera/comunidad o elemento natural justificado.
+- Deben aparecer pantallas T1 reales/propias: terminal de cobro, dashboard de ventas, dashboard multicanal, notificacion de pago.
+- Packaging T1 debe aparecer: cajas kraft con franja roja, cinta T1, etiquetas de envio, recibos, sticker `Comerciante T1`.
+- T1 debe verse antes del cierre, pero de forma integrada al comercio y no como anuncio invasivo.
+
+### Paleta vigente
+
+Hay dos capas:
+
+- Mundo del comerciante: dorado amanecer, ambar, terracota suave, ocres, marrones calidos, blancos cremosos, negro suave. Calidez mexicana sin cliché turistico.
+- T1/producto: rojo oficial `#DA3B2B`, blanco limpio, grises limpios, negro UI, dorado tactico en momentos de exito.
+
+Correccion respecto al rack escolar: se eliminan verdes escolares/verde bosque dominante como paleta principal porque pueden activar lecturas tricolor, estudiantes o Mundial. El nuevo mundo es comercio mexicano calido + tecnologia T1 roja/limpia.
+
+### Personajes Soul Cast oficiales
+
+| Personaje | Descripcion | Tomas |
+|---|---|---|
+| Don Rafael | Hombre mexicano 55-60, comerciante Centro Historico, manos trabajadas, pelo entrecano, mirada digna. | 1, 2, 3, 14 |
+| Dona Carmen | Mujer mexicana 45, comerciante de tianguis, pelo recogido, delantal, sonrisa serena. | 4, 5 |
+| Miguel | Hombre mexicano 35, fisico atletico delgado, empacador DTC, concentrado, manos precisas. | 6, 7 |
+| Sofia | Mujer mexicana 32, founder DTC, pelo lacio negro, mirada analitica, estetica moderna. | 8, 9 |
+| Lupita | Mujer mexicana 50, duena de tienda de provincia, calidez maternal, elegante casual. | 10, 11 |
+
+### Shot list oficial v08
+
+1. Don Rafael abre cortina metalica al amanecer.
+2. Don Rafael entra a su tienda.
+3. Macro de manos preparando mostrador, caja y terminal T1.
+4. Dona Carmen cobra en tianguis con terminal T1.
+5. Dona Carmen entrega producto con etiqueta/pago T1.
+6. Miguel empaca pedidos ecommerce con superficies T1.
+7. Macro de manos cerrando caja con cinta/etiqueta T1.
+8. Sofia analiza dashboard T1 en laptop.
+9. Manos de Sofia tipeando/reflejo UI T1.
+10. Lupita en tienda de provincia con tablet/sticker T1.
+11. Lupita revisa dashboard multicanal T1 en tablet.
+12. Montaje rapido de manos diversas con T1 en cada micro-toma.
+13. Zoom out Mexico iluminado con puntos rojos T1 y conexiones sutiles.
+14. Cierre con slogan y logo T1.
 
 ### Prioridad inmediata
 
-1. Usar el nuevo rack completo `03_creative/shot-list/anti-ambush-rack-34-v001.md`.
-2. Generar/remakear las tomas necesarias con `03_creative/prompts/anti-ambush-rack-34-prompt-pack-v001.md`.
-3. Mantener las tomas comerciales que sigan funcionando y sustituir las tomas de estadio, uniforme, porteria, arbitro, portero profesional, aficion y balon profesional.
-4. Armar video completo mood-MVP de 34 tomas, no teaser pequeno.
-5. Animar con Higgsfield/Seedance usando movimientos simples y seguros.
-6. Revisar legalmente el nuevo rough por impresion total anti-ambush antes de master.
+1. Rehacer sheet de personajes y locaciones usando v08 + anexo, no rack escolar.
+2. Asegurar los 5 personajes con pulsera roja y props T1 claros.
+3. Definir locaciones limpias, dignas, mexicanas, sin deterioro ni cliché turistico.
+4. Crear prompt maestro actualizado para character/location sheet.
+5. Crear prompt maestro actualizado para storyboard rack 14 tomas.
+6. Generar rack y revisar contra checklist: legal, branding T1, limpieza, presencia de producto, consistencia Soul Cast.
 
-### Entregables creados para salir hoy
+### Entregables vigentes creados
 
-- `03_creative/shot-list/anti-ambush-rack-34-v001.md` - rack completo de 34 tomas con analogia escolar/comercial.
-- `03_creative/prompts/anti-ambush-rack-34-prompt-pack-v001.md` - prompt maestro, negativos anti-ambush y prompts por toma.
+- `03_creative/briefing/t1-mundial-v08-extraction-v001.md` - extraccion operativa del briefing v08.
+- `03_creative/script/vo-script-v08-final.md` - guion final con timing.
+- `03_creative/prompts/chatgpt-master-rack-14-v008-commerce-athlete.md` - prompt base del rack v08, pendiente de enriquecer con anexo branding.
 
-### Riesgos activos actualizados
+### Riesgos activos
 
 | Área | Riesgo / bloqueo | Severidad | Estado | Próxima acción |
 |---|---|---|---|---|
-| Legal / ambush marketing | La campaña puede inducir relación de patrocinio oficial si el conjunto parece evento masivo deportivo. | Crítica | Abierto | Replantear storyboard sin estadio, portería, uniforme ni claims de evento cuando activen esa lectura. |
-| Storyboard | Rack vigente de 36 tomas contiene futbol directo, estadio, portería, uniforme, afición y cierre país/evento. | Alta | Abierto | Crear versión anti-ambush antes de rough cut. |
-| Assets | Model sheets deportivos pueden quedar deprecados por nueva dirección. | Alta | Abierto | Separar assets comerciales reutilizables vs. assets deportivos en pausa/deprecados. |
-| Motion | Teaser motion test existe, pero sigue siendo borrador bajo criterio legal anterior. | Media | Abierto | Usarlo como aprendizaje técnico, no como aprobación creativa/legal. |
-| Herramientas | Higgsfield Ultra contratado; Figma Wave posible para control nodal. | Media | En control | Probar flujo solo después de tener nuevo storyboard. |
-| VO / música / pantallas | En proceso o pospuesto; no son bloqueo principal. | Media | En control | Dejar para etapa de rough cut/post. |
+| Legal / ambush marketing | Cualquier elemento de futbol, Mundial, Seleccion, estadio, cancha, balon, tricolor dominante o evento masivo activa riesgo LFPPI. | Critica | Abierto | Mantener v08: comercio como atleta, sin deporte explicito. Revision legal frame por frame. |
+| Branding | El mood cinematografico puede quedar brandfully debil si T1 aparece solo al final. | Alta | Abierto | Insertar superficies T1 por toma segun anexo: terminal, UI, packaging, etiqueta, sticker, dashboard, logo. |
+| Paleta | Verde escolar/bosque dominante puede arrastrar lectura v07/estudiantes/tricolor. | Alta | Abierto | Usar mundo calido mexicano + tecnologia T1 roja/limpia. Evitar verde dominante. |
+| Limpieza visual | AI tiende a meter deterioro, polvo, mercado sucio, paredes viejas o pobreza visual. | Alta | Abierto | Prompts deben exigir todo nuevo, limpio, digno, recientemente cuidado. |
+| UI T1 | Pantallas genericas o marcas de terceros debilitan producto y generan riesgo legal/brand. | Alta | Abierto | Diseñar/solicitar UI propietaria T1 en pantallas: rojo `#DA3B2B`, blanco, grises, sin marcas reales. |
+| Continuidad | Personajes deben mantenerse identicos entre tomas. | Alta | Abierto | Soul Cast obligatorio antes de producir tomas finales. |
+| Fuente operativa | Hay documentos/racks anteriores que ya no mandan. | Media | En control | Tratar anti-ambush 34, rack 36 futbol y v07 escolar como historial, no fuente vigente. |
 
 ---
+
+## Estado anti-ambush escolar — 13 mayo 2026 (historial)
+
+> Esta fue una ruta intermedia posterior al feedback legal. Queda como aprendizaje, pero fue reemplazada por briefing v08 + anexo branding.
+
+### Resumen de cambio legal / creativo
+
+El 13 mayo se recibio feedback de legal sobre el riesgo de ambush marketing. El fundamento compartido fue el articulo 386, fraccion II, inciso e), de la Ley Federal de Proteccion a la Propiedad Industrial: es infraccion administrativa inducir al publico a creer o suponer infundadamente la existencia de una relacion de patrocinio oficial entre un signo distintivo y un evento publico o privado de concentracion masiva.
+
+Lectura operativa para T1 Mundial: no basta con quitar logos, marcas o nombres protegidos. La campana debe evitar que el conjunto de imagen, timing, copy, uniforme, estadio, cancha, porteria, aficion y cierre haga pensar que T1 es patrocinador oficial o que se esta colgando del evento.
+
+### Entregables historicos de esa ruta
+
+- `03_creative/shot-list/anti-ambush-rack-34-v001.md` - rack completo de 34 tomas con analogia escolar/comercial.
+- `03_creative/prompts/anti-ambush-rack-34-prompt-pack-v001.md` - prompt maestro, negativos anti-ambush y prompts por toma.
 
 ## Estado vigente — 11 mayo 2026 (historial)
 
