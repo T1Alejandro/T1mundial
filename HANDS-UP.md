@@ -28,7 +28,7 @@ Hero film cinematografico 60-90s para YouTube de T1, lanzamiento 26 mayo 2026.
 - `03_creative/prompts/chatgpt-master-rack-14-v008-commerce-athlete.md`
 - `03_creative/prompts/higgsfield-character-location-sheet-v008.md`
 
-Estos dos `.docx` son la direccion oficial mas reciente. El briefing v08 fija concepto, guion, personajes, 14 tomas y reglas legales. El anexo de branding fija como aparece T1 en pantallas, empaques, terminales, props, pulseras, paleta y cierre.
+Estos dos `.docx` son la direccion oficial mas reciente. El briefing v08 fija concepto, guion, personajes, 14 tomas y reglas legales. El anexo de branding fija como aparece T1 en pantallas, empaques, terminales, props, paleta y cierre. Ajuste operativo posterior: logos, UI final y textos se agregan en post; pulseras quedan pausadas por ahora.
 
 ### Resumen del cambio v08
 
@@ -42,14 +42,14 @@ La decision estrategica es usar el mood nacional/competitivo del periodo sin ind
 
 ### Branding T1 segun anexo
 
-El anexo corrige algo clave: el spot no puede verse como un comercial bonito de comerciantes donde T1 aparece solo al final. T1 debe existir dentro del mundo de trabajo del comerciante:
+El anexo corrige algo clave: el spot no puede verse como un comercial bonito de comerciantes donde T1 aparece solo al final. Pero para generacion AI de sheets y stills, los logos, UI final y textos se reservan para postproduccion:
 
-- Pulsera roja en los 5 personajes como hilo narrativo/comunidad.
-- Rojo T1 oficial `#DA3B2B` en superficies de marca: terminales, pantallas, dashboards, packaging, etiquetas, cinta, notificaciones y cierre.
-- El rojo T1 no es decoracion aleatoria ni bandera; si algo rojo aparece, debe ser marca T1, pulsera/comunidad o elemento natural justificado.
-- Deben aparecer pantallas T1 reales/propias: terminal de cobro, dashboard de ventas, dashboard multicanal, notificacion de pago.
-- Packaging T1 debe aparecer: cajas kraft con franja roja, cinta T1, etiquetas de envio, recibos, sticker `Comerciante T1`.
-- T1 debe verse antes del cierre, pero de forma integrada al comercio y no como anuncio invasivo.
+- No generar logos T1 con AI; el logo real se agrega en post.
+- No generar UI final con AI; pantallas, tablets, laptops y terminales deben quedar limpias con puntos, cruces o marcadores trackeables.
+- No usar pulseras por ahora; roban protagonismo y se evaluaran al final.
+- Rojo T1 oficial `#DA3B2B` se conserva como acento controlado en vivos, costuras, ribetes, cinta lisa, etiquetas sin texto, franjas, clips, props y marcadores de tracking.
+- Packaging T1 puede prepararse visualmente con cajas kraft, franjas rojas lisas, etiquetas sin texto y cinta con puntos/cruces, pero sin logos generados.
+- T1 debe sentirse antes del cierre por color, superficies preparadas y composicion para post, no por logotipos inventados.
 
 ### Paleta vigente
 
@@ -90,7 +90,7 @@ Correccion respecto al rack escolar: se eliminan verdes escolares/verde bosque d
 ### Prioridad inmediata
 
 1. Rehacer sheet de personajes y locaciones usando v08 + anexo, no rack escolar.
-2. Asegurar los 5 personajes con pulsera roja y props T1 claros.
+2. Asegurar los 5 personajes con detalles rojos discretos en costuras/vivos/props, sin pulseras por ahora.
 3. Definir locaciones limpias, dignas, mexicanas, sin deterioro ni cliché turistico.
 4. Usar `03_creative/prompts/higgsfield-character-location-sheet-v008.md` para generar el nuevo character/location sheet en Higgsfield o ChatGPT Images.
 5. Crear/enriquecer prompt maestro actualizado para storyboard rack 14 tomas con el anexo branding.
@@ -110,8 +110,8 @@ Abrir primero `HANDS-UP.md`, luego los dos `.docx` de `00_admin/source-materials
 Objetivo siguiente: generar un sheet 6x2 de personajes y locaciones que valide:
 
 - 5 personajes Soul Cast consistentes.
-- Pulsera roja en todos los personajes.
-- Superficies T1 visibles sin invadir: terminal, dashboard, etiqueta, cinta, caja, sticker, tablet.
+- Sin pulseras por ahora; usar vivos/costuras/detalles rojos discretos.
+- Superficies preparadas para post sin logo ni UI generada: terminal, pantalla, etiqueta, cinta, caja, sticker, tablet.
 - Comercio mexicano limpio, nuevo, digno, sin deterioro.
 - Dinero abstracto con lectura mexicana, no dolares ni billetes exactos.
 - Cero futbol, Mundial, estadio, cancha, balon, tricolor dominante o marcas de terceros.
@@ -121,7 +121,7 @@ Objetivo siguiente: generar un sheet 6x2 de personajes y locaciones que valide:
 | Área | Riesgo / bloqueo | Severidad | Estado | Próxima acción |
 |---|---|---|---|---|
 | Legal / ambush marketing | Cualquier elemento de futbol, Mundial, Seleccion, estadio, cancha, balon, tricolor dominante o evento masivo activa riesgo LFPPI. | Critica | Abierto | Mantener v08: comercio como atleta, sin deporte explicito. Revision legal frame por frame. |
-| Branding | El mood cinematografico puede quedar brandfully debil si T1 aparece solo al final. | Alta | Abierto | Insertar superficies T1 por toma segun anexo: terminal, UI, packaging, etiqueta, sticker, dashboard, logo. |
+| Branding | El mood cinematografico puede quedar brandfully debil si T1 aparece solo al final. | Alta | Abierto | Preparar superficies trackeables por toma: terminal, pantalla, packaging, etiqueta, sticker, dashboard placeholder. Logo y UI final van en post. |
 | Paleta | Verde escolar/bosque dominante puede arrastrar lectura v07/estudiantes/tricolor. | Alta | Abierto | Usar mundo calido mexicano + tecnologia T1 roja/limpia. Evitar verde dominante. |
 | Limpieza visual | AI tiende a meter deterioro, polvo, mercado sucio, paredes viejas o pobreza visual. | Alta | Abierto | Prompts deben exigir todo nuevo, limpio, digno, recientemente cuidado. |
 | UI T1 | Pantallas genericas o marcas de terceros debilitan producto y generan riesgo legal/brand. | Alta | Abierto | Diseñar/solicitar UI propietaria T1 en pantallas: rojo `#DA3B2B`, blanco, grises, sin marcas reales. |
