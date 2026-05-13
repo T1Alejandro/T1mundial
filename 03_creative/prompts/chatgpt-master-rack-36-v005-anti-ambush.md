@@ -2,11 +2,11 @@
 
 Quiero crear una imagen tipo contact sheet / storyboard rack con 36 frames cinematograficos, todos dentro de una sola imagen, ordenados de izquierda a derecha y de arriba hacia abajo. No pongas numeros, titulos, labels, captions, texto, bordes internos, marcas de agua, logos ni UI final. La imagen debe verse como un rack profesional de keyframes cinematograficos, no como collage casual.
 
-Formato: una sola imagen horizontal grande, contact sheet limpio de 36 tomas en cuadricula de 6 columnas x 6 filas, con separacion minima y discreta entre imagenes, sin texto visible en ningun frame. Cada frame debe sentirse como un still 16:9 de cine.
+Formato obligatorio: una sola imagen horizontal grande, contact sheet limpio estilo storyboard rack de 5 columnas x 7 filas. Son 36 tomas, pero el layout debe sentirse como el rack 5x7 de referencia; puede usar el espacio final como cierre/placeholder limpio si hace falta. Separacion minima y discreta entre imagenes, sin texto visible en ningun frame. Cada frame debe sentirse como un still 16:9 de cine.
 
-Este prompt actualiza el rack v004 a una version anti-ambush. Mantener el lenguaje visual, encuadres, ritmo, limpieza y curva del rack anterior, pero convertir el futbol profesional en analogia de juego escolar/cotidiano y comercio mexicano. No reinventar desde cero: convertir cada toma riesgosa.
+Este prompt actualiza el rack v004 a una version anti-ambush. Mantener el lenguaje visual, encuadres, ritmo, limpieza y curva del rack anterior, pero convertir el futbol profesional en analogia de juego escolar/cotidiano y comercio mexicano. No reinventar desde cero: dejar el prompt del rack 36 v004 practicamente igual y sustituir solo los elementos riesgosos por su equivalente escolar/comercial.
 
-Regla critica: respetar las posiciones de camara, escala de plano, angulos, ejes, profundidad, continuidad y composicion del rack v004. El cambio debe ser de contenido legal/riesgoso, no de direccion de arte ni de camara. Si en v004 una toma era macro, sigue siendo macro. Si era ras de piso, sigue ras de piso. Si era simetrica, sigue simetrica. Si era over-the-shoulder derecho, sigue over-the-shoulder derecho. Si era frontal y baja, sigue frontal y baja.
+Regla critica: respetar las posiciones de camara, escala de plano, angulos, ejes, profundidad, continuidad y composicion del rack v004. El cambio debe ser de contenido legal/riesgoso, no de direccion de arte ni de camara. Si en v004 una toma era macro, sigue siendo macro. Si era ras de piso, sigue ras de piso. Si era simetrica, sigue simetrica. Si era over-the-shoulder derecho, sigue over-the-shoulder derecho. Si era frontal y baja, sigue frontal y baja. No escribir "misma composicion" como concepto visual dentro de la imagen; simplemente ejecutar la misma composicion.
 
 ## Look global
 
@@ -36,7 +36,8 @@ Regla critica: respetar las posiciones de camara, escala de plano, angulos, ejes
 ## Casting
 
 * Personas mexicanas/latinoamericanas realistas para comerciantes, emprendedores, familia, jovenes y ninos. Diversidad natural de tonos de piel, edades y rasgos regionales, sin caricatura.
-* Ninos y adolescentes naturales, expresivos, de escuela publica o privada generica, sin verse como actores perfectos.
+* Familia mexicana y ninos de estrato social medio alto, ropa nueva, limpia y bien cuidada, sin ostentacion ni lujo exagerado.
+* Ninos y adolescentes naturales, expresivos, de escuela privada o publica cuidada/generica, sin verse como actores perfectos.
 * Nadie debe parecer celebridad, figura publica ni atleta real.
 * No deportistas profesionales, no arbitros profesionales, no porteros profesionales.
 
@@ -58,7 +59,8 @@ Regla critica: respetar las posiciones de camara, escala de plano, angulos, ejes
 ## Espacios
 
 * Escuela mexicana contemporanea y digna: patio, pasillos, salon, escaleras, muros cuidados, luz calida, energia de recreo.
-* Comercios mexicanos dignos: tienda, mercado, bodega ecommerce, restaurante/sala familiar, emprendimiento, tienda de sneakers sin logos.
+* Comercios mexicanos dignos: tienda, mercado limpio, bodega ecommerce, sala familiar minimalista, emprendimiento, tienda de sneakers sin logos.
+* Sala familiar: interior mexicano contemporaneo, medio alto, minimalista, mesa limpia con pocos objetos basicos; no tacos, no restaurante, no comida abundante, no cantina, no mesa caotica.
 * Ciudad abstracta, sin landmarks reconocibles.
 * No estadio profesional. No cancha profesional. No gradas masivas. No crowd de estadio.
 
@@ -81,13 +83,12 @@ Regla critica: respetar las posiciones de camara, escala de plano, angulos, ejes
 * Camara baja, angulo frontal, atmosfera silenciosa y suspendida.
 
 02.
-* Interior del mismo negocio durante la apertura.
-* Camara baja cerca del suelo, silueta centrada en el encuadre.
-* Solo piernas y zapatos sencillos visibles, no ropa deportiva.
-* El piso limpio refleja una franja de luz dorada que entra desde la cortina.
+* Nino/joven escolar caminando por un tunel/pasillo interior hacia una luz intensa al fondo.
+* Camara baja cerca del suelo, siluetas centradas en el encuadre.
+* Solo piernas, zapatos/tenis genericos y parcial de cuerpos visibles.
+* Contraluz fuerte al final del tunel/pasillo, fondo totalmente desenfocado con bokeh calido.
+* Ropa limpia de escuela o streetwear, no ropa deportiva.
 * Misma energia de luz ascendente que toma 01.
-* Composicion muy cercana a la toma original del jugador caminando por tunel: pies centrados avanzando por un pasillo/interior de negocio, fondo completamente desenfocado con bokeh calido.
-* Transicion de abrir negocio a ponerse en marcha, sin ningun elemento deportivo.
 
 03.
 * Joven visto de espaldas ascendiendo escaleras hacia la superficie.
@@ -215,10 +216,11 @@ Regla critica: respetar las posiciones de camara, escala de plano, angulos, ejes
 
 20.
 * Nino en sala familiar atento a su celular.
-* Familia mirando una TV fuera de cuadro o una pared de luz desenfocada; no se muestra contenido de TV.
+* Familia mexicana de estrato medio alto en sala minimalista, mirando una TV fuera de cuadro o una pared de luz desenfocada; no se muestra contenido de TV.
 * Luz domestica calida, tension contenida.
 * El nino esta aislado emocionalmente del grupo, concentrado en algo importante.
 * Nada de partido visible, nada de transmision deportiva.
+* Mesa de sala limpia con elementos basicos minimalistas; no tacos, no comida abundante, no restaurante.
 
 21.
 * Manos sosteniendo smartphone vertical en primer plano.
@@ -243,10 +245,10 @@ Regla critica: respetar las posiciones de camara, escala de plano, angulos, ejes
 * Tension contenida, preparacion previa a ejecucion.
 
 24.
-* Manos sosteniendo smartphone vertical sobre mesa con comida casera mexicana.
+* Manos sosteniendo smartphone vertical sobre mesa limpia de sala familiar minimalista.
 * Encuadre cerrado over-the-right-shoulder.
 * Pantalla blanca limpia, completamente en blanco.
-* Fondo con platos, limones y bebidas sin alcohol desenfocados.
+* Fondo con sofa, lampara, vaso de agua o pequeno objeto domestico desenfocado; no comida abundante, no tacos, no restaurante.
 * Interaccion directa con el pulgar, sensacion de accion y control inmediato.
 
 25.
@@ -295,17 +297,18 @@ Regla critica: respetar las posiciones de camara, escala de plano, angulos, ejes
 * Climax absoluto, energia liberada, eco visual con toma 01.
 
 31.
-* El nino o joven sostiene su smartphone vertical con ambas manos sobre mesa con comida casera.
+* El nino o joven sostiene su smartphone vertical con ambas manos sobre mesa limpia de sala familiar minimalista.
 * Pantalla blanca limpia, completamente en blanco, visible de frente.
-* Fondo con platos, limones y bebidas sin alcohol desenfocados.
+* Fondo con elementos domesticos discretos desenfocados: sofa, lampara, vaso de agua, planta pequena o control remoto.
 * Sensacion de logro instantaneo, paralelo narrativo con el impacto de la bolita.
 
 32.
 * Celebracion en sala familiar.
-* Familia abraza al nino o joven; el abrazo viene desde el lado para que siga de frente hacia camara.
+* Familia mexicana de estrato medio alto abraza al nino o joven; el abrazo viene desde el lado para que siga de frente hacia camara.
 * El protagonista todavia sostiene el smartphone con una mano de forma natural; vemos el respaldo del celular, no la pantalla.
 * Pantalla o luces al fondo fuera de foco con destellos abstractos, sin contenido reconocible.
 * Energia de euforia comprimida y liberacion total.
+* Sala minimalista, limpia, calida, con ropa nueva y cuidada. No restaurante, no tacos, no mesa caotica.
 
 33.
 * Celebracion de ninos en patio o salon de escuela despues del juego.
@@ -339,6 +342,6 @@ Regla critica: respetar las posiciones de camara, escala de plano, angulos, ejes
 
 ## NEGATIVE PROMPT
 
-no text, no captions, no subtitles, no shot numbers, no labels, no titles, no grid labels, no panel borders, no watermarks, no logos, no brands, no trademarks, no sports brands, no nike swoosh, no checkmark logo, no adidas stripes, no three stripes, no four stripes, no puma, no under armour, no real teams, no official uniforms, no real football kits, no jerseys, no national team, no Mexican national team logo, no FMF crest, no El Tri, no FIFA, no World Cup, no Copa del Mundo, no Mundial, no Mexico 2026, no tournament, no massive event, no official sponsorship, no stadium names, no stadium, no professional stadium, no recognizable stadium architecture, no Estadio Azteca, no grandstands, no sponsor boards, no professional goal, no goal net, no branded ball, no professional soccer ball, no branded boots, no referee, no professional coach, no professional goalkeeper, no goalkeeper gloves, no real athlete likeness, no celebrity likeness, no Memo Ochoa likeness, no payment brands, no Visa, no Mastercard, no AMEX, no Mercado Pago, no Clip, no Stripe, no PayPal, no Shopify, no Mercado Libre, no Amazon, no UI on screens, no app icons, no UI labels, no UI numbers, no interface graphics, no QR codes, no abstract screen graphics, no screen content of any kind except blank white, no TV showing a match, no broadcast, no sports commentary cues, no alcoholic drinks, no beer, no wine, no liquor, no cocktail glasses, no real shipping logos, no FedEx, no DHL, no UPS, no Estafeta, no Coca-Cola, no Telcel, no Bimbo, no famous landmarks, no El Angel de la Independencia, no Torre Latinoamericana, no Palacio de Bellas Artes, no Monumento a la Revolucion, no emblematic CDMX monuments, no flag overlay, no national emblem, no eagle, no political map borders, no city labels, no map pins, no satellite UI, no stock look, no HDR overprocessing, no plastic skin, no waxy faces, no distorted anatomy, no extra fingers, no malformed hands, no broken wrists, no artifacts, no chaotic morphing, no fake cinematic blur, no excessive lens flares, no poverty porn, no excessive grime, no dirtiness, no trash, no abandonment, no neglect, no deep cracks, no humidity damage, no heavy rust, no peeling paint, no destroyed walls, no broken collapsed objects, no gloomy mood, no dangerous neighborhood look.
+no text, no captions, no subtitles, no shot numbers, no labels, no titles, no grid labels, no panel borders, no watermarks, no logos, no brands, no trademarks, no sports brands, no nike swoosh, no checkmark logo, no adidas stripes, no three stripes, no four stripes, no puma, no under armour, no real teams, no official uniforms, no real football kits, no jerseys, no national team, no Mexican national team logo, no FMF crest, no El Tri, no FIFA, no World Cup, no Copa del Mundo, no Mundial, no Mexico 2026, no tournament, no massive event, no official sponsorship, no stadium names, no stadium, no professional stadium, no recognizable stadium architecture, no Estadio Azteca, no grandstands, no sponsor boards, no professional goal, no goal net, no branded ball, no professional soccer ball, no branded boots, no referee, no professional coach, no professional goalkeeper, no goalkeeper gloves, no real athlete likeness, no celebrity likeness, no Memo Ochoa likeness, no payment brands, no Visa, no Mastercard, no AMEX, no Mercado Pago, no Clip, no Stripe, no PayPal, no Shopify, no Mercado Libre, no Amazon, no UI on screens, no app icons, no UI labels, no UI numbers, no interface graphics, no QR codes, no abstract screen graphics, no screen content of any kind except blank white, no TV showing a match, no broadcast, no sports commentary cues, no restaurant for family scenes, no tacos in family scenes, no abundant food table in family scenes, no chaotic dinner table, no alcoholic drinks, no beer, no wine, no liquor, no cocktail glasses, no real shipping logos, no FedEx, no DHL, no UPS, no Estafeta, no Coca-Cola, no Telcel, no Bimbo, no famous landmarks, no El Angel de la Independencia, no Torre Latinoamericana, no Palacio de Bellas Artes, no Monumento a la Revolucion, no emblematic CDMX monuments, no flag overlay, no national emblem, no eagle, no political map borders, no city labels, no map pins, no satellite UI, no stock look, no HDR overprocessing, no plastic skin, no waxy faces, no distorted anatomy, no extra fingers, no malformed hands, no broken wrists, no artifacts, no chaotic morphing, no fake cinematic blur, no excessive lens flares, no poverty porn, no excessive grime, no dirtiness, no trash, no abandonment, no neglect, no deep cracks, no humidity damage, no heavy rust, no peeling paint, no destroyed walls, no broken collapsed objects, no gloomy mood, no dangerous neighborhood look.
 
-Genera solo el contact sheet completo de las 36 tomas. No agregues texto ni numeracion dentro de la imagen.
+Genera solo el contact sheet completo de las 36 tomas en layout 5 columnas x 7 filas. No agregues texto ni numeracion dentro de la imagen.
