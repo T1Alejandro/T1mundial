@@ -1,5 +1,5 @@
 # HANDS-UP — Estado del proyecto T1 Mundial 2026
-_Última actualización: 11 mayo 2026 — model sheets en progreso_
+_Última actualización: 13 mayo 2026 — revisión legal anti-ambush_
 
 ---
 
@@ -15,7 +15,57 @@ Hero film cinematográfico 60-90s para YouTube de T1, lanzamiento 26 mayo 2026.
 
 ---
 
-## Estado vigente — 11 mayo 2026
+## Estado vigente — 13 mayo 2026
+
+> Esta sección es el estado operativo actual. Las secciones de 11 mayo, 8 mayo y 4 mayo quedan abajo como historial.
+
+### Resumen de cambio legal / creativo
+
+El 13 mayo se recibió feedback de legal sobre el riesgo de ambush marketing. El fundamento compartido fue el artículo 386, fracción II, inciso e), de la Ley Federal de Protección a la Propiedad Industrial: es infracción administrativa inducir al público a creer o suponer infundadamente la existencia de una relación de patrocinio oficial entre un signo distintivo y un evento público o privado de concentración masiva.
+
+Lectura operativa para T1 Mundial: no basta con quitar logos, marcas o nombres protegidos. La campaña debe evitar que el conjunto de imagen, timing, copy, uniforme, estadio, cancha, portería, afición y cierre haga pensar que T1 es patrocinador oficial o que se está colgando del evento.
+
+Analogía útil de trabajo: tratar el evento como un territorio sensible parecido a la representación de alcohol en una campaña regulada. La pieza puede trabajar con tensión, preparación, comunidad, país, negocio, velocidad y celebración, pero sin mostrar ni inducir explícitamente la lectura de evento oficial, patrocinio, sede, torneo o partido reconocible.
+
+### Decisiones / entendimiento actualizado
+
+- La abogada fue reservada y levantó advertencias: hay que asumir una revisión conservadora.
+- El storyboard debe aterrizarse de nuevo para darle la vuelta al ambush marketing.
+- Se deben explorar analogías visuales sin uniformes, portería, estadio ni elementos deportivos demasiado directos si activan la lectura de torneo.
+- El estadio y otros assets deportivos pasan a revisión/deprecación creativa, aunque existan model sheets previos.
+- Pantallas T1 y música quedan casi al final; no son el bloqueo actual.
+- Ya existe teaser motion test en borrador.
+- Seedance funcionó bien en pruebas.
+- Higgsfield queda decidido como herramienta principal por ahora.
+- Se contrató plan Ultra con aproximadamente 6,000 créditos.
+- Sigue abierta la posibilidad de contratar Figma Wave por cuenta propia para mayor control nodal.
+- ElevenLabs está en pruebas para VO con el guion.
+- El rough cut se arma después de reaterrizar storyboard anti-ambush, primero con stills.
+- La revisión legal del master será por separado y se irá peloteando conforme avance el corte.
+
+### Prioridad inmediata
+
+1. Replantear storyboard desde un criterio anti-ambush.
+2. Definir qué elementos deportivos se eliminan, se sustituyen por analogías o quedan solo como textura muy indirecta.
+3. Actualizar shot list/rack vigente con nueva lectura legal.
+4. Generar stills nuevos o remakes necesarios.
+5. Armar rough cut con stills una vez aprobado el nuevo enfoque.
+6. Mantener Higgsfield/Seedance como ruta de motion y evaluar Figma Wave si aporta control real.
+
+### Riesgos activos actualizados
+
+| Área | Riesgo / bloqueo | Severidad | Estado | Próxima acción |
+|---|---|---|---|---|
+| Legal / ambush marketing | La campaña puede inducir relación de patrocinio oficial si el conjunto parece evento masivo deportivo. | Crítica | Abierto | Replantear storyboard sin estadio, portería, uniforme ni claims de evento cuando activen esa lectura. |
+| Storyboard | Rack vigente de 36 tomas contiene futbol directo, estadio, portería, uniforme, afición y cierre país/evento. | Alta | Abierto | Crear versión anti-ambush antes de rough cut. |
+| Assets | Model sheets deportivos pueden quedar deprecados por nueva dirección. | Alta | Abierto | Separar assets comerciales reutilizables vs. assets deportivos en pausa/deprecados. |
+| Motion | Teaser motion test existe, pero sigue siendo borrador bajo criterio legal anterior. | Media | Abierto | Usarlo como aprendizaje técnico, no como aprobación creativa/legal. |
+| Herramientas | Higgsfield Ultra contratado; Figma Wave posible para control nodal. | Media | En control | Probar flujo solo después de tener nuevo storyboard. |
+| VO / música / pantallas | En proceso o pospuesto; no son bloqueo principal. | Media | En control | Dejar para etapa de rough cut/post. |
+
+---
+
+## Estado vigente — 11 mayo 2026 (historial)
 
 > Esta sección es el estado operativo actual. Las secciones de 8 mayo y 4 mayo quedan abajo como historial.
 

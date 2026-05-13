@@ -4,8 +4,8 @@ doc_type: "legal-brief"
 status: "draft"
 owner: "Arturo / Parco"
 reviewers: ["Legal interno T1", "Creative", "Production"]
-version: "0.1"
-last_updated: "2026-05-12"
+version: "0.2"
+last_updated: "2026-05-13"
 language: "es"
 audience: ["legal", "creative", "production", "internal"]
 tags: ["legal", "ip", "brand-safety", "rack", "ai-video", "frame-by-frame"]
@@ -17,7 +17,7 @@ source_of_truth:
 confidence: "medium"
 assumptions:
   - "Documento para revisión legal interna. No sustituye dictamen legal final."
-  - "El rack vigente contiene 36 stills; el corte final puede quedar alrededor de 34 tomas según edición, calidad y revisión legal."
+  - "El rack vigente contiene 36 stills, pero debe revaluarse bajo criterio anti-ambush antes de avanzar a rough cut."
 ---
 
 # T1 Mundial
@@ -30,7 +30,7 @@ assumptions:
 **Base visual vigente:** 36 stills oficiales  
 **Corte esperado:** aproximadamente 34-36 tomas finales  
 **Uso:** campaña / comunicación de marca T1  
-**Estado:** entrando a producción de motion, no exploración conceptual
+**Estado:** replanteamiento legal/creativo anti-ambush antes de rough cut
 
 ---
 
@@ -100,6 +100,20 @@ El guion y la pantalla final deben evitar:
 
 El proyecto debe evaluarse como una pieza inspirada en el contexto cultural del futbol y el comercio mexicano, no como comunicación asociada oficialmente a un torneo, federación, selección, estadio, club, jugador o marca deportiva.
 
+### Fundamento Legal Recibido - 13 Mayo 2026
+
+Legal compartió como fundamento el artículo 386, fracción II, inciso e), de la Ley Federal de Protección a la Propiedad Industrial:
+
+> Son infracciones administrativas efectuar, en el ejercicio de actividades industriales o mercantiles, actos que causen o induzcan al público a confusión, error o engaño, por hacer creer o suponer infundadamente la existencia de una relación de patrocinio oficial entre un signo distintivo y un evento público o privado de concentración masiva.
+
+Lectura operativa para este proyecto:
+
+- El riesgo no vive únicamente en logos, marcas o palabras prohibidas.
+- También vive en la impresión total de la campaña: timing, narrativa, uniformes, estadio, cancha, afición, portería, colores, cierre y claims.
+- La pieza no debe hacer creer que T1 es patrocinador oficial, socio, marca autorizada o participante comercial ligado al evento.
+- La revisión debe tratar el ambush marketing como riesgo central, no como nota secundaria.
+- Si el conjunto visual parece "marca colgada del evento", debe replantearse.
+
 <div style="page-break-after: always;"></div>
 
 ## Hoja 2 - Rack Visual Vigente
@@ -138,7 +152,8 @@ Nota: existen variantes históricas `01.1.png` y `03.1.png`, pero el rack vigent
 ### Notas Sobre El Rack
 
 - El rack vigente es de 36 tomas.
-- El corte final puede reducirse a 34 tomas si alguna imagen se elimina por ritmo, calidad, redundancia o revisión legal.
+- El rack debe revisarse de nuevo bajo criterio anti-ambush antes de rough cut.
+- El corte final puede reducirse o replantearse si alguna imagen se elimina por ritmo, calidad, redundancia o revisión legal.
 - El documento v06 de feedback detectó riesgos de trade dress en uniformes, multitudes y combinaciones de color. La versión vigente ya debe revisarse contra esos riesgos antes de animar.
 - Todo asset que entre al master debe pasar revisión legal frame por frame.
 
@@ -198,6 +213,8 @@ No debe aparecer:
 
 Riesgos específicos que siguen siendo criterios de revisión:
 
+- Evitar que la campaña, leída como conjunto, sugiera patrocinio oficial o asociación con evento masivo.
+- Evitar estadio, cancha, portería, uniforme o afición cuando funcionen como atajo visual demasiado directo al evento.
 - Evitar combinación de uniforme verde + short blanco + calceta roja.
 - Evitar brazalete blanco con “C” roja sobre jersey verde.
 - Evitar aficionados uniformados con jerseys verdes en bar, estadio o mercado.
@@ -212,7 +229,9 @@ Riesgos específicos que siguen siendo criterios de revisión:
 | Revisión | Estado | Comentarios |
 |---|---|---|
 | Guion sin términos protegidos | Pendiente | Validar texto final y subtítulos si aplica |
+| Campaña sin inducción a patrocinio oficial | Pendiente | Revisar impresión total bajo Art. 386-II-e |
 | Rack visual sin marcas/logos | Pendiente | Revisar 36 stills |
+| Rack visual sin lectura de ambush marketing | Pendiente | Replantear storyboard si estadio/portería/uniforme/afición dominan |
 | Uniformes sin trade dress | Pendiente | Especial atención a verde/blanco/rojo |
 | Multitudes sin jerseys oficiales | Pendiente | Ropa civil y paleta diversa |
 | Estadios ficticios | Pendiente | No replicar arquitectura reconocible |
@@ -236,4 +255,3 @@ Validar si el enfoque actual es aceptable para continuar producción, sujeto a:
 - documentación de prompts/assets,
 - revisión de contratos/licencias,
 - revisión final frame por frame.
-

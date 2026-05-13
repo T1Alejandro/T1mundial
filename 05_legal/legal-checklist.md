@@ -4,8 +4,8 @@ doc_type: "playbook"
 status: "draft"
 owner: "Legal PI"
 reviewers: ["Creative Director", "Producer", "Arturo"]
-version: "0.1"
-last_updated: "2026-04-28"
+version: "0.2"
+last_updated: "2026-05-13"
 review_due: "2026-05-10"
 language: "es"
 audience: ["internal", "legal", "creative", "exec"]
@@ -23,8 +23,16 @@ related_docs:
 
 Este checklist debe revisarse antes de publicar y, para el cut final, frame por frame.
 
+## Criterio anti-ambush marketing
+
+Fundamento recibido de legal el 13 mayo 2026: artículo 386, fracción II, inciso e), de la Ley Federal de Protección a la Propiedad Industrial. El riesgo central es inducir al público a creer o suponer infundadamente una relación de patrocinio oficial entre T1 y un evento público o privado de concentración masiva.
+
+Revisión obligatoria: evaluar la campaña como conjunto, no solo por elementos aislados. Imagen, copy, timing, colores, escenarios, vestuario, afición, edición, música, cierre y pauta no deben sugerir patrocinio oficial, alianza, autorización o participación comercial ligada al evento.
+
 ## Imagen: prohibido
 
+- Cualquier composición que haga parecer a T1 patrocinador oficial de un evento masivo.
+- Estadio, portería, cancha, uniforme, afición o ritual deportivo cuando dominen la lectura de evento oficial.
 - Logos FIFA, Copa del Mundo, trofeo, mascota oficial o slogans oficiales.
 - Escudo de selección mexicana, FMF, águila azteca como escudo deportivo o uniforme oficial.
 - Marcas deportivas: Adidas, Nike, Puma, Under Armour, New Balance u otras.
@@ -61,6 +69,8 @@ Este checklist debe revisarse antes de publicar y, para el cut final, frame por 
 
 | Acción | Dueño | Estado | Evidencia |
 |---|---|---|---|
+| Revisión anti-ambush del concepto completo. | Legal / Creative | Pendiente | Art. 386-II-e |
+| Revisión anti-ambush del storyboard actualizado. | Legal / Creative | Pendiente | TBD |
 | Búsqueda IMPI del slogan. | Legal | Pendiente | TBD |
 | Registro IMPI del slogan si procede. | Legal | Pendiente | TBD |
 | Contrato locutora con cesión total. | Producer / Legal | Pendiente | TBD |
@@ -70,4 +80,3 @@ Este checklist debe revisarse antes de publicar y, para el cut final, frame por 
 | Validación de planes comerciales AI. | Producer | Pendiente | TBD |
 | Revisión frame por frame del cut final. | Legal | Pendiente | TBD |
 | Declaración de contenido sintético en YouTube. | Marketing | Pendiente | TBD |
-
