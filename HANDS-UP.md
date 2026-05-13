@@ -26,6 +26,7 @@ Hero film cinematografico 60-90s para YouTube de T1, lanzamiento 26 mayo 2026.
 - `03_creative/briefing/t1-mundial-v08-extraction-v001.md`
 - `03_creative/script/vo-script-v08-final.md`
 - `03_creative/prompts/chatgpt-master-rack-14-v008-commerce-athlete.md`
+- `03_creative/prompts/higgsfield-character-location-sheet-v008.md`
 
 Estos dos `.docx` son la direccion oficial mas reciente. El briefing v08 fija concepto, guion, personajes, 14 tomas y reglas legales. El anexo de branding fija como aparece T1 en pantallas, empaques, terminales, props, pulseras, paleta y cierre.
 
@@ -91,8 +92,8 @@ Correccion respecto al rack escolar: se eliminan verdes escolares/verde bosque d
 1. Rehacer sheet de personajes y locaciones usando v08 + anexo, no rack escolar.
 2. Asegurar los 5 personajes con pulsera roja y props T1 claros.
 3. Definir locaciones limpias, dignas, mexicanas, sin deterioro ni cliché turistico.
-4. Crear prompt maestro actualizado para character/location sheet.
-5. Crear prompt maestro actualizado para storyboard rack 14 tomas.
+4. Usar `03_creative/prompts/higgsfield-character-location-sheet-v008.md` para generar el nuevo character/location sheet en Higgsfield o ChatGPT Images.
+5. Crear/enriquecer prompt maestro actualizado para storyboard rack 14 tomas con el anexo branding.
 6. Generar rack y revisar contra checklist: legal, branding T1, limpieza, presencia de producto, consistencia Soul Cast.
 
 ### Entregables vigentes creados
@@ -100,6 +101,20 @@ Correccion respecto al rack escolar: se eliminan verdes escolares/verde bosque d
 - `03_creative/briefing/t1-mundial-v08-extraction-v001.md` - extraccion operativa del briefing v08.
 - `03_creative/script/vo-script-v08-final.md` - guion final con timing.
 - `03_creative/prompts/chatgpt-master-rack-14-v008-commerce-athlete.md` - prompt base del rack v08, pendiente de enriquecer con anexo branding.
+- `03_creative/prompts/higgsfield-character-location-sheet-v008.md` - prompt maestro vigente para sheet de personajes + locaciones con branding T1, limpieza extrema, mood mexicano y negativos legales.
+
+### Handoff inmediato para Claude / Higgsfield
+
+Abrir primero `HANDS-UP.md`, luego los dos `.docx` de `00_admin/source-materials/`, y despues trabajar desde `03_creative/prompts/higgsfield-character-location-sheet-v008.md`.
+
+Objetivo siguiente: generar un sheet 6x2 de personajes y locaciones que valide:
+
+- 5 personajes Soul Cast consistentes.
+- Pulsera roja en todos los personajes.
+- Superficies T1 visibles sin invadir: terminal, dashboard, etiqueta, cinta, caja, sticker, tablet.
+- Comercio mexicano limpio, nuevo, digno, sin deterioro.
+- Dinero abstracto con lectura mexicana, no dolares ni billetes exactos.
+- Cero futbol, Mundial, estadio, cancha, balon, tricolor dominante o marcas de terceros.
 
 ### Riesgos activos
 
