@@ -45,12 +45,17 @@ Analogía útil de trabajo: tratar el evento como un territorio sensible parecid
 
 ### Prioridad inmediata
 
-1. Replantear storyboard desde un criterio anti-ambush.
-2. Definir qué elementos deportivos se eliminan, se sustituyen por analogías o quedan solo como textura muy indirecta.
-3. Actualizar shot list/rack vigente con nueva lectura legal.
-4. Generar stills nuevos o remakes necesarios.
-5. Armar rough cut con stills una vez aprobado el nuevo enfoque.
-6. Mantener Higgsfield/Seedance como ruta de motion y evaluar Figma Wave si aporta control real.
+1. Usar el nuevo rack completo `03_creative/shot-list/anti-ambush-rack-34-v001.md`.
+2. Generar/remakear las tomas necesarias con `03_creative/prompts/anti-ambush-rack-34-prompt-pack-v001.md`.
+3. Mantener las tomas comerciales que sigan funcionando y sustituir las tomas de estadio, uniforme, porteria, arbitro, portero profesional, aficion y balon profesional.
+4. Armar video completo mood-MVP de 34 tomas, no teaser pequeno.
+5. Animar con Higgsfield/Seedance usando movimientos simples y seguros.
+6. Revisar legalmente el nuevo rough por impresion total anti-ambush antes de master.
+
+### Entregables creados para salir hoy
+
+- `03_creative/shot-list/anti-ambush-rack-34-v001.md` - rack completo de 34 tomas con analogia escolar/comercial.
+- `03_creative/prompts/anti-ambush-rack-34-prompt-pack-v001.md` - prompt maestro, negativos anti-ambush y prompts por toma.
 
 ### Riesgos activos actualizados
 
