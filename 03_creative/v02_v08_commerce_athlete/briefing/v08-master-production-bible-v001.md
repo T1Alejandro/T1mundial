@@ -333,7 +333,15 @@ Crear character sheet cinematografico aislado para T1 v08, "El atleta del comerc
 La ficha debe servir para continuidad de personaje, casting, vestuario, manos y props personales. No debe resolver una escena final ni una locacion final.
 
 Formato visual:
-Una sola imagen amplia tipo model sheet premium, limpia y ordenada. Fondo neutro cinematografico, sin locacion reconocible. Incluir vista hero principal, variaciones sutiles de rostro/gesto, manos en macro, detalle de vestuario y props personales. No usar texto, labels, nombres, UI, marcas de agua ni logotipos dentro de la imagen.
+Una sola imagen amplia tipo model sheet tecnico-premium, limpia y ordenada, como plancha de continuidad para casting, vestuario y produccion. Fondo neutro cinematografico, sin locacion reconocible.
+
+Estructura obligatoria de la plancha:
+Fila 1: cuerpo completo en rotacion 360 con 5 vistas claras: frontal, 3/4 izquierda, perfil izquierdo, espalda/posterior, 3/4 derecha o perfil derecho. Misma ropa, misma proporcion corporal, misma identidad, misma altura visual.
+Fila 2: bustos / cabeza y hombros en 5 angulos: frontal, 3/4 izquierda, perfil izquierdo, 3/4 derecha, perfil derecho. Mantener rasgos consistentes.
+Fila 3: expresiones sutiles y continuidad facial: neutral, concentracion, mirada lateral, respiracion/preparacion, microgesto emocional. Sin exageracion, sin sonrisa publicitaria.
+Fila 4: detalles macro de manos, vestuario y props personales: manos abiertas, manos en accion, textura de tela, costuras/acento rojo, props aislados. Los props no deben dominar la plancha.
+
+Debe sentirse como una ficha de produccion de personaje: utilitaria, legible, premium y precisa. No usar texto, labels, nombres, UI, marcas de agua ni logotipos dentro de la imagen.
 
 Look:
 Cine independiente mexicano contemporaneo. Sobrio, elegante, humano, aspiracional-real. Fotografia suave, contraste medio, negros ligeramente levantados, altas luces con roll-off analogico, grano fino cinematografico, textura real, lente 35mm/50mm, profundidad de campo media a shallow.
@@ -356,7 +364,7 @@ Don Rafael. Hombre mexicano 55-60, comerciante del Centro Historico, manos traba
 Character sheet aislado. No ponerlo dentro de su tienda. No mostrar cortina metalica, mostrador, calle, productos ni fachada. Fondo neutro calido cinematografico.
 
 FICHA 90% VISUAL:
-Vista hero principal de medio cuerpo, vista frontal, 3/4 y perfil. Expresion concentrada y digna, no sonriente de publicidad. Manos trabajadas en macro: nudillos, pliegues, venas sutiles, unas naturales, textura real. Anatomia perfecta.
+Plancha de continuidad con rotacion 360. Fila superior: cuerpo completo en 5 vistas, frontal, 3/4 izquierda, perfil izquierdo, posterior, 3/4 derecha/perfil derecho. Filas medias: bustos de rostro en frontal, 3/4, perfil y mirada lateral, manteniendo pelo entrecano, rasgos, edad y gesto. Fila inferior: manos trabajadas en macro, detalle de camisa, zapatos, llaves, pano rojo liso y libreta. Expresion concentrada y digna, no sonriente de publicidad. Manos: nudillos, pliegues, venas sutiles, unas naturales, textura real. Anatomia perfecta.
 
 Vestuario:
 Camisa oscura sobria, pantalon oscuro, zapatos limpios. Ropa realista, digna, sin marcas, sin logotipos, sin uniforme deportivo. Posible costura o pequeno vivo rojo T1 #DA3B2B muy discreto.
@@ -379,7 +387,7 @@ Dona Carmen. Mujer mexicana 45, comerciante de tianguis, pelo recogido, delantal
 Character sheet aislado. No ponerla en puesto de frutas ni mercado. No mostrar toldos, cajas de mercado, pasillos, letreros ni clientes. Fondo neutro calido cinematografico.
 
 FICHA 90% VISUAL:
-Vista hero principal de medio cuerpo, vista frontal, 3/4 y perfil. Rostro real, amable y concentrado. Manos en macro: manos limpias de trabajo, unas naturales, pliegues, cuticulas, gestos de cobro y entrega. Anatomia perfecta.
+Plancha de continuidad con rotacion 360. Fila superior: cuerpo completo en 5 vistas, frontal, 3/4 izquierda, perfil izquierdo, posterior, 3/4 derecha/perfil derecho. Filas medias: bustos de rostro en frontal, 3/4, perfil y mirada lateral, manteniendo pelo recogido, rasgos, edad y presencia serena. Fila inferior: manos limpias de trabajo en macro, detalle de blusa, delantal, vivo rojo, bolsa limpia, fruta aislada, terminal blanca lisa y etiqueta sin texto. Rostro real, amable y concentrado. Manos: unas naturales, pliegues, cuticulas, gestos de cobro y entrega. Anatomia perfecta.
 
 Vestuario:
 Blusa clara limpia, delantal gris oscuro o negro con vivo rojo T1 #DA3B2B sutil. Pelo recogido natural. Ropa digna, realista, sin marcas, sin logos, sin uniforme deportivo.
@@ -402,7 +410,7 @@ Miguel. Hombre mexicano 32, empacador DTC. Fisico delgado y atletico, manos prec
 Character sheet aislado. No ponerlo en bodega ni taller final. No mostrar estanterias, mesa de trabajo final, racks, cajas acumuladas ni ambiente de warehouse. Fondo neutro frio cinematografico.
 
 FICHA 90% VISUAL:
-Vista hero principal de medio cuerpo, vista frontal, 3/4 y perfil. Rostro realista, concentrado, sin pose de modelo. Manos en macro: dedos presionando, cerrando, doblando, sujetando props. Nudillos, venas sutiles, unas naturales y anatomia perfecta.
+Plancha de continuidad con rotacion 360. Fila superior: cuerpo completo en 5 vistas, frontal, 3/4 izquierda, perfil izquierdo, posterior, 3/4 derecha/perfil derecho. Filas medias: bustos de rostro en frontal, 3/4, perfil y mirada lateral, manteniendo pelo corto, piel morena clara, complexión delgada atletica y gesto concentrado. Fila inferior: manos en macro presionando, cerrando, doblando y sujetando props; detalle de camiseta, costura roja minima, caja kraft, cinta roja lisa, etiqueta sin texto y cutter rojo. Rostro realista, concentrado, sin pose de modelo. Nudillos, venas sutiles, unas naturales y anatomia perfecta.
 
 Vestuario:
 Camiseta negra o gris carbon basica con costura roja T1 #DA3B2B minima, pantalon oscuro, tenis genericos sin logo. Nada deportivo, nada de jersey, nada de marca.
@@ -425,7 +433,7 @@ Sofia. Mujer mexicana 32, founder DTC, pelo negro lacio, mirada analitica, estet
 Character sheet aislado. No ponerla en workspace final. No mostrar oficina, escritorio final, plantas de ambiente, pared de oficina ni setup reconocible. Fondo neutro limpio cinematografico.
 
 FICHA 90% VISUAL:
-Vista hero principal de medio cuerpo, vista frontal, 3/4 y perfil. Rostro realista, mirada analitica y concentrada. Manos en macro: tipeando, sujetando pluma, tocando laptop lisa. Unas naturales, piel real, anatomia perfecta.
+Plancha de continuidad con rotacion 360. Fila superior: cuerpo completo en 5 vistas, frontal, 3/4 izquierda, perfil izquierdo, posterior, 3/4 derecha/perfil derecho. Filas medias: bustos de rostro en frontal, 3/4, perfil y mirada lateral, manteniendo pelo negro lacio, rasgos, edad y mirada analitica. Fila inferior: manos en macro tipeando, sujetando pluma y tocando laptop lisa; detalle de blusa/camisa, costura roja discreta, cuaderno rojo, pluma con clip rojo y taza blanca con detalle rojo. Rostro realista, mirada concentrada. Unas naturales, piel real, anatomia perfecta.
 
 Vestuario:
 Blusa negra o camisa blanca minimalista con costura roja T1 #DA3B2B discreta. Estilo moderno, sobrio, mexicano urbano, sin look corporativo generico, sin logos.
@@ -448,7 +456,7 @@ Lupita. Mujer mexicana 50, duena de tienda de provincia, calidez maternal, elega
 Character sheet aislado. No ponerla en tienda de provincia final. No mostrar mostrador, calle colonial, productos artesanales de fondo ni interiores reconocibles. Fondo neutro calido cinematografico.
 
 FICHA 90% VISUAL:
-Vista hero principal de medio cuerpo, vista frontal, 3/4 y perfil. Rostro realista, expresion segura y calida. Manos en macro: sujetando tablet lisa, etiqueta o pieza artesanal aislada. Pliegues, unas naturales, textura real, anatomia perfecta.
+Plancha de continuidad con rotacion 360. Fila superior: cuerpo completo en 5 vistas, frontal, 3/4 izquierda, perfil izquierdo, posterior, 3/4 derecha/perfil derecho. Filas medias: bustos de rostro en frontal, 3/4, perfil y mirada lateral, manteniendo rasgos, edad, calidez maternal y elegancia digna. Fila inferior: manos en macro sujetando tablet lisa, etiqueta sin texto o pieza artesanal aislada; detalle de ropa casual elegante, textil sobrio, posible rebozo y acento rojo controlado. Rostro realista, expresion segura y calida. Pliegues, unas naturales, textura real, anatomia perfecta.
 
 Vestuario:
 Ropa casual elegante, textiles sobrios, posible rebozo terracota/rojo/marron controlado. Rojo T1 #DA3B2B solo como acento discreto. Sin marcas, sin logos, sin folclor exagerado.
