@@ -127,7 +127,7 @@ Regla clave: el character sheet no debe resolver la locacion final. Debe control
 
 Hombre mexicano 55-60, comerciante del Centro Historico, manos trabajadas, pelo entrecano, mirada digna. Aparece en tomas 01, 02, 03 y puede sentirse en cierre.
 
-Character sheet aislado: fondo neutro de estudio gris claro o blanco roto, sin tienda final. Vestuario sobrio: camisa oscura, pantalon oscuro, zapatos limpios. Props personales: llaves, pano rojo liso, libreta pequena sin texto, terminal generica lisa solo como referencia de escala si hace falta.
+Character sheet aislado: fondo neutro de estudio gris claro o blanco roto, sin tienda final. Vestuario sobrio: camisa gris cromo, pantalon oscuro, zapatos limpios. Props personales: llaves, pano rojo liso, libreta pequena sin texto, terminal generica lisa solo como referencia de escala si hace falta.
 
 ### Dona Carmen
 
@@ -345,13 +345,15 @@ Haz una imagen amplia tipo model sheet tecnico-premium para T1 v08, "El atleta d
 La ficha debe servir para continuidad de personaje, casting, vestuario, manos y props personales. No debe resolver una escena final ni una locacion final.
 
 Formato visual [GRIS]:
-Una sola imagen amplia tipo model sheet tecnico-premium, limpia y ordenada, como plancha de continuidad para casting, vestuario y produccion. Fondo neutro de estudio gris claro o blanco roto, cinematografico, sin locacion reconocible, sin cafe/beige dominante.
+Una sola imagen amplia horizontal 16:9 tipo model sheet tecnico-premium, limpia y ordenada, como plancha de continuidad para casting, vestuario y produccion. Fondo neutro de estudio gris claro o blanco roto, tipo seamless/cyclorama fotografico, cinematografico, sin locacion reconocible, sin cafe/beige dominante. El fondo debe sentirse blanco/gris de estudio, no marron, no taupe, no sepia, no arena, no chocolate, no madera, no muro texturizado cafe.
 
 Estructura obligatoria de la plancha:
-Fila 1: cuerpo completo en rotacion 360 con 5 vistas claras: frontal, 3/4 izquierda, perfil izquierdo, espalda/posterior, 3/4 derecha o perfil derecho. Misma ropa, misma proporcion corporal, misma identidad, misma altura visual.
-Fila 2: bustos / cabeza y hombros en 5 angulos: frontal, 3/4 izquierda, perfil izquierdo, 3/4 derecha, perfil derecho. Mantener rasgos consistentes.
-Fila 3: expresiones sutiles y continuidad facial: neutral, concentracion, mirada lateral, respiracion/preparacion, microgesto emocional. Sin exageracion, sin sonrisa publicitaria.
-Fila 4: detalles macro de manos, vestuario y props personales: manos abiertas, manos en accion, textura de tela, costuras/acento rojo, props aislados. Los props no deben dominar la plancha.
+La imagen debe estar partida en una grilla horizontal exacta, con divisiones finas, rectas y limpias entre modulos. No usar collage libre, mosaico irregular, panel gigante lateral, recortes flotantes ni composicion vertical.
+Fila 1: 5 columnas iguales de cuerpo completo en rotacion 360: frontal, 3/4 izquierda, perfil izquierdo, espalda/posterior, 3/4 derecha o perfil derecho. Misma ropa, misma proporcion corporal, misma identidad, misma altura visual.
+Fila 2: 5 columnas iguales de bustos / cabeza y hombros: frontal, 3/4 izquierda, perfil izquierdo, 3/4 derecha, perfil derecho. Mantener rasgos consistentes.
+Fila 3: 5 columnas iguales de expresiones sutiles y continuidad facial: neutral, concentracion, mirada lateral, respiracion/preparacion, microgesto emocional. Sin exageracion, sin sonrisa publicitaria.
+Fila 4: 6 o 7 modulos horizontales para detalles macro de manos, vestuario y props personales: manos abiertas, manos en accion, textura de tela, costuras/acento rojo, zapatos, props aislados. Los props no deben dominar la plancha.
+Todos los modulos deben compartir el mismo fondo gris claro/blanco roto de estudio y la misma familia de luz. Aspect ratio final 16:9 horizontal, no portrait, no 4:5, no 2:3, no hoja vertical.
 
 Debe sentirse como una ficha de produccion de personaje: utilitaria, legible, premium y precisa. No usar texto, labels, nombres, UI, marcas de agua ni logotipos dentro de la imagen.
 
@@ -365,7 +367,7 @@ Branding [GRIS]:
 Usar rojo T1 #DA3B2B solo como acento natural y controlado en costura, vivo, ribete, cinta, etiqueta sin texto, cuaderno, clip, cutter, arete o prop. No generar logo T1, no texto T1, no UI, no dashboard, no stickers con palabras, no puntos/cruces de tracking.
 
 Negativo [GRIS]:
-no text, no captions, no labels, no names, no numbers, no watermarks, no logos, no brands, no final UI, no readable dashboard, no app interface, no sticker text, no tracking dots, no tracking crosses, no store background, no market background, no warehouse background, no office background, no province shop background, no soccer, no football, no futbol, no ball, no stadium, no jersey, no sports uniform, no celebrity likeness, no public figure likeness, no plastic skin, no waxy skin, no airbrushed skin, no distorted hands, no extra fingers, no malformed faces, no dirty clothes, no grime, no trash, no clutter, no stock photo look.
+no text, no captions, no labels, no names, no numbers, no watermarks, no logos, no brands, no final UI, no readable dashboard, no app interface, no sticker text, no tracking dots, no tracking crosses, no brown background, no cafe background, no sepia background, no taupe background, no tan background, no warm brown wall, no textured brown wall, no wood background, no store background, no market background, no warehouse background, no office background, no province shop background, no vertical sheet, no portrait layout, no irregular collage, no giant side panel, no freeform mosaic, no soccer, no football, no futbol, no ball, no stadium, no jersey, no sports uniform, no celebrity likeness, no public figure likeness, no plastic skin, no waxy skin, no airbrushed skin, no distorted hands, no extra fingers, no malformed faces, no dirty clothes, no grime, no trash, no clutter, no stock photo look.
 ```
 
 ### 16.2 [AMARILLO] Don Rafael
@@ -375,13 +377,13 @@ Color guia: [AMARILLO] / Personaje P01
 ```text
 Don Rafael. Hombre mexicano 55-60, comerciante del Centro Historico, manos trabajadas, pelo entrecano, mirada digna. Energia: ritual, experiencia, calma, precision, autoridad serena.
 
-Character sheet aislado. No ponerlo dentro de su tienda. No mostrar cortina metalica, mostrador, calle, productos ni fachada. Fondo neutro de estudio gris claro o blanco roto, sin cafe/beige dominante.
+Character sheet aislado. No ponerlo dentro de su tienda. No mostrar cortina metalica, mostrador, calle, productos ni fachada. Fondo neutro de estudio gris claro o blanco roto, tipo seamless/cyclorama fotografico, sin cafe/beige dominante, sin fondo marron/taupe/sepia.
 
 FICHA 90% VISUAL [AMARILLO]:
-Plancha de continuidad con rotacion 360. Fila superior: cuerpo completo en 5 vistas, frontal, 3/4 izquierda, perfil izquierdo, posterior, 3/4 derecha/perfil derecho. Filas medias: bustos de rostro en frontal, 3/4, perfil y mirada lateral, manteniendo pelo entrecano, rasgos, edad y gesto. Fila inferior: manos trabajadas en macro, detalle de camisa, zapatos, llaves, pano rojo liso y libreta. Expresion concentrada y digna, no sonriente de publicidad. Manos: nudillos, pliegues, venas sutiles, unas naturales, textura real. Anatomia perfecta.
+Plancha de continuidad horizontal 16:9 con grilla exacta y divisiones finas como hoja tecnica de produccion. Fila superior: cuerpo completo en 5 columnas iguales, frontal, 3/4 izquierda, perfil izquierdo, posterior, 3/4 derecha/perfil derecho. Filas medias: bustos de rostro en columnas iguales, frontal, 3/4, perfil y mirada lateral, manteniendo pelo entrecano, rasgos, edad y gesto. Fila inferior: modulos macro alineados para manos trabajadas, detalle de camisa, zapatos, llaves, pano rojo liso y libreta. Expresion concentrada y digna, no sonriente de publicidad. Manos: nudillos, pliegues, venas sutiles, unas naturales, textura real. Anatomia perfecta.
 
 Vestuario [AMARILLO]:
-Camisa oscura sobria, pantalon oscuro, zapatos limpios. Ropa realista, digna, sin marcas, sin logotipos, sin uniforme deportivo. Posible costura o pequeno vivo rojo T1 #DA3B2B muy discreto.
+Camisa gris cromo, pantalon oscuro, zapatos limpios. Ropa realista, digna, sin marcas, sin logotipos, sin uniforme deportivo. Posible costura o pequeno vivo rojo T1 #DA3B2B muy discreto.
 
 Props personales [AMARILLO]:
 Llaves limpias, pano rojo liso, libreta pequena sin texto, terminal generica lisa solo como referencia de escala si hace falta. Todos los props sin logos ni texto.
@@ -390,7 +392,7 @@ Pose cinematografica hero [AMARILLO]:
 Don Rafael de pie, manos cerca del pecho o cintura, postura preparada como alguien que inicia una jornada importante. Luz lateral suave, fondo neutro gris claro/blanco roto, silencio y dignidad.
 
 Negativo especifico [AMARILLO]:
-no shop interior, no storefront, no shutter, no street, no products, no signage, no readable text, no logos, no sports references, no celebrity likeness, no plastic skin, no distorted hands.
+no shop interior, no storefront, no shutter, no street, no products, no signage, no readable text, no logos, no sports references, no brown background, no cafe background, no sepia, no taupe, no tan wall, no textured brown wall, no vertical sheet, no irregular collage, no giant side panel, no celebrity likeness, no plastic skin, no distorted hands.
 ```
 
 ### 16.3 [ROJO T1] Dona Carmen
