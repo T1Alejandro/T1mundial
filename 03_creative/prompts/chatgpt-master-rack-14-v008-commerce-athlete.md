@@ -30,8 +30,8 @@ Cada mexicano que vende es un atleta de su propio negocio. Entrena cada manana c
 
 ## Color y textura
 
-* Paleta premium: dorados de amanecer, verdes T1 profundos, negros suaves, sombras frias, tonos madera/carton limpios.
-* UI propia T1 en pantallas cuando aplique: verde oscuro + dorado, sin parecer software real de terceros.
+* Paleta premium: dorados de amanecer, ambar suave, terracota suave, ocres nobles, negros suaves, sombras frias, tonos madera/carton limpios. Rojo T1 #DA3B2B como acento controlado en costuras, vivos, cinta, etiquetas y props. Sin verde dominante ni combinacion verde+blanco+rojo.
+* Pantallas (laptop, tablet, terminal, smartphone): completamente en blanco, gris muy claro, negro mate o con reflejo suave, sin contenido, sin iconos, sin UI, sin texto, sin puntos/cruces de tracking. Los logos y UI reales de T1 se agregan en postproduccion.
 * Materiales limpios, mantenidos y dignificados. Realismo curado como cine.
 * Texturas visibles: metal de cortina, piel, manos, tela, carton, fruta, madera, terminal generica, laptop, tablet.
 * No pobreza extrema, no mugre, no abandono, no decadencia, no paredes destruidas, no marcas visibles.
@@ -84,7 +84,7 @@ Nadie debe parecer celebridad, figura publica ni atleta real.
 * Detalle macro extremo de manos de Don Rafael preparando su dia.
 * Acomoda productos en mostrador.
 * Abre caja registradora.
-* Prende terminal de cobro generica con UI T1 propia verde oscuro y dorado.
+* Prende terminal de cobro generica con pantalla blanca o gris clara lisa para post, sin logo ni UI generada.
 * Camara muy cerca, ritual de precision.
 * Como manos de pianista preparando un concierto.
 
@@ -123,11 +123,10 @@ Nadie debe parecer celebridad, figura publica ni atleta real.
 08. Sofia analiza
 * Workspace moderno tipo Condesa.
 * Sofia, founder DTC 32, pelo lacio negro, mirada analitica.
-* Analiza dashboard en laptop.
+* Analiza laptop con pantalla blanca o gris clara lisa para post, sin dashboard legible ni software real.
 * Taza de cafe cerca, plantas, luz natural.
 * Camara la encuadra como ajedrecista de nivel mundial estudiando tablero.
 * Concentracion brutal.
-* Pantalla con UI T1 propia verde/dorado, no software real.
 
 09. Manos de Sofia en teclado
 * Detalle macro de manos de Sofia tipeando con velocidad y precision.
@@ -146,7 +145,7 @@ Nadie debe parecer celebridad, figura publica ni atleta real.
 
 11. Lupita revisa tablet
 * Detalle medio de Lupita revisando tablet.
-* Tablet muestra interfaz T1 propia de ventas multicanal, verde y dorado.
+* Tablet con pantalla blanca o gris clara lisa para post, sin interfaz legible ni software real.
 * Postura de control total de operacion.
 * Como conductora de orquesta dirigiendo multiples instrumentos.
 * Luz calida sobre rostro.
