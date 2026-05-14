@@ -119,7 +119,7 @@ Entorno principal: tianguis mexicano limpio, digno, contemporáneo, toldo cuidad
 ## Prompt — Miguel
 
 ```text
-Miguel. Hombre mexicano 35 años, empacador DTC. Físico delgado y atlético, manos precisas, pelo corto, piel morena clara, expresión concentrada. Energía: disciplina física, ritmo, eficiencia, exactitud.
+Miguel. Hombre mexicano 32 años, empacador DTC. Físico delgado y atlético, manos precisas, pelo corto, piel morena clara, expresión concentrada. Energía: disciplina física, ritmo, eficiencia, exactitud.
 
 FICHA 90% VISUAL:
 Cuerpo completo 360 con cuatro vistas: frontal, 3/4, perfil y posterior. Camiseta negra o gris carbón básica con costura roja T1 mínima, pantalón oscuro, tenis genéricos sin logo. Sin pulsera, sin marcas.
