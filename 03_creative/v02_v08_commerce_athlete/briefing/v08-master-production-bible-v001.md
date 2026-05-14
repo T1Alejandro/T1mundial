@@ -347,7 +347,7 @@ Haz una imagen amplia tipo model sheet tecnico-premium para T1 v08, "El atleta d
 
 La ficha debe servir para continuidad de personaje, casting, vestuario, manos y props personales. No debe resolver una escena final ni una locacion final.
 
-Formato visual [GRIS]:
+Formato visual:
 Una sola imagen amplia horizontal 16:9 tipo model sheet tecnico-premium, limpia y ordenada, como plancha de continuidad para casting, vestuario y produccion. Fondo neutro de estudio gris claro o blanco roto, tipo seamless/cyclorama fotografico, cinematografico, sin locacion reconocible, sin cafe/beige dominante. El fondo debe sentirse blanco/gris de estudio, no marron, no taupe, no sepia, no arena, no chocolate, no madera, no muro texturizado cafe.
 
 Estructura obligatoria de la plancha:
@@ -360,16 +360,16 @@ Todos los modulos deben compartir el mismo fondo gris claro/blanco roto de estud
 
 Debe sentirse como una ficha de produccion de personaje: utilitaria, legible, premium y precisa. No usar texto, labels, nombres, UI, marcas de agua ni logotipos dentro de la imagen.
 
-Look [GRIS]:
+Look:
 Cine independiente mexicano contemporaneo. Sobrio, elegante, humano, aspiracional-real. Fotografia suave, contraste medio, negros ligeramente levantados, altas luces con roll-off analogico, grano fino cinematografico, textura real, lente 35mm/50mm, profundidad de campo media a shallow.
 
-Realismo [GRIS]:
+Realismo:
 Piel real con poros, lineas finas, variacion tonal, textura de labios, cejas, pestanas, vello fino, manos con pliegues, unas naturales, nudillos, cuticulas y venas sutiles. Cero piel plastica, cero beauty retouch, cero look de banco de imagen.
 
-Branding [GRIS]:
+Branding:
 Usar rojo T1 #DA3B2B solo como acento natural y controlado en costura, vivo, ribete, cinta, etiqueta sin texto, cuaderno, clip, cutter, arete o prop. No generar logo T1, no texto T1, no UI, no dashboard, no stickers con palabras, no puntos/cruces de tracking.
 
-Negativo [GRIS]:
+Negativo:
 no text, no captions, no labels, no names, no numbers, no watermarks, no logos, no brands, no Clip logo, no payment brand logo, no orange terminal, no orange casing, no final UI, no readable dashboard, no app interface, no readable amount, no keypad numbers, no printed ticket text, no sticker text, no tracking dots, no tracking crosses, no brown background, no cafe background, no sepia background, no taupe background, no tan background, no warm brown wall, no textured brown wall, no wood background, no store background, no market background, no warehouse background, no office background, no province shop background, no vertical sheet, no portrait layout, no irregular collage, no giant side panel, no freeform mosaic, no soccer, no football, no futbol, no ball, no stadium, no jersey, no sports uniform, no celebrity likeness, no public figure likeness, no plastic skin, no waxy skin, no airbrushed skin, no distorted hands, no extra fingers, no malformed faces, no dirty clothes, no grime, no trash, no clutter, no stock photo look.
 ```
 
@@ -382,19 +382,19 @@ Don Rafael. Hombre mexicano 55-60, comerciante del Centro Historico, manos traba
 
 Character sheet aislado. No ponerlo dentro de su tienda. No mostrar cortina metalica, mostrador, calle, productos ni fachada. Fondo neutro de estudio gris claro o blanco roto, tipo seamless/cyclorama fotografico, sin cafe/beige dominante, sin fondo marron/taupe/sepia.
 
-FICHA 90% VISUAL [AMARILLO]:
+FICHA 90% VISUAL:
 Plancha de continuidad horizontal 16:9 con grilla exacta y divisiones finas como hoja tecnica de produccion. Fila superior: cuerpo completo en 5 columnas iguales, frontal, 3/4 izquierda, perfil izquierdo, posterior, 3/4 derecha/perfil derecho. Filas medias: bustos de rostro en columnas iguales, frontal, 3/4, perfil y mirada lateral, manteniendo pelo entrecano, rasgos, edad y gesto. Fila inferior: modulos macro alineados para manos trabajadas, detalle de camisa, zapatos, llaves, pano rojo liso y libreta. Expresion concentrada y digna, no sonriente de publicidad. Manos: nudillos, pliegues, venas sutiles, unas naturales, textura real. Anatomia perfecta.
 
-Vestuario [AMARILLO]:
+Vestuario:
 Camisa gris cromo, pantalon oscuro, zapatos limpios. Ropa realista, digna, sin marcas, sin logotipos, sin uniforme deportivo. Posible costura o pequeno vivo rojo T1 #DA3B2B muy discreto.
 
-Props personales [AMARILLO]:
+Props personales:
 Llaves limpias, pano rojo liso, libreta pequena sin texto, terminal punto de venta generica con impresora integrada arriba, ticket blanco sin texto, frontal negro/blanco, pantalla lisa sin UI y carcasa/acento rojo T1 #DA3B2B solo como referencia de escala si hace falta. Todos los props sin logos ni texto.
 
-Pose cinematografica hero [AMARILLO]:
+Pose cinematografica hero:
 Don Rafael de pie, manos cerca del pecho o cintura, postura preparada como alguien que inicia una jornada importante. Luz lateral suave, fondo neutro gris claro/blanco roto, silencio y dignidad.
 
-Negativo especifico [AMARILLO]:
+Negativo especifico:
 no shop interior, no storefront, no shutter, no street, no products, no signage, no readable text, no logos, no Clip logo, no payment brand logo, no orange terminal, no orange casing, no readable UI, no readable amount, no keypad numbers, no printed ticket text, no sports references, no brown background, no cafe background, no sepia, no taupe, no tan wall, no textured brown wall, no vertical sheet, no irregular collage, no giant side panel, no celebrity likeness, no plastic skin, no distorted hands.
 ```
 
@@ -407,19 +407,19 @@ Dona Carmen. Mujer mexicana 45, comerciante de tianguis, pelo recogido, delantal
 
 Character sheet aislado. No ponerla en puesto de frutas ni mercado. No mostrar toldos, cajas de mercado, pasillos, letreros ni clientes. Fondo neutro de estudio gris claro o blanco roto, sin cafe/beige dominante.
 
-FICHA 90% VISUAL [ROJO T1]:
+FICHA 90% VISUAL:
 Plancha de continuidad con rotacion 360. Fila superior: cuerpo completo en 5 vistas, frontal, 3/4 izquierda, perfil izquierdo, posterior, 3/4 derecha/perfil derecho. Filas medias: bustos de rostro en frontal, 3/4, perfil y mirada lateral, manteniendo pelo recogido, rasgos, edad y presencia serena. Fila inferior: manos limpias de trabajo en macro, detalle de blusa, delantal, vivo rojo, bolsa limpia, fruta aislada, terminal punto de venta generica con impresora integrada, pantalla lisa y carcasa/acento rojo T1, etiqueta sin texto. Rostro real, amable y concentrado. Manos: unas naturales, pliegues, cuticulas, gestos de cobro y entrega. Anatomia perfecta.
 
-Vestuario [ROJO T1]:
+Vestuario:
 Blusa clara limpia, delantal gris oscuro o negro con vivo rojo T1 #DA3B2B sutil. Pelo recogido natural. Ropa digna, realista, sin marcas, sin logos, sin uniforme deportivo.
 
-Props personales [ROJO T1]:
+Props personales:
 Bolsa limpia, fruta fresca aislada como prop de mano, terminal punto de venta generica vertical con impresora integrada arriba, ticket blanco sin texto, frontal negro/blanco, pantalla lisa sin UI y carcasa/acento rojo T1 #DA3B2B, pano o etiqueta roja sin texto. Props limpios, sin marca, sin QR, sin texto.
 
-Pose cinematografica hero [ROJO T1]:
+Pose cinematografica hero:
 Dona Carmen de pie, manos listas para entregar o cobrar, mirada serena hacia fuera de cuadro. Luz suave de estudio, fondo neutro gris claro/blanco roto, presencia humana confiable.
 
-Negativo especifico [ROJO T1]:
+Negativo especifico:
 no market, no fruit stand background, no awning, no customers, no readable signs, no QR, no logos, no Clip logo, no payment brand logo, no orange terminal, no orange casing, no readable UI, no readable amount, no keypad numbers, no printed ticket text, no clutter, no green dominant palette, no plastic skin, no malformed hands.
 ```
 
@@ -432,19 +432,19 @@ Miguel. Hombre mexicano 32, empacador DTC. Fisico delgado y atletico, manos prec
 
 Character sheet aislado. No ponerlo en bodega ni taller final. No mostrar estanterias, mesa de trabajo final, racks, cajas acumuladas ni ambiente de warehouse. Fondo neutro de estudio gris claro o blanco roto, sin cafe/beige dominante.
 
-FICHA 90% VISUAL [AZUL]:
+FICHA 90% VISUAL:
 Plancha de continuidad con rotacion 360. Fila superior: cuerpo completo en 5 vistas, frontal, 3/4 izquierda, perfil izquierdo, posterior, 3/4 derecha/perfil derecho. Filas medias: bustos de rostro en frontal, 3/4, perfil y mirada lateral, manteniendo pelo corto, piel morena clara, complexión delgada atletica y gesto concentrado. Fila inferior: manos en macro presionando, cerrando, doblando y sujetando props; detalle de camiseta, costura roja minima, caja kraft, cinta roja lisa, etiqueta sin texto y cutter rojo. Rostro realista, concentrado, sin pose de modelo. Nudillos, venas sutiles, unas naturales y anatomia perfecta.
 
-Vestuario [AZUL]:
+Vestuario:
 Camiseta negra o gris carbon basica con costura roja T1 #DA3B2B minima, pantalon oscuro, tenis genericos sin logo. Nada deportivo, nada de jersey, nada de marca.
 
-Props personales [AZUL]:
+Props personales:
 Caja kraft limpia, cinta roja lisa, etiqueta blanca o roja sin texto, cutter rojo liso. Props nuevos, limpios, sin logos y sin texto.
 
-Pose cinematografica hero [AZUL]:
+Pose cinematografica hero:
 Miguel de pie con caja kraft o cinta en manos, cuerpo ligeramente inclinado hacia la tarea, tension fisica sobria. Luz suave de estudio ligeramente fria, fondo neutro gris claro/blanco roto, precision y disciplina.
 
-Negativo especifico [AZUL]:
+Negativo especifico:
 no warehouse background, no shelves, no clutter, no logos, no shipping brands, no readable labels, no sportswear, no jersey, no plastic skin, no distorted hands, no extra fingers.
 ```
 
@@ -457,19 +457,19 @@ Sofia. Mujer mexicana 32, founder DTC, pelo negro lacio, mirada analitica, estet
 
 Character sheet aislado. No ponerla en workspace final. No mostrar oficina, escritorio final, plantas de ambiente, pared de oficina ni setup reconocible. Fondo neutro de estudio gris claro o blanco roto, sin cafe/beige dominante.
 
-FICHA 90% VISUAL [PLATA]:
+FICHA 90% VISUAL:
 Plancha de continuidad con rotacion 360. Fila superior: cuerpo completo en 5 vistas, frontal, 3/4 izquierda, perfil izquierdo, posterior, 3/4 derecha/perfil derecho. Filas medias: bustos de rostro en frontal, 3/4, perfil y mirada lateral, manteniendo pelo negro lacio, rasgos, edad y mirada analitica. Fila inferior: manos en macro tipeando, sujetando pluma y tocando laptop lisa; detalle de blusa/camisa, costura roja discreta, cuaderno rojo, pluma con clip rojo y taza blanca con detalle rojo. Rostro realista, mirada concentrada. Unas naturales, piel real, anatomia perfecta.
 
-Vestuario [PLATA]:
+Vestuario:
 Blusa negra o camisa blanca minimalista con costura roja T1 #DA3B2B discreta. Estilo moderno, sobrio, mexicano urbano, sin look corporativo generico, sin logos.
 
-Props personales [PLATA]:
+Props personales:
 Laptop lisa con pantalla blanca/gris o negro mate sin contenido, cuaderno rojo liso, pluma con clip rojo, taza blanca con detalle rojo sin logo. Todo sin texto, sin UI, sin marcas.
 
-Pose cinematografica hero [PLATA]:
+Pose cinematografica hero:
 Sofia en pose de pensamiento/decision, mirada fija y precisa, laptop lisa como prop de estrategia. Luz suave de estudio ligeramente fria, fondo neutro gris claro/blanco roto, energia de ajedrecista sin mostrar tablero.
 
-Negativo especifico [PLATA]:
+Negativo especifico:
 no office background, no desk setup, no readable screen, no dashboard, no UI, no app interface, no Apple logo, no laptop brand, no corporate stock look, no plastic skin, no malformed hands.
 ```
 
@@ -482,19 +482,19 @@ Lupita. Mujer mexicana 50, duena de tienda de provincia, calidez maternal, elega
 
 Character sheet aislado. No ponerla en tienda de provincia final. No mostrar mostrador, calle colonial, productos artesanales de fondo ni interiores reconocibles. Fondo neutro de estudio gris claro o blanco roto, sin cafe/beige dominante.
 
-FICHA 90% VISUAL [TERRACOTA]:
+FICHA 90% VISUAL:
 Plancha de continuidad con rotacion 360. Fila superior: cuerpo completo en 5 vistas, frontal, 3/4 izquierda, perfil izquierdo, posterior, 3/4 derecha/perfil derecho. Filas medias: bustos de rostro en frontal, 3/4, perfil y mirada lateral, manteniendo rasgos, edad, calidez maternal y elegancia digna. Fila inferior: manos en macro sujetando tablet lisa, etiqueta sin texto o pieza artesanal aislada; detalle de ropa casual elegante, textil sobrio, posible rebozo y acento rojo controlado. Rostro realista, expresion segura y calida. Pliegues, unas naturales, textura real, anatomia perfecta.
 
-Vestuario [TERRACOTA]:
+Vestuario:
 Ropa casual elegante, textiles sobrios, posible rebozo terracota/rojo/marron controlado. Rojo T1 #DA3B2B solo como acento discreto. Sin marcas, sin logos, sin folclor exagerado.
 
-Props personales [TERRACOTA]:
+Props personales:
 Tablet lisa sin UI, etiqueta roja o blanca sin texto, pieza de ceramica o textil limpio como objeto de mano. Props dignos, contemporaneos, sin texto ni marca.
 
-Pose cinematografica hero [TERRACOTA]:
+Pose cinematografica hero:
 Lupita de pie o sentada con postura segura, manos sobre tablet lisa o pieza artesanal, mirada tranquila y firme. Luz suave de estudio, fondo neutro gris claro/blanco roto, elegancia humana.
 
-Negativo especifico [TERRACOTA]:
+Negativo especifico:
 no province shop background, no colonial street, no storefront, no readable signs, no folkloric cliche, no sombrero, no mariachi, no logos, no UI, no plastic skin, no malformed hands.
 ```
 
@@ -507,22 +507,22 @@ Manos diversas. Ficha macro de manos mexicanas reales de distintas edades y tono
 
 Character sheet aislado. No usar locaciones finales reconocibles. Fondo neutro de estudio gris claro o blanco roto, o superficies limpias abstractas sobre gris/blanco. No tienda, no mercado, no bodega, no oficina, no tienda de provincia reconocible, sin cafe/beige dominante.
 
-FICHA 90% VISUAL [GRAFITO]:
+FICHA 90% VISUAL:
 Modulos macro de manos con distintos gestos, todos limpios y cinematograficos. No cuerpo completo. Priorizar textura de piel, nudillos, unas naturales, pliegues, venas sutiles, cuticulas, anatomia perfecta.
 
-Gestos [GRAFITO]:
+Gestos:
 Contar billetes abstractos inspirados en billetes mexicanos sin denominaciones ni retratos; cerrar caja kraft con cinta roja lisa; pegar etiqueta roja o blanca sin texto; presionar terminal punto de venta generica con impresora integrada, pantalla lisa sin UI y carcasa/acento rojo T1; doblar prenda; firmar nota ilegible; acomodar fruta; sujetar tablet lisa.
 
-Props [GRAFITO]:
+Props:
 Carton kraft nuevo, cinta roja lisa, etiqueta sin texto, terminal punto de venta generica vertical con impresora integrada, pantalla lisa sin UI y carcasa/acento rojo T1, madera limpia, tela con fibras, fruta fresca aislada, ceramica, libreta sin texto.
 
-Paleta [GRAFITO]:
+Paleta:
 Piel calida real, gris claro, blanco roto, carton nuevo en pequena proporcion, rojo T1 #DA3B2B como acento de herramientas y etiquetas.
 
-Pose cinematografica hero [GRAFITO]:
+Pose cinematografica hero:
 Composicion central macro de varias manos trabajando sobre fondo neutro de estudio gris claro/blanco roto, luz mixta suave, precision colectiva, sensacion de coreografia silenciosa. Orden visual limpio, no collage caotico.
 
-Negativo especifico [GRAFITO]:
+Negativo especifico:
 no full bodies, no faces, no readable bills, no denominations, no official banknote portraits, no text, no logos, no dirty hands, no malformed hands, no extra fingers, no fused fingers, no clutter, no location background.
 ```
 
@@ -550,7 +550,7 @@ Haz una imagen amplia horizontal 16:9 tipo location sheet tecnico-premium para T
 
 La ficha debe servir para continuidad de locacion, direccion de arte, luz, superficies, props de ambiente, color y limpieza. No debe resolver una escena final con personajes principales.
 
-Formato visual [GRIS]:
+Formato visual:
 Una sola imagen horizontal 16:9, limpia y ordenada, como plancha de continuidad de locacion para produccion. Usar grilla exacta con divisiones finas, rectas y limpias. No usar collage libre, mosaico irregular, panel gigante lateral, recortes flotantes ni composicion vertical.
 
 Estructura obligatoria de la plancha:
@@ -558,16 +558,16 @@ Fila 1: 4 vistas amplias de la locacion: exterior/contexto si aplica, interior p
 Fila 2: 4 vistas medias de zonas operativas: mostrador, mesa, superficie de cobro, estantes, ventana/luz, punto de entrada o area de trabajo.
 Fila 3: 5 a 7 detalles macro de materiales y props de ambiente: textura de piso, pared limpia, madera, metal, carton, fruta, ceramica, textiles, pantallas lisas, etiquetas sin texto, acentos rojo T1.
 
-Look [GRIS]:
+Look:
 Cine independiente mexicano contemporaneo. Sobrio, elegante, humano, aspiracional-real. Fotografia suave, contraste medio, negros ligeramente levantados, altas luces con roll-off analogico, grano fino cinematografico, textura real, lente 24mm/35mm para espacios y 50mm/macro para detalles.
 
-Limpieza [GRIS]:
+Limpieza:
 Todo debe verse nuevo, limpio, cuidado, mantenido y filmable. Realismo si, suciedad no. Textura si, deterioro no. Sin abandono, sin paredes rotas, sin humedad, sin oxido, sin basura, sin cables desordenados.
 
-Branding/post [GRIS]:
+Branding/post:
 Pantallas, tablets, laptops, terminales y smartphones deben quedar lisos para post: blanco suave, gris claro, negro mate o reflejo optico real. Sin contenido, sin iconos, sin numeros, sin texto, sin UI, sin graficos. El rojo T1 #DA3B2B aparece solo como acento natural en cinta lisa, etiqueta sin texto, franja lisa, cuaderno, clip, taza, cutter, terminal o detalle pequeno.
 
-Negativo [GRIS]:
+Negativo:
 no main characters, no portraits, no text, no captions, no labels, no signage, no readable prices, no menus, no QR, no logos, no brands, no final UI, no readable dashboard, no app interface, no tracking dots, no tracking crosses, no soccer, no football, no futbol, no ball, no stadium, no jersey, no sports uniform, no famous landmarks, no flags, no patriotic styling, no green-white-red dominant palette, no clutter, no trash, no grime, no heavy dust, no rust, no peeling paint, no cracked walls, no dirty floor, no damaged cardboard, no abandoned look, no dangerous neighborhood look, no stock photo look, no vertical sheet, no irregular collage.
 ```
 
@@ -578,16 +578,16 @@ Color guia: [DORADO] / Locacion L01
 ```text
 Location sheet aislado: tienda pequena mexicana limpia en Centro Historico generico. No incluir a Don Rafael ni personajes principales.
 
-Espacio [DORADO]:
+Espacio:
 Tienda mexicana digna y cuidada al amanecer. Cortina metalica en excelente estado, fachada generica recien mantenida, interior compacto con mostrador limpio, productos ordenados, piso impecable, estantes sobrios, entrada clara desde la calle. Arquitectura mexicana generica, sin monumentos, sin Catedral, sin Bellas Artes, sin Torre Latinoamericana, sin letreros legibles.
 
-FICHA 90% VISUAL [DORADO]:
+FICHA 90% VISUAL:
 Plancha horizontal 16:9 con grilla exacta. Fila 1: exterior limpio al amanecer, vista desde entrada hacia interior, vista desde interior hacia entrada, angulo lateral del mostrador. Fila 2: mostrador, caja/cajon abstracto, zona para terminal punto de venta generica con impresora integrada y carcasa/acento rojo T1, estantes ordenados. Fila 3: macro de cortina limpia, metal, piso, madera/mostrador, libreta sin texto, pano rojo liso, terminal lisa sin UI.
 
-Luz [DORADO]:
+Luz:
 Amanecer dorado controlado entrando por la puerta, sombras suaves, contraste medio, atmosfera silenciosa y preparada.
 
-Negativo especifico [DORADO]:
+Negativo especifico:
 no Don Rafael, no people posing, no readable signs, no logos, no brands, no old dirty shutter, no rust, no peeling paint, no cracked wall, no clutter, no trash, no famous landmarks, no text, no UI, no orange terminal.
 ```
 
@@ -598,16 +598,16 @@ Color guia: [ROJO T1] / Locacion L02
 ```text
 Location sheet aislado: tianguis mexicano limpio, digno, vibrante pero sobrio. No incluir a Dona Carmen ni personajes principales.
 
-Espacio [ROJO T1]:
+Espacio:
 Puesto de frutas frescas y mercado mexicano cuidado. Toldo limpio, cajas ordenadas, pasillos despejados, superficies limpias, frutas calidas como mangos, papayas, jitomates, platanos y mandarinas. Puede haber gente cotidiana muy desenfocada al fondo solo para escala. Evitar verde dominante.
 
-FICHA 90% VISUAL [ROJO T1]:
+FICHA 90% VISUAL:
 Plancha horizontal 16:9 con grilla exacta. Fila 1: vista amplia del puesto sin personaje principal, pasillo limpio, angulo de cobro, vista lateral del toldo. Fila 2: superficie de fruta ordenada, zona de bolsa/entrega, zona para terminal punto de venta generica con impresora integrada y carcasa/acento rojo T1, cajas limpias. Fila 3: macro de fruta fresca, bolsa limpia, etiqueta roja/blanca sin texto, tela de toldo limpia, terminal lisa sin UI, manos anonimas opcionales solo si no dominan.
 
-Luz [ROJO T1]:
+Luz:
 Luz natural de media manana, calida pero limpia, vibrante sin saturacion excesiva.
 
-Negativo especifico [ROJO T1]:
+Negativo especifico:
 no Dona Carmen, no portrait, no readable prices, no QR, no logos, no brands, no dirty market, no chaotic clutter, no rotten fruit, no green dominant palette, no orange terminal, no Clip logo, no UI, no text.
 ```
 
@@ -618,16 +618,16 @@ Color guia: [GRAFITO] / Locacion L03
 ```text
 Location sheet aislado: bodega / taller DTC limpio, organizado, eficiente y premium-real. No incluir a Miguel ni personajes principales.
 
-Espacio [GRAFITO]:
+Espacio:
 Area de empaque con mesas de trabajo limpias, cajas kraft nuevas, cinta roja lisa, etiquetas blancas o rojas sin texto, cutter rojo liso, estanterias ordenadas, pantalla pequena blanca/gris lisa, luz funcional desde ventanas altas. Cero desorden, cero deterioro.
 
-FICHA 90% VISUAL [GRAFITO]:
+FICHA 90% VISUAL:
 Plancha horizontal 16:9 con grilla exacta. Fila 1: vista amplia de taller, ruta entre mesa y estantes, angulo opuesto, vista lateral de mesa. Fila 2: mesa de empaque, zona de cajas, zona de cinta/etiquetas, pantalla lisa para post. Fila 3: macro de carton kraft nuevo, cinta roja lisa, etiqueta sin texto, cutter rojo, tela/producto doblado, estante limpio, pantalla lisa.
 
-Luz [GRAFITO]:
+Luz:
 Luz fria funcional desde ventana alta, sombras ordenadas, energia de disciplina y eficiencia.
 
-Negativo especifico [GRAFITO]:
+Negativo especifico:
 no Miguel, no people posing, no warehouse mess, no clutter, no damaged cardboard, no shipping logos, no readable labels, no Amazon, no DHL, no FedEx, no UPS, no UI, no text, no orange terminal.
 ```
 
@@ -638,16 +638,16 @@ Color guia: [PLATA] / Locacion L04
 ```text
 Location sheet aislado: workspace moderno mexicano tipo Condesa, limpio y aspiracional. No incluir a Sofia ni personajes principales.
 
-Espacio [PLATA]:
+Espacio:
 Espacio contemporaneo de emprendimiento, sobrio, mexicano urbano, no corporativo, no Silicon Valley generico. Mesa limpia, laptop con pantalla lisa blanca/gris clara, productos de emprendimiento, plantas discretas, taza blanca con detalle rojo liso, cuaderno rojo liso, pluma con clip rojo, luz natural fria elegante.
 
-FICHA 90% VISUAL [PLATA]:
+FICHA 90% VISUAL:
 Plancha horizontal 16:9 con grilla exacta. Fila 1: vista amplia del workspace, angulo desde ventana, angulo hacia mesa, vista lateral de area de trabajo. Fila 2: mesa con laptop lisa, cuaderno rojo, taza, producto, zona de escritura. Fila 3: macro de pantalla sin UI, teclado sin marcas, cuaderno rojo sin texto, pluma con clip rojo, taza blanca sin logo, textura de mesa, planta discreta.
 
-Luz [PLATA]:
+Luz:
 Luz natural fria y elegante, contraste medio, limpieza visual, silencio estrategico.
 
-Negativo especifico [PLATA]:
+Negativo especifico:
 no Sofia, no office stock look, no corporate cubicles, no readable laptop screen, no dashboard, no app UI, no Apple logo, no brands, no text, no labels, no clutter, no orange terminal.
 ```
 
@@ -658,16 +658,16 @@ Color guia: [TERRACOTA] / Locacion L05
 ```text
 Location sheet aislado: tienda de provincia mexicana, calida, contemporanea, cuidada y digna. No incluir a Lupita ni personajes principales.
 
-Espacio [TERRACOTA]:
+Espacio:
 Interior cuidado con productos artesanales mexicanos contemporaneos, madera limpia, ceramica, textiles sobrios, mostrador ordenado, tablet lisa visible, etiqueta roja/blanca sin texto, acento rojo liso cerca de caja. Ventana con calle colonial generica desenfocada, sin monumentos reconocibles.
 
-FICHA 90% VISUAL [TERRACOTA]:
+FICHA 90% VISUAL:
 Plancha horizontal 16:9 con grilla exacta. Fila 1: vista amplia del interior, angulo desde mostrador, angulo hacia ventana, vista lateral de estantes. Fila 2: mostrador, zona de tablet lisa, productos artesanales, punto de empaque/etiquetas. Fila 3: macro de ceramica, madera limpia, textil sobrio, etiqueta roja/blanca sin texto, tablet sin UI, detalle de mostrador, acento rojo controlado.
 
-Luz [TERRACOTA]:
+Luz:
 Luz calida suave y natural, elegante, sin sepia ni cafe decadente.
 
-Negativo especifico [TERRACOTA]:
+Negativo especifico:
 no Lupita, no portrait, no readable signs, no tourist shop, no folkloric cliche, no sombrero, no mariachi, no monument, no dirty walls, no clutter, no UI, no text, no orange terminal.
 ```
 
@@ -678,15 +678,15 @@ Color guia: [NEGRO ORO] / Locacion L06
 ```text
 Location sheet aislado: Mexico nocturno abstracto como red nacional de negocios. No incluir personajes.
 
-Espacio [NEGRO ORO]:
+Espacio:
 Vista aerea poetica de Mexico sugerido por luces, no mapa literal. Miles de puntos dorados calidos como negocios activos, algunos puntos rojo T1 #DA3B2B y lineas finas rojas muy sutiles conectando nodos para sugerir ecosistema comercial. Debe sentirse cinematografico, sobrio, premium y abstracto.
 
-FICHA 90% VISUAL [NEGRO ORO]:
+FICHA 90% VISUAL:
 Plancha horizontal 16:9 con grilla exacta. Fila 1: vista amplia nocturna abstracta, variacion mas cercana, variacion mas lejana, composicion con espacio para cierre en post. Fila 2: nodos dorados, lineas rojas sutiles, textura atmosferica, gradiente nocturno limpio. Fila 3: macro/close abstracto de puntos de luz, conexiones finas, negro mate, dorado tactico, rojo T1 controlado.
 
-Luz [NEGRO ORO]:
+Luz:
 Negros elegantes ligeramente levantados, luces doradas suaves, rojo T1 minimo y preciso.
 
-Negativo especifico [NEGRO ORO]:
+Negativo especifico:
 no literal map, no political borders, no labels, no city names, no satellite UI, no interface, no flags, no national emblem, no eagle, no famous landmarks, no logo generated by AI, no text, no excessive red, no green-white-red palette, no sports event.
 ```
