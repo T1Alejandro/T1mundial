@@ -525,3 +525,168 @@ Composicion central macro de varias manos trabajando sobre fondo neutro de estud
 Negativo especifico [GRAFITO]:
 no full bodies, no faces, no readable bills, no denominations, no official banknote portraits, no text, no logos, no dirty hands, no malformed hands, no extra fingers, no fused fingers, no clutter, no location background.
 ```
+
+## 17. Prompt Pack — Location Sheets Aislados
+
+Estos prompts son derivados de la biblia. Usarlos para aprobar espacios antes de insertar personajes.
+
+Regla principal: las locaciones no deben incluir a Don Rafael, Dona Carmen, Miguel, Sofia ni Lupita. Pueden incluir siluetas anonimas muy desenfocadas solo si ayudan a escala, pero la prioridad es arquitectura, superficies, props de ambiente, luz, limpieza y continuidad espacial.
+
+Modo de uso: copiar primero el Prompt Base De Locaciones y despues el bloque especifico de la locacion.
+
+Guia visual de colores del documento, solo para lectura:
+
+- [DORADO] L01 Tienda pequena Centro Historico.
+- [ROJO T1] L02 Tianguis / mercado.
+- [GRAFITO] L03 Bodega / taller DTC.
+- [PLATA] L04 Workspace moderno.
+- [TERRACOTA] L05 Tienda de provincia.
+- [NEGRO ORO] L06 Mexico nocturno.
+
+### 17.1 [GRIS] Prompt Base De Locaciones
+
+```text
+Haz una imagen amplia horizontal 16:9 tipo location sheet tecnico-premium para T1 v08, "El atleta del comercio mexicano".
+
+La ficha debe servir para continuidad de locacion, direccion de arte, luz, superficies, props de ambiente, color y limpieza. No debe resolver una escena final con personajes principales.
+
+Formato visual [GRIS]:
+Una sola imagen horizontal 16:9, limpia y ordenada, como plancha de continuidad de locacion para produccion. Usar grilla exacta con divisiones finas, rectas y limpias. No usar collage libre, mosaico irregular, panel gigante lateral, recortes flotantes ni composicion vertical.
+
+Estructura obligatoria de la plancha:
+Fila 1: 4 vistas amplias de la locacion: exterior/contexto si aplica, interior principal, angulo opuesto, vista lateral o ruta de camara.
+Fila 2: 4 vistas medias de zonas operativas: mostrador, mesa, superficie de cobro, estantes, ventana/luz, punto de entrada o area de trabajo.
+Fila 3: 5 a 7 detalles macro de materiales y props de ambiente: textura de piso, pared limpia, madera, metal, carton, fruta, ceramica, textiles, pantallas lisas, etiquetas sin texto, acentos rojo T1.
+
+Look [GRIS]:
+Cine independiente mexicano contemporaneo. Sobrio, elegante, humano, aspiracional-real. Fotografia suave, contraste medio, negros ligeramente levantados, altas luces con roll-off analogico, grano fino cinematografico, textura real, lente 24mm/35mm para espacios y 50mm/macro para detalles.
+
+Limpieza [GRIS]:
+Todo debe verse nuevo, limpio, cuidado, mantenido y filmable. Realismo si, suciedad no. Textura si, deterioro no. Sin abandono, sin paredes rotas, sin humedad, sin oxido, sin basura, sin cables desordenados.
+
+Branding/post [GRIS]:
+Pantallas, tablets, laptops, terminales y smartphones deben quedar lisos para post: blanco suave, gris claro, negro mate o reflejo optico real. Sin contenido, sin iconos, sin numeros, sin texto, sin UI, sin graficos. El rojo T1 #DA3B2B aparece solo como acento natural en cinta lisa, etiqueta sin texto, franja lisa, cuaderno, clip, taza, cutter, terminal o detalle pequeno.
+
+Negativo [GRIS]:
+no main characters, no portraits, no text, no captions, no labels, no signage, no readable prices, no menus, no QR, no logos, no brands, no final UI, no readable dashboard, no app interface, no tracking dots, no tracking crosses, no soccer, no football, no futbol, no ball, no stadium, no jersey, no sports uniform, no famous landmarks, no flags, no patriotic styling, no green-white-red dominant palette, no clutter, no trash, no grime, no heavy dust, no rust, no peeling paint, no cracked walls, no dirty floor, no damaged cardboard, no abandoned look, no dangerous neighborhood look, no stock photo look, no vertical sheet, no irregular collage.
+```
+
+### 17.2 [DORADO] L01 Tienda Pequena Centro Historico
+
+Color guia: [DORADO] / Locacion L01
+
+```text
+Location sheet aislado: tienda pequena mexicana limpia en Centro Historico generico. No incluir a Don Rafael ni personajes principales.
+
+Espacio [DORADO]:
+Tienda mexicana digna y cuidada al amanecer. Cortina metalica en excelente estado, fachada generica recien mantenida, interior compacto con mostrador limpio, productos ordenados, piso impecable, estantes sobrios, entrada clara desde la calle. Arquitectura mexicana generica, sin monumentos, sin Catedral, sin Bellas Artes, sin Torre Latinoamericana, sin letreros legibles.
+
+FICHA 90% VISUAL [DORADO]:
+Plancha horizontal 16:9 con grilla exacta. Fila 1: exterior limpio al amanecer, vista desde entrada hacia interior, vista desde interior hacia entrada, angulo lateral del mostrador. Fila 2: mostrador, caja/cajon abstracto, zona para terminal punto de venta generica con impresora integrada y carcasa/acento rojo T1, estantes ordenados. Fila 3: macro de cortina limpia, metal, piso, madera/mostrador, libreta sin texto, pano rojo liso, terminal lisa sin UI.
+
+Luz [DORADO]:
+Amanecer dorado controlado entrando por la puerta, sombras suaves, contraste medio, atmosfera silenciosa y preparada.
+
+Negativo especifico [DORADO]:
+no Don Rafael, no people posing, no readable signs, no logos, no brands, no old dirty shutter, no rust, no peeling paint, no cracked wall, no clutter, no trash, no famous landmarks, no text, no UI, no orange terminal.
+```
+
+### 17.3 [ROJO T1] L02 Tianguis / Mercado
+
+Color guia: [ROJO T1] / Locacion L02
+
+```text
+Location sheet aislado: tianguis mexicano limpio, digno, vibrante pero sobrio. No incluir a Dona Carmen ni personajes principales.
+
+Espacio [ROJO T1]:
+Puesto de frutas frescas y mercado mexicano cuidado. Toldo limpio, cajas ordenadas, pasillos despejados, superficies limpias, frutas calidas como mangos, papayas, jitomates, platanos y mandarinas. Puede haber gente cotidiana muy desenfocada al fondo solo para escala. Evitar verde dominante.
+
+FICHA 90% VISUAL [ROJO T1]:
+Plancha horizontal 16:9 con grilla exacta. Fila 1: vista amplia del puesto sin personaje principal, pasillo limpio, angulo de cobro, vista lateral del toldo. Fila 2: superficie de fruta ordenada, zona de bolsa/entrega, zona para terminal punto de venta generica con impresora integrada y carcasa/acento rojo T1, cajas limpias. Fila 3: macro de fruta fresca, bolsa limpia, etiqueta roja/blanca sin texto, tela de toldo limpia, terminal lisa sin UI, manos anonimas opcionales solo si no dominan.
+
+Luz [ROJO T1]:
+Luz natural de media manana, calida pero limpia, vibrante sin saturacion excesiva.
+
+Negativo especifico [ROJO T1]:
+no Dona Carmen, no portrait, no readable prices, no QR, no logos, no brands, no dirty market, no chaotic clutter, no rotten fruit, no green dominant palette, no orange terminal, no Clip logo, no UI, no text.
+```
+
+### 17.4 [GRAFITO] L03 Bodega / Taller DTC
+
+Color guia: [GRAFITO] / Locacion L03
+
+```text
+Location sheet aislado: bodega / taller DTC limpio, organizado, eficiente y premium-real. No incluir a Miguel ni personajes principales.
+
+Espacio [GRAFITO]:
+Area de empaque con mesas de trabajo limpias, cajas kraft nuevas, cinta roja lisa, etiquetas blancas o rojas sin texto, cutter rojo liso, estanterias ordenadas, pantalla pequena blanca/gris lisa, luz funcional desde ventanas altas. Cero desorden, cero deterioro.
+
+FICHA 90% VISUAL [GRAFITO]:
+Plancha horizontal 16:9 con grilla exacta. Fila 1: vista amplia de taller, ruta entre mesa y estantes, angulo opuesto, vista lateral de mesa. Fila 2: mesa de empaque, zona de cajas, zona de cinta/etiquetas, pantalla lisa para post. Fila 3: macro de carton kraft nuevo, cinta roja lisa, etiqueta sin texto, cutter rojo, tela/producto doblado, estante limpio, pantalla lisa.
+
+Luz [GRAFITO]:
+Luz fria funcional desde ventana alta, sombras ordenadas, energia de disciplina y eficiencia.
+
+Negativo especifico [GRAFITO]:
+no Miguel, no people posing, no warehouse mess, no clutter, no damaged cardboard, no shipping logos, no readable labels, no Amazon, no DHL, no FedEx, no UPS, no UI, no text, no orange terminal.
+```
+
+### 17.5 [PLATA] L04 Workspace Moderno
+
+Color guia: [PLATA] / Locacion L04
+
+```text
+Location sheet aislado: workspace moderno mexicano tipo Condesa, limpio y aspiracional. No incluir a Sofia ni personajes principales.
+
+Espacio [PLATA]:
+Espacio contemporaneo de emprendimiento, sobrio, mexicano urbano, no corporativo, no Silicon Valley generico. Mesa limpia, laptop con pantalla lisa blanca/gris clara, productos de emprendimiento, plantas discretas, taza blanca con detalle rojo liso, cuaderno rojo liso, pluma con clip rojo, luz natural fria elegante.
+
+FICHA 90% VISUAL [PLATA]:
+Plancha horizontal 16:9 con grilla exacta. Fila 1: vista amplia del workspace, angulo desde ventana, angulo hacia mesa, vista lateral de area de trabajo. Fila 2: mesa con laptop lisa, cuaderno rojo, taza, producto, zona de escritura. Fila 3: macro de pantalla sin UI, teclado sin marcas, cuaderno rojo sin texto, pluma con clip rojo, taza blanca sin logo, textura de mesa, planta discreta.
+
+Luz [PLATA]:
+Luz natural fria y elegante, contraste medio, limpieza visual, silencio estrategico.
+
+Negativo especifico [PLATA]:
+no Sofia, no office stock look, no corporate cubicles, no readable laptop screen, no dashboard, no app UI, no Apple logo, no brands, no text, no labels, no clutter, no orange terminal.
+```
+
+### 17.6 [TERRACOTA] L05 Tienda De Provincia
+
+Color guia: [TERRACOTA] / Locacion L05
+
+```text
+Location sheet aislado: tienda de provincia mexicana, calida, contemporanea, cuidada y digna. No incluir a Lupita ni personajes principales.
+
+Espacio [TERRACOTA]:
+Interior cuidado con productos artesanales mexicanos contemporaneos, madera limpia, ceramica, textiles sobrios, mostrador ordenado, tablet lisa visible, etiqueta roja/blanca sin texto, acento rojo liso cerca de caja. Ventana con calle colonial generica desenfocada, sin monumentos reconocibles.
+
+FICHA 90% VISUAL [TERRACOTA]:
+Plancha horizontal 16:9 con grilla exacta. Fila 1: vista amplia del interior, angulo desde mostrador, angulo hacia ventana, vista lateral de estantes. Fila 2: mostrador, zona de tablet lisa, productos artesanales, punto de empaque/etiquetas. Fila 3: macro de ceramica, madera limpia, textil sobrio, etiqueta roja/blanca sin texto, tablet sin UI, detalle de mostrador, acento rojo controlado.
+
+Luz [TERRACOTA]:
+Luz calida suave y natural, elegante, sin sepia ni cafe decadente.
+
+Negativo especifico [TERRACOTA]:
+no Lupita, no portrait, no readable signs, no tourist shop, no folkloric cliche, no sombrero, no mariachi, no monument, no dirty walls, no clutter, no UI, no text, no orange terminal.
+```
+
+### 17.7 [NEGRO ORO] L06 Mexico Nocturno
+
+Color guia: [NEGRO ORO] / Locacion L06
+
+```text
+Location sheet aislado: Mexico nocturno abstracto como red nacional de negocios. No incluir personajes.
+
+Espacio [NEGRO ORO]:
+Vista aerea poetica de Mexico sugerido por luces, no mapa literal. Miles de puntos dorados calidos como negocios activos, algunos puntos rojo T1 #DA3B2B y lineas finas rojas muy sutiles conectando nodos para sugerir ecosistema comercial. Debe sentirse cinematografico, sobrio, premium y abstracto.
+
+FICHA 90% VISUAL [NEGRO ORO]:
+Plancha horizontal 16:9 con grilla exacta. Fila 1: vista amplia nocturna abstracta, variacion mas cercana, variacion mas lejana, composicion con espacio para cierre en post. Fila 2: nodos dorados, lineas rojas sutiles, textura atmosferica, gradiente nocturno limpio. Fila 3: macro/close abstracto de puntos de luz, conexiones finas, negro mate, dorado tactico, rojo T1 controlado.
+
+Luz [NEGRO ORO]:
+Negros elegantes ligeramente levantados, luces doradas suaves, rojo T1 minimo y preciso.
+
+Negativo especifico [NEGRO ORO]:
+no literal map, no political borders, no labels, no city names, no satellite UI, no interface, no flags, no national emblem, no eagle, no famous landmarks, no logo generated by AI, no text, no excessive red, no green-white-red palette, no sports event.
+```
