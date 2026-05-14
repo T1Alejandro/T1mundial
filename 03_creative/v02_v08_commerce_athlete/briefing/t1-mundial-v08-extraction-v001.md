@@ -112,7 +112,7 @@ T1.
 |---|---|---|
 | Don Rafael | Hombre mexicano 55-60, manos trabajadas, mirada digna, pelo entrecano. Comerciante del Centro Historico. | 1, 2, 3, 14 |
 | Dona Carmen | Mujer mexicana 45, pelo recogido, delantal, sonrisa serena. Comerciante de tianguis. | 4, 5 |
-| Miguel | Hombre mexicano 35, fisico atletico delgado, concentrado, manos precisas. Empacador de bodega DTC. | 6, 7 |
+| Miguel | Hombre mexicano 32, fisico atletico delgado, concentrado, manos precisas. Empacador de bodega DTC. | 6, 7 |
 | Sofia | Mujer mexicana 32, founder DTC, pelo lacio negro, mirada analitica, estetica moderna. | 8, 9 |
 | Lupita | Mujer mexicana 50, duena de tienda en provincia, calidez maternal, elegante casual. | 10, 11 |
 | Manos diversas | Comerciantes mexicanos diversos, manos reales y dignas. | 12 |
@@ -124,7 +124,7 @@ T1.
 | Tienda pequena Centro Historico CDMX | 1, 2, 3 | Amanecer, cortina metalica, interior limpio, ritual de apertura. |
 | Tianguis / mercado popular mexicano | 4, 5 | Vibrante, digno, limpio, transaccion y entrega de producto. |
 | Bodega / taller DTC CDMX | 6, 7 | Organizada, funcional, disciplina fisica, empaque preciso. |
-| Workspace moderno Condesa | 8, 9 | Aspiracional, plantas, luz natural, dashboard T1 propio. |
+| Workspace moderno Condesa | 8, 9 | Aspiracional, plantas, luz natural, pantalla blanca o gris clara lisa para post. |
 | Tienda de provincia mexicana | 10, 11 | Calida, contemporanea, artesanal, sin monumentos reconocibles. |
 | Multiples espacios de comercio | 12 | Macro montaje de manos. |
 | Mexico nocturno abstracto | 13 | Red de luces de negocios, sin mapa politico ni labels. |
@@ -141,7 +141,7 @@ T1.
 | 05 | Dona Carmen entrega producto | 0:17-0:20 | Dona Carmen manos | Kling 3.0 |
 | 06 | Miguel empaca con disciplina | 0:20-0:25 | Miguel | Veo 3.1 |
 | 07 | Macro manos cerrando caja | 0:25-0:28 | Miguel manos | Flux 2 Pro |
-| 08 | Sofia analiza dashboard | 0:28-0:33 | Sofia | Veo 3.1 |
+| 08 | Sofia analiza laptop con pantalla lisa | 0:28-0:33 | Sofia | Veo 3.1 |
 | 09 | Manos de Sofia en teclado | 0:33-0:36 | Sofia manos | Flux 2 Pro |
 | 10 | Lupita en tienda de provincia | 0:36-0:41 | Lupita | Seedance 2.0 |
 | 11 | Lupita revisa tablet | 0:41-0:44 | Lupita | Kling 3.0 |

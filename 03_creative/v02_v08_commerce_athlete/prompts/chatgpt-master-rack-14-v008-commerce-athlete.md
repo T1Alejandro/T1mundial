@@ -42,7 +42,7 @@ Generar los personajes con consistencia entre tomas:
 
 * Don Rafael: hombre mexicano 55-60, manos trabajadas, mirada digna, pelo entrecano, comerciante del Centro Historico. Aparece en tomas 01, 02, 03 y cierre de marca si se sugiere humanidad.
 * Dona Carmen: mujer mexicana 45, pelo recogido, delantal, sonrisa serena, comerciante de tianguis. Aparece en tomas 04 y 05.
-* Miguel: hombre mexicano 35, fisico atletico delgado, concentrado, manos precisas, empacador de bodega DTC. Aparece en tomas 06 y 07.
+* Miguel: hombre mexicano 32, fisico atletico delgado, concentrado, manos precisas, empacador de bodega DTC. Aparece en tomas 06 y 07.
 * Sofia: mujer mexicana 32, founder DTC, pelo lacio negro, mirada analitica, estetica moderna. Aparece en tomas 08 y 09.
 * Lupita: mujer mexicana 50, duena de tienda en provincia, calidez maternal, elegante casual. Aparece en tomas 10 y 11.
 * Manos diversas: comerciantes mexicanos diversos, manos reales, dignas, diferentes edades y tonos de piel. Aparecen en toma 12.
@@ -54,7 +54,7 @@ Nadie debe parecer celebridad, figura publica ni atleta real.
 * Pequena tienda en Centro Historico CDMX, amanecer, cortina metalica, calle vacia, arquitectura generica sin marcas.
 * Tianguis/mercado popular mexicano digno, vibrante, limpio, sin marcas comerciales visibles.
 * Bodega/taller DTC organizado, cajas genericas, luz fria funcional dramatica.
-* Workspace moderno tipo Condesa, aspiracional, plantas, luz natural, laptop con dashboard T1 propio.
+* Workspace moderno tipo Condesa, aspiracional, plantas, luz natural, laptop con pantalla blanca o gris clara lisa para post.
 * Tienda en provincia mexicana, arquitectura colonial generica sin monumentos, productos artesanales contemporaneos.
 * Multiples espacios de comercio mexicano para montaje de manos.
 * Mexico nocturno abstracto como red de negocios, sin mapa politico ni labels.
@@ -107,7 +107,7 @@ Nadie debe parecer celebridad, figura publica ni atleta real.
 
 06. Miguel empaca con disciplina
 * Interior de bodega/taller en colonia trabajadora de CDMX, limpio y organizado.
-* Miguel, hombre mexicano 35, delgado atletico, empaca pedidos ecommerce.
+* Miguel, hombre mexicano 32, delgado atletico, empaca pedidos ecommerce.
 * Plano medio que muestra cuerpo completo.
 * Movimientos precisos, ritmicos, disciplinados.
 * Como rutina de gimnasta olimpico, pero sin objetos deportivos.

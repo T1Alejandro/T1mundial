@@ -132,7 +132,7 @@ Doña Carmen:
 Mujer mexicana 45, comerciante de tianguis, pelo recogido, delantal limpio, sonrisa serena, presencia confiable. Aparece en tomas 04 y 05.
 
 Miguel:
-Hombre mexicano 35, físico delgado y atlético, empacador DTC, concentrado, manos precisas. Aparece en tomas 06 y 07.
+Hombre mexicano 32, físico delgado y atlético, empacador DTC, concentrado, manos precisas. Aparece en tomas 06 y 07.
 
 Sofía:
 Mujer mexicana 32, founder DTC, pelo negro lacio, mirada analítica, estética moderna. Aparece en tomas 08 y 09.

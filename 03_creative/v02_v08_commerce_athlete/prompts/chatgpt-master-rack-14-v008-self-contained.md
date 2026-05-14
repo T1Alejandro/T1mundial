@@ -102,7 +102,7 @@ Generar los personajes con consistencia entre tomas:
 
 * Don Rafael: hombre mexicano 55-60, comerciante del Centro Historico, manos trabajadas, pelo entrecano, mirada digna. Aparece en tomas 01, 02, 03 y puede sentirse en el cierre.
 * Dona Carmen: mujer mexicana 45, comerciante de tianguis, pelo recogido, delantal limpio, sonrisa serena, presencia confiable. Aparece en tomas 04 y 05.
-* Miguel: hombre mexicano 35, fisico delgado y atletico, empacador DTC, concentrado, manos precisas. Aparece en tomas 06 y 07.
+* Miguel: hombre mexicano 32, fisico delgado y atletico, empacador DTC, concentrado, manos precisas. Aparece en tomas 06 y 07.
 * Sofia: mujer mexicana 32, founder DTC, pelo negro lacio, mirada analitica, estetica moderna. Aparece en tomas 08 y 09.
 * Lupita: mujer mexicana 50, duena de tienda de provincia, calidez maternal, elegancia digna, mirada segura. Aparece en tomas 10 y 11.
 * Manos diversas: comerciantes mexicanos reales y dignos de distintas edades y tonos de piel. Aparecen en toma 12.
@@ -176,7 +176,7 @@ Nadie debe parecer celebridad, figura publica ni atleta real.
 06.
 * Miguel empaca con disciplina.
 * Interior de bodega/taller DTC en CDMX, limpio, organizado, eficiente.
-* Miguel, hombre mexicano 35, delgado atletico, empaca pedidos ecommerce.
+* Miguel, hombre mexicano 32, delgado atletico, empaca pedidos ecommerce.
 * Plano medio que muestra cuerpo y mesa de trabajo.
 * Movimientos precisos, ritmicos, disciplinados.
 * Cajas kraft nuevas con franja roja lisa sin logo.

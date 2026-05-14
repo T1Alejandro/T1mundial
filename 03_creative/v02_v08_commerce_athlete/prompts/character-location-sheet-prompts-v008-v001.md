@@ -110,7 +110,7 @@ MOOD: Confianza serena. Una mujer que controla su negocio con precision y genero
 ```
 Character sheet cinematografico: Miguel. Codigo P03.
 
-Hombre mexicano 35 anos. Empacador DTC en bodega propia.
+Hombre mexicano 32 anos. Empacador DTC en bodega propia.
 Fisico delgado y atletico, manos precisas con venas sutiles y textura real, concentracion total, piel morena clara, cabello corto, cara limpia sin barba o con barba de tres dias maxima.
 
 ENCUADRE: Retrato medio, camara a nivel de pecho o ligeramente baja.

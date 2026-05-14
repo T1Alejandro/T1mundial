@@ -144,7 +144,7 @@ Dona Carmen:
 Mujer mexicana 45, comerciante de tianguis, pelo recogido, delantal, sonrisa serena, presencia confiable. Aparece en tomas 04 y 05.
 
 Miguel:
-Hombre mexicano 35, fisico delgado y atletico, empacador DTC, concentrado, manos precisas. Aparece en tomas 06 y 07.
+Hombre mexicano 32, fisico delgado y atletico, empacador DTC, concentrado, manos precisas. Aparece en tomas 06 y 07.
 
 Sofia:
 Mujer mexicana 32, founder DTC, pelo negro lacio, mirada analitica, estetica moderna. Aparece en tomas 08 y 09.
@@ -270,7 +270,7 @@ Formato obligatorio: una sola imagen horizontal grande en cuadricula exacta de 6
 Fila 1:
 01 Don Rafael. Hombre mexicano 55-60, comerciante Centro Historico, pelo entrecano, manos trabajadas, mirada digna, tienda pequena limpia, luz de amanecer.
 02 Dona Carmen. Mujer mexicana 45, comerciante de tianguis, pelo recogido, delantal limpio con vivo rojo, sonrisa serena, frutas frescas.
-03 Miguel. Hombre mexicano 35, fisico delgado atletico, empacador DTC, bodega limpia, cajas kraft nuevas, cinta roja lisa.
+03 Miguel. Hombre mexicano 32, fisico delgado atletico, empacador DTC, bodega limpia, cajas kraft nuevas, cinta roja lisa.
 04 Sofia. Mujer mexicana 32, founder DTC, pelo negro lacio, mirada analitica, workspace limpio tipo Condesa, laptop lisa.
 05 Lupita. Mujer mexicana 50, duena de tienda de provincia, calidez maternal, elegancia digna, textiles/ceramica/madera limpia, tablet lisa.
 06 Manos diversas. Manos mexicanas reales y dignas, distintas edades y tonos de piel, acciones de comercio: contar dinero abstracto, sellar caja, pegar etiqueta sin texto, tocar terminal lisa, doblar prenda, escribir nota sin texto legible, firmar entrega sin texto legible.

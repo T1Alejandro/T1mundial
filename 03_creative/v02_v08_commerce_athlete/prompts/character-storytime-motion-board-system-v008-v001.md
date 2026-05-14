@@ -179,7 +179,7 @@ Secuencia:
 Prompt de imagen storyboard:
 
 ```text
-Miguel, Mexican man 35, lean athletic DTC packer, black/charcoal shirt with tiny red seam, clean organized packing workshop. Create an 8-panel cinematic storytime board: hero at worktable, macro folding product, placing product into kraft box, closing box flaps, grabbing clean red/plain tape, sealing box in a precise lateral motion, applying blank label, final focused hero pose with finished package. Cool functional window light, immaculate warehouse, no logos, no text, no clutter.
+Miguel, Mexican man 32, lean athletic DTC packer, black/charcoal shirt with tiny red seam, clean organized packing workshop. Create an 8-panel cinematic storytime board: hero at worktable, macro folding product, placing product into kraft box, closing box flaps, grabbing clean red/plain tape, sealing box in a precise lateral motion, applying blank label, final focused hero pose with finished package. Cool functional window light, immaculate warehouse, no logos, no text, no clutter.
 ```
 
 ## Sofía — Storytime Board

@@ -153,7 +153,7 @@ Fallo automatico si:
 |---|---|
 | Don Rafael | 55-60, comerciante Centro Historico, pelo entrecano, manos trabajadas, mirada digna, camisa oscura, tienda pequena limpia, amanecer. |
 | Dona Carmen | 45, tianguis, pelo recogido, sonrisa serena, delantal limpio, frutas calidas, terminal/superficie lisa sin logo. |
-| Miguel | 35, empacador DTC, delgado atletico, concentrado, camiseta negra/gris, cajas kraft limpias, bodega ordenada. |
+| Miguel | 32, empacador DTC, delgado atletico, concentrado, camiseta negra/gris, cajas kraft limpias, bodega ordenada. |
 | Sofia | 32, founder DTC, pelo negro lacio, mirada analitica, workspace moderno, laptop lisa, cuaderno/clip/acento rojo. |
 | Lupita | 50, tienda de provincia, calidez maternal, elegancia digna, rebozo terracota/rojo/marron, tablet lisa. |
 | Manos diversas | Macro creible, distintas edades/tonos, dinero abstracto mexicano, caja, etiqueta, terminal, libreta; manos anatomicas. |
