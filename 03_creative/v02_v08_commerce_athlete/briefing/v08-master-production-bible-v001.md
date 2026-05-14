@@ -95,6 +95,9 @@ No generar logos T1 con AI. No generar UI final con AI. No generar textos T1. No
 
 Pantallas, tablets, laptops, terminales y smartphones deben quedar lisos para post: blanco suave, gris claro, negro mate o reflejo optico real. Sin contenido, sin iconos, sin numeros, sin texto, sin UI, sin graficos.
 
+Terminal punto de venta:
+Cuando aparezca una terminal de cobro, debe ser generica, vertical, moderna, con impresora integrada arriba para ticket en blanco sin texto, cuerpo frontal negro/blanco, laterales o carcasa en rojo T1 #DA3B2B en lugar de naranja. Pantalla lisa blanca/gris/negro mate sin UI, sin numeros, sin monto, sin teclado visible legible, sin botones con texto, sin logo ni marca. Inspiracion funcional: terminal portable con impresora integrada, no telefono comun y no tablet.
+
 ## 07. Realismo Premium
 
 Preservar identidad, edad, gesto, composicion y color grading.
@@ -127,13 +130,13 @@ Regla clave: el character sheet no debe resolver la locacion final. Debe control
 
 Hombre mexicano 55-60, comerciante del Centro Historico, manos trabajadas, pelo entrecano, mirada digna. Aparece en tomas 01, 02, 03 y puede sentirse en cierre.
 
-Character sheet aislado: fondo neutro de estudio gris claro o blanco roto, sin tienda final. Vestuario sobrio: camisa gris cromo, pantalon oscuro, zapatos limpios. Props personales: llaves, pano rojo liso, libreta pequena sin texto, terminal generica lisa solo como referencia de escala si hace falta.
+Character sheet aislado: fondo neutro de estudio gris claro o blanco roto, sin tienda final. Vestuario sobrio: camisa gris cromo, pantalon oscuro, zapatos limpios. Props personales: llaves, pano rojo liso, libreta pequena sin texto, terminal punto de venta generica con impresora integrada, pantalla lisa sin UI y carcasa/acento rojo T1 solo como referencia de escala si hace falta.
 
 ### Dona Carmen
 
 Mujer mexicana 45, comerciante de tianguis, pelo recogido, delantal limpio, sonrisa serena, presencia confiable. Aparece en tomas 04 y 05.
 
-Character sheet aislado: fondo neutro de estudio gris claro o blanco roto, sin puesto de frutas final. Vestuario: blusa clara limpia, delantal gris oscuro o negro con vivo rojo sutil. Props personales: bolsa limpia, fruta fresca aislada, terminal blanca lisa, pano o etiqueta roja sin texto.
+Character sheet aislado: fondo neutro de estudio gris claro o blanco roto, sin puesto de frutas final. Vestuario: blusa clara limpia, delantal gris oscuro o negro con vivo rojo sutil. Props personales: bolsa limpia, fruta fresca aislada, terminal punto de venta generica con impresora integrada, pantalla lisa sin UI y carcasa/acento rojo T1, pano o etiqueta roja sin texto.
 
 ### Miguel
 
@@ -159,7 +162,7 @@ No es un personaje unico. Representa millones de manos trabajando con precision.
 
 Character sheet aislado: modulos macro de manos mexicanas reales de distintas edades y tonos de piel. No cuerpo completo. Priorizar textura de piel, nudillos, unas naturales, pliegues, venas sutiles, cuticulas y anatomia perfecta.
 
-Gestos: contar billetes abstractos inspirados en billetes mexicanos sin denominaciones ni retratos; cerrar caja kraft con cinta roja lisa; pegar etiqueta roja o blanca sin texto; presionar terminal blanca lisa; doblar prenda; firmar nota ilegible; acomodar fruta; sujetar tablet lisa.
+Gestos: contar billetes abstractos inspirados en billetes mexicanos sin denominaciones ni retratos; cerrar caja kraft con cinta roja lisa; pegar etiqueta roja o blanca sin texto; presionar terminal punto de venta generica con impresora integrada, pantalla lisa sin UI y carcasa/acento rojo T1; doblar prenda; firmar nota ilegible; acomodar fruta; sujetar tablet lisa.
 
 ## 10. Locaciones Oficiales
 
@@ -367,7 +370,7 @@ Branding [GRIS]:
 Usar rojo T1 #DA3B2B solo como acento natural y controlado en costura, vivo, ribete, cinta, etiqueta sin texto, cuaderno, clip, cutter, arete o prop. No generar logo T1, no texto T1, no UI, no dashboard, no stickers con palabras, no puntos/cruces de tracking.
 
 Negativo [GRIS]:
-no text, no captions, no labels, no names, no numbers, no watermarks, no logos, no brands, no final UI, no readable dashboard, no app interface, no sticker text, no tracking dots, no tracking crosses, no brown background, no cafe background, no sepia background, no taupe background, no tan background, no warm brown wall, no textured brown wall, no wood background, no store background, no market background, no warehouse background, no office background, no province shop background, no vertical sheet, no portrait layout, no irregular collage, no giant side panel, no freeform mosaic, no soccer, no football, no futbol, no ball, no stadium, no jersey, no sports uniform, no celebrity likeness, no public figure likeness, no plastic skin, no waxy skin, no airbrushed skin, no distorted hands, no extra fingers, no malformed faces, no dirty clothes, no grime, no trash, no clutter, no stock photo look.
+no text, no captions, no labels, no names, no numbers, no watermarks, no logos, no brands, no Clip logo, no payment brand logo, no orange terminal, no orange casing, no final UI, no readable dashboard, no app interface, no readable amount, no keypad numbers, no printed ticket text, no sticker text, no tracking dots, no tracking crosses, no brown background, no cafe background, no sepia background, no taupe background, no tan background, no warm brown wall, no textured brown wall, no wood background, no store background, no market background, no warehouse background, no office background, no province shop background, no vertical sheet, no portrait layout, no irregular collage, no giant side panel, no freeform mosaic, no soccer, no football, no futbol, no ball, no stadium, no jersey, no sports uniform, no celebrity likeness, no public figure likeness, no plastic skin, no waxy skin, no airbrushed skin, no distorted hands, no extra fingers, no malformed faces, no dirty clothes, no grime, no trash, no clutter, no stock photo look.
 ```
 
 ### 16.2 [AMARILLO] Don Rafael
@@ -386,13 +389,13 @@ Vestuario [AMARILLO]:
 Camisa gris cromo, pantalon oscuro, zapatos limpios. Ropa realista, digna, sin marcas, sin logotipos, sin uniforme deportivo. Posible costura o pequeno vivo rojo T1 #DA3B2B muy discreto.
 
 Props personales [AMARILLO]:
-Llaves limpias, pano rojo liso, libreta pequena sin texto, terminal generica lisa solo como referencia de escala si hace falta. Todos los props sin logos ni texto.
+Llaves limpias, pano rojo liso, libreta pequena sin texto, terminal punto de venta generica con impresora integrada arriba, ticket blanco sin texto, frontal negro/blanco, pantalla lisa sin UI y carcasa/acento rojo T1 #DA3B2B solo como referencia de escala si hace falta. Todos los props sin logos ni texto.
 
 Pose cinematografica hero [AMARILLO]:
 Don Rafael de pie, manos cerca del pecho o cintura, postura preparada como alguien que inicia una jornada importante. Luz lateral suave, fondo neutro gris claro/blanco roto, silencio y dignidad.
 
 Negativo especifico [AMARILLO]:
-no shop interior, no storefront, no shutter, no street, no products, no signage, no readable text, no logos, no sports references, no brown background, no cafe background, no sepia, no taupe, no tan wall, no textured brown wall, no vertical sheet, no irregular collage, no giant side panel, no celebrity likeness, no plastic skin, no distorted hands.
+no shop interior, no storefront, no shutter, no street, no products, no signage, no readable text, no logos, no Clip logo, no payment brand logo, no orange terminal, no orange casing, no readable UI, no readable amount, no keypad numbers, no printed ticket text, no sports references, no brown background, no cafe background, no sepia, no taupe, no tan wall, no textured brown wall, no vertical sheet, no irregular collage, no giant side panel, no celebrity likeness, no plastic skin, no distorted hands.
 ```
 
 ### 16.3 [ROJO T1] Dona Carmen
@@ -405,19 +408,19 @@ Dona Carmen. Mujer mexicana 45, comerciante de tianguis, pelo recogido, delantal
 Character sheet aislado. No ponerla en puesto de frutas ni mercado. No mostrar toldos, cajas de mercado, pasillos, letreros ni clientes. Fondo neutro de estudio gris claro o blanco roto, sin cafe/beige dominante.
 
 FICHA 90% VISUAL [ROJO T1]:
-Plancha de continuidad con rotacion 360. Fila superior: cuerpo completo en 5 vistas, frontal, 3/4 izquierda, perfil izquierdo, posterior, 3/4 derecha/perfil derecho. Filas medias: bustos de rostro en frontal, 3/4, perfil y mirada lateral, manteniendo pelo recogido, rasgos, edad y presencia serena. Fila inferior: manos limpias de trabajo en macro, detalle de blusa, delantal, vivo rojo, bolsa limpia, fruta aislada, terminal blanca lisa y etiqueta sin texto. Rostro real, amable y concentrado. Manos: unas naturales, pliegues, cuticulas, gestos de cobro y entrega. Anatomia perfecta.
+Plancha de continuidad con rotacion 360. Fila superior: cuerpo completo en 5 vistas, frontal, 3/4 izquierda, perfil izquierdo, posterior, 3/4 derecha/perfil derecho. Filas medias: bustos de rostro en frontal, 3/4, perfil y mirada lateral, manteniendo pelo recogido, rasgos, edad y presencia serena. Fila inferior: manos limpias de trabajo en macro, detalle de blusa, delantal, vivo rojo, bolsa limpia, fruta aislada, terminal punto de venta generica con impresora integrada, pantalla lisa y carcasa/acento rojo T1, etiqueta sin texto. Rostro real, amable y concentrado. Manos: unas naturales, pliegues, cuticulas, gestos de cobro y entrega. Anatomia perfecta.
 
 Vestuario [ROJO T1]:
 Blusa clara limpia, delantal gris oscuro o negro con vivo rojo T1 #DA3B2B sutil. Pelo recogido natural. Ropa digna, realista, sin marcas, sin logos, sin uniforme deportivo.
 
 Props personales [ROJO T1]:
-Bolsa limpia, fruta fresca aislada como prop de mano, terminal blanca lisa, pano o etiqueta roja sin texto. Props limpios, sin marca, sin QR, sin texto.
+Bolsa limpia, fruta fresca aislada como prop de mano, terminal punto de venta generica vertical con impresora integrada arriba, ticket blanco sin texto, frontal negro/blanco, pantalla lisa sin UI y carcasa/acento rojo T1 #DA3B2B, pano o etiqueta roja sin texto. Props limpios, sin marca, sin QR, sin texto.
 
 Pose cinematografica hero [ROJO T1]:
 Dona Carmen de pie, manos listas para entregar o cobrar, mirada serena hacia fuera de cuadro. Luz suave de estudio, fondo neutro gris claro/blanco roto, presencia humana confiable.
 
 Negativo especifico [ROJO T1]:
-no market, no fruit stand background, no awning, no customers, no readable signs, no QR, no logos, no clutter, no green dominant palette, no plastic skin, no malformed hands.
+no market, no fruit stand background, no awning, no customers, no readable signs, no QR, no logos, no Clip logo, no payment brand logo, no orange terminal, no orange casing, no readable UI, no readable amount, no keypad numbers, no printed ticket text, no clutter, no green dominant palette, no plastic skin, no malformed hands.
 ```
 
 ### 16.4 [AZUL] Miguel
@@ -508,10 +511,10 @@ FICHA 90% VISUAL [GRAFITO]:
 Modulos macro de manos con distintos gestos, todos limpios y cinematograficos. No cuerpo completo. Priorizar textura de piel, nudillos, unas naturales, pliegues, venas sutiles, cuticulas, anatomia perfecta.
 
 Gestos [GRAFITO]:
-Contar billetes abstractos inspirados en billetes mexicanos sin denominaciones ni retratos; cerrar caja kraft con cinta roja lisa; pegar etiqueta roja o blanca sin texto; presionar terminal blanca lisa; doblar prenda; firmar nota ilegible; acomodar fruta; sujetar tablet lisa.
+Contar billetes abstractos inspirados en billetes mexicanos sin denominaciones ni retratos; cerrar caja kraft con cinta roja lisa; pegar etiqueta roja o blanca sin texto; presionar terminal punto de venta generica con impresora integrada, pantalla lisa sin UI y carcasa/acento rojo T1; doblar prenda; firmar nota ilegible; acomodar fruta; sujetar tablet lisa.
 
 Props [GRAFITO]:
-Carton kraft nuevo, cinta roja lisa, etiqueta sin texto, terminal lisa, madera limpia, tela con fibras, fruta fresca aislada, ceramica, libreta sin texto.
+Carton kraft nuevo, cinta roja lisa, etiqueta sin texto, terminal punto de venta generica vertical con impresora integrada, pantalla lisa sin UI y carcasa/acento rojo T1, madera limpia, tela con fibras, fruta fresca aislada, ceramica, libreta sin texto.
 
 Paleta [GRAFITO]:
 Piel calida real, gris claro, blanco roto, carton nuevo en pequena proporcion, rojo T1 #DA3B2B como acento de herramientas y etiquetas.
