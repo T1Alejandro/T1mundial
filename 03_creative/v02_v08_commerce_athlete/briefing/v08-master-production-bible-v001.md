@@ -121,37 +121,37 @@ No paredes sucias, no pintura descarapelada, no oxido, no polvo pesado, no basur
 
 Los personajes deben aprobarse en character sheets aislados antes de insertarse en locaciones finales.
 
-Regla clave: el character sheet no debe resolver la locacion final. Debe controlar identidad, edad, cuerpo, rostro, manos, vestuario y props personales. Fondo neutro, limpio, cinematografico, sin tienda/tianguis/bodega/workspace reconocible.
+Regla clave: el character sheet no debe resolver la locacion final. Debe controlar identidad, edad, cuerpo, rostro, manos, vestuario y props personales. Fondo neutro de estudio gris claro o blanco roto, limpio, cinematografico, sin tienda/tianguis/bodega/workspace reconocible y sin cafe/beige dominante.
 
 ### Don Rafael
 
 Hombre mexicano 55-60, comerciante del Centro Historico, manos trabajadas, pelo entrecano, mirada digna. Aparece en tomas 01, 02, 03 y puede sentirse en cierre.
 
-Character sheet aislado: fondo neutro calido, sin tienda final. Vestuario sobrio: camisa oscura, pantalon oscuro, zapatos limpios. Props personales: llaves, pano rojo liso, libreta pequena sin texto, terminal generica lisa solo como referencia de escala si hace falta.
+Character sheet aislado: fondo neutro de estudio gris claro o blanco roto, sin tienda final. Vestuario sobrio: camisa oscura, pantalon oscuro, zapatos limpios. Props personales: llaves, pano rojo liso, libreta pequena sin texto, terminal generica lisa solo como referencia de escala si hace falta.
 
 ### Dona Carmen
 
 Mujer mexicana 45, comerciante de tianguis, pelo recogido, delantal limpio, sonrisa serena, presencia confiable. Aparece en tomas 04 y 05.
 
-Character sheet aislado: fondo neutro calido, sin puesto de frutas final. Vestuario: blusa clara limpia, delantal gris oscuro o negro con vivo rojo sutil. Props personales: bolsa limpia, fruta fresca aislada, terminal blanca lisa, pano o etiqueta roja sin texto.
+Character sheet aislado: fondo neutro de estudio gris claro o blanco roto, sin puesto de frutas final. Vestuario: blusa clara limpia, delantal gris oscuro o negro con vivo rojo sutil. Props personales: bolsa limpia, fruta fresca aislada, terminal blanca lisa, pano o etiqueta roja sin texto.
 
 ### Miguel
 
 Hombre mexicano 32, fisico delgado y atletico, empacador DTC, concentrado, manos precisas. Aparece en tomas 06 y 07.
 
-Character sheet aislado: fondo neutro frio, sin bodega final. Vestuario: camiseta negra o gris carbon basica con costura roja minima, pantalon oscuro, tenis genericos sin logo. Props personales: caja kraft limpia, cinta roja lisa, etiqueta sin texto, cutter rojo liso.
+Character sheet aislado: fondo neutro de estudio gris claro o blanco roto, sin bodega final. Vestuario: camiseta negra o gris carbon basica con costura roja minima, pantalon oscuro, tenis genericos sin logo. Props personales: caja kraft limpia, cinta roja lisa, etiqueta sin texto, cutter rojo liso.
 
 ### Sofia
 
 Mujer mexicana 32, founder DTC, pelo negro lacio, mirada analitica, estetica moderna. Aparece en tomas 08 y 09.
 
-Character sheet aislado: fondo neutro limpio, sin workspace final. Vestuario: blusa negra o camisa blanca minimalista con costura roja discreta. Props personales: laptop lisa, cuaderno rojo liso, pluma con clip rojo, taza blanca con detalle rojo sin logo.
+Character sheet aislado: fondo neutro de estudio gris claro o blanco roto, sin workspace final. Vestuario: blusa negra o camisa blanca minimalista con costura roja discreta. Props personales: laptop lisa, cuaderno rojo liso, pluma con clip rojo, taza blanca con detalle rojo sin logo.
 
 ### Lupita
 
 Mujer mexicana 50, duena de tienda de provincia, calidez maternal, elegancia digna, mirada segura. Aparece en tomas 10 y 11.
 
-Character sheet aislado: fondo neutro calido, sin tienda final. Vestuario: ropa casual elegante, textiles sobrios, posible rebozo terracota/rojo/marron controlado. Props personales: tablet lisa, etiqueta roja o blanca sin texto, pieza de ceramica o textil limpio.
+Character sheet aislado: fondo neutro de estudio gris claro o blanco roto, sin tienda final. Vestuario: ropa casual elegante, textiles sobrios, posible rebozo terracota/rojo/marron controlado. Props personales: tablet lisa, etiqueta roja o blanca sin texto, pieza de ceramica o textil limpio.
 
 ### Manos Diversas
 
@@ -323,28 +323,29 @@ Fase 6 aprobada si logo, slogan, UI real, color, sonido, musica y VO quedan inte
 
 Estos prompts son derivados de la biblia. Usarlos para aprobar identidad, edad, cuerpo, rostro, manos, vestuario y props personales antes de insertar personajes en locaciones.
 
-Regla principal: no usar locaciones finales. Fondo neutro, limpio, cinematografico, sin tienda, sin tianguis, sin bodega, sin workspace y sin tienda de provincia reconocible.
+Regla principal: no usar locaciones finales. Fondo neutro de estudio gris claro o blanco roto, limpio, cinematografico, sin tienda, sin tianguis, sin bodega, sin workspace, sin tienda de provincia reconocible y sin cafe/beige dominante.
 
 Modo de uso: para generar cada personaje, copiar primero el Prompt Base General y despues el bloque especifico del personaje.
 
-Guia visual de colores del documento:
-<span style="background:#2F2F2F;color:#FFFFFF;padding:2px 8px;border-radius:4px;">BASE GENERAL</span>
-<span style="background:#8A6A3D;color:#FFFFFF;padding:2px 8px;border-radius:4px;">DON RAFAEL</span>
-<span style="background:#B5523A;color:#FFFFFF;padding:2px 8px;border-radius:4px;">DONA CARMEN</span>
-<span style="background:#355C7D;color:#FFFFFF;padding:2px 8px;border-radius:4px;">MIGUEL</span>
-<span style="background:#4F5D75;color:#FFFFFF;padding:2px 8px;border-radius:4px;">SOFIA</span>
-<span style="background:#8B4E3C;color:#FFFFFF;padding:2px 8px;border-radius:4px;">LUPITA</span>
-<span style="background:#5E5E5E;color:#FFFFFF;padding:2px 8px;border-radius:4px;">MANOS DIVERSAS</span>
+Guia visual de colores del documento, solo para lectura:
 
-### 16.1 <span style="color:#2F2F2F;">Prompt Base General</span>
+- [GRIS] Base general.
+- [AMARILLO] Don Rafael.
+- [ROJO T1] Dona Carmen.
+- [AZUL] Miguel.
+- [PLATA] Sofia.
+- [TERRACOTA] Lupita.
+- [GRAFITO] Manos diversas.
+
+### 16.1 [GRIS] Prompt Base General
 
 ```text
 Haz una imagen amplia tipo model sheet tecnico-premium para T1 v08, "El atleta del comercio mexicano".
 
 La ficha debe servir para continuidad de personaje, casting, vestuario, manos y props personales. No debe resolver una escena final ni una locacion final.
 
-Formato visual:
-Una sola imagen amplia tipo model sheet tecnico-premium, limpia y ordenada, como plancha de continuidad para casting, vestuario y produccion. Fondo neutro cinematografico, sin locacion reconocible.
+Formato visual [GRIS]:
+Una sola imagen amplia tipo model sheet tecnico-premium, limpia y ordenada, como plancha de continuidad para casting, vestuario y produccion. Fondo neutro de estudio gris claro o blanco roto, cinematografico, sin locacion reconocible, sin cafe/beige dominante.
 
 Estructura obligatoria de la plancha:
 Fila 1: cuerpo completo en rotacion 360 con 5 vistas claras: frontal, 3/4 izquierda, perfil izquierdo, espalda/posterior, 3/4 derecha o perfil derecho. Misma ropa, misma proporcion corporal, misma identidad, misma altura visual.
@@ -354,168 +355,168 @@ Fila 4: detalles macro de manos, vestuario y props personales: manos abiertas, m
 
 Debe sentirse como una ficha de produccion de personaje: utilitaria, legible, premium y precisa. No usar texto, labels, nombres, UI, marcas de agua ni logotipos dentro de la imagen.
 
-Look:
+Look [GRIS]:
 Cine independiente mexicano contemporaneo. Sobrio, elegante, humano, aspiracional-real. Fotografia suave, contraste medio, negros ligeramente levantados, altas luces con roll-off analogico, grano fino cinematografico, textura real, lente 35mm/50mm, profundidad de campo media a shallow.
 
-Realismo:
+Realismo [GRIS]:
 Piel real con poros, lineas finas, variacion tonal, textura de labios, cejas, pestanas, vello fino, manos con pliegues, unas naturales, nudillos, cuticulas y venas sutiles. Cero piel plastica, cero beauty retouch, cero look de banco de imagen.
 
-Branding:
+Branding [GRIS]:
 Usar rojo T1 #DA3B2B solo como acento natural y controlado en costura, vivo, ribete, cinta, etiqueta sin texto, cuaderno, clip, cutter, arete o prop. No generar logo T1, no texto T1, no UI, no dashboard, no stickers con palabras, no puntos/cruces de tracking.
 
-Negativo:
+Negativo [GRIS]:
 no text, no captions, no labels, no names, no numbers, no watermarks, no logos, no brands, no final UI, no readable dashboard, no app interface, no sticker text, no tracking dots, no tracking crosses, no store background, no market background, no warehouse background, no office background, no province shop background, no soccer, no football, no futbol, no ball, no stadium, no jersey, no sports uniform, no celebrity likeness, no public figure likeness, no plastic skin, no waxy skin, no airbrushed skin, no distorted hands, no extra fingers, no malformed faces, no dirty clothes, no grime, no trash, no clutter, no stock photo look.
 ```
 
-### 16.2 <span style="color:#8A6A3D;">Don Rafael</span>
+### 16.2 [AMARILLO] Don Rafael
 
-<span style="background:#8A6A3D;color:#FFFFFF;padding:2px 8px;border-radius:4px;">PERSONAJE P01</span>
+Color guia: [AMARILLO] / Personaje P01
 
 ```text
 Don Rafael. Hombre mexicano 55-60, comerciante del Centro Historico, manos trabajadas, pelo entrecano, mirada digna. Energia: ritual, experiencia, calma, precision, autoridad serena.
 
-Character sheet aislado. No ponerlo dentro de su tienda. No mostrar cortina metalica, mostrador, calle, productos ni fachada. Fondo neutro calido cinematografico.
+Character sheet aislado. No ponerlo dentro de su tienda. No mostrar cortina metalica, mostrador, calle, productos ni fachada. Fondo neutro de estudio gris claro o blanco roto, sin cafe/beige dominante.
 
-FICHA 90% VISUAL:
+FICHA 90% VISUAL [AMARILLO]:
 Plancha de continuidad con rotacion 360. Fila superior: cuerpo completo en 5 vistas, frontal, 3/4 izquierda, perfil izquierdo, posterior, 3/4 derecha/perfil derecho. Filas medias: bustos de rostro en frontal, 3/4, perfil y mirada lateral, manteniendo pelo entrecano, rasgos, edad y gesto. Fila inferior: manos trabajadas en macro, detalle de camisa, zapatos, llaves, pano rojo liso y libreta. Expresion concentrada y digna, no sonriente de publicidad. Manos: nudillos, pliegues, venas sutiles, unas naturales, textura real. Anatomia perfecta.
 
-Vestuario:
+Vestuario [AMARILLO]:
 Camisa oscura sobria, pantalon oscuro, zapatos limpios. Ropa realista, digna, sin marcas, sin logotipos, sin uniforme deportivo. Posible costura o pequeno vivo rojo T1 #DA3B2B muy discreto.
 
-Props personales:
+Props personales [AMARILLO]:
 Llaves limpias, pano rojo liso, libreta pequena sin texto, terminal generica lisa solo como referencia de escala si hace falta. Todos los props sin logos ni texto.
 
-Pose cinematografica hero:
-Don Rafael de pie, manos cerca del pecho o cintura, postura preparada como alguien que inicia una jornada importante. Luz calida lateral, fondo neutro, silencio y dignidad.
+Pose cinematografica hero [AMARILLO]:
+Don Rafael de pie, manos cerca del pecho o cintura, postura preparada como alguien que inicia una jornada importante. Luz lateral suave, fondo neutro gris claro/blanco roto, silencio y dignidad.
 
-Negativo especifico:
+Negativo especifico [AMARILLO]:
 no shop interior, no storefront, no shutter, no street, no products, no signage, no readable text, no logos, no sports references, no celebrity likeness, no plastic skin, no distorted hands.
 ```
 
-### 16.3 <span style="color:#B5523A;">Dona Carmen</span>
+### 16.3 [ROJO T1] Dona Carmen
 
-<span style="background:#B5523A;color:#FFFFFF;padding:2px 8px;border-radius:4px;">PERSONAJE P02</span>
+Color guia: [ROJO T1] / Personaje P02
 
 ```text
 Dona Carmen. Mujer mexicana 45, comerciante de tianguis, pelo recogido, delantal limpio, sonrisa serena, presencia confiable. Energia: generosidad, control, precision, calidez.
 
-Character sheet aislado. No ponerla en puesto de frutas ni mercado. No mostrar toldos, cajas de mercado, pasillos, letreros ni clientes. Fondo neutro calido cinematografico.
+Character sheet aislado. No ponerla en puesto de frutas ni mercado. No mostrar toldos, cajas de mercado, pasillos, letreros ni clientes. Fondo neutro de estudio gris claro o blanco roto, sin cafe/beige dominante.
 
-FICHA 90% VISUAL:
+FICHA 90% VISUAL [ROJO T1]:
 Plancha de continuidad con rotacion 360. Fila superior: cuerpo completo en 5 vistas, frontal, 3/4 izquierda, perfil izquierdo, posterior, 3/4 derecha/perfil derecho. Filas medias: bustos de rostro en frontal, 3/4, perfil y mirada lateral, manteniendo pelo recogido, rasgos, edad y presencia serena. Fila inferior: manos limpias de trabajo en macro, detalle de blusa, delantal, vivo rojo, bolsa limpia, fruta aislada, terminal blanca lisa y etiqueta sin texto. Rostro real, amable y concentrado. Manos: unas naturales, pliegues, cuticulas, gestos de cobro y entrega. Anatomia perfecta.
 
-Vestuario:
+Vestuario [ROJO T1]:
 Blusa clara limpia, delantal gris oscuro o negro con vivo rojo T1 #DA3B2B sutil. Pelo recogido natural. Ropa digna, realista, sin marcas, sin logos, sin uniforme deportivo.
 
-Props personales:
+Props personales [ROJO T1]:
 Bolsa limpia, fruta fresca aislada como prop de mano, terminal blanca lisa, pano o etiqueta roja sin texto. Props limpios, sin marca, sin QR, sin texto.
 
-Pose cinematografica hero:
-Dona Carmen de pie, manos listas para entregar o cobrar, mirada serena hacia fuera de cuadro. Luz calida suave, fondo neutro, presencia humana confiable.
+Pose cinematografica hero [ROJO T1]:
+Dona Carmen de pie, manos listas para entregar o cobrar, mirada serena hacia fuera de cuadro. Luz suave de estudio, fondo neutro gris claro/blanco roto, presencia humana confiable.
 
-Negativo especifico:
+Negativo especifico [ROJO T1]:
 no market, no fruit stand background, no awning, no customers, no readable signs, no QR, no logos, no clutter, no green dominant palette, no plastic skin, no malformed hands.
 ```
 
-### 16.4 <span style="color:#355C7D;">Miguel</span>
+### 16.4 [AZUL] Miguel
 
-<span style="background:#355C7D;color:#FFFFFF;padding:2px 8px;border-radius:4px;">PERSONAJE P03</span>
+Color guia: [AZUL] / Personaje P03
 
 ```text
 Miguel. Hombre mexicano 32, empacador DTC. Fisico delgado y atletico, manos precisas, pelo corto, piel morena clara, expresion concentrada. Energia: disciplina fisica, ritmo, eficiencia, exactitud.
 
-Character sheet aislado. No ponerlo en bodega ni taller final. No mostrar estanterias, mesa de trabajo final, racks, cajas acumuladas ni ambiente de warehouse. Fondo neutro frio cinematografico.
+Character sheet aislado. No ponerlo en bodega ni taller final. No mostrar estanterias, mesa de trabajo final, racks, cajas acumuladas ni ambiente de warehouse. Fondo neutro de estudio gris claro o blanco roto, sin cafe/beige dominante.
 
-FICHA 90% VISUAL:
+FICHA 90% VISUAL [AZUL]:
 Plancha de continuidad con rotacion 360. Fila superior: cuerpo completo en 5 vistas, frontal, 3/4 izquierda, perfil izquierdo, posterior, 3/4 derecha/perfil derecho. Filas medias: bustos de rostro en frontal, 3/4, perfil y mirada lateral, manteniendo pelo corto, piel morena clara, complexión delgada atletica y gesto concentrado. Fila inferior: manos en macro presionando, cerrando, doblando y sujetando props; detalle de camiseta, costura roja minima, caja kraft, cinta roja lisa, etiqueta sin texto y cutter rojo. Rostro realista, concentrado, sin pose de modelo. Nudillos, venas sutiles, unas naturales y anatomia perfecta.
 
-Vestuario:
+Vestuario [AZUL]:
 Camiseta negra o gris carbon basica con costura roja T1 #DA3B2B minima, pantalon oscuro, tenis genericos sin logo. Nada deportivo, nada de jersey, nada de marca.
 
-Props personales:
+Props personales [AZUL]:
 Caja kraft limpia, cinta roja lisa, etiqueta blanca o roja sin texto, cutter rojo liso. Props nuevos, limpios, sin logos y sin texto.
 
-Pose cinematografica hero:
-Miguel de pie con caja kraft o cinta en manos, cuerpo ligeramente inclinado hacia la tarea, tension fisica sobria. Luz fria funcional, fondo neutro, precision y disciplina.
+Pose cinematografica hero [AZUL]:
+Miguel de pie con caja kraft o cinta en manos, cuerpo ligeramente inclinado hacia la tarea, tension fisica sobria. Luz suave de estudio ligeramente fria, fondo neutro gris claro/blanco roto, precision y disciplina.
 
-Negativo especifico:
+Negativo especifico [AZUL]:
 no warehouse background, no shelves, no clutter, no logos, no shipping brands, no readable labels, no sportswear, no jersey, no plastic skin, no distorted hands, no extra fingers.
 ```
 
-### 16.5 <span style="color:#4F5D75;">Sofia</span>
+### 16.5 [PLATA] Sofia
 
-<span style="background:#4F5D75;color:#FFFFFF;padding:2px 8px;border-radius:4px;">PERSONAJE P04</span>
+Color guia: [PLATA] / Personaje P04
 
 ```text
 Sofia. Mujer mexicana 32, founder DTC, pelo negro lacio, mirada analitica, estetica moderna. Energia: estrategia, control mental, velocidad, decision.
 
-Character sheet aislado. No ponerla en workspace final. No mostrar oficina, escritorio final, plantas de ambiente, pared de oficina ni setup reconocible. Fondo neutro limpio cinematografico.
+Character sheet aislado. No ponerla en workspace final. No mostrar oficina, escritorio final, plantas de ambiente, pared de oficina ni setup reconocible. Fondo neutro de estudio gris claro o blanco roto, sin cafe/beige dominante.
 
-FICHA 90% VISUAL:
+FICHA 90% VISUAL [PLATA]:
 Plancha de continuidad con rotacion 360. Fila superior: cuerpo completo en 5 vistas, frontal, 3/4 izquierda, perfil izquierdo, posterior, 3/4 derecha/perfil derecho. Filas medias: bustos de rostro en frontal, 3/4, perfil y mirada lateral, manteniendo pelo negro lacio, rasgos, edad y mirada analitica. Fila inferior: manos en macro tipeando, sujetando pluma y tocando laptop lisa; detalle de blusa/camisa, costura roja discreta, cuaderno rojo, pluma con clip rojo y taza blanca con detalle rojo. Rostro realista, mirada concentrada. Unas naturales, piel real, anatomia perfecta.
 
-Vestuario:
+Vestuario [PLATA]:
 Blusa negra o camisa blanca minimalista con costura roja T1 #DA3B2B discreta. Estilo moderno, sobrio, mexicano urbano, sin look corporativo generico, sin logos.
 
-Props personales:
+Props personales [PLATA]:
 Laptop lisa con pantalla blanca/gris o negro mate sin contenido, cuaderno rojo liso, pluma con clip rojo, taza blanca con detalle rojo sin logo. Todo sin texto, sin UI, sin marcas.
 
-Pose cinematografica hero:
-Sofia en pose de pensamiento/decision, mirada fija y precisa, laptop lisa como prop de estrategia. Luz suave fria, fondo neutro, energia de ajedrecista sin mostrar tablero.
+Pose cinematografica hero [PLATA]:
+Sofia en pose de pensamiento/decision, mirada fija y precisa, laptop lisa como prop de estrategia. Luz suave de estudio ligeramente fria, fondo neutro gris claro/blanco roto, energia de ajedrecista sin mostrar tablero.
 
-Negativo especifico:
+Negativo especifico [PLATA]:
 no office background, no desk setup, no readable screen, no dashboard, no UI, no app interface, no Apple logo, no laptop brand, no corporate stock look, no plastic skin, no malformed hands.
 ```
 
-### 16.6 <span style="color:#8B4E3C;">Lupita</span>
+### 16.6 [TERRACOTA] Lupita
 
-<span style="background:#8B4E3C;color:#FFFFFF;padding:2px 8px;border-radius:4px;">PERSONAJE P05</span>
+Color guia: [TERRACOTA] / Personaje P05
 
 ```text
 Lupita. Mujer mexicana 50, duena de tienda de provincia, calidez maternal, elegancia digna, mirada segura. Energia: confianza, cuidado, oficio, liderazgo local.
 
-Character sheet aislado. No ponerla en tienda de provincia final. No mostrar mostrador, calle colonial, productos artesanales de fondo ni interiores reconocibles. Fondo neutro calido cinematografico.
+Character sheet aislado. No ponerla en tienda de provincia final. No mostrar mostrador, calle colonial, productos artesanales de fondo ni interiores reconocibles. Fondo neutro de estudio gris claro o blanco roto, sin cafe/beige dominante.
 
-FICHA 90% VISUAL:
+FICHA 90% VISUAL [TERRACOTA]:
 Plancha de continuidad con rotacion 360. Fila superior: cuerpo completo en 5 vistas, frontal, 3/4 izquierda, perfil izquierdo, posterior, 3/4 derecha/perfil derecho. Filas medias: bustos de rostro en frontal, 3/4, perfil y mirada lateral, manteniendo rasgos, edad, calidez maternal y elegancia digna. Fila inferior: manos en macro sujetando tablet lisa, etiqueta sin texto o pieza artesanal aislada; detalle de ropa casual elegante, textil sobrio, posible rebozo y acento rojo controlado. Rostro realista, expresion segura y calida. Pliegues, unas naturales, textura real, anatomia perfecta.
 
-Vestuario:
+Vestuario [TERRACOTA]:
 Ropa casual elegante, textiles sobrios, posible rebozo terracota/rojo/marron controlado. Rojo T1 #DA3B2B solo como acento discreto. Sin marcas, sin logos, sin folclor exagerado.
 
-Props personales:
+Props personales [TERRACOTA]:
 Tablet lisa sin UI, etiqueta roja o blanca sin texto, pieza de ceramica o textil limpio como objeto de mano. Props dignos, contemporaneos, sin texto ni marca.
 
-Pose cinematografica hero:
-Lupita de pie o sentada con postura segura, manos sobre tablet lisa o pieza artesanal, mirada tranquila y firme. Luz calida suave, fondo neutro, elegancia humana.
+Pose cinematografica hero [TERRACOTA]:
+Lupita de pie o sentada con postura segura, manos sobre tablet lisa o pieza artesanal, mirada tranquila y firme. Luz suave de estudio, fondo neutro gris claro/blanco roto, elegancia humana.
 
-Negativo especifico:
+Negativo especifico [TERRACOTA]:
 no province shop background, no colonial street, no storefront, no readable signs, no folkloric cliche, no sombrero, no mariachi, no logos, no UI, no plastic skin, no malformed hands.
 ```
 
-### 16.7 <span style="color:#5E5E5E;">Manos Diversas</span>
+### 16.7 [GRAFITO] Manos Diversas
 
-<span style="background:#5E5E5E;color:#FFFFFF;padding:2px 8px;border-radius:4px;">PERSONAJE P06</span>
+Color guia: [GRAFITO] / Personaje P06
 
 ```text
 Manos diversas. Ficha macro de manos mexicanas reales de distintas edades y tonos de piel. No es un personaje unico: es la representacion visual de millones de manos trabajando con precision.
 
-Character sheet aislado. No usar locaciones finales reconocibles. Fondo neutro o superficies limpias abstractas: carton kraft nuevo, madera limpia, tela con fibras, ceramica, blanco cremoso. No tienda, no mercado, no bodega, no oficina, no tienda de provincia reconocible.
+Character sheet aislado. No usar locaciones finales reconocibles. Fondo neutro de estudio gris claro o blanco roto, o superficies limpias abstractas sobre gris/blanco. No tienda, no mercado, no bodega, no oficina, no tienda de provincia reconocible, sin cafe/beige dominante.
 
-FICHA 90% VISUAL:
+FICHA 90% VISUAL [GRAFITO]:
 Modulos macro de manos con distintos gestos, todos limpios y cinematograficos. No cuerpo completo. Priorizar textura de piel, nudillos, unas naturales, pliegues, venas sutiles, cuticulas, anatomia perfecta.
 
-Gestos:
+Gestos [GRAFITO]:
 Contar billetes abstractos inspirados en billetes mexicanos sin denominaciones ni retratos; cerrar caja kraft con cinta roja lisa; pegar etiqueta roja o blanca sin texto; presionar terminal blanca lisa; doblar prenda; firmar nota ilegible; acomodar fruta; sujetar tablet lisa.
 
-Props:
+Props [GRAFITO]:
 Carton kraft nuevo, cinta roja lisa, etiqueta sin texto, terminal lisa, madera limpia, tela con fibras, fruta fresca aislada, ceramica, libreta sin texto.
 
-Paleta:
-Piel calida real, carton nuevo, madera noble, blancos cremosos, rojo T1 #DA3B2B como acento de herramientas y etiquetas.
+Paleta [GRAFITO]:
+Piel calida real, gris claro, blanco roto, carton nuevo en pequena proporcion, rojo T1 #DA3B2B como acento de herramientas y etiquetas.
 
-Pose cinematografica hero:
-Composicion central macro de varias manos trabajando, luz mixta calida/fria, precision colectiva, sensacion de coreografia silenciosa. Orden visual limpio, no collage caotico.
+Pose cinematografica hero [GRAFITO]:
+Composicion central macro de varias manos trabajando sobre fondo neutro de estudio gris claro/blanco roto, luz mixta suave, precision colectiva, sensacion de coreografia silenciosa. Orden visual limpio, no collage caotico.
 
-Negativo especifico:
+Negativo especifico [GRAFITO]:
 no full bodies, no faces, no readable bills, no denominations, no official banknote portraits, no text, no logos, no dirty hands, no malformed hands, no extra fingers, no fused fingers, no clutter, no location background.
 ```
