@@ -72,12 +72,15 @@ El mostrador está dentro del local y permanece siempre del mismo lado.
 Los estantes permanecen en las paredes laterales y/o del fondo.
 La luz cálida de amanecer siempre entra desde la cortina / entrada.
 La terminal, libreta, pluma con clip rojo y trapo rojo deben aparecer en posiciones coherentes: ya están en el mostrador o Don Rafael los mueve claramente con la mano. No deben aparecer mágicamente.
-La terminal debe ser una terminal punto de venta genérica de mostrador, compacta y coherente en escala: pantalla inclinada blanca/gris lisa sobre una base pequeña, aproximadamente 18-22 cm de ancho, no tablet suelta, no laptop, no teléfono gigante, no pantalla sobredimensionada.
+La terminal debe ser una terminal punto de venta portatil generica tipo smart POS con impresora de ticket integrada: cuerpo blanco limpio, laterales y botones/acento en rojo T1 #DA3B2B en lugar de morado, pantalla frontal vertical negra o gris lisa con bisel negro, ranura/rollo de papel en la parte superior, escala compacta de mano, aproximadamente 8-10 cm de ancho y 18-22 cm de alto. Sin marca, sin logo, sin texto, sin numeros, sin monto, sin interfaz, sin ticket con palabras. No debe parecer tablet en base, laptop, telefono gigante ni pantalla sobredimensionada.
+
+ESTADO DE PRODUCCIÓN / LIMPIEZA PREMIUM:
+Todo debe verse nuevo, limpio, cuidado, recientemente pintado y en excelente estado. La fachada exterior debe sentirse recién mantenida: pintura uniforme, muros limpios, zoclo limpio, banqueta cuidada, cortina metálica limpia y pareja, sin óxido, sin rayones, sin abolladuras, sin manchas, sin humedad, sin pintura descarapelada, sin polvo pesado. El interior debe verse impecable: piso limpio, mostrador de madera cuidado, estantes ordenados, productos nuevos y bien acomodados, sin cables visibles ni desorden. Realismo sí, deterioro no. Textura sí, suciedad no.
 
 ESTADO DE CONTINUIDAD:
 Cortina: cerrada -> manos agarran barra -> empieza a subir -> queda a media altura / abierta -> permanece abierta o parcialmente abierta detrás de Don Rafael.
 Don Rafael: exterior -> cortina / umbral -> interior -> recorrido hacia mostrador -> llega al mostrador -> acomoda objetos -> mirada final.
-Terminal punto de venta: aparece en una zona fija del mostrador cuando Don Rafael llega -> él la desliza/alinea o la coloca en su posición final -> permanece en su lugar con la misma escala y forma.
+Terminal punto de venta portatil: aparece en una zona fija del mostrador cuando Don Rafael llega -> él la toma/desliza/alinea o la coloca en su posición final -> permanece en su lugar con la misma escala, forma, cuerpo blanco, acentos rojo T1 y ranura/rollo de papel superior.
 Libreta / pluma / trapo rojo: visibles en mostrador -> alineados por su mano -> permanecen en su lugar.
 Mostrador: siempre mismo lado del local.
 Entrada / cortina: detrás de él o al mismo lado coherente cuando ya está dentro.
@@ -85,10 +88,10 @@ Entrada / cortina: detrás de él o al mismo lado coherente cuando ya está dent
 SECUENCIA DE 12 PANELES:
 
 PANEL 01 — EXTERIOR / LOCAL CERRADO:
-Plano general exterior desde la calle, cámara detrás de Don Rafael, lente 35mm. Don Rafael está de espaldas a cámara, afuera, centrado frente a la cortina metálica cerrada, mirando hacia la cortina. Vemos su espalda, hombros y postura preparada. Fachada mexicana limpia, genérica, sin letreros legibles. Este panel define claramente que él está fuera del local y abrirá desde afuera.
+Plano general exterior desde la calle, cámara detrás de Don Rafael, lente 35mm. Don Rafael está de espaldas a cámara, afuera, centrado frente a la cortina metálica cerrada, mirando hacia la cortina. Vemos su espalda, hombros y postura preparada. Fachada mexicana limpia, genérica, recién pintada y cuidada, sin letreros legibles, sin óxido, sin manchas, sin pintura descarapelada. Este panel define claramente que él está fuera del local y abrirá desde afuera.
 
 PANEL 02 — MANOS EN LA CORTINA:
-Inserto / primer plano de manos desde el lado exterior de la cortina, lente 50mm. Las manos trabajadas de Don Rafael sujetan la barra inferior de la cortina desde afuera. Debe ser claramente la misma cortina del panel 01. Inicio físico de la acción.
+Inserto / primer plano de manos desde el lado exterior de la cortina, lente 50mm. Las manos trabajadas de Don Rafael sujetan la barra inferior de la cortina desde afuera. Debe ser claramente la misma cortina del panel 01: metal limpio, parejo, sin óxido, sin grasa, sin golpes, sin rayones fuertes. Inicio físico de la acción.
 
 PANEL 03 — CORTINA EMPIEZA A SUBIR:
 Plano medio desde atrás de Don Rafael, exterior, lente 35mm. Mismo eje del panel 01: cámara en la calle mirando hacia la cortina. Don Rafael está de espaldas a cámara y empieza a levantar la cortina con ambas manos desde afuera. La cortina se abre apenas; aparece una línea de luz cálida abajo. Gesto sobrio, ritual, nada triunfal.
@@ -109,13 +112,13 @@ PANEL 08 — CAMINA JUNTO AL MOSTRADOR:
 Plano medio lateral, lente 35mm o 50mm. Don Rafael avanza junto al mostrador manteniendo la misma dirección de pantalla del panel 07. La cámara acompaña con paneo suave. El mostrador, estantes y entrada siguen en geometría coherente.
 
 PANEL 09 — LLEGA AL MOSTRADOR:
-Plano medio en mostrador, lente 50mm. Don Rafael llega y gira ligeramente hacia la superficie. La terminal punto de venta genérica blanca/gris lisa ya está visible en una zona fija del mostrador, con escala realista y base pequeña. Libreta, pluma con clip rojo y trapo rojo ya están visibles en el mostrador. El origen de todos los objetos debe ser claro: están sobre el mostrador, no aparecen de la nada.
+Plano medio en mostrador, lente 50mm. Don Rafael llega y gira ligeramente hacia la superficie. La terminal punto de venta portatil generica ya está visible en una zona fija del mostrador, con escala realista de mano: cuerpo blanco, laterales/acento rojo T1 #DA3B2B, pantalla frontal vertical negra/gris lisa, ranura o rollo de papel superior, sin marca ni interfaz. Libreta, pluma con clip rojo y trapo rojo ya están visibles en el mostrador. El origen de todos los objetos debe ser claro: están sobre el mostrador, no aparecen de la nada.
 
 PANEL 10 — COLOCA TERMINAL:
-Macro de manos, lente 100mm. Don Rafael desliza o alinea físicamente la terminal punto de venta blanca/gris lisa sobre el mostrador de madera hasta su posición final. Pantalla lisa inclinada sobre base pequeña, sin logo, sin interfaz, sin texto. La terminal debe mantener escala realista, no parecer tablet gigante. Debe verse claramente que el objeto se mueve por su mano.
+Macro de manos, lente 100mm. Don Rafael toma, desliza o alinea físicamente la terminal punto de venta portatil sobre el mostrador de madera hasta su posición final. La terminal debe verse como smart POS con impresora integrada: cuerpo blanco, laterales/acento rojo T1, pantalla frontal vertical negra/gris lisa, bisel negro, ranura/rollo de papel superior. Sin logo, sin marca, sin interfaz, sin texto, sin numeros, sin monto y sin ticket legible. La terminal debe mantener escala realista de mano, no parecer tablet gigante ni pantalla en base. Debe verse claramente que el objeto se mueve por su mano.
 
 PANEL 11 — ALINEA LIBRETA / PLUMA / TRAPO:
-Macro de objetos, lente 100mm. Sus manos alinean la libreta, la pluma con clip rojo y el trapo rojo doblado junto a la terminal punto de venta. La terminal permanece donde quedó en el panel 10, con misma escala, misma base y misma orientación. Precisión silenciosa, ritual de apertura.
+Macro de objetos, lente 100mm. Sus manos alinean la libreta, la pluma con clip rojo y el trapo rojo doblado junto a la terminal punto de venta portatil. La terminal permanece donde quedó en el panel 10, con misma escala, mismo cuerpo blanco, mismos laterales/acento rojo T1, misma pantalla lisa y misma orientación. Precisión silenciosa, ritual de apertura.
 
 PANEL 12 — TIENDA LISTA:
 Plano medio cerrado natural, lente 50mm. Don Rafael está detrás del mostrador o ligeramente junto a él, a altura realista; el mostrador no debe cortarle el pecho ni flotar a media altura. Mira la tienda lista con calma y dignidad. Los objetos del mostrador permanecen en su posición final, visibles solo si encajan naturalmente en primer plano bajo. La terminal no debe cambiar de tamaño ni posición. La cortina abierta / entrada y la luz de amanecer quedan coherentes al fondo o como bokeh lateral. Cierre emocional.
@@ -129,7 +132,7 @@ No crear retratos genéricos.
 No crear stills desconectados.
 No reacomodar el local entre paneles.
 No mover props salvo que una mano los mueva claramente.
-No cambiar la escala de la terminal punto de venta entre paneles.
+No cambiar la escala, silueta ni color de la terminal punto de venta entre paneles.
 No hacer que el mostrador suba a media altura del pecho en el cierre; mantener altura realista de mostrador.
 No cambiar rostro, edad, vestuario ni complexión de Don Rafael.
 No agregar texto decorativo.
@@ -144,10 +147,10 @@ PANTALLAS Y BRANDING:
 No generar logos T1. No generar interfaz final. No generar tableros legibles. No generar stickers con palabras. No generar puntos o cruces de tracking. Terminal y pantallas deben quedar lisas para postproducción: blanco suave, gris claro, negro mate o reflejo óptico real.
 
 LIMPIEZA:
-Todo nuevo, limpio, cuidado e impecable. Realismo sí, suciedad no. Textura sí, deterioro no. Cortina metálica limpia, tienda limpia, mostrador cuidado, piso impecable, productos ordenados.
+Todo nuevo, limpio, cuidado, recién mantenido e impecable. Realismo sí, suciedad no. Textura sí, deterioro no. Fachada recién pintada, muros limpios, zoclo limpio, banqueta cuidada, cortina metálica limpia y en excelente estado, sin óxido, sin pintura descarapelada, sin manchas, sin polvo pesado, sin abolladuras, sin rayones fuertes. Tienda limpia, mostrador cuidado, piso impecable, productos ordenados.
 
 NEGATIVE PROMPT:
-no hero frame, no dominant large panel, no moodboard, no prop analysis sheet, no casual collage, no random layout, no disconnected frames, no inconsistent geography, no opening shutter from inside, no Don Rafael facing camera while opening shutter, no changing shop layout between panels, no prop teleporting, no object moving by itself, no oversized terminal, no tablet instead of POS terminal, no changing terminal scale, no counter floating at chest height, no repeated generic portraits, no text-dominant layout, no giant text blocks, no decorative captions, no logos, no brands, no readable UI, no readable dashboard, no tracking dots, no tracking crosses, no soccer, no football, no futbol, no ball, no balon, no stadium, no estadio, no cancha, no referee, no player, no jersey, no sports uniform, no FIFA, no World Cup, no Mundial, no Mexico 2026, no flags, no patriotic styling, no green-white-red dominant palette, no famous landmarks, no stock look, no plastic skin, no distorted hands, no extra fingers, no malformed faces, no dirty floors, no grime, no rust, no peeling paint, no clutter, no damaged shutter, no abandoned look.
+no hero frame, no dominant large panel, no moodboard, no prop analysis sheet, no casual collage, no random layout, no disconnected frames, no inconsistent geography, no opening shutter from inside, no Don Rafael facing camera while opening shutter, no changing shop layout between panels, no prop teleporting, no object moving by itself, no oversized terminal, no tablet instead of POS terminal, no laptop-like terminal, no phone-like terminal, no purple terminal, no readable payment amount, no keypad numbers, no printed ticket text, no changing terminal scale, no changing terminal color, no counter floating at chest height, no repeated generic portraits, no text-dominant layout, no giant text blocks, no decorative captions, no logos, no brands, no readable UI, no readable dashboard, no tracking dots, no tracking crosses, no soccer, no football, no futbol, no ball, no balon, no stadium, no estadio, no cancha, no referee, no player, no jersey, no sports uniform, no FIFA, no World Cup, no Mundial, no Mexico 2026, no flags, no patriotic styling, no green-white-red dominant palette, no famous landmarks, no stock look, no plastic skin, no distorted hands, no extra fingers, no malformed faces, no dirty floors, no grime, no rust, no peeling paint, no old facade, no stained walls, no dirty sidewalk, no chipped paint, no damaged metal, no dented shutter, no dusty shutter, no clutter, no damaged shutter, no abandoned look.
 ```
 
 ## Mini Guion Técnico Para Revisar El Output
