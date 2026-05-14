@@ -68,7 +68,7 @@ Hay dos capas:
 
 Correccion respecto al rack escolar: se eliminan verdes escolares/verde bosque dominante como paleta principal porque pueden activar lecturas tricolor, estudiantes o Mundial. El nuevo mundo es comercio mexicano calido + tecnologia T1 roja/limpia.
 
-### Personajes Soul Cast oficiales
+### Personajes principales oficiales
 
 | Personaje | Descripcion | Tomas |
 |---|---|---|
@@ -97,24 +97,29 @@ Correccion respecto al rack escolar: se eliminan verdes escolares/verde bosque d
 
 ### Prioridad inmediata
 
-1. Rehacer sheet de personajes y locaciones usando v08 + anexo, no rack escolar.
-2. Asegurar los 5 personajes con detalles rojos discretos en costuras/vivos/props, sin pulseras por ahora.
-3. Definir locaciones limpias, dignas, mexicanas, sin deterioro ni cliché turistico.
-4. Usar `03_creative/v02_v08_commerce_athlete/prompts/higgsfield-character-location-sheet-v008.md` para generar el nuevo character/location sheet en Higgsfield o ChatGPT Images.
-5. Crear/enriquecer prompt maestro actualizado para storyboard rack 14 tomas con el anexo branding.
-6. Generar rack y revisar contra checklist: legal, branding T1, limpieza, presencia de producto, consistencia Soul Cast.
-7. Usar `03_creative/v02_v08_commerce_athlete/prompts/lora-realism-prompt-system-v001.md` como modulo de realismo premium para piel, manos, materiales limpios y pantallas lisas.
+1. Generar fichas individuales tipo production model sheet para personajes principales usando 90% imagen / 10% texto: cuerpo completo 360, cabeza en angulos, vestuario, props, entorno y prompt base.
+2. Usar `03_creative/v02_v08_commerce_athlete/prompts/character-model-sheet-visual-system-v008-v001.md` como prompt principal de esas fichas.
+3. Crear una ficha storytime / motion board por personaje para definir accion, rotaciones, angulos de camara, cortes, macro inserts y continuidad.
+4. Usar `03_creative/v02_v08_commerce_athlete/prompts/character-storytime-motion-board-system-v008-v001.md` para dirigir esos boards.
+5. Asegurar los 5 personajes con detalles rojos discretos en costuras/vivos/props, sin pulseras por ahora.
+6. Definir locaciones limpias, dignas, mexicanas, sin deterioro ni cliché turistico.
+7. Despues de aprobar fichas individuales y boards, usar `03_creative/v02_v08_commerce_athlete/prompts/higgsfield-character-location-sheet-v008.md` para generar el resumen character/location sheet 6x2 en Higgsfield o ChatGPT Images.
+8. Crear/enriquecer prompts separados de las 14 tomas con el cast principal aprobado.
+9. Usar `03_creative/v02_v08_commerce_athlete/prompts/lora-realism-prompt-system-v001.md` como modulo de realismo premium para piel, manos, materiales limpios y pantallas lisas.
 
 ### Entregables vigentes creados
 
 - `03_creative/v02_v08_commerce_athlete/briefing/t1-mundial-v08-extraction-v001.md` - extraccion operativa del briefing v08.
 - `03_creative/v02_v08_commerce_athlete/script/vo-script-v08-final.md` - guion final con timing.
 - `03_creative/v02_v08_commerce_athlete/prompts/higgsfield-agent-v08-video-execution-prompt-v001.md` - prompt limpio para que el agente produzca el video por fases.
+- `03_creative/v02_v08_commerce_athlete/prompts/character-model-sheet-visual-system-v008-v001.md` - prompt nuevo para fichas visuales individuales 90% imagen / 10% texto, con cuerpo completo 360, cabeza en angulos, props, entorno y prompt base.
+- `03_creative/v02_v08_commerce_athlete/prompts/character-storytime-motion-board-system-v008-v001.md` - prompt nuevo para boards por personaje con accion, camara, cortes, rotaciones, macro inserts y motion direction.
 - `03_creative/v02_v08_commerce_athlete/prompts/character-location-sheet-prompts-v008-v001.md` - prompts individuales de personajes y locaciones v08.
 - `03_creative/v02_v08_commerce_athlete/prompts/chatgpt-master-rack-14-v008-self-contained.md` - prompt autocontenido de 14 tomas para agentes sin contexto local.
 - `03_creative/v02_v08_commerce_athlete/prompts/chatgpt-master-rack-14-v008-commerce-athlete.md` - prompt base del rack v08.
 - `03_creative/v02_v08_commerce_athlete/prompts/higgsfield-character-location-sheet-v008.md` - prompt maestro vigente para sheet de personajes + locaciones con branding T1, limpieza extrema, mood mexicano y negativos legales.
 - `03_creative/v02_v08_commerce_athlete/prompts/lora-realism-prompt-system-v001.md` - modulo de realismo extremo para piel, manos, ojos, materiales limpios y pantallas lisas sin logos/UI generados.
+- `03_creative/v02_v08_commerce_athlete/reviews/step-01-character-location-sheet-validation-v001.md` - checklist de aprobacion de fichas individuales 90/10 y del sheet 6x2 antes de pasar a prompts por toma.
 
 ### Handoff inmediato para Claude / Higgsfield
 
@@ -122,7 +127,7 @@ Abrir primero `HANDS-UP.md`, luego los dos `.docx` de `00_admin/source-materials
 
 Objetivo siguiente: generar un sheet 6x2 de personajes y locaciones que valide:
 
-- 5 personajes Soul Cast consistentes.
+- 5 personajes principales consistentes.
 - Superficies preparadas para post sin logo ni UI generada: terminal, pantalla, etiqueta, cinta, caja, sticker, tablet.
 - Pantallas lisas en blanco/gris/negro mate con reflejo optico, sin puntos/cruces de tracking.
 - Comercio mexicano limpio, nuevo, digno, sin deterioro.
@@ -138,7 +143,7 @@ Objetivo siguiente: generar un sheet 6x2 de personajes y locaciones que valide:
 | Paleta | Verde escolar/bosque dominante puede arrastrar lectura v07/estudiantes/tricolor. | Alta | Abierto | Usar mundo calido mexicano + tecnologia T1 roja/limpia. Evitar verde dominante. |
 | Limpieza visual | AI tiende a meter deterioro, polvo, mercado sucio, paredes viejas o pobreza visual. | Alta | Abierto | Prompts deben exigir todo nuevo, limpio, digno, recientemente cuidado. |
 | UI T1 | Pantallas genericas o marcas de terceros debilitan producto y generan riesgo legal/brand. | Alta | Abierto | Diseñar/solicitar UI propietaria T1 en pantallas: rojo `#DA3B2B`, blanco, grises, sin marcas reales. |
-| Continuidad | Personajes deben mantenerse identicos entre tomas. | Alta | Abierto | Soul Cast obligatorio antes de producir tomas finales. |
+| Continuidad | Personajes deben mantenerse identicos entre tomas. | Alta | Abierto | Cast principal obligatorio antes de producir tomas finales. |
 | Fuente operativa | Hay documentos/racks anteriores que ya no mandan. | Media | En control | Tratar anti-ambush 34, rack 36 futbol y v07 escolar como historial, no fuente vigente. |
 
 ---

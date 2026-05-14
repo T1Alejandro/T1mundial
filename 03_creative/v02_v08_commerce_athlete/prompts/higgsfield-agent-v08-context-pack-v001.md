@@ -28,7 +28,7 @@ Este documento es para pegarlo en el agente de Higgsfield cuando ya esta generan
 Contexto de proyecto:
 Estoy produciendo T1 v08, hero film 60-90s para YouTube. El concepto oficial es "El atleta del comercio mexicano". El protagonista ya NO es futbolista, NO es estudiante y NO hay estadio, balon, cancha, arbitro ni uniforme deportivo. La energia atletica vive en el comercio mexicano: abrir tienda, cobrar, empacar, analizar, entregar, vender y conectar negocios.
 
-Necesito que trabajes desde esta direccion oficial v08. Ignora versiones anteriores de futbol, estadio, rack escolar, anti-ambush escolar o 36 tomas. La version actual son 5 personajes Soul Cast, 6 locaciones base, 14 tomas finales y un cierre T1 en postproduccion.
+Necesito que trabajes desde esta direccion oficial v08. Ignora versiones anteriores de futbol, estadio, rack escolar, anti-ambush escolar o 36 tomas. La version actual son 5 personajes principales, 6 locaciones base, 14 tomas finales y un cierre T1 en postproduccion.
 
 Regla clave:
 No generes logos T1, textos T1, UI final, dashboards legibles, stickers con palabras ni puntos/cruces de tracking. Las pantallas y superficies deben quedar lisas para post: blanco suave, gris claro, negro mate o reflejo optico real. El rojo T1 #DA3B2B solo aparece como acento limpio: pulsera roja, vivo, costura, cinta lisa, etiqueta sin texto, franja roja lisa, cuaderno, taza, cutter, clip, arete o prop rojo.
@@ -132,7 +132,7 @@ Pantallas y superficies: blanco suave, gris claro, negro mate o reflejo optico r
 Rojo T1 #DA3B2B: usar solo como acento natural y controlado en pulsera, vivo, costura, ribete, cinta lisa, etiqueta sin texto, franja roja lisa, cuaderno rojo, taza con detalle rojo liso, cutter rojo, clip rojo, arete rojo o prop rojo.
 ```
 
-## Bloque 05 — Soul Cast Oficial
+## Bloque 05 — Cast Principal Oficial
 
 ```text
 PERSONAJES SOUL CAST:
@@ -265,7 +265,7 @@ Usar este si el agente necesita recordar el sheet 6x2.
 ```text
 Crea UNA imagen tipo character + location sheet cinematografico para T1 v08: "El atleta del comercio mexicano".
 
-Formato obligatorio: una sola imagen horizontal grande en cuadricula exacta de 6 columnas x 2 filas = 12 frames totales. No mas, no menos. Todos los frames deben tener el mismo tamano y proporcion 16:9. Lectura de izquierda a derecha y de arriba hacia abajo. Fila superior: 5 personajes Soul Cast + manos diversas. Fila inferior: 6 locaciones base. No usar collage irregular, layout libre ni mosaico variable. Separacion minima y uniforme entre frames. No pongas texto, nombres, numeros, labels, captions, marcas de agua, logos ni UI final.
+Formato obligatorio: una sola imagen horizontal grande en cuadricula exacta de 6 columnas x 2 filas = 12 frames totales. No mas, no menos. Todos los frames deben tener el mismo tamano y proporcion 16:9. Lectura de izquierda a derecha y de arriba hacia abajo. Fila superior: 5 personajes principales + manos diversas. Fila inferior: 6 locaciones base. No usar collage irregular, layout libre ni mosaico variable. Separacion minima y uniforme entre frames. No pongas texto, nombres, numeros, labels, captions, marcas de agua, logos ni UI final.
 
 Fila 1:
 01 Don Rafael. Hombre mexicano 55-60, comerciante Centro Historico, pelo entrecano, manos trabajadas, mirada digna, tienda pequena limpia, luz de amanecer.
@@ -305,7 +305,7 @@ Tarea para ti como agente de Higgsfield:
 1. Usa el contexto v08 anterior como biblia creativa.
 2. No uses versiones anteriores del proyecto.
 3. Primero termina character + location sheet 6x2.
-4. Mantén consistencia de los 5 personajes Soul Cast.
+4. Mantén consistencia de los 5 personajes principales.
 5. Mantén todas las locaciones ultra limpias y sin deterioro.
 6. Mantén pantallas lisas para post, sin UI ni logos.
 7. Aplica realismo premium en piel, manos y materiales.

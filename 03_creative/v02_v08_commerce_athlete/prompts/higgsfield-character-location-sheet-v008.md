@@ -8,7 +8,7 @@ version: "0.1"
 last_updated: "2026-05-13"
 language: "es"
 audience: ["creative", "production", "ai-agent", "higgsfield"]
-tags: ["v08", "higgsfield", "character-sheet", "location-sheet", "branding", "soul-cast"]
+tags: ["v08", "higgsfield", "character-sheet", "location-sheet", "branding", "character-cast"]
 source_of_truth:
   - "../../../00_admin/source-materials/T1_mundial_v08_Briefing_Alejandro.docx"
   - "../../../00_admin/source-materials/T1_mundial_v08_Anexo_Branding.docx"
@@ -26,7 +26,7 @@ FORMATO OBLIGATORIO:
 Una sola imagen horizontal grande en cuadrícula EXACTA de 6 columnas x 2 filas = 12 frames totales. No más, no menos. Todos los frames deben tener el mismo tamaño y proporción 16:9. Lectura de izquierda a derecha y de arriba hacia abajo. No usar collage irregular, layout libre ni mosaico variable. Separación mínima y uniforme entre frames. No pongas texto, nombres, números, labels, captions, marcas de agua ni UI final.
 
 OBJETIVO DEL SHEET:
-Definir los 5 personajes Soul Cast oficiales y las 6 locaciones base del spot antes de producir las 14 tomas. El sheet debe servir como guía visual de casting, vestuario, props T1, paleta, limpieza, mood mexicano y superficies de marca.
+Definir los 5 personajes principales oficiales y las 6 locaciones base del spot antes de producir las 14 tomas. El sheet debe servir como guía visual de casting, vestuario, props T1, paleta, limpieza, mood mexicano y superficies de marca.
 
 CONCEPTO:
 “El atleta del comercio mexicano”. El comerciante mexicano se filma con precisión, disciplina, concentración y dignidad de atleta de élite, pero sin deporte explícito. No hay fútbol, estadio, balón, cancha, árbitro ni uniforme deportivo. La épica vive en abrir la tienda, cobrar, empacar, analizar, entregar, vender y conectar negocios.

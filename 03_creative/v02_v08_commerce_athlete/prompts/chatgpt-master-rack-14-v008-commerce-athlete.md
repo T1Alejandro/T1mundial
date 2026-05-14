@@ -36,7 +36,7 @@ Cada mexicano que vende es un atleta de su propio negocio. Entrena cada manana c
 * Texturas visibles: metal de cortina, piel, manos, tela, carton, fruta, madera, terminal generica, laptop, tablet.
 * No pobreza extrema, no mugre, no abandono, no decadencia, no paredes destruidas, no marcas visibles.
 
-## Soul Cast / personajes consistentes
+## Cast principal / personajes consistentes
 
 Generar los personajes con consistencia entre tomas:
 

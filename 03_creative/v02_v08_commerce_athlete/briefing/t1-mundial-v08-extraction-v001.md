@@ -106,7 +106,7 @@ T1.
 (silencio. Logo en pantalla. Fade.)
 ```
 
-## Personajes Soul Cast
+## Personajes principales
 
 | Personaje | Descripcion visual | Tomas |
 |---|---|---|
@@ -192,6 +192,6 @@ T1.
 - No cambiar concepto, guion, audiencia ni estrategia sin Arturo.
 - No agregar tomas fuera de las 14.
 - No cambiar estructura de spot sin aprobacion.
-- Soul Cast aprobado antes de producir tomas.
+- cast principal aprobado antes de producir tomas.
 - Minimo 3 variantes por toma.
 - Revisión legal frame por frame antes de publicar.

@@ -1,6 +1,6 @@
 # Character + Location Sheet Prompts — v008 Individual — v001
 
-Prompts individuales para generar cada personaje y locacion del Soul Cast v08.
+Prompts individuales para generar cada personaje y locacion del cast principal v08.
 Cada prompt es autocontenido: incluye look, color, textura, realismo premium, branding, limpieza y negativos.
 Usar en Higgsfield (gpt_image_2, 16:9, 2k, medium) o ChatGPT Images.
 

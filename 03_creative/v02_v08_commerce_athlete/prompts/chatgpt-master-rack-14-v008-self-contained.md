@@ -96,7 +96,7 @@ No modificar el texto del voice over. Usarlo solo como guia emocional, ritmo y t
 * Tienda, mercado, bodega, workspace y tienda de provincia deben verse dignos, ordenados, aspiracionales y recientemente cuidados.
 * No paredes sucias, no pintura descarapelada, no oxido, no polvo pesado, no basura, no humedad, no manchas, no pisos rotos, no objetos viejos, no cables desordenados, no puestos improvisados en mal estado, no sensacion de abandono.
 
-## Soul Cast / personajes consistentes
+## Cast principal / personajes consistentes
 
 Generar los personajes con consistencia entre tomas:
 
