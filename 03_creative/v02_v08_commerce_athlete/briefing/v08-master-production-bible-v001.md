@@ -325,10 +325,21 @@ Estos prompts son derivados de la biblia. Usarlos para aprobar identidad, edad, 
 
 Regla principal: no usar locaciones finales. Fondo neutro, limpio, cinematografico, sin tienda, sin tianguis, sin bodega, sin workspace y sin tienda de provincia reconocible.
 
-### 16.1 Prompt Base General
+Modo de uso: para generar cada personaje, copiar primero el Prompt Base General y despues el bloque especifico del personaje.
+
+Guia visual de colores del documento:
+<span style="background:#2F2F2F;color:#FFFFFF;padding:2px 8px;border-radius:4px;">BASE GENERAL</span>
+<span style="background:#8A6A3D;color:#FFFFFF;padding:2px 8px;border-radius:4px;">DON RAFAEL</span>
+<span style="background:#B5523A;color:#FFFFFF;padding:2px 8px;border-radius:4px;">DONA CARMEN</span>
+<span style="background:#355C7D;color:#FFFFFF;padding:2px 8px;border-radius:4px;">MIGUEL</span>
+<span style="background:#4F5D75;color:#FFFFFF;padding:2px 8px;border-radius:4px;">SOFIA</span>
+<span style="background:#8B4E3C;color:#FFFFFF;padding:2px 8px;border-radius:4px;">LUPITA</span>
+<span style="background:#5E5E5E;color:#FFFFFF;padding:2px 8px;border-radius:4px;">MANOS DIVERSAS</span>
+
+### 16.1 <span style="color:#2F2F2F;">Prompt Base General</span>
 
 ```text
-Crear character sheet cinematografico aislado para T1 v08, "El atleta del comercio mexicano".
+Haz una imagen amplia tipo model sheet tecnico-premium para T1 v08, "El atleta del comercio mexicano".
 
 La ficha debe servir para continuidad de personaje, casting, vestuario, manos y props personales. No debe resolver una escena final ni una locacion final.
 
@@ -356,7 +367,9 @@ Negativo:
 no text, no captions, no labels, no names, no numbers, no watermarks, no logos, no brands, no final UI, no readable dashboard, no app interface, no sticker text, no tracking dots, no tracking crosses, no store background, no market background, no warehouse background, no office background, no province shop background, no soccer, no football, no futbol, no ball, no stadium, no jersey, no sports uniform, no celebrity likeness, no public figure likeness, no plastic skin, no waxy skin, no airbrushed skin, no distorted hands, no extra fingers, no malformed faces, no dirty clothes, no grime, no trash, no clutter, no stock photo look.
 ```
 
-### 16.2 Don Rafael
+### 16.2 <span style="color:#8A6A3D;">Don Rafael</span>
+
+<span style="background:#8A6A3D;color:#FFFFFF;padding:2px 8px;border-radius:4px;">PERSONAJE P01</span>
 
 ```text
 Don Rafael. Hombre mexicano 55-60, comerciante del Centro Historico, manos trabajadas, pelo entrecano, mirada digna. Energia: ritual, experiencia, calma, precision, autoridad serena.
@@ -379,7 +392,9 @@ Negativo especifico:
 no shop interior, no storefront, no shutter, no street, no products, no signage, no readable text, no logos, no sports references, no celebrity likeness, no plastic skin, no distorted hands.
 ```
 
-### 16.3 Dona Carmen
+### 16.3 <span style="color:#B5523A;">Dona Carmen</span>
+
+<span style="background:#B5523A;color:#FFFFFF;padding:2px 8px;border-radius:4px;">PERSONAJE P02</span>
 
 ```text
 Dona Carmen. Mujer mexicana 45, comerciante de tianguis, pelo recogido, delantal limpio, sonrisa serena, presencia confiable. Energia: generosidad, control, precision, calidez.
@@ -402,7 +417,9 @@ Negativo especifico:
 no market, no fruit stand background, no awning, no customers, no readable signs, no QR, no logos, no clutter, no green dominant palette, no plastic skin, no malformed hands.
 ```
 
-### 16.4 Miguel
+### 16.4 <span style="color:#355C7D;">Miguel</span>
+
+<span style="background:#355C7D;color:#FFFFFF;padding:2px 8px;border-radius:4px;">PERSONAJE P03</span>
 
 ```text
 Miguel. Hombre mexicano 32, empacador DTC. Fisico delgado y atletico, manos precisas, pelo corto, piel morena clara, expresion concentrada. Energia: disciplina fisica, ritmo, eficiencia, exactitud.
@@ -425,7 +442,9 @@ Negativo especifico:
 no warehouse background, no shelves, no clutter, no logos, no shipping brands, no readable labels, no sportswear, no jersey, no plastic skin, no distorted hands, no extra fingers.
 ```
 
-### 16.5 Sofia
+### 16.5 <span style="color:#4F5D75;">Sofia</span>
+
+<span style="background:#4F5D75;color:#FFFFFF;padding:2px 8px;border-radius:4px;">PERSONAJE P04</span>
 
 ```text
 Sofia. Mujer mexicana 32, founder DTC, pelo negro lacio, mirada analitica, estetica moderna. Energia: estrategia, control mental, velocidad, decision.
@@ -448,7 +467,9 @@ Negativo especifico:
 no office background, no desk setup, no readable screen, no dashboard, no UI, no app interface, no Apple logo, no laptop brand, no corporate stock look, no plastic skin, no malformed hands.
 ```
 
-### 16.6 Lupita
+### 16.6 <span style="color:#8B4E3C;">Lupita</span>
+
+<span style="background:#8B4E3C;color:#FFFFFF;padding:2px 8px;border-radius:4px;">PERSONAJE P05</span>
 
 ```text
 Lupita. Mujer mexicana 50, duena de tienda de provincia, calidez maternal, elegancia digna, mirada segura. Energia: confianza, cuidado, oficio, liderazgo local.
@@ -471,7 +492,9 @@ Negativo especifico:
 no province shop background, no colonial street, no storefront, no readable signs, no folkloric cliche, no sombrero, no mariachi, no logos, no UI, no plastic skin, no malformed hands.
 ```
 
-### 16.7 Manos Diversas
+### 16.7 <span style="color:#5E5E5E;">Manos Diversas</span>
+
+<span style="background:#5E5E5E;color:#FFFFFF;padding:2px 8px;border-radius:4px;">PERSONAJE P06</span>
 
 ```text
 Manos diversas. Ficha macro de manos mexicanas reales de distintas edades y tonos de piel. No es un personaje unico: es la representacion visual de millones de manos trabajando con precision.
