@@ -318,3 +318,173 @@ Fase 4 aprobada si el motion preserva el keyframe, no deforma manos/caras/props 
 Fase 5 aprobada si el stitching respira con el VO y la pieza se entiende emocionalmente sin depender de explicaciones.
 
 Fase 6 aprobada si logo, slogan, UI real, color, sonido, musica y VO quedan integrados con limpieza premium.
+
+## 16. Prompt Pack — Character Sheets Aislados
+
+Estos prompts son derivados de la biblia. Usarlos para aprobar identidad, edad, cuerpo, rostro, manos, vestuario y props personales antes de insertar personajes en locaciones.
+
+Regla principal: no usar locaciones finales. Fondo neutro, limpio, cinematografico, sin tienda, sin tianguis, sin bodega, sin workspace y sin tienda de provincia reconocible.
+
+### 16.1 Prompt Base General
+
+```text
+Crear character sheet cinematografico aislado para T1 v08, "El atleta del comercio mexicano".
+
+La ficha debe servir para continuidad de personaje, casting, vestuario, manos y props personales. No debe resolver una escena final ni una locacion final.
+
+Formato visual:
+Una sola imagen amplia tipo model sheet premium, limpia y ordenada. Fondo neutro cinematografico, sin locacion reconocible. Incluir vista hero principal, variaciones sutiles de rostro/gesto, manos en macro, detalle de vestuario y props personales. No usar texto, labels, nombres, UI, marcas de agua ni logotipos dentro de la imagen.
+
+Look:
+Cine independiente mexicano contemporaneo. Sobrio, elegante, humano, aspiracional-real. Fotografia suave, contraste medio, negros ligeramente levantados, altas luces con roll-off analogico, grano fino cinematografico, textura real, lente 35mm/50mm, profundidad de campo media a shallow.
+
+Realismo:
+Piel real con poros, lineas finas, variacion tonal, textura de labios, cejas, pestanas, vello fino, manos con pliegues, unas naturales, nudillos, cuticulas y venas sutiles. Cero piel plastica, cero beauty retouch, cero look de banco de imagen.
+
+Branding:
+Usar rojo T1 #DA3B2B solo como acento natural y controlado en costura, vivo, ribete, cinta, etiqueta sin texto, cuaderno, clip, cutter, arete o prop. No generar logo T1, no texto T1, no UI, no dashboard, no stickers con palabras, no puntos/cruces de tracking.
+
+Negativo:
+no text, no captions, no labels, no names, no numbers, no watermarks, no logos, no brands, no final UI, no readable dashboard, no app interface, no sticker text, no tracking dots, no tracking crosses, no store background, no market background, no warehouse background, no office background, no province shop background, no soccer, no football, no futbol, no ball, no stadium, no jersey, no sports uniform, no celebrity likeness, no public figure likeness, no plastic skin, no waxy skin, no airbrushed skin, no distorted hands, no extra fingers, no malformed faces, no dirty clothes, no grime, no trash, no clutter, no stock photo look.
+```
+
+### 16.2 Don Rafael
+
+```text
+Don Rafael. Hombre mexicano 55-60, comerciante del Centro Historico, manos trabajadas, pelo entrecano, mirada digna. Energia: ritual, experiencia, calma, precision, autoridad serena.
+
+Character sheet aislado. No ponerlo dentro de su tienda. No mostrar cortina metalica, mostrador, calle, productos ni fachada. Fondo neutro calido cinematografico.
+
+FICHA 90% VISUAL:
+Vista hero principal de medio cuerpo, vista frontal, 3/4 y perfil. Expresion concentrada y digna, no sonriente de publicidad. Manos trabajadas en macro: nudillos, pliegues, venas sutiles, unas naturales, textura real. Anatomia perfecta.
+
+Vestuario:
+Camisa oscura sobria, pantalon oscuro, zapatos limpios. Ropa realista, digna, sin marcas, sin logotipos, sin uniforme deportivo. Posible costura o pequeno vivo rojo T1 #DA3B2B muy discreto.
+
+Props personales:
+Llaves limpias, pano rojo liso, libreta pequena sin texto, terminal generica lisa solo como referencia de escala si hace falta. Todos los props sin logos ni texto.
+
+Pose cinematografica hero:
+Don Rafael de pie, manos cerca del pecho o cintura, postura preparada como alguien que inicia una jornada importante. Luz calida lateral, fondo neutro, silencio y dignidad.
+
+Negativo especifico:
+no shop interior, no storefront, no shutter, no street, no products, no signage, no readable text, no logos, no sports references, no celebrity likeness, no plastic skin, no distorted hands.
+```
+
+### 16.3 Dona Carmen
+
+```text
+Dona Carmen. Mujer mexicana 45, comerciante de tianguis, pelo recogido, delantal limpio, sonrisa serena, presencia confiable. Energia: generosidad, control, precision, calidez.
+
+Character sheet aislado. No ponerla en puesto de frutas ni mercado. No mostrar toldos, cajas de mercado, pasillos, letreros ni clientes. Fondo neutro calido cinematografico.
+
+FICHA 90% VISUAL:
+Vista hero principal de medio cuerpo, vista frontal, 3/4 y perfil. Rostro real, amable y concentrado. Manos en macro: manos limpias de trabajo, unas naturales, pliegues, cuticulas, gestos de cobro y entrega. Anatomia perfecta.
+
+Vestuario:
+Blusa clara limpia, delantal gris oscuro o negro con vivo rojo T1 #DA3B2B sutil. Pelo recogido natural. Ropa digna, realista, sin marcas, sin logos, sin uniforme deportivo.
+
+Props personales:
+Bolsa limpia, fruta fresca aislada como prop de mano, terminal blanca lisa, pano o etiqueta roja sin texto. Props limpios, sin marca, sin QR, sin texto.
+
+Pose cinematografica hero:
+Dona Carmen de pie, manos listas para entregar o cobrar, mirada serena hacia fuera de cuadro. Luz calida suave, fondo neutro, presencia humana confiable.
+
+Negativo especifico:
+no market, no fruit stand background, no awning, no customers, no readable signs, no QR, no logos, no clutter, no green dominant palette, no plastic skin, no malformed hands.
+```
+
+### 16.4 Miguel
+
+```text
+Miguel. Hombre mexicano 32, empacador DTC. Fisico delgado y atletico, manos precisas, pelo corto, piel morena clara, expresion concentrada. Energia: disciplina fisica, ritmo, eficiencia, exactitud.
+
+Character sheet aislado. No ponerlo en bodega ni taller final. No mostrar estanterias, mesa de trabajo final, racks, cajas acumuladas ni ambiente de warehouse. Fondo neutro frio cinematografico.
+
+FICHA 90% VISUAL:
+Vista hero principal de medio cuerpo, vista frontal, 3/4 y perfil. Rostro realista, concentrado, sin pose de modelo. Manos en macro: dedos presionando, cerrando, doblando, sujetando props. Nudillos, venas sutiles, unas naturales y anatomia perfecta.
+
+Vestuario:
+Camiseta negra o gris carbon basica con costura roja T1 #DA3B2B minima, pantalon oscuro, tenis genericos sin logo. Nada deportivo, nada de jersey, nada de marca.
+
+Props personales:
+Caja kraft limpia, cinta roja lisa, etiqueta blanca o roja sin texto, cutter rojo liso. Props nuevos, limpios, sin logos y sin texto.
+
+Pose cinematografica hero:
+Miguel de pie con caja kraft o cinta en manos, cuerpo ligeramente inclinado hacia la tarea, tension fisica sobria. Luz fria funcional, fondo neutro, precision y disciplina.
+
+Negativo especifico:
+no warehouse background, no shelves, no clutter, no logos, no shipping brands, no readable labels, no sportswear, no jersey, no plastic skin, no distorted hands, no extra fingers.
+```
+
+### 16.5 Sofia
+
+```text
+Sofia. Mujer mexicana 32, founder DTC, pelo negro lacio, mirada analitica, estetica moderna. Energia: estrategia, control mental, velocidad, decision.
+
+Character sheet aislado. No ponerla en workspace final. No mostrar oficina, escritorio final, plantas de ambiente, pared de oficina ni setup reconocible. Fondo neutro limpio cinematografico.
+
+FICHA 90% VISUAL:
+Vista hero principal de medio cuerpo, vista frontal, 3/4 y perfil. Rostro realista, mirada analitica y concentrada. Manos en macro: tipeando, sujetando pluma, tocando laptop lisa. Unas naturales, piel real, anatomia perfecta.
+
+Vestuario:
+Blusa negra o camisa blanca minimalista con costura roja T1 #DA3B2B discreta. Estilo moderno, sobrio, mexicano urbano, sin look corporativo generico, sin logos.
+
+Props personales:
+Laptop lisa con pantalla blanca/gris o negro mate sin contenido, cuaderno rojo liso, pluma con clip rojo, taza blanca con detalle rojo sin logo. Todo sin texto, sin UI, sin marcas.
+
+Pose cinematografica hero:
+Sofia en pose de pensamiento/decision, mirada fija y precisa, laptop lisa como prop de estrategia. Luz suave fria, fondo neutro, energia de ajedrecista sin mostrar tablero.
+
+Negativo especifico:
+no office background, no desk setup, no readable screen, no dashboard, no UI, no app interface, no Apple logo, no laptop brand, no corporate stock look, no plastic skin, no malformed hands.
+```
+
+### 16.6 Lupita
+
+```text
+Lupita. Mujer mexicana 50, duena de tienda de provincia, calidez maternal, elegancia digna, mirada segura. Energia: confianza, cuidado, oficio, liderazgo local.
+
+Character sheet aislado. No ponerla en tienda de provincia final. No mostrar mostrador, calle colonial, productos artesanales de fondo ni interiores reconocibles. Fondo neutro calido cinematografico.
+
+FICHA 90% VISUAL:
+Vista hero principal de medio cuerpo, vista frontal, 3/4 y perfil. Rostro realista, expresion segura y calida. Manos en macro: sujetando tablet lisa, etiqueta o pieza artesanal aislada. Pliegues, unas naturales, textura real, anatomia perfecta.
+
+Vestuario:
+Ropa casual elegante, textiles sobrios, posible rebozo terracota/rojo/marron controlado. Rojo T1 #DA3B2B solo como acento discreto. Sin marcas, sin logos, sin folclor exagerado.
+
+Props personales:
+Tablet lisa sin UI, etiqueta roja o blanca sin texto, pieza de ceramica o textil limpio como objeto de mano. Props dignos, contemporaneos, sin texto ni marca.
+
+Pose cinematografica hero:
+Lupita de pie o sentada con postura segura, manos sobre tablet lisa o pieza artesanal, mirada tranquila y firme. Luz calida suave, fondo neutro, elegancia humana.
+
+Negativo especifico:
+no province shop background, no colonial street, no storefront, no readable signs, no folkloric cliche, no sombrero, no mariachi, no logos, no UI, no plastic skin, no malformed hands.
+```
+
+### 16.7 Manos Diversas
+
+```text
+Manos diversas. Ficha macro de manos mexicanas reales de distintas edades y tonos de piel. No es un personaje unico: es la representacion visual de millones de manos trabajando con precision.
+
+Character sheet aislado. No usar locaciones finales reconocibles. Fondo neutro o superficies limpias abstractas: carton kraft nuevo, madera limpia, tela con fibras, ceramica, blanco cremoso. No tienda, no mercado, no bodega, no oficina, no tienda de provincia reconocible.
+
+FICHA 90% VISUAL:
+Modulos macro de manos con distintos gestos, todos limpios y cinematograficos. No cuerpo completo. Priorizar textura de piel, nudillos, unas naturales, pliegues, venas sutiles, cuticulas, anatomia perfecta.
+
+Gestos:
+Contar billetes abstractos inspirados en billetes mexicanos sin denominaciones ni retratos; cerrar caja kraft con cinta roja lisa; pegar etiqueta roja o blanca sin texto; presionar terminal blanca lisa; doblar prenda; firmar nota ilegible; acomodar fruta; sujetar tablet lisa.
+
+Props:
+Carton kraft nuevo, cinta roja lisa, etiqueta sin texto, terminal lisa, madera limpia, tela con fibras, fruta fresca aislada, ceramica, libreta sin texto.
+
+Paleta:
+Piel calida real, carton nuevo, madera noble, blancos cremosos, rojo T1 #DA3B2B como acento de herramientas y etiquetas.
+
+Pose cinematografica hero:
+Composicion central macro de varias manos trabajando, luz mixta calida/fria, precision colectiva, sensacion de coreografia silenciosa. Orden visual limpio, no collage caotico.
+
+Negativo especifico:
+no full bodies, no faces, no readable bills, no denominations, no official banknote portraits, no text, no logos, no dirty hands, no malformed hands, no extra fingers, no fused fingers, no clutter, no location background.
+```
