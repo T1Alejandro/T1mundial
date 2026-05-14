@@ -1,5 +1,5 @@
 # HANDS-UP — Estado del proyecto T1 Mundial 2026
-_Última actualización: 13 mayo 2026 — briefing v08 + anexo branding_
+_Última actualización: 14 mayo 2026 — v08 assets validados + rack/storyboard 4x4_
 
 ---
 
@@ -15,7 +15,7 @@ Hero film cinematografico 60-90s para YouTube de T1, lanzamiento 26 mayo 2026.
 
 ---
 
-## Estado vigente — 13 mayo 2026
+## Estado vigente — 14 mayo 2026
 
 > Esta seccion es el estado operativo actual. Las secciones anti-ambush escolar, 11 mayo, 8 mayo y 4 mayo quedan abajo como historial.
 
@@ -31,11 +31,15 @@ Hero film cinematografico 60-90s para YouTube de T1, lanzamiento 26 mayo 2026.
 - `03_creative/v02_v08_commerce_athlete/prompts/chatgpt-master-rack-14-v008-commerce-athlete.md`
 - `03_creative/v02_v08_commerce_athlete/prompts/higgsfield-character-location-sheet-v008.md`
 - `03_creative/v02_v08_commerce_athlete/prompts/lora-realism-prompt-system-v001.md`
+- `03_creative/v02_v08_commerce_athlete/briefing/v08-master-production-bible-v001.md`
+- `02_references/visual/Storiboard Rack OK.png`
+- `07_assets/characters/model-sheets v03/`
+- `07_assets/locations/model-sheets v03/`
 
 ### Organización creativa por versión
 
 - `03_creative/v01_legacy_hasta_v07/` - archivo histórico: fútbol, estadio, rack 34/36, anti-ambush escolar, Krea/ComfyUI y model sheets previos. No es biblia vigente.
-- `03_creative/v02_v08_commerce_athlete/` - carpeta activa: briefing, guion final, prompts limpios para Higgsfield/ChatGPT, character/location sheet, rack 14 tomas y realismo premium.
+- `03_creative/v02_v08_commerce_athlete/` - carpeta activa: briefing, guion final, prompts limpios para Higgsfield/ChatGPT, fichas v03 validadas, rack/storyboard 4x4 de la secuencia v08 y realismo premium.
 
 Estos dos `.docx` son la direccion oficial mas reciente. El briefing v08 fija concepto, guion, personajes, 14 tomas y reglas legales. El anexo de branding fija como aparece T1 en pantallas, empaques, terminales, props, paleta y cierre. Ajuste operativo posterior: logos, UI final y textos se agregan en post; pantallas y superficies quedan lisas, limpias y sin puntos/cruces de tracking generados por AI.
 
@@ -95,17 +99,37 @@ Correccion respecto al rack escolar: se eliminan verdes escolares/verde bosque d
 13. Zoom out Mexico iluminado con puntos rojos T1 y conexiones sutiles.
 14. Cierre con slogan y logo T1.
 
+### Estado actualizado de assets y storyboard
+
+- Fichas de personajes v03 ya generadas y validadas:
+  - `07_assets/characters/model-sheets v03/don-rafael_model-sheet_v001.png`
+  - `07_assets/characters/model-sheets v03/dona-carmen_model-sheet_v001.png`
+  - `07_assets/characters/model-sheets v03/miguel_model-sheet_v001.png`
+  - `07_assets/characters/model-sheets v03/sofia_model-sheet_v001.png`
+  - `07_assets/characters/model-sheets v03/lupita_model-sheet_v001.png`
+- Fichas de locaciones v03 ya generadas y validadas:
+  - `07_assets/locations/model-sheets v03/L01 — Tienda Pequeña Centro Histórico.png`
+  - `07_assets/locations/model-sheets v03/L02 — Tianguis : Mercado.png`
+  - `07_assets/locations/model-sheets v03/L03 — Bodega : Taller DTC.png`
+  - `07_assets/locations/model-sheets v03/L04 — Workspace Moderno.png`
+  - `07_assets/locations/model-sheets v03/L05 — Tienda De Provincia.png`
+  - `07_assets/locations/model-sheets v03/L06 — México Nocturno : Zoom Out Tierra.png`
+- Rack/storyboard secuencial generado en una sola imagen 4x4:
+  - `02_references/visual/Storiboard Rack OK.png`
+- El rack funciona como validacion de continuidad general de la secuencia v08: personajes aprobados + locaciones aprobadas + progresion visual de las 14 tomas.
+- La biblia v08 contiene el prompt y criterio del rack en `03_creative/v02_v08_commerce_athlete/briefing/v08-master-production-bible-v001.md`, seccion `18. Prompt Pack — Storyboard Rack 16 Frames`.
+- La direccion de motion ya no se piensa como boards por personaje. Se trabaja por toma: cada toma debe sacar stills/keyframes propios y de ahi pasar a motion test.
+- El board/personaje puede servir como referencia de continuidad cuando una toma dependa mucho del mismo personaje, pero no es el eje operativo.
+
 ### Prioridad inmediata
 
-1. Generar fichas individuales tipo production model sheet para personajes principales usando 90% imagen / 10% texto: cuerpo completo 360, cabeza en angulos, vestuario, props, entorno y prompt base.
-2. Usar `03_creative/v02_v08_commerce_athlete/prompts/character-model-sheet-visual-system-v008-v001.md` como prompt principal de esas fichas.
-3. Crear una ficha storytime / motion board por personaje para definir accion, rotaciones, angulos de camara, cortes, macro inserts y continuidad.
-4. Usar `03_creative/v02_v08_commerce_athlete/prompts/character-storytime-motion-board-system-v008-v001.md` para dirigir esos boards.
-5. Asegurar los 5 personajes con detalles rojos discretos en costuras/vivos/props, sin pulseras por ahora.
-6. Definir locaciones limpias, dignas, mexicanas, sin deterioro ni cliché turistico.
-7. Despues de aprobar fichas individuales y boards, usar `03_creative/v02_v08_commerce_athlete/prompts/higgsfield-character-location-sheet-v008.md` para generar el resumen character/location sheet 6x2 en Higgsfield o ChatGPT Images.
-8. Crear/enriquecer prompts separados de las 14 tomas con el cast principal aprobado.
-9. Usar `03_creative/v02_v08_commerce_athlete/prompts/lora-realism-prompt-system-v001.md` como modulo de realismo premium para piel, manos, materiales limpios y pantallas lisas.
+1. Extraer stills/keyframes por toma desde el rack v08 aprobado, priorizando los frames que requieren UI/post.
+2. Para tomas con interfaz T1, sacar still limpio y montar encima la interfaz real con ayuda de ChatGPT/post. No pedir a AI generativa que invente UI, dashboards, logos o textos.
+3. Construir paquete por toma: still base, still con UI/post si aplica, motion prompt corto, negativos legales y criterio de aprobacion.
+4. Ejecutar motion tests por toma, no por personaje, manteniendo identidad, locacion, encuadre, limpieza visual y superficies preparadas.
+5. Usar el guion VO ya secuenciado y subido a Figma como guia de ritmo editorial, aunque la voz final aun no este decidida.
+6. Correr revision legal con el guion v08 y el rack/stills antes de master. Lectura actual: bajo riesgo si se mantiene la ruta sin futbol explicito, sin evento masivo y sin marcas/likeness.
+7. Mantener `03_creative/v02_v08_commerce_athlete/prompts/lora-realism-prompt-system-v001.md` como modulo de realismo premium para piel, manos, materiales limpios y pantallas lisas.
 
 ### Entregables vigentes creados
 
@@ -120,19 +144,22 @@ Correccion respecto al rack escolar: se eliminan verdes escolares/verde bosque d
 - `03_creative/v02_v08_commerce_athlete/prompts/higgsfield-character-location-sheet-v008.md` - prompt maestro vigente para sheet de personajes + locaciones con branding T1, limpieza extrema, mood mexicano y negativos legales.
 - `03_creative/v02_v08_commerce_athlete/prompts/lora-realism-prompt-system-v001.md` - modulo de realismo extremo para piel, manos, ojos, materiales limpios y pantallas lisas sin logos/UI generados.
 - `03_creative/v02_v08_commerce_athlete/reviews/step-01-character-location-sheet-validation-v001.md` - checklist de aprobacion de fichas individuales 90/10 y del sheet 6x2 antes de pasar a prompts por toma.
+- `03_creative/v02_v08_commerce_athlete/briefing/v08-master-production-bible-v001.md` - biblia maestra v08 con personajes, locaciones, guion, branding, prompts y rack/storyboard 4x4.
+- `02_references/visual/Storiboard Rack OK.png` - rack/storyboard secuencial generado y aprobado como base visual de la secuencia.
 
 ### Handoff inmediato para Claude / Higgsfield
 
 Abrir primero `HANDS-UP.md`, luego los dos `.docx` de `00_admin/source-materials/`, y despues trabajar desde `03_creative/v02_v08_commerce_athlete/prompts/higgsfield-agent-v08-video-execution-prompt-v001.md` o `03_creative/v02_v08_commerce_athlete/prompts/higgsfield-character-location-sheet-v008.md`.
 
-Objetivo siguiente: generar un sheet 6x2 de personajes y locaciones que valide:
+Objetivo siguiente: producir por toma a partir del rack/storyboard aprobado:
 
-- 5 personajes principales consistentes.
-- Superficies preparadas para post sin logo ni UI generada: terminal, pantalla, etiqueta, cinta, caja, sticker, tablet.
-- Pantallas lisas en blanco/gris/negro mate con reflejo optico, sin puntos/cruces de tracking.
-- Comercio mexicano limpio, nuevo, digno, sin deterioro.
-- Dinero abstracto con lectura mexicana, no dolares ni billetes exactos.
+- Extraer o generar stills/keyframes limpios por toma.
+- En tomas con UI, montar interfaz real T1 sobre stills limpios antes de motion o en post segun convenga.
+- Mantener pantallas lisas en blanco/gris/negro mate cuando todavia no exista comp final.
+- No generar logos T1, UI final, dashboards legibles, textos ni marcas con AI.
+- Mantener comercio mexicano limpio, nuevo, digno, sin deterioro.
 - Cero futbol, Mundial, estadio, cancha, balon, tricolor dominante o marcas de terceros.
+- Motion test por toma con prompt corto y negativos especificos.
 
 ### Riesgos activos
 
@@ -142,8 +169,10 @@ Objetivo siguiente: generar un sheet 6x2 de personajes y locaciones que valide:
 | Branding | El mood cinematografico puede quedar brandfully debil si T1 aparece solo al final. | Alta | Abierto | Preparar superficies limpias por toma: terminal, pantalla, packaging, etiqueta, sticker, dashboard placeholder. Logo y UI final van en post. |
 | Paleta | Verde escolar/bosque dominante puede arrastrar lectura v07/estudiantes/tricolor. | Alta | Abierto | Usar mundo calido mexicano + tecnologia T1 roja/limpia. Evitar verde dominante. |
 | Limpieza visual | AI tiende a meter deterioro, polvo, mercado sucio, paredes viejas o pobreza visual. | Alta | Abierto | Prompts deben exigir todo nuevo, limpio, digno, recientemente cuidado. |
-| UI T1 | Pantallas genericas o marcas de terceros debilitan producto y generan riesgo legal/brand. | Alta | Abierto | Diseñar/solicitar UI propietaria T1 en pantallas: rojo `#DA3B2B`, blanco, grises, sin marcas reales. |
-| Continuidad | Personajes deben mantenerse identicos entre tomas. | Alta | Abierto | Cast principal obligatorio antes de producir tomas finales. |
+| UI T1 | Pantallas genericas o marcas de terceros debilitan producto y generan riesgo legal/brand. | Alta | Abierto | Sacar stills limpios y montar interfaz real T1 en ChatGPT/post. No generar UI con AI dentro del prompt base. |
+| Continuidad | Personajes deben mantenerse identicos entre tomas. | Alta | En control | Fichas v03 de personajes y locaciones validadas; usarlas como referencia estricta por toma. |
+| Motion | La animacion puede romper manos, rostro, pantallas o continuidad. | Alta | Abierto | Trabajar por toma: still aprobado -> prompt corto -> motion test -> QA -> iteracion. |
+| VO | Voz final aun no decidida. | Media | Abierto | Guion ya esta en secuencia y subido a Figma; definir casting/voz final despues de ritmo editorial. |
 | Fuente operativa | Hay documentos/racks anteriores que ya no mandan. | Media | En control | Tratar anti-ambush 34, rack 36 futbol y v07 escolar como historial, no fuente vigente. |
 
 ---
