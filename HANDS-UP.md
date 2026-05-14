@@ -1,5 +1,5 @@
 # HANDS-UP — Estado del proyecto T1 Mundial 2026
-_Última actualización: 14 mayo 2026 — v08 assets validados + rack/storyboard 4x4_
+_Última actualización: 14 mayo 2026 — v08 frames individuales + Figma/storyboard guardados_
 
 ---
 
@@ -33,13 +33,14 @@ Hero film cinematografico 60-90s para YouTube de T1, lanzamiento 26 mayo 2026.
 - `03_creative/v02_v08_commerce_athlete/prompts/lora-realism-prompt-system-v001.md`
 - `03_creative/v02_v08_commerce_athlete/briefing/v08-master-production-bible-v001.md`
 - `02_references/visual/Storiboard Rack OK.png`
+- `07_assets/figma/`
 - `07_assets/characters/model-sheets v03/`
 - `07_assets/locations/model-sheets v03/`
 
 ### Organización creativa por versión
 
 - `03_creative/v01_legacy_hasta_v07/` - archivo histórico: fútbol, estadio, rack 34/36, anti-ambush escolar, Krea/ComfyUI y model sheets previos. No es biblia vigente.
-- `03_creative/v02_v08_commerce_athlete/` - carpeta activa: briefing, guion final, prompts limpios para Higgsfield/ChatGPT, fichas v03 validadas, rack/storyboard 4x4 de la secuencia v08 y realismo premium.
+- `03_creative/v02_v08_commerce_athlete/` - carpeta activa: briefing, guion final, prompts limpios para Higgsfield/ChatGPT, fichas v03 validadas, rack/storyboard 4x4 de la secuencia v08, frames individuales para Figma y realismo premium.
 
 Estos dos `.docx` son la direccion oficial mas reciente. El briefing v08 fija concepto, guion, personajes, 14 tomas y reglas legales. El anexo de branding fija como aparece T1 en pantallas, empaques, terminales, props, paleta y cierre. Ajuste operativo posterior: logos, UI final y textos se agregan en post; pantallas y superficies quedan lisas, limpias y sin puntos/cruces de tracking generados por AI.
 
@@ -116,6 +117,26 @@ Correccion respecto al rack escolar: se eliminan verdes escolares/verde bosque d
   - `07_assets/locations/model-sheets v03/L06 — México Nocturno : Zoom Out Tierra.png`
 - Rack/storyboard secuencial generado en una sola imagen 4x4:
   - `02_references/visual/Storiboard Rack OK.png`
+- Frames individuales del rack ya extraidos y guardados para Figma / produccion:
+  - `07_assets/figma/ChatGPT-Image-May-14,-2026,-02_51_43-PM_01.png`
+  - `07_assets/figma/ChatGPT-Image-May-14,-2026,-02_51_43-PM_02.png`
+  - `07_assets/figma/ChatGPT-Image-May-14,-2026,-02_51_43-PM_03.png`
+  - `07_assets/figma/ChatGPT-Image-May-14,-2026,-02_51_43-PM_04.png`
+  - `07_assets/figma/ChatGPT-Image-May-14,-2026,-02_51_43-PM_05.png`
+  - `07_assets/figma/ChatGPT-Image-May-14,-2026,-02_51_43-PM_06.png`
+  - `07_assets/figma/ChatGPT-Image-May-14,-2026,-02_51_43-PM_07.png`
+  - `07_assets/figma/ChatGPT-Image-May-14,-2026,-02_51_43-PM_08.png`
+  - `07_assets/figma/ChatGPT-Image-May-14,-2026,-02_51_43-PM_09.png`
+  - `07_assets/figma/ChatGPT-Image-May-14,-2026,-02_51_43-PM_10.png`
+  - `07_assets/figma/ChatGPT-Image-May-14,-2026,-02_51_43-PM_11.png`
+  - `07_assets/figma/ChatGPT-Image-May-14,-2026,-02_51_43-PM_12.png`
+  - `07_assets/figma/ChatGPT-Image-May-14,-2026,-02_51_43-PM_13.png`
+  - `07_assets/figma/ChatGPT-Image-May-14,-2026,-02_51_43-PM_14.png`
+  - `07_assets/figma/ChatGPT-Image-May-14,-2026,-02_51_43-PM_15.png`
+  - `07_assets/figma/ChatGPT-Image-May-14,-2026,-02_51_43-PM_16.png`
+- Material Figma / tira visual guardado:
+  - `07_assets/figma/Figma.png`
+  - `07_assets/figma/Storiboard.jpg`
 - El rack funciona como validacion de continuidad general de la secuencia v08: personajes aprobados + locaciones aprobadas + progresion visual de las 14 tomas.
 - La biblia v08 contiene el prompt y criterio del rack en `03_creative/v02_v08_commerce_athlete/briefing/v08-master-production-bible-v001.md`, seccion `18. Prompt Pack — Storyboard Rack 16 Frames`.
 - La direccion de motion ya no se piensa como boards por personaje. Se trabaja por toma: cada toma debe sacar stills/keyframes propios y de ahi pasar a motion test.
@@ -123,13 +144,14 @@ Correccion respecto al rack escolar: se eliminan verdes escolares/verde bosque d
 
 ### Prioridad inmediata
 
-1. Extraer stills/keyframes por toma desde el rack v08 aprobado, priorizando los frames que requieren UI/post.
-2. Para tomas con interfaz T1, sacar still limpio y montar encima la interfaz real con ayuda de ChatGPT/post. No pedir a AI generativa que invente UI, dashboards, logos o textos.
-3. Construir paquete por toma: still base, still con UI/post si aplica, motion prompt corto, negativos legales y criterio de aprobacion.
-4. Ejecutar motion tests por toma, no por personaje, manteniendo identidad, locacion, encuadre, limpieza visual y superficies preparadas.
-5. Usar el guion VO ya secuenciado y subido a Figma como guia de ritmo editorial, aunque la voz final aun no este decidida.
-6. Correr revision legal con el guion v08 y el rack/stills antes de master. Lectura actual: bajo riesgo si se mantiene la ruta sin futbol explicito, sin evento masivo y sin marcas/likeness.
-7. Mantener `03_creative/v02_v08_commerce_athlete/prompts/lora-realism-prompt-system-v001.md` como modulo de realismo premium para piel, manos, materiales limpios y pantallas lisas.
+1. Usar `07_assets/figma/` como base visual inmediata: frames individuales, grid/storyboard y tira/Figma.
+2. Construir paquete por toma: still base, still con UI/post si aplica, motion prompt corto, negativos legales y criterio de aprobacion.
+3. Para tomas con interfaz T1, montar encima la interfaz real con ayuda de ChatGPT/post. No pedir a AI generativa que invente UI, dashboards, logos o textos.
+4. Ejecutar motion tests por toma, no por personaje ni secuencia completa, manteniendo identidad, locacion, encuadre, limpieza visual y superficies preparadas.
+5. Si una toma debe conectar con la siguiente, usar el ultimo frame aprobado como referencia secundaria para el siguiente motion test.
+6. Usar el guion VO ya secuenciado y subido a Figma como guia de ritmo editorial, aunque la voz final aun no este decidida.
+7. Correr revision legal con el guion v08 y el rack/stills antes de master. Lectura actual: bajo riesgo si se mantiene la ruta sin futbol explicito, sin evento masivo y sin marcas/likeness.
+8. Mantener `03_creative/v02_v08_commerce_athlete/prompts/lora-realism-prompt-system-v001.md` como modulo de realismo premium para piel, manos, materiales limpios y pantallas lisas.
 
 ### Entregables vigentes creados
 
@@ -146,14 +168,15 @@ Correccion respecto al rack escolar: se eliminan verdes escolares/verde bosque d
 - `03_creative/v02_v08_commerce_athlete/reviews/step-01-character-location-sheet-validation-v001.md` - checklist de aprobacion de fichas individuales 90/10 y del sheet 6x2 antes de pasar a prompts por toma.
 - `03_creative/v02_v08_commerce_athlete/briefing/v08-master-production-bible-v001.md` - biblia maestra v08 con personajes, locaciones, guion, branding, prompts y rack/storyboard 4x4.
 - `02_references/visual/Storiboard Rack OK.png` - rack/storyboard secuencial generado y aprobado como base visual de la secuencia.
+- `07_assets/figma/` - frames individuales del rack, grid/storyboard y tira visual para Figma/produccion.
 
 ### Handoff inmediato para Claude / Higgsfield
 
 Abrir primero `HANDS-UP.md`, luego los dos `.docx` de `00_admin/source-materials/`, y despues trabajar desde `03_creative/v02_v08_commerce_athlete/prompts/higgsfield-agent-v08-video-execution-prompt-v001.md` o `03_creative/v02_v08_commerce_athlete/prompts/higgsfield-character-location-sheet-v008.md`.
 
-Objetivo siguiente: producir por toma a partir del rack/storyboard aprobado:
+Objetivo siguiente: producir por toma a partir de los frames individuales ya guardados:
 
-- Extraer o generar stills/keyframes limpios por toma.
+- Usar los frames `01` a `16` de `07_assets/figma/` como stills base.
 - En tomas con UI, montar interfaz real T1 sobre stills limpios antes de motion o en post segun convenga.
 - Mantener pantallas lisas en blanco/gris/negro mate cuando todavia no exista comp final.
 - No generar logos T1, UI final, dashboards legibles, textos ni marcas con AI.
