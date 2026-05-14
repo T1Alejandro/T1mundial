@@ -13,8 +13,8 @@ source_of_truth: "../02_references/visual/Stills T1mundial"
 confidence: "medium"
 related_docs:
   - "../HANDS-UP.md"
-  - "../03_creative/prompts/chatgpt-master-rack-36-v004.md"
-  - "../03_creative/prompts/model-sheets-master-generation-pack-v001.md"
+  - "../prompts/chatgpt-master-rack-36-v004.md"
+  - "../prompts/model-sheets-master-generation-pack-v001.md"
 ---
 
 # Current Rack 36 - Visual Source of Truth

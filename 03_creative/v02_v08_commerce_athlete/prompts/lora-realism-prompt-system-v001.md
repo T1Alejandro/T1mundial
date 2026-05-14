@@ -10,8 +10,8 @@ language: "es"
 audience: ["creative", "production", "ai-agent", "higgsfield", "chatgpt-images"]
 tags: ["lora", "realism", "skin-texture", "micro-detail", "v08", "commerce-athlete"]
 source_of_truth:
-  - "03_creative/prompts/higgsfield-character-location-sheet-v008.md"
-  - "03_creative/prompts/chatgpt-master-rack-14-v008-commerce-athlete.md"
+  - "higgsfield-character-location-sheet-v008.md"
+  - "chatgpt-master-rack-14-v008-commerce-athlete.md"
 confidence: "medium"
 ---
 

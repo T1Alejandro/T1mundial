@@ -9,12 +9,12 @@ last_updated: "2026-05-08"
 language: "es"
 audience: ["creative", "production", "ai-agent", "figma"]
 tags: ["model-sheets", "personajes", "locaciones", "paleta", "figma", "ai-image"]
-source_of_truth: "../03_creative/prompts/chatgpt-master-rack-36-v004.md"
+source_of_truth: "prompts/chatgpt-master-rack-36-v004.md"
 confidence: "medium"
 related_docs:
   - "../HANDS-UP.md"
   - "../00_admin/prd-claude-code-handoff-v001.md"
-  - "../03_creative/prompts/chatgpt-master-rack-36-v004.md"
+  - "../prompts/chatgpt-master-rack-36-v004.md"
   - "prompts/model-sheets-master-generation-pack-v001.md"
   - "../04_production/camera-animation-bible-36-v001.md"
   - "../04_production/global-motion-rules-v001.md"

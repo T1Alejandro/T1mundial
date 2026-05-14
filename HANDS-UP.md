@@ -23,11 +23,19 @@ Hero film cinematografico 60-90s para YouTube de T1, lanzamiento 26 mayo 2026.
 
 - `00_admin/source-materials/T1_mundial_v08_Briefing_Alejandro.docx`
 - `00_admin/source-materials/T1_mundial_v08_Anexo_Branding.docx`
-- `03_creative/briefing/t1-mundial-v08-extraction-v001.md`
-- `03_creative/script/vo-script-v08-final.md`
-- `03_creative/prompts/chatgpt-master-rack-14-v008-commerce-athlete.md`
-- `03_creative/prompts/higgsfield-character-location-sheet-v008.md`
-- `03_creative/prompts/lora-realism-prompt-system-v001.md`
+- `03_creative/v02_v08_commerce_athlete/briefing/t1-mundial-v08-extraction-v001.md`
+- `03_creative/v02_v08_commerce_athlete/script/vo-script-v08-final.md`
+- `03_creative/v02_v08_commerce_athlete/prompts/higgsfield-agent-v08-video-execution-prompt-v001.md`
+- `03_creative/v02_v08_commerce_athlete/prompts/character-location-sheet-prompts-v008-v001.md`
+- `03_creative/v02_v08_commerce_athlete/prompts/chatgpt-master-rack-14-v008-self-contained.md`
+- `03_creative/v02_v08_commerce_athlete/prompts/chatgpt-master-rack-14-v008-commerce-athlete.md`
+- `03_creative/v02_v08_commerce_athlete/prompts/higgsfield-character-location-sheet-v008.md`
+- `03_creative/v02_v08_commerce_athlete/prompts/lora-realism-prompt-system-v001.md`
+
+### Organización creativa por versión
+
+- `03_creative/v01_legacy_hasta_v07/` - archivo histórico: fútbol, estadio, rack 34/36, anti-ambush escolar, Krea/ComfyUI y model sheets previos. No es biblia vigente.
+- `03_creative/v02_v08_commerce_athlete/` - carpeta activa: briefing, guion final, prompts limpios para Higgsfield/ChatGPT, character/location sheet, rack 14 tomas y realismo premium.
 
 Estos dos `.docx` son la direccion oficial mas reciente. El briefing v08 fija concepto, guion, personajes, 14 tomas y reglas legales. El anexo de branding fija como aparece T1 en pantallas, empaques, terminales, props, paleta y cierre. Ajuste operativo posterior: logos, UI final y textos se agregan en post; pantallas y superficies quedan lisas, limpias y sin puntos/cruces de tracking generados por AI.
 
@@ -92,22 +100,25 @@ Correccion respecto al rack escolar: se eliminan verdes escolares/verde bosque d
 1. Rehacer sheet de personajes y locaciones usando v08 + anexo, no rack escolar.
 2. Asegurar los 5 personajes con detalles rojos discretos en costuras/vivos/props, sin pulseras por ahora.
 3. Definir locaciones limpias, dignas, mexicanas, sin deterioro ni cliché turistico.
-4. Usar `03_creative/prompts/higgsfield-character-location-sheet-v008.md` para generar el nuevo character/location sheet en Higgsfield o ChatGPT Images.
+4. Usar `03_creative/v02_v08_commerce_athlete/prompts/higgsfield-character-location-sheet-v008.md` para generar el nuevo character/location sheet en Higgsfield o ChatGPT Images.
 5. Crear/enriquecer prompt maestro actualizado para storyboard rack 14 tomas con el anexo branding.
 6. Generar rack y revisar contra checklist: legal, branding T1, limpieza, presencia de producto, consistencia Soul Cast.
-7. Usar `03_creative/prompts/lora-realism-prompt-system-v001.md` como modulo de realismo premium para piel, manos, materiales limpios y pantallas lisas.
+7. Usar `03_creative/v02_v08_commerce_athlete/prompts/lora-realism-prompt-system-v001.md` como modulo de realismo premium para piel, manos, materiales limpios y pantallas lisas.
 
 ### Entregables vigentes creados
 
-- `03_creative/briefing/t1-mundial-v08-extraction-v001.md` - extraccion operativa del briefing v08.
-- `03_creative/script/vo-script-v08-final.md` - guion final con timing.
-- `03_creative/prompts/chatgpt-master-rack-14-v008-commerce-athlete.md` - prompt base del rack v08, pendiente de enriquecer con anexo branding.
-- `03_creative/prompts/higgsfield-character-location-sheet-v008.md` - prompt maestro vigente para sheet de personajes + locaciones con branding T1, limpieza extrema, mood mexicano y negativos legales.
-- `03_creative/prompts/lora-realism-prompt-system-v001.md` - modulo de realismo extremo para piel, manos, ojos, materiales limpios y pantallas lisas sin logos/UI generados.
+- `03_creative/v02_v08_commerce_athlete/briefing/t1-mundial-v08-extraction-v001.md` - extraccion operativa del briefing v08.
+- `03_creative/v02_v08_commerce_athlete/script/vo-script-v08-final.md` - guion final con timing.
+- `03_creative/v02_v08_commerce_athlete/prompts/higgsfield-agent-v08-video-execution-prompt-v001.md` - prompt limpio para que el agente produzca el video por fases.
+- `03_creative/v02_v08_commerce_athlete/prompts/character-location-sheet-prompts-v008-v001.md` - prompts individuales de personajes y locaciones v08.
+- `03_creative/v02_v08_commerce_athlete/prompts/chatgpt-master-rack-14-v008-self-contained.md` - prompt autocontenido de 14 tomas para agentes sin contexto local.
+- `03_creative/v02_v08_commerce_athlete/prompts/chatgpt-master-rack-14-v008-commerce-athlete.md` - prompt base del rack v08.
+- `03_creative/v02_v08_commerce_athlete/prompts/higgsfield-character-location-sheet-v008.md` - prompt maestro vigente para sheet de personajes + locaciones con branding T1, limpieza extrema, mood mexicano y negativos legales.
+- `03_creative/v02_v08_commerce_athlete/prompts/lora-realism-prompt-system-v001.md` - modulo de realismo extremo para piel, manos, ojos, materiales limpios y pantallas lisas sin logos/UI generados.
 
 ### Handoff inmediato para Claude / Higgsfield
 
-Abrir primero `HANDS-UP.md`, luego los dos `.docx` de `00_admin/source-materials/`, y despues trabajar desde `03_creative/prompts/higgsfield-character-location-sheet-v008.md`.
+Abrir primero `HANDS-UP.md`, luego los dos `.docx` de `00_admin/source-materials/`, y despues trabajar desde `03_creative/v02_v08_commerce_athlete/prompts/higgsfield-agent-v08-video-execution-prompt-v001.md` o `03_creative/v02_v08_commerce_athlete/prompts/higgsfield-character-location-sheet-v008.md`.
 
 Objetivo siguiente: generar un sheet 6x2 de personajes y locaciones que valide:
 
@@ -144,8 +155,8 @@ Lectura operativa para T1 Mundial: no basta con quitar logos, marcas o nombres p
 
 ### Entregables historicos de esa ruta
 
-- `03_creative/shot-list/anti-ambush-rack-34-v001.md` - rack completo de 34 tomas con analogia escolar/comercial.
-- `03_creative/prompts/anti-ambush-rack-34-prompt-pack-v001.md` - prompt maestro, negativos anti-ambush y prompts por toma.
+- `03_creative/v01_legacy_hasta_v07/shot-list/anti-ambush-rack-34-v001.md` - rack completo de 34 tomas con analogia escolar/comercial.
+- `03_creative/v01_legacy_hasta_v07/prompts/anti-ambush-rack-34-prompt-pack-v001.md` - prompt maestro, negativos anti-ambush y prompts por toma.
 
 ## Estado vigente — 11 mayo 2026 (historial)
 
@@ -158,7 +169,7 @@ Lectura operativa para T1 Mundial: no basta con quitar logos, marcas o nombres p
   - Vestuario actualizado: oscuro/urbano CDMX, sin lino ni estética tulum.
   - Pulsera roja T1 #DB3B2B en muñeca derecha añadida.
 - Todos los prompts restantes (personajes + locaciones) escritos y listos:
-  - `03_creative/prompts/model-sheets-prompt-pack-v001.md` — prompts completos P04, P05, P06, P07, P09, P11, L01, L02, L04, L05, L06, L07, L08, L09 añadidos en esta sesión.
+  - `03_creative/v01_legacy_hasta_v07/prompts/model-sheets-prompt-pack-v001.md` — prompts completos P04, P05, P06, P07, P09, P11, L01, L02, L04, L05, L06, L07, L08, L09 añadidos en esta sesión.
 - P03 Conductora deprecada definitivamente — ya no aparece en el rack ni en ningún prompt activo.
 
 ### ✅ Fichas aprobadas acumuladas
@@ -208,7 +219,7 @@ La UI real de T1 se compone en post (AE/DaVinci) con assets de `07_assets/UI/`.
 
 **Paso 4 — Patch de los 36 prompts del rack**
 Una vez que todas las fichas estén aprobadas: inyectar códigos P/L en cada toma del rack.
-Archivo a actualizar: `03_creative/shot-list/current-rack-36-v005.md`.
+Archivo a actualizar: `03_creative/v01_legacy_hasta_v07/shot-list/current-rack-36-v005.md`.
 
 **Paso 5 — Motion tests**
 Primera tanda: tomas 01-06 en Higgsfield image-to-video.
@@ -236,9 +247,9 @@ Sin still aprobado no se anima.
 - Sistema de fichas/model sheets creado:
   - `03_creative/model-sheets-personajes-locaciones-v001.md`
 - Prompt pack maestro de generación de fichas creado:
-  - `03_creative/prompts/model-sheets-master-generation-pack-v001.md`
+  - `03_creative/v01_legacy_hasta_v07/prompts/model-sheets-master-generation-pack-v001.md`
 - Prompt pack anterior marcado como histórico / no recomendado para estadio:
-  - `03_creative/prompts/model-sheets-prompt-pack-v001.md`
+  - `03_creative/v01_legacy_hasta_v07/prompts/model-sheets-prompt-pack-v001.md`
 - Carpetas de assets creadas:
   - `07_assets/characters/model-sheets/`
   - `07_assets/characters/model-sheets/approved/`
@@ -250,7 +261,7 @@ Sin still aprobado no se anima.
   - `07_assets/characters/model-sheets/approved/ChatGPT Image May 8, 2026, 05_15_16 PM.png` — P10 cliente T1 restaurante.
   - `07_assets/characters/model-sheets/approved/ChatGPT Image May 8, 2026, 05_41_58 PM.png` — P02 señora que cobra / vendedora mercado.
 - Storyboard visual vigente documentado:
-  - `03_creative/shot-list/current-rack-36-v005.md`
+  - `03_creative/v01_legacy_hasta_v07/shot-list/current-rack-36-v005.md`
 
 ### ✅ Decisiones creativas nuevas
 
@@ -306,7 +317,7 @@ Sin still aprobado no se anima.
 Método definido: header reutilizable + rack adjunto como referencia visual + descripción de toma del v004. Máximo 4-5 tomas por chat, luego abrir chat nuevo.
 
 **Bloqueador Krea: consistencia visual entre frames.**
-Solución lista: patch de 6 nodos REF. Instrucciones en `03_creative/prompts/krea-node-package/`.
+Solución lista: patch de 6 nodos REF. Instrucciones en `03_creative/v01_legacy_hasta_v07/prompts/krea-node-package/`.
 
 ### ⏳ Pendiente inmediato
 
@@ -406,7 +417,7 @@ TOMA:
 
 ## El prompt maestro de referencia visual
 
-**Archivo activo:** `03_creative/prompts/chatgpt-master-rack-36-v004.md`
+**Archivo activo:** `03_creative/v01_legacy_hasta_v07/prompts/chatgpt-master-rack-36-v004.md`
 
 Incluye: look global · color · casting · uniformes · estadio · descripción bullet-point de las 36 tomas · negative prompt completo.
 
@@ -586,11 +597,11 @@ No FIFA / Mundial / Selección / Copa del Mundo · No marcas reales · No unifor
 |---|---|
 | Brief completo | `00_admin/project-brief.md` |
 | Tratamiento original | `00_admin/source-materials/` |
-| Biblia de estilo (bloques reutilizables) | `03_creative/prompts/krea-node-package/02-reusable-prompt-blocks.md` |
-| **Prompt maestro contact sheet (activo)** | `03_creative/prompts/chatgpt-master-rack-36-v004.md` |
-| 36 escenas para Krea (partes 1-4) | `03_creative/prompts/krea-node-package/10b / 10c / 10d` |
-| Instrucciones patch Krea REF nodes | `03_creative/prompts/krea-node-package/` |
-| Shot tracker (15 tomas macro) | `03_creative/shot-list/shot-tracker.md` |
+| Biblia de estilo (bloques reutilizables) | `03_creative/v01_legacy_hasta_v07/prompts/krea-node-package/02-reusable-prompt-blocks.md` |
+| **Prompt maestro contact sheet (activo)** | `03_creative/v01_legacy_hasta_v07/prompts/chatgpt-master-rack-36-v004.md` |
+| 36 escenas para Krea (partes 1-4) | `03_creative/v01_legacy_hasta_v07/prompts/krea-node-package/10b / 10c / 10d` |
+| Instrucciones patch Krea REF nodes | `03_creative/v01_legacy_hasta_v07/prompts/krea-node-package/` |
+| Shot tracker (15 tomas macro) | `03_creative/v01_legacy_hasta_v07/shot-list/shot-tracker.md` |
 | Referencias visuales | `02_references/visual/` |
 | Visual fit review | `02_references/visual-reference-fit-review-2026-05-01.md` |
 | Pipeline de producción | `04_production/production-pipeline.md` |

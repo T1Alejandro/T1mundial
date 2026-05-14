@@ -53,11 +53,13 @@ Lugar para alimentar referencias.
 
 Desarrollo creativo.
 
-- `treatment-summary.md`: resumen del tratamiento.
-- `model-sheets-personajes-locaciones-v001.md`: sistema de fichas en español para personajes, locaciones, paleta hex, vestuario y props.
-- `script/`: guion, timings, versiones.
-- `shot-list/`: tracker de tomas, QA y rack vigente (`current-rack-36-v005.md`).
-- `prompts/`: prompts por modelo y toma.
+- `v02_v08_commerce_athlete/`: fuente creativa vigente para v08, "El atleta del comercio mexicano".
+- `v02_v08_commerce_athlete/script/vo-script-v08-final.md`: voice over final con timing.
+- `v02_v08_commerce_athlete/prompts/higgsfield-agent-v08-video-execution-prompt-v001.md`: prompt limpio para producir el video por fases.
+- `v02_v08_commerce_athlete/prompts/character-location-sheet-prompts-v008-v001.md`: prompts individuales de personajes y locaciones v08.
+- `v02_v08_commerce_athlete/prompts/chatgpt-master-rack-14-v008-self-contained.md`: prompt autocontenido de 14 tomas.
+- `v01_legacy_hasta_v07/`: archivo historico hasta v07: futbol, estadio, anti-ambush escolar, racks 34/36, Krea/ComfyUI.
+- `script/`, `shot-list/`, `prompts/`, `briefing/`: carpetas de redireccion hacia v01/v02.
 - `prompts/templates/`: plantillas reutilizables para cambiar solo la variable de toma.
 - `storyboards/`: frames, animatics, boards.
 
