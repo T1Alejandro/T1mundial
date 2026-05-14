@@ -596,19 +596,19 @@ no Don Rafael, no people posing, no readable signs, no logos, no brands, no old 
 Color guia: [ROJO T1] / Locacion L02
 
 ```text
-Location sheet aislado: tianguis mexicano limpio, digno, vibrante pero sobrio. No incluir a Dona Carmen ni personajes principales.
+Location sheet aislado: tianguis tipico de Ciudad de Mexico, limpio, digno, vibrante pero sobrio. No incluir a Dona Carmen ni personajes principales.
 
 Espacio:
-Puesto de frutas frescas y mercado mexicano cuidado. Toldo limpio, cajas ordenadas, pasillos despejados, superficies limpias, frutas calidas como mangos, papayas, jitomates, platanos y mandarinas. Puede haber gente cotidiana muy desenfocada al fondo solo para escala. Evitar verde dominante.
+Tianguis de frutas frescas en calle de Ciudad de Mexico, con puestos bien armados, estructura metalica limpia, lonas rojas T1 #DA3B2B tensadas y cuidadas, cajas ordenadas, pasillos despejados, superficies limpias y sensacion cotidiana real. Debe sentirse como tianguis mexicano autentico, no supermercado, no mercado turistico, no set generico. Frutas calidas como mangos, papayas, jitomates, platanos y mandarinas; incluir verdes naturales de verdura/fruta en menor proporcion sin que dominen la paleta. Puede haber comerciantes o compradores anonimos muy desenfocados al fondo solo para escala. Letreros tipicos de tianguis permitidos como tarjetas de precio o cartulinas, pero sin texto ni numeros legibles.
 
 FICHA 90% VISUAL:
-Plancha horizontal 16:9 con grilla exacta. Fila 1: vista amplia del puesto sin personaje principal, pasillo limpio, angulo de cobro, vista lateral del toldo. Fila 2: superficie de fruta ordenada, zona de bolsa/entrega, zona para terminal punto de venta generica con impresora integrada y carcasa/acento rojo T1, cajas limpias. Fila 3: macro de fruta fresca, bolsa limpia, etiqueta roja/blanca sin texto, tela de toldo limpia, terminal lisa sin UI, manos anonimas opcionales solo si no dominan.
+Plancha horizontal 16:9 con grilla exacta. Fila 1: vista amplia del corredor de tianguis sin personaje principal, frente de puesto con lona roja T1, pasillo limpio con varios puestos bien hechos, vista lateral de la estructura metalica y lonas. Fila 2: superficie de fruta ordenada, zona de bolsa/entrega, letreros tipicos de precio abstractos no legibles, zona para terminal punto de venta generica con impresora integrada y carcasa/acento rojo T1, cajas limpias. Fila 3: macro de fruta fresca, bolsa limpia, etiqueta roja/blanca sin texto, textura de lona roja limpia, tubos/estructura metalica limpia, terminal lisa sin UI, manos anonimas opcionales solo si no dominan.
 
 Luz:
 Luz natural de media manana, calida pero limpia, vibrante sin saturacion excesiva.
 
 Negativo especifico:
-no Dona Carmen, no portrait, no readable prices, no QR, no logos, no brands, no dirty market, no chaotic clutter, no rotten fruit, no green dominant palette, no orange terminal, no Clip logo, no UI, no text.
+no Dona Carmen, no portrait, no readable prices, no readable numbers, no readable text on signs, no QR, no logos, no brands, no dirty market, no chaotic clutter, no rotten fruit, no supermarket, no tourist market, no generic food court, no green dominant palette, no orange terminal, no Clip logo, no UI, no text.
 ```
 
 ### 17.4 [GRAFITO] L03 Bodega / Taller DTC
