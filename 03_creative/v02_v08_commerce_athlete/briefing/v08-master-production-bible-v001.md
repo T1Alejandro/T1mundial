@@ -616,19 +616,19 @@ no Dona Carmen, no portrait, no readable prices, no readable numbers, no readabl
 Color guia: [GRAFITO] / Locacion L03
 
 ```text
-Location sheet aislado: bodega / taller DTC limpio, organizado, eficiente y premium-real. No incluir a Miguel ni personajes principales.
+Location sheet aislado: bodega / taller DTC limpio, organizado, eficiente y premium-real en edificio comercial del Centro Historico / zona Zocalo de Ciudad de Mexico. No incluir a Miguel ni personajes principales.
 
 Espacio:
-Area de empaque con mesas de trabajo limpias, cajas kraft nuevas, cinta roja lisa, etiquetas blancas o rojas sin texto, cutter rojo liso, estanterias ordenadas, pantalla pequena blanca/gris lisa, luz funcional desde ventanas altas. Cero desorden, cero deterioro.
+Area de empaque DTC dentro de un edificio antiguo cuidado del Centro Historico de Ciudad de Mexico: muros claros recien mantenidos, techos altos, ventanas altas con herreria limpia, piso sobrio, columnas o marcos discretos, nada turistico ni monumental. Mesas de trabajo limpias, cajas kraft nuevas, cinta roja lisa, etiquetas blancas o rojas sin texto, cutter rojo liso, estanterias metalicas o madera simple ordenadas, pantalla pequena blanca/gris lisa, luz funcional desde ventanas altas. Debe sentirse como operacion real de comercio mexicano en centro urbano historico, no loft tech, no startup de San Francisco, no bodega industrial futurista. Cero desorden, cero deterioro.
 
 FICHA 90% VISUAL:
-Plancha horizontal 16:9 con grilla exacta. Fila 1: vista amplia de taller, ruta entre mesa y estantes, angulo opuesto, vista lateral de mesa. Fila 2: mesa de empaque, zona de cajas, zona de cinta/etiquetas, pantalla lisa para post. Fila 3: macro de carton kraft nuevo, cinta roja lisa, etiqueta sin texto, cutter rojo, tela/producto doblado, estante limpio, pantalla lisa.
+Plancha horizontal 16:9 con grilla exacta. Fila 1: vista amplia del taller dentro de edificio antiguo cuidado, ruta entre mesa y estantes, angulo opuesto mostrando ventanas altas/herreria, vista lateral de mesa con muros claros del Centro Historico. Fila 2: mesa de empaque, zona de cajas, zona de cinta/etiquetas, pantalla lisa para post, estantes ordenados. Fila 3: macro de carton kraft nuevo, cinta roja lisa, etiqueta sin texto, cutter rojo, tela/producto doblado, estante limpio, herreria/ventana limpia, pantalla lisa.
 
 Luz:
 Luz fria funcional desde ventana alta, sombras ordenadas, energia de disciplina y eficiencia.
 
 Negativo especifico:
-no Miguel, no people posing, no warehouse mess, no clutter, no damaged cardboard, no shipping logos, no readable labels, no Amazon, no DHL, no FedEx, no UPS, no UI, no text, no orange terminal.
+no Miguel, no people posing, no warehouse mess, no clutter, no damaged cardboard, no shipping logos, no readable labels, no Amazon, no DHL, no FedEx, no UPS, no Silicon Valley loft, no tech startup office, no futuristic warehouse, no exposed neon tech, no glass corporate office, no luxury coworking, no tourist monument, no readable signs, no UI, no text, no orange terminal.
 ```
 
 ### 17.5 [PLATA] L04 Workspace Moderno
