@@ -32,6 +32,7 @@ Hero film cinematografico 60-90s para YouTube de T1, lanzamiento 26 mayo 2026.
 - `03_creative/v02_v08_commerce_athlete/prompts/higgsfield-character-location-sheet-v008.md`
 - `03_creative/v02_v08_commerce_athlete/prompts/lora-realism-prompt-system-v001.md`
 - `03_creative/v02_v08_commerce_athlete/briefing/v08-master-production-bible-v001.md`
+- `04_production/v08-shot-production-pack-v001.md`
 - `02_references/visual/Storiboard Rack OK.png`
 - `07_assets/figma/`
 - `07_assets/characters/model-sheets v03/`
@@ -145,7 +146,7 @@ Correccion respecto al rack escolar: se eliminan verdes escolares/verde bosque d
 ### Prioridad inmediata
 
 1. Usar `07_assets/figma/` como base visual inmediata: frames individuales, grid/storyboard y tira/Figma.
-2. Construir paquete por toma: still base, still con UI/post si aplica, motion prompt corto, negativos legales y criterio de aprobacion.
+2. Trabajar desde `04_production/v08-shot-production-pack-v001.md` como mapa de Fase 2B.
 3. Para tomas con interfaz T1, montar encima la interfaz real con ayuda de ChatGPT/post. No pedir a AI generativa que invente UI, dashboards, logos o textos.
 4. Ejecutar motion tests por toma, no por personaje ni secuencia completa, manteniendo identidad, locacion, encuadre, limpieza visual y superficies preparadas.
 5. Si una toma debe conectar con la siguiente, usar el ultimo frame aprobado como referencia secundaria para el siguiente motion test.
@@ -167,6 +168,7 @@ Correccion respecto al rack escolar: se eliminan verdes escolares/verde bosque d
 - `03_creative/v02_v08_commerce_athlete/prompts/lora-realism-prompt-system-v001.md` - modulo de realismo extremo para piel, manos, ojos, materiales limpios y pantallas lisas sin logos/UI generados.
 - `03_creative/v02_v08_commerce_athlete/reviews/step-01-character-location-sheet-validation-v001.md` - checklist de aprobacion de fichas individuales 90/10 y del sheet 6x2 antes de pasar a prompts por toma.
 - `03_creative/v02_v08_commerce_athlete/briefing/v08-master-production-bible-v001.md` - biblia maestra v08 con personajes, locaciones, guion, branding, prompts y rack/storyboard 4x4.
+- `04_production/v08-shot-production-pack-v001.md` - mapa operativo de Fase 2B: paquetes por toma, motion permitido, bloqueos, UI/post y orden de pruebas.
 - `02_references/visual/Storiboard Rack OK.png` - rack/storyboard secuencial generado y aprobado como base visual de la secuencia.
 - `07_assets/figma/` - frames individuales del rack, grid/storyboard y tira visual para Figma/produccion.
 
@@ -177,6 +179,7 @@ Abrir primero `HANDS-UP.md`, luego los dos `.docx` de `00_admin/source-materials
 Objetivo siguiente: producir por toma a partir de los frames individuales ya guardados:
 
 - Usar los frames `01` a `16` de `07_assets/figma/` como stills base.
+- Usar `04_production/v08-shot-production-pack-v001.md` como checklist por toma.
 - En tomas con UI, montar interfaz real T1 sobre stills limpios antes de motion o en post segun convenga.
 - Mantener pantallas lisas en blanco/gris/negro mate cuando todavia no exista comp final.
 - No generar logos T1, UI final, dashboards legibles, textos ni marcas con AI.
