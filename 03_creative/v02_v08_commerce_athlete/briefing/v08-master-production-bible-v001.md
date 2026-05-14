@@ -636,19 +636,19 @@ no Miguel, no people posing, no warehouse mess, no clutter, no damaged cardboard
 Color guia: [PLATA] / Locacion L04
 
 ```text
-Location sheet aislado: workspace moderno mexicano tipo Condesa, limpio y aspiracional. No incluir a Sofia ni personajes principales.
+Location sheet aislado: workspace moderno mexicano tipo Condesa/Roma/Juarez en Ciudad de Mexico, limpio y aspiracional. No incluir a Sofia ni personajes principales.
 
 Espacio:
-Espacio contemporaneo de emprendimiento, sobrio, mexicano urbano, no corporativo, no Silicon Valley generico. Mesa limpia, laptop con pantalla lisa blanca/gris clara, productos de emprendimiento, plantas discretas, taza blanca con detalle rojo liso, cuaderno rojo liso, pluma con clip rojo, luz natural fria elegante.
+Espacio contemporaneo de emprendimiento en departamento/oficina pequena de colonia urbana mexicana: muros claros, piso de madera o mosaico sobrio, ventana con herreria o balcon discreto, luz de calle arbolada desenfocada, detalles de arquitectura CDMX sin monumentos. Mesa limpia, laptop con pantalla lisa blanca/gris clara, productos de emprendimiento, plantas discretas, taza blanca con detalle rojo liso, cuaderno rojo liso, pluma con clip rojo. Debe sentirse mexicano urbano contemporaneo, no corporativo, no coworking de lujo, no Silicon Valley, no startup tech de San Francisco.
 
 FICHA 90% VISUAL:
-Plancha horizontal 16:9 con grilla exacta. Fila 1: vista amplia del workspace, angulo desde ventana, angulo hacia mesa, vista lateral de area de trabajo. Fila 2: mesa con laptop lisa, cuaderno rojo, taza, producto, zona de escritura. Fila 3: macro de pantalla sin UI, teclado sin marcas, cuaderno rojo sin texto, pluma con clip rojo, taza blanca sin logo, textura de mesa, planta discreta.
+Plancha horizontal 16:9 con grilla exacta. Fila 1: vista amplia del workspace en departamento/oficina pequena CDMX, angulo desde ventana con herreria/balcon discreto, angulo hacia mesa, vista lateral de area de trabajo con muros claros y detalles mexicanos sobrios. Fila 2: mesa con laptop lisa, cuaderno rojo, taza, producto, zona de escritura, textura de piso/muro. Fila 3: macro de pantalla sin UI, teclado sin marcas, cuaderno rojo sin texto, pluma con clip rojo, taza blanca sin logo, textura de mesa, planta discreta, herreria/ventana limpia.
 
 Luz:
 Luz natural fria y elegante, contraste medio, limpieza visual, silencio estrategico.
 
 Negativo especifico:
-no Sofia, no office stock look, no corporate cubicles, no readable laptop screen, no dashboard, no app UI, no Apple logo, no brands, no text, no labels, no clutter, no orange terminal.
+no Sofia, no office stock look, no corporate cubicles, no Silicon Valley office, no San Francisco startup, no luxury coworking, no glass corporate office, no neon tech, no readable laptop screen, no dashboard, no app UI, no Apple logo, no brands, no text, no labels, no clutter, no orange terminal.
 ```
 
 ### 17.6 [TERRACOTA] L05 Tienda De Provincia
@@ -656,19 +656,19 @@ no Sofia, no office stock look, no corporate cubicles, no readable laptop screen
 Color guia: [TERRACOTA] / Locacion L05
 
 ```text
-Location sheet aislado: tienda de provincia mexicana, calida, contemporanea, cuidada y digna. No incluir a Lupita ni personajes principales.
+Location sheet aislado: tienda de provincia mexicana contemporanea, calida, cuidada y digna. No incluir a Lupita ni personajes principales.
 
 Espacio:
-Interior cuidado con productos artesanales mexicanos contemporaneos, madera limpia, ceramica, textiles sobrios, mostrador ordenado, tablet lisa visible, etiqueta roja/blanca sin texto, acento rojo liso cerca de caja. Ventana con calle colonial generica desenfocada, sin monumentos reconocibles.
+Interior cuidado de tienda local en provincia mexicana: escala humana, mostrador de madera limpia, paredes claras o cal discretas, repisas ordenadas, productos artesanales mexicanos contemporaneos, ceramica, textiles sobrios, canastas o empaques limpios, tablet lisa visible, etiqueta roja/blanca sin texto, acento rojo liso cerca de caja. Ventana o puerta con calle de provincia generica desenfocada: banqueta limpia, fachada color suave, herreria o madera simple, sin monumentos reconocibles. Debe sentirse como comercio mexicano real y actual, no boutique turistica, no souvenir shop, no set folklorico.
 
 FICHA 90% VISUAL:
-Plancha horizontal 16:9 con grilla exacta. Fila 1: vista amplia del interior, angulo desde mostrador, angulo hacia ventana, vista lateral de estantes. Fila 2: mostrador, zona de tablet lisa, productos artesanales, punto de empaque/etiquetas. Fila 3: macro de ceramica, madera limpia, textil sobrio, etiqueta roja/blanca sin texto, tablet sin UI, detalle de mostrador, acento rojo controlado.
+Plancha horizontal 16:9 con grilla exacta. Fila 1: vista amplia del interior, angulo desde mostrador, angulo hacia ventana/puerta con calle de provincia desenfocada, vista lateral de estantes ordenados. Fila 2: mostrador, zona de tablet lisa, productos artesanales contemporaneos, punto de empaque/etiquetas, repisas limpias. Fila 3: macro de ceramica, madera limpia, textil sobrio, etiqueta roja/blanca sin texto, tablet sin UI, detalle de mostrador, herreria/madera de puerta, acento rojo controlado.
 
 Luz:
 Luz calida suave y natural, elegante, sin sepia ni cafe decadente.
 
 Negativo especifico:
-no Lupita, no portrait, no readable signs, no tourist shop, no folkloric cliche, no sombrero, no mariachi, no monument, no dirty walls, no clutter, no UI, no text, no orange terminal.
+no Lupita, no portrait, no readable signs, no tourist shop, no souvenir shop, no folkloric cliche, no sombrero, no mariachi, no monument, no luxury boutique, no generic USA store, no dirty walls, no clutter, no UI, no text, no orange terminal.
 ```
 
 ### 17.7 [NEGRO ORO] L06 Mexico Nocturno
@@ -676,17 +676,17 @@ no Lupita, no portrait, no readable signs, no tourist shop, no folkloric cliche,
 Color guia: [NEGRO ORO] / Locacion L06
 
 ```text
-Location sheet aislado: Mexico nocturno abstracto como red nacional de negocios. No incluir personajes.
+Location sheet aislado: Mexico nocturno abstracto como red nacional de negocios mexicanos. No incluir personajes.
 
 Espacio:
-Vista aerea poetica de Mexico sugerido por luces, no mapa literal. Miles de puntos dorados calidos como negocios activos, algunos puntos rojo T1 #DA3B2B y lineas finas rojas muy sutiles conectando nodos para sugerir ecosistema comercial. Debe sentirse cinematografico, sobrio, premium y abstracto.
+Vista nocturna poetica inspirada en ciudades mexicanas vistas desde arriba: trazas de calles, colonias, avenidas, cuadras y barrios sugeridos por luces calidas, sin mapa literal. Miles de puntos dorados calidos como negocios activos, algunos puntos rojo T1 #DA3B2B y lineas finas rojas muy sutiles conectando nodos para sugerir ecosistema comercial. Debe sentirse como Mexico vivo de noche, sobrio y cinematografico, no interfaz futurista, no mapa digital, no satelite informativo.
 
 FICHA 90% VISUAL:
-Plancha horizontal 16:9 con grilla exacta. Fila 1: vista amplia nocturna abstracta, variacion mas cercana, variacion mas lejana, composicion con espacio para cierre en post. Fila 2: nodos dorados, lineas rojas sutiles, textura atmosferica, gradiente nocturno limpio. Fila 3: macro/close abstracto de puntos de luz, conexiones finas, negro mate, dorado tactico, rojo T1 controlado.
+Plancha horizontal 16:9 con grilla exacta. Fila 1: vista amplia nocturna abstracta de ciudad mexicana, variacion mas cercana con cuadras/avenidas sugeridas, variacion mas lejana tipo red de barrios, composicion con espacio para cierre en post. Fila 2: nodos dorados como negocios, lineas rojas sutiles, textura atmosferica, trazas urbanas limpias, gradiente nocturno sobrio. Fila 3: macro/close abstracto de puntos de luz, conexiones finas, negro mate, dorado tactico, rojo T1 controlado.
 
 Luz:
 Negros elegantes ligeramente levantados, luces doradas suaves, rojo T1 minimo y preciso.
 
 Negativo especifico:
-no literal map, no political borders, no labels, no city names, no satellite UI, no interface, no flags, no national emblem, no eagle, no famous landmarks, no logo generated by AI, no text, no excessive red, no green-white-red palette, no sports event.
+no literal map, no political borders, no labels, no city names, no satellite UI, no interface, no futuristic HUD, no data dashboard, no sci-fi network, no flags, no national emblem, no eagle, no famous landmarks, no logo generated by AI, no text, no excessive red, no green-white-red palette, no sports event.
 ```
