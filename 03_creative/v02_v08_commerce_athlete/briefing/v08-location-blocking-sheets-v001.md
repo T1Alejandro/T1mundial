@@ -560,8 +560,8 @@ no people, no character, no storyboard action, no moodboard, no irregular collag
 Usar en una ventana nueva y limpia cuando ya esten aprobados:
 
 1. Character sheet de Don Rafael.
-2. Blocking map L01.
-3. Location sheet visual L01.
+2. Blocking map L01: `07_assets/locations/blocking-maps/L01-tienda-pequena-centro-historico-blocking-map-v009-approved.png`
+3. Location sheet visual L01: `07_assets/locations/model-sheets/approved/L01-tienda-pequena-centro-historico-location-sheet-v009-approved.png`
 
 ```text
 Usa las 3 imagenes adjuntas como referencias estrictas:
@@ -573,7 +573,7 @@ Identidad, rostro, edad, pelo entrecano, complexion, manos, vestuario, actitud y
 Planta fija, eje de accion, entrada y cortina al sur, interior al norte, ruta fisica, posiciones de camara, direccion de luz y continuidad espacial.
 
 3. Location sheet visual aprobado de L01:
-Arquitectura, fachada, cortina metalica, mostrador, anaqueles, materiales, paleta, luz de amanecer, limpieza y tono cinematografico.
+Arquitectura, fachada de tezontle/cantera rojiza, cortina roja T1, mostrador en L, anaqueles con articulos de cabello/barba, materiales, paleta, luz de amanecer, limpieza y tono cinematografico.
 
 JERARQUIA DE REFERENCIAS:
 La identidad del personaje viene solo de la referencia 1.
@@ -593,8 +593,8 @@ No cambies ropa, edad, rostro, luz, paleta ni epoca.
 Usar en chat nuevo. Adjuntar exactamente estas referencias:
 
 1. Character sheet aprobado de Don Rafael.
-2. Blocking map aprobado de L01.
-3. Location sheet visual aprobado de L01.
+2. Blocking map aprobado de L01: `07_assets/locations/blocking-maps/L01-tienda-pequena-centro-historico-blocking-map-v009-approved.png`
+3. Location sheet visual aprobado de L01: `07_assets/locations/model-sheets/approved/L01-tienda-pequena-centro-historico-location-sheet-v009-approved.png`
 
 ```text
 Haz una imagen horizontal 16:9 tipo sequence sheet cinematografico para la Toma 01 de una tienda pequena tradicional del Centro Historico de Ciudad de Mexico.
@@ -608,7 +608,7 @@ Usalo solo para identidad del personaje: rostro, edad, pelo entrecano, complexio
 Usalo solo para geometria y continuidad espacial: entrada/cortina al frente, local angosto y profundo, anaqueles, pasillo central, caja lateral derecha en L, pasillo vendedor, fondo y direccion de entrada desde la calle hacia el interior.
 
 3. Location sheet visual de la tienda:
-Usalo solo para look de locacion: fachada, cortina metalica, tezontle/cantera rojiza si aparece, interior limpio, anaqueles con articulos de cabello/barba, madera, POS, libreta, pano rojo, luz de amanecer, paleta y tono cinematografico.
+Usalo solo para look de locacion: fachada de tezontle/cantera rojiza, cortina metalica roja T1, interior limpio, anaqueles con articulos de cabello/barba, mostrador en L de madera, POS, libreta, pano rojo, luz de amanecer, paleta y tono cinematografico.
 
 No uses ninguna otra imagen como referencia.
 No inventes otra tienda.
@@ -619,6 +619,7 @@ No cambies ropa, edad, rostro, luz, paleta ni epoca.
 OBJETIVO:
 Crear un sequence sheet de la primera toma: Don Rafael llega desde la calle, se aproxima a la cortina metalica de su tienda y empieza a abrirla al amanecer.
 La imagen debe servir para fijar continuidad de personaje, locacion, accion, direccion de luz y progresion de la toma.
+La tienda vende articulos de cabello, barba y cuidado personal; si se revela el interior, deben verse peines, cepillos, brochas, navajas, tijeras, pomadas, geles, ceras, tintes, ligas, pasadores y accesorios pequenos sin marcas legibles.
 
 FORMATO:
 - Una sola imagen horizontal 16:9.
@@ -632,7 +633,7 @@ ACCION DE LA TOMA 01:
 Paneles 1 a 4: fachada cerrada al amanecer, cortina metalica abajo, calle tranquila, Don Rafael entra a cuadro desde banqueta.
 Paneles 5 a 8: Don Rafael se acerca a la cortina, se detiene frente al acceso, mira el local con calma y prepara las manos.
 Paneles 9 a 12: Don Rafael toma la cortina metalica desde abajo y empieza a levantarla. La luz dorada entra suavemente.
-Paneles 13 a 16: la cortina queda a media altura, se revela el interior limpio, pasillo central y caja lateral derecha segun el mapa. Don Rafael permanece cerca del umbral; no debe llegar todavia hasta la caja.
+Paneles 13 a 16: la cortina queda a media altura, se revela el interior limpio, pasillo central, anaqueles de cabello/barba y caja lateral derecha en L segun el mapa. Don Rafael permanece cerca del umbral; no debe llegar todavia hasta la caja.
 
 CONTINUIDAD OBLIGATORIA:
 Mismo Don Rafael en todos los paneles.
@@ -641,6 +642,7 @@ Misma tienda en todos los paneles.
 Misma fachada y misma cortina.
 Misma direccion de luz de amanecer desde la calle.
 Misma geometria del mapa: entrada al frente, local angosto y profundo, anaqueles laterales con articulos de cabello/barba, pasillo central libre, caja lateral derecha en L, pasillo vendedor detras de caja.
+Mismo color rojo T1 de la cortina si aparece abierta o cerrada.
 La accion siempre va desde calle hacia entrada. No sugerir que Don Rafael viene desde la caja hacia afuera.
 
 LOOK:
