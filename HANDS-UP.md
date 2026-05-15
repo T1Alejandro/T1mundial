@@ -140,19 +140,22 @@ Correccion respecto al rack escolar: se eliminan verdes escolares/verde bosque d
   - `07_assets/figma/Storiboard.jpg`
 - El rack funciona como validacion de continuidad general de la secuencia v08: personajes aprobados + locaciones aprobadas + progresion visual de las 14 tomas.
 - La biblia v08 contiene el prompt y criterio del rack en `03_creative/v02_v08_commerce_athlete/briefing/v08-master-production-bible-v001.md`, seccion `18. Prompt Pack — Storyboard Rack 16 Frames`.
-- La direccion de motion ya no se piensa como boards por personaje. Se trabaja por toma: cada toma debe sacar stills/keyframes propios y de ahi pasar a motion test.
-- El board/personaje puede servir como referencia de continuidad cuando una toma dependa mucho del mismo personaje, pero no es el eje operativo.
+- La direccion de motion ahora se trabaja por toma usando sequence boards 4x4 de 16 paneles: una micro-secuencia visual por toma, no un moodboard ni frames aislados.
+- La biblia v08 contiene el primer prompt editable de sequence board en la seccion `19. Prompt Pack — Sequence Board Por Toma`.
+- Shot 01 ya tiene flujo de prueba: sequence board de Don Rafael abriendo cortina -> prompt de Seedance 5s -> evaluar si el modelo respeta continuidad.
+- Shot 02 se esta planteando como entrada lineal: Don Rafael cruza umbral -> camina directo al mostrador -> acomoda libreta, pano rojo y terminal. Evitar que entre y vuelva a salir.
 
 ### Prioridad inmediata
 
 1. Usar `07_assets/figma/` como base visual inmediata: frames individuales, grid/storyboard y tira/Figma.
 2. Trabajar desde `04_production/v08-shot-production-pack-v001.md` como mapa de Fase 2B.
-3. Para tomas con interfaz T1, montar encima la interfaz real con ayuda de ChatGPT/post. No pedir a AI generativa que invente UI, dashboards, logos o textos.
+3. Generar sequence board por toma cuando el movimiento sea complejo o cuando Seedance/Higgsfield necesite direccion temporal visual.
 4. Ejecutar motion tests por toma, no por personaje ni secuencia completa, manteniendo identidad, locacion, encuadre, limpieza visual y superficies preparadas.
 5. Si una toma debe conectar con la siguiente, usar el ultimo frame aprobado como referencia secundaria para el siguiente motion test.
-6. Usar el guion VO ya secuenciado y subido a Figma como guia de ritmo editorial, aunque la voz final aun no este decidida.
-7. Correr revision legal con el guion v08 y el rack/stills antes de master. Lectura actual: bajo riesgo si se mantiene la ruta sin futbol explicito, sin evento masivo y sin marcas/likeness.
-8. Mantener `03_creative/v02_v08_commerce_athlete/prompts/lora-realism-prompt-system-v001.md` como modulo de realismo premium para piel, manos, materiales limpios y pantallas lisas.
+6. Para tomas con interfaz T1, montar encima la interfaz real con ayuda de ChatGPT/post. No pedir a AI generativa que invente UI, dashboards, logos o textos.
+7. Usar el guion VO ya secuenciado y subido a Figma como guia de ritmo editorial, aunque la voz final aun no este decidida.
+8. Correr revision legal con el guion v08 y el rack/stills antes de master. Lectura actual: bajo riesgo si se mantiene la ruta sin futbol explicito, sin evento masivo y sin marcas/likeness.
+9. Mantener `03_creative/v02_v08_commerce_athlete/prompts/lora-realism-prompt-system-v001.md` como modulo de realismo premium para piel, manos, materiales limpios y pantallas lisas.
 
 ### Entregables vigentes creados
 
@@ -186,6 +189,7 @@ Objetivo siguiente: producir por toma a partir de los frames individuales ya gua
 - Mantener comercio mexicano limpio, nuevo, digno, sin deterioro.
 - Cero futbol, Mundial, estadio, cancha, balon, tricolor dominante o marcas de terceros.
 - Motion test por toma con prompt corto y negativos especificos.
+- Para acciones complejas, crear primero sequence board 4x4 de 16 paneles y usarlo como referencia temporal en Seedance/Higgsfield.
 
 ### Riesgos activos
 
