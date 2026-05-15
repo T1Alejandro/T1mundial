@@ -833,3 +833,123 @@ El rack 16 frames se aprueba si:
 9. El rojo T1 aparece como acento, no como decoracion dominante.
 10. El mundo se siente mexicano, limpio, digno y premium-real.
 ```
+
+## 19. Prompt Pack — Sequence Board Por Toma
+
+Este prompt es para Fase 2B. Usarlo despues de tener el rack/storyboard 4x4 aprobado y los frames individuales en `07_assets/figma/`.
+
+Objetivo: generar una secuencia visual de una sola toma completa, dividida en 16 paneles. Este no es un rack del spot completo ni un moodboard. Es una micro-pelicula de una toma: principio, progresion, gesto, camara y ultimo momento util para motion.
+
+Uso recomendado:
+
+1. Adjuntar el frame aprobado de la toma desde `07_assets/figma/`.
+2. Adjuntar la ficha aprobada del personaje.
+3. Adjuntar la ficha aprobada de la locacion.
+4. Pegar el prompt de la toma.
+5. Si el sequence board funciona, probarlo en Higgsfield como referencia de accion/camara.
+6. Si Higgsfield no respeta la secuencia, extraer keyframes del board y pasar a frame-in/frame-out.
+
+### 19.1 Prompt Base — Shot 01 Sequence Board 16 Frames
+
+```text
+Usa las 3 imagenes adjuntas como referencias estrictas:
+1. Frame aprobado de la toma 01.
+2. Ficha aprobada de Don Rafael.
+3. Ficha aprobada de la tienda pequena del Centro Historico.
+
+Necesito UNA sola imagen final: un sequence board cinematografico de la toma 01.
+
+FORMATO OBLIGATORIO:
+- Canvas completo 16:9.
+- Imagen horizontal.
+- Grilla limpia de 4 columnas x 4 filas.
+- 16 paneles totales.
+- Cada panel debe sentirse como un frame cinematografico horizontal.
+- Cada panel debe mantener composicion amplia o media, no miniaturas cuadradas.
+- Separaciones finas, negras, rectas y limpias.
+- Margenes exteriores delgados.
+- No hacer collage irregular.
+- No hacer plantilla con texto.
+- No hacer moodboard.
+- No dejar paneles vacios.
+- Lectura de izquierda a derecha y de arriba hacia abajo.
+
+PROHIBIDO:
+No texto, no numeros, no titulos, no captions, no labels, no logos, no marcas, no metadata, no UI, no dashboard, no encabezados, no footer, no watermark.
+
+OBJETIVO:
+Crear un sequence board visual de 16 paneles para mostrar la toma completa de Don Rafael abriendo la cortina metalica de su tienda al amanecer y entrando a iniciar el dia.
+
+Esto NO es un moodboard.
+Esto NO son frames aislados.
+Esto debe leerse como una sola accion continua dentro de la misma toma.
+
+CONTINUIDAD OBLIGATORIA:
+- Mismo Don Rafael de la ficha adjunta.
+- Misma edad, rostro, pelo entrecano, manos, complexion, vestuario y actitud.
+- Misma tienda pequena del Centro Historico de la referencia.
+- Misma cortina metalica, misma fachada, mismo interior, misma luz de amanecer.
+- Misma paleta, textura, direccion de arte y tono cinematografico.
+- Todo debe verse limpio, cuidado, digno, premium-real y recientemente mantenido.
+- No cambiar personaje, locacion, ropa, estilo, color grading ni epoca entre paneles.
+
+SECUENCIA DE 16 PANELES:
+1. Cortina metalica cerrada al amanecer. Don Rafael esta frente a la tienda, de espaldas o tres cuartos, preparandose para abrir. Calle tranquila, limpia, luz dorada baja al fondo.
+2. Don Rafael observa la cortina un instante. Postura quieta, concentrada, como ritual antes de empezar.
+3. Don Rafael baja ligeramente el cuerpo y acerca las manos a la parte inferior de la cortina.
+4. Ambas manos toman la cortina. Gesto contenido, manos firmes, metal limpio, luz dorada lateral.
+5. Empieza a levantar la cortina. Sube pocos centimetros y entra una linea delgada de luz por abajo.
+6. La cortina sube un poco mas. La linea de luz se ensancha y empieza a revelar el piso limpio del interior.
+7. Plano medio bajo. Don Rafael hace esfuerzo controlado, espalda firme, brazos activados, sin exageracion.
+8. La cortina llega aproximadamente a la rodilla/cintura. Se percibe el interior ordenado de la tienda, aun parcialmente oculto.
+9. Don Rafael reajusta las manos y continua levantando. La camara mantiene continuidad, sin cambiar de escena.
+10. La cortina sube a media altura. La luz de amanecer entra mas fuerte; particulas minimas en el aire, sin suciedad.
+11. Don Rafael extiende mas los brazos. El interior limpio se revela: mostrador, anaqueles, productos ordenados, luz calida practica.
+12. La cortina esta casi arriba. Don Rafael completa el movimiento principal con postura digna.
+13. Don Rafael baja las manos lentamente. La cortina queda estable, abierta, sin deformarse.
+14. Don Rafael voltea ligeramente hacia el sol/calle del fondo, como tomando un respiro antes de iniciar.
+15. Don Rafael gira de regreso hacia la tienda. Su cuerpo queda de perfil o tres cuartos, listo para entrar.
+16. Don Rafael da el primer paso hacia el interior de la tienda. Sol dorado detras, interior limpio esperandolo. Sensacion clara de inicio de jornada, no pose estatica.
+
+CAMARA:
+- Mantener lenguaje cinematografico realista.
+- Debe sentirse como una sola toma continua.
+- La camara puede sugerir un push-in muy sutil o una camara media/baja que acompana el levantamiento.
+- No hacer cambios bruscos de angulo entre paneles.
+- No convertirlo en montaje de escenas distintas.
+- Composiciones horizontales en cada panel.
+- No hacer close-ups cuadrados.
+- No hacer collage.
+
+LOOK:
+Cine independiente mexicano contemporaneo.
+Sobrio, elegante, humano, aspiracional-real.
+Fotografia suave, contraste medio, negros ligeramente levantados.
+Altas luces con roll-off analogico.
+Grano fino cinematografico.
+Luz dorada de amanecer.
+Textura real de metal limpio, piel, tela, concreto cuidado y madera.
+Mexico actual, limpio, digno y premium-real.
+
+ROJO T1:
+Usar rojo T1 #DA3B2B solo como acento natural si aparece en la referencia: pano, detalle pequeno, ribete, etiqueta sin texto o prop discreto.
+No generar logo.
+No generar texto.
+No generar marca.
+
+NEGATIVO GLOBAL:
+no square panels, no vertical panels, no text, no numbers, no captions, no labels, no titles, no watermarks, no logos, no brands, no UI, no dashboard, no app interface, no camera metadata, no random brand, no random city, no sports, no soccer, no football, no futbol, no ball, no stadium, no jersey, no FIFA, no World Cup, no flags, no famous landmarks, no green-white-red dominant palette, no dirty shop, no grime, no trash, no rust, no peeling paint, no broken wall, no poverty look, no abandoned look, no clutter, no cables, no plastic skin, no distorted hands, no malformed face, no extra fingers, no character change, no location change, no wardrobe change, no different actor, no different shop, no night scene, no harsh HDR, no stock photo look.
+```
+
+### 19.2 Criterio De Aprobacion — Sequence Board Por Toma
+
+```text
+Un sequence board por toma se aprueba si:
+1. Se lee como una sola accion continua.
+2. Mantiene el mismo personaje, locacion, vestuario, luz y estilo en todos los paneles.
+3. No parece moodboard ni collage de ideas.
+4. No contiene texto, numeros, labels, logos, UI ni marcas.
+5. Tiene progresion temporal clara de principio a fin.
+6. Puede usarse como referencia de motion en Higgsfield.
+7. Si Higgsfield falla, permite extraer keyframes utiles: inicio, medio, final.
+```
