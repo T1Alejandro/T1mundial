@@ -578,17 +578,35 @@ Color guia: [DORADO] / Locacion L01
 ```text
 Location sheet aislado: tienda pequena mexicana limpia en Centro Historico generico. No incluir a Don Rafael ni personajes principales.
 
+FORMATO:
+Una sola plancha horizontal 16:9. La imagen completa debe llenar todo el canvas 16:9, sin margenes negros laterales, sin margenes blancos, sin padding externo, sin espacio vacio alrededor de la grilla. Grilla exacta, limpia y regular. Cada celda debe llenar su area de borde a borde.
+
 Espacio:
 Tienda mexicana digna y cuidada al amanecer. Cortina metalica en excelente estado, fachada generica recien mantenida, interior compacto con mostrador limpio, productos ordenados, piso impecable, estantes sobrios, entrada clara desde la calle. Arquitectura mexicana generica, sin monumentos, sin Catedral, sin Bellas Artes, sin Torre Latinoamericana, sin letreros legibles.
 
+CONTINUIDAD ESPACIAL OBLIGATORIA:
+Todas las vistas deben pertenecer a la misma tienda y respetar una planta espacial fija. No inventar una tienda nueva en cada celda. Mantener la misma fachada, la misma cortina, la misma entrada, el mismo mostrador, los mismos estantes, la misma zona de caja y la misma posicion de props entre vistas.
+
+Mapa fijo del espacio:
+- Entrada/cortina al frente, conectada directamente con la calle.
+- Mostrador principal en el lado derecho al entrar, visible desde exterior, interior y angulo lateral.
+- Estantes/rack de producto en la pared izquierda o pared de fondo, pero siempre en la misma posicion relativa entre vistas.
+- Zona de caja/terminal sobre el mostrador, siempre en la misma esquina del mostrador.
+- Libreta sin texto, pano rojo liso y terminal deben aparecer como props de caja; si aparecen en multiples celdas, deben conservar posicion relativa.
+- No mover el rack/estantes de izquierda a derecha entre vistas. Si en la vista exterior el rack se ve a la izquierda del interior, en la vista desde dentro debe seguir correspondiendo a esa misma pared.
+- La vista desde entrada hacia interior y la vista desde interior hacia entrada deben sentirse como angulos opuestos del mismo cuarto, no como dos tiendas distintas.
+
 FICHA 90% VISUAL:
-Plancha horizontal 16:9 con grilla exacta. Fila 1: exterior limpio al amanecer, vista desde entrada hacia interior, vista desde interior hacia entrada, angulo lateral del mostrador. Fila 2: mostrador, caja/cajon abstracto, zona para terminal punto de venta generica con impresora integrada y carcasa/acento rojo T1, estantes ordenados. Fila 3: macro de cortina limpia, metal, piso, madera/mostrador, libreta sin texto, pano rojo liso, terminal lisa sin UI.
+Plancha horizontal 16:9 con grilla exacta. Fila 1: exterior limpio al amanecer, vista desde entrada hacia interior, vista desde interior hacia entrada, angulo lateral del mostrador respetando el mismo mapa espacial. Fila 2: mostrador, caja/cajon abstracto, zona para terminal punto de venta generica tipo smart POS con impresora integrada y rollo/ranura superior, estantes ordenados en la misma pared definida. Fila 3: macro de cortina limpia, metal, piso, madera/mostrador, libreta sin texto, pano rojo liso, terminal lisa sin UI.
+
+Terminal punto de venta:
+Debe ser una terminal punto de venta portatil generica tipo smart POS con impresora de ticket integrada. Cuerpo blanco limpio, frontal negro/blanco, pantalla frontal vertical negra/gris/blanca lisa sin UI, bisel negro, ranura o rollo de papel superior, ticket blanco sin texto si aparece, laterales/carcasa/acento rojo T1 #DA3B2B, escala compacta de mano aproximada 8-10 cm de ancho y 18-22 cm de alto. Sin marca, sin logo, sin texto, sin numeros, sin monto, sin interfaz y sin botones legibles. No debe parecer tablet en base, laptop, telefono gigante, dataphone naranja ni pantalla sobredimensionada.
 
 Luz:
 Amanecer dorado controlado entrando por la puerta, sombras suaves, contraste medio, atmosfera silenciosa y preparada.
 
 Negativo especifico:
-no Don Rafael, no people posing, no readable signs, no logos, no brands, no old dirty shutter, no rust, no peeling paint, no cracked wall, no clutter, no trash, no famous landmarks, no text, no UI, no orange terminal.
+no Don Rafael, no people posing, no readable signs, no logos, no brands, no old dirty shutter, no rust, no peeling paint, no cracked wall, no clutter, no trash, no famous landmarks, no text, no UI, no orange terminal, no tablet terminal, no phone terminal, no giant terminal, no moving shelves between views, no changing store layout, no different shop per cell, no inconsistent rack position, no inconsistent counter position, no side margins, no black side bars, no white border, no padded canvas.
 ```
 
 ### 17.3 [ROJO T1] L02 Tianguis / Mercado
