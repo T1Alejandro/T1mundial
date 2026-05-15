@@ -1,0 +1,648 @@
+---
+title: "T1 v08 Location Blocking Sheets"
+doc_type: "location-blocking"
+status: "active-draft"
+owner: "Arturo / Parco"
+version: "0.1"
+last_updated: "2026-05-14"
+language: "es"
+project: "T1 v08 - El atleta del comercio mexicano"
+source_of_truth: false
+parent_source: "v08-master-production-bible-v001.md"
+---
+
+# T1 v08 Location Blocking Sheets
+
+Este documento agrega la capa que falta entre location sheet y storyboard: planta, eje, recorrido, posiciones de camara y reglas de continuidad espacial.
+
+No reemplaza la ficha visual aprobada de locacion. La ficha visual define look, arquitectura, materiales y paleta. Esta ficha define como se puede mover una persona y una camara dentro de ese espacio sin romper la geografia.
+
+## Regla Operativa
+
+Antes de generar un sequence board, keyframes o motion para una toma con desplazamiento fisico, deben existir tres cosas:
+
+1. Character sheet aprobado.
+2. Location sheet aprobado.
+3. Location blocking sheet aprobado.
+
+Si falta la planta o el eje, la IA tiende a reinventar el local entre paneles: cambia el mostrador, cruza el eje, teletransporta al personaje o transforma el interior.
+
+## Convenciones
+
+- Norte de planta: fondo del local.
+- Sur de planta: calle / entrada / cortina.
+- Izquierda y derecha se definen desde la camara base mirando desde calle hacia interior.
+- Screen direction principal: Don Rafael avanza de sur a norte, de entrada a mostrador.
+- Eje de accion: linea recta entrada -> pasillo central -> mostrador.
+- Camara base segura: lado calle, ligeramente baja, mirando hacia interior.
+- Cruce de eje: prohibido salvo que se declare como movimiento fisico visible de camara.
+
+## Plantilla Reusable Por Locacion
+
+```text
+ID / Nombre:
+
+Uso narrativo:
+
+Ficha visual aprobada:
+
+Personajes que usan esta locacion:
+
+Planta fija:
+[diagrama simple con entrada, objetos fijos, zonas transitables y zonas prohibidas]
+
+Objetos fijos:
+- Entrada:
+- Mostrador / mesa principal:
+- Estantes / racks:
+- Ventanas / fuentes de luz:
+- Props permanentes:
+
+Eje de accion:
+
+Screen direction permitida:
+
+Screen direction prohibida:
+
+Ruta principal del personaje:
+
+Posiciones de camara permitidas:
+- C01:
+- C02:
+- C03:
+
+Posiciones de camara prohibidas:
+
+Luz:
+
+Reglas de continuidad:
+
+Riesgos frecuentes:
+
+Negativos especificos:
+```
+
+---
+
+# L01 — Tienda Pequena Centro Historico
+
+## Uso Narrativo
+
+Ritual de apertura de Don Rafael. La toma debe sentirse como el inicio de una jornada: cortina cerrada, apertura fisica, umbral, entrada al local y primer paso hacia el interior.
+
+## Referencias Aprobadas
+
+- Personaje: Don Rafael, character sheet aprobado.
+- Locacion: L01, tienda pequena del Centro Historico, location sheet aprobada.
+
+No usar otras imagenes para resolver arquitectura, layout, fachada, interior, ropa o identidad.
+
+## Planta Fija V001
+
+Vista desde arriba. La calle esta abajo. El fondo del local esta arriba.
+
+```text
+                         FONDO DEL LOCAL / NORTE
+
+        ┌────────────────────────────────────────────┐
+        │                                            │
+        │        ANAQUEL FONDO CON PRODUCTO ORDENADO │
+        │                                            │
+        │  ANAQUEL IZQ.                  ANAQUEL DER.│
+        │                                            │
+        │                                            │
+        │              PASILLO CENTRAL               │
+        │              RUTA DE DON RAFAEL            │
+        │                                            │
+        │        ┌──────────────────────────┐        │
+        │        │ MOSTRADOR DE MADERA      │        │
+        │        │ POS, LIBRETA Y PANO      │        │
+        │        └──────────────────────────┘        │
+        │                                            │
+        └─────────────── CORTINA Y ENTRADA ──────────┘
+
+                         CALLE / SUR
+```
+
+## Objetos Fijos
+
+- Cortina metalica: al sur, plano frontal del local, se abre verticalmente.
+- Entrada / umbral: mismo eje que cortina, conecta calle con pasillo central.
+- Mostrador: dentro del local, centrado o ligeramente cargado a derecha, pero debe permanecer fijo durante toda la secuencia.
+- Anaqueles: laterales y fondo, ordenados, sin marcas legibles.
+- Piso: limpio, continuo, con lineas de perspectiva hacia el fondo.
+- Luz principal: amanecer desde la calle, entra desde el sur hacia el norte.
+- Props de mostrador: terminal generica, libreta, pluma con clip rojo, pano rojo liso. Si aparecen, ya estan sobre el mostrador o Don Rafael los mueve fisicamente.
+
+## Eje De Accion
+
+Eje principal:
+
+```text
+CALLE -> CORTINA / UMBRAL -> PASILLO CENTRAL -> MOSTRADOR
+```
+
+La camara debe permanecer del mismo lado de este eje durante la apertura y entrada. El movimiento puede cambiar de exterior a interior, pero debe sentirse como continuidad fisica, no como salto a otra tienda.
+
+## Screen Direction
+
+Permitida:
+
+- Don Rafael avanza de calle hacia interior.
+- En paneles exteriores, su espalda o tres cuartos mira hacia la cortina.
+- En paneles de entrada, la luz queda detras o lateral desde la entrada.
+- En paneles interiores, la cortina abierta queda detras de el o al fondo sur coherente.
+
+Prohibida:
+
+- Don Rafael abriendo la cortina desde adentro.
+- Don Rafael cambiando de lado del mostrador sin mostrar el cruce.
+- Mostrador que aparece a izquierda en un panel y a derecha en otro sin justificacion.
+- Entrada que cambia de fondo a lateral sin movimiento de camara declarado.
+- Interior que se vuelve mas profundo, mas ancho o con otra arquitectura entre paneles.
+
+## Ruta De Don Rafael Para Toma 01
+
+```text
+P01: espera afuera frente a cortina cerrada.
+P02: se acerca a la barra inferior.
+P03: manos toman la cortina.
+P04: levanta primeros centimetros.
+P05: cortina sube a media altura.
+P06: reajusta manos sin cambiar posicion espacial.
+P07: termina apertura.
+P08: baja manos.
+P09: respira mirando calle/luz.
+P10: gira hacia interior.
+P11: cruza umbral.
+P12-P16: primer paso hacia pasillo central / interior listo.
+```
+
+Para el sequence board especifico de apertura, no hace falta llegar hasta mostrador. El mostrador puede revelarse como profundidad ordenada, pero el objetivo de la toma 01 es abrir y entrar.
+
+## Posiciones De Camara Permitidas
+
+```text
+                         FONDO / NORTE
+
+        ┌────────────────────────────────────────────┐
+        │                                            │
+        │                  C04                       │
+        │          interior frontal controlado       │
+        │                                            │
+        │                                            │
+        │                  ruta                      │
+        │                                            │
+        │        ┌──────────────────────────┐        │
+        │        │        mostrador         │        │
+        │        └──────────────────────────┘        │
+        │                                            │
+        └─────────────── entrada / cortina ──────────┘
+             C02                 C01              C03
+          calle izq.        calle frontal      calle der.
+
+                         CALLE / SUR
+```
+
+- C01 / calle frontal baja: camara principal para apertura. Segura para paneles 01-10.
+- C02 / calle izquierda tres cuartos: permitida si mantiene la misma fachada y no invierte direccion.
+- C03 / calle derecha tres cuartos: permitida como variacion leve, no alternar con C02 dentro del mismo sequence board.
+- C04 / interior mirando hacia entrada: usar solo despues de cruzar umbral o como panel final. Debe sentirse como cambio fisico posterior, no como corte arbitrario.
+
+## Camara Recomendada Para Sequence Board 4x4 De Toma 01
+
+Mantener C01 como base durante la mayor parte de la secuencia. Usar un push-in fisico muy sutil:
+
+```text
+Paneles 01-04: C01 exterior, plano amplio/medio bajo, Don Rafael de espalda o 3/4.
+Paneles 05-08: C01 exterior mas cerca, cortina sube, interior se revela.
+Paneles 09-12: C01 / umbral, camara acompana elevacion y respiracion.
+Paneles 13-16: C01 empuja hacia umbral; Don Rafael gira y da primer paso hacia interior.
+```
+
+No saltar a C04 salvo que se quiera cerrar con interior hacia entrada. Para esta toma, la opcion mas estable es no cruzar eje y no invertir POV.
+
+## Lentes
+
+- 35mm para exteriores, apertura e interior revelado.
+- 50mm para momentos medios de manos/cuerpo, sin cerrar demasiado.
+- Evitar macro extremo en este sequence board: la toma debe leerse como accion continua y espacial.
+
+## Luz
+
+- Amanecer bajo desde calle / sur.
+- Luz dorada entra por debajo de cortina y luego por la apertura.
+- El interior recibe luz calida progresivamente.
+- No cambiar a luz nocturna, luz fria dominante ni sol alto.
+
+## Reglas De Continuidad Para Prompt
+
+Usar este bloque dentro de cualquier prompt de Toma 01:
+
+```text
+LOCATION BLOCKING LOCK:
+Use a fixed floor plan. The metal shutter and entrance are always at the front/south side of the shop. The clean wooden counter is inside, deeper in the shop, fixed in the same position across all panels. Shelves remain on the side walls and back wall. Dawn light always enters from the street through the shutter/entrance. Don Rafael starts outside, opens the shutter from outside, then turns and takes his first step inside. Keep the same camera side and same screen direction: street -> shutter -> threshold -> interior. Do not cross the axis. Do not reverse the shop. Do not move the counter, shelves, entrance, shutter, props or light direction between panels.
+```
+
+## Negativos Especificos De Blocking
+
+```text
+no camera axis crossing, no reversed shop layout, no counter switching sides, no shelves changing walls, no opening shutter from inside, no Don Rafael already inside before opening, no teleporting across threshold, no inconsistent entrance position, no changing shutter design, no changing interior depth, no different shop architecture between panels, no prop teleporting, no object moving by itself, no abrupt angle change, no disconnected montage, no random POV from inside unless physically motivated after entering
+```
+
+## Checklist De Aprobacion L01
+
+- La cortina siempre pertenece a la misma fachada.
+- Don Rafael siempre abre desde afuera.
+- La luz de amanecer siempre viene desde la calle.
+- La entrada no cambia de lado.
+- El interior se revela progresivamente, no aparece como otro set.
+- El mostrador y anaqueles se mantienen fijos si aparecen.
+- El movimiento se lee de calle a interior.
+- No hay cruce de eje ni inversion de screen direction.
+- No hay paneles que parezcan otra toma, otra tienda u otro actor.
+
+## Revision De Planta L01 V002
+
+La version con mostrador tipo isla central funciona para entender el eje, pero puede sentirse demasiado boutique, showroom o tienda gourmet moderna. Para una tienda pequena del Centro Historico de Ciudad de Mexico, conviene una disposicion mas utilitaria y real:
+
+- Local angosto y profundo.
+- Pasillo central libre desde cortina hacia fondo.
+- Anaqueles laterales continuos.
+- Mostrador o caja pegado a pared derecha, cerca de la entrada o a media profundidad.
+- Fondo con anaquel principal o pequeno almacen visualmente ordenado.
+- La luz de amanecer entra desde la cortina y cae sobre el pasillo, no sobre una isla central dominante.
+- Don Rafael puede abrir, respirar, entrar y avanzar sin que el mostrador bloquee la ruta.
+
+Regla creativa:
+
+```text
+Evitar mostrador-isla central para L01 salvo que se quiera sentir como boutique premium. Para Don Rafael, usar mostrador lateral derecho o mostrador al fondo lateral, con pasillo central despejado.
+```
+
+## Revision De Planta L01 V003
+
+La version con mostrador lateral derecho mejora la logica de tienda, pero el mapa no debe hacer que parezca que Don Rafael viene desde la caja hacia la calle. Para Toma 01, la prioridad es una sola accion:
+
+```text
+Don Rafael esta afuera, frente a la cortina. Abre la cortina desde la calle. Luego cruza el umbral y da su primer paso hacia el interior.
+```
+
+El mapa debe separar tres cosas:
+
+- Ruta del personaje: una linea clara desde calle hacia interior. Nunca al reves.
+- Camara principal: exterior frontal desde la calle, mirando hacia dentro, sin cruzar eje.
+- Camara interior: solo una opcion posterior, marcada como "despues de entrar", no como camara principal para la apertura.
+
+Regla creativa:
+
+```text
+Para el sequence board de Toma 01, no usar camara interior mirando hacia afuera salvo en un panel final muy justificado. El mapa debe favorecer una camara exterior frontal o de umbral que acompana el ingreso.
+```
+
+## Revision De Planta L01 V004
+
+El mapa no debe parecer un diagrama de camaras. Debe parecer primero un plano arquitectonico de planta, como un floor plan limpio, y despues agregar solo la informacion minima de blocking.
+
+Regla creativa:
+
+```text
+Prioridad 1: planta arquitectonica clara.
+Prioridad 2: posicion y recorrido de Don Rafael como silueta superior, punto o figura simple.
+Prioridad 3: una camara principal exterior y una camara secundaria de umbral. No llenar de camaras.
+```
+
+El simbolo de Don Rafael debe ayudar a leer direccion de cuerpo:
+
+- Figura simple vista desde arriba.
+- Cabeza o triangulo apuntando hacia la cortina e interior.
+- Tres posiciones sobre la ruta: afuera frente a cortina, en umbral, primer paso interior.
+- La ruta se lee de calle a interior.
+
+Evitar:
+
+- camaras grandes dominantes,
+- conos de vision demasiado teatrales,
+- multiples camaras que compitan con la planta,
+- flechas que parezcan movimiento de camara en vez de recorrido del personaje.
+
+## Revision De Planta L01 V005
+
+La planta debe quedar aun mas arquitectonica y limpia. Para este entregable ya no necesitamos mostrar monito de Don Rafael ni ruta dominante. El objetivo es fijar el set.
+
+Regla creativa:
+
+```text
+Planta limpia primero. Solo direcciones de camara, no recorrido de personaje.
+```
+
+Ajustes:
+
+- Quitar monitos, siluetas y puntos de Don Rafael.
+- Quitar ruta roja dominante del personaje.
+- Mantener camaras pequenas con flecha o cono minimo indicando hacia donde apuntan.
+- Debe existir una camara exterior frontal mirando hacia adentro.
+- Debe existir una camara interior mirando hacia la entrada, pero pequena y claramente secundaria.
+- La barra o mostrador debe quedar separada de la pared derecha por un pequeno pasillo tecnico, no completamente pegada. Debe sentirse como caja funcional de tienda: el vendedor puede colocarse detras de la barra.
+- Debe existir un hueco claro de acceso para entrar al pasillo tecnico detras de la barra.
+- El pasillo central del cliente debe quedar libre.
+- El local debe sentirse pequeno, angosto, profundo, real y operativo, no boutique ni showroom.
+
+## Revision De Planta L01 V006
+
+El mapa debe nacer del arquetipo correcto: una tienda pequena tradicional del Centro Historico, zona Donceles/Zocalo, no boutique, no showroom, no tienda gourmet.
+
+Caracter espacial:
+
+- Local angosto y profundo.
+- Fachada estrecha con cortina metalica enrollable.
+- Umbral directo desde banqueta.
+- Anaqueles altos y continuos en ambos muros laterales.
+- Anaquel o mueble de producto al fondo.
+- Pasillo central libre para clientes.
+- Mostrador funcional lateral derecho, cerca de entrada o a media profundidad.
+- Pasillo tecnico estrecho detras del mostrador para Don Rafael.
+- Hueco claro de acceso al pasillo tecnico desde el umbral o desde el pasillo central.
+- Caja y terminal sobre mostrador, no isla central.
+- El fondo puede tener puerta discreta o pequeno almacen, pero sin robar protagonismo.
+
+Regla creativa:
+
+```text
+Pensar en local tradicional de comercio del Centro Historico: estrecho, alto, profundo, operativo, cuidado, con mercancia ordenada en laterales. No pensar en boutique premium de retail contemporaneo.
+```
+
+## Revision De Planta L01 V007
+
+Las camaras, conos, flechas y diagramas ASCII agregan ruido al mapa. Para fijar la locacion conviene separar tareas:
+
+- El blocking map define solo arquitectura y posiciones fijas.
+- El location sheet define vistas cinematograficas.
+- El storyboard define camara, eje y recorrido de Don Rafael.
+
+Regla creativa:
+
+```text
+Para el mapa L01, generar una planta arquitectonica pura: sin camaras, sin conos, sin ruta, sin personaje y sin diagrama ASCII.
+```
+
+---
+
+# Prompts Pegables — L01
+
+## 01 — Prompt Para Crear Mapa Tecnico / Blocking Map L01 V007
+
+Usar primero. Adjuntar solo la location visual aprobada de L01 si ya existe. No adjuntar Don Rafael.
+
+```text
+Haz una imagen horizontal 16:9 de un plano de planta arquitectonico tecnico para una tienda pequena tradicional del Centro Historico de Ciudad de Mexico, zona Donceles/Zocalo.
+
+La imagen debe ser SOLO vista superior. Debe verse como floor plan arquitectonico limpio. No debe ser render, no debe ser fachada, no debe ser storyboard, no debe ser moodboard, no debe parecer diagrama de camaras.
+
+Usa la imagen adjunta, si existe, solo como referencia secundaria de cortina metalica, limpieza y escala general. La planta debe responder primero al arquetipo de local tradicional angosto del Centro Historico, tipo Donceles, no a una boutique contemporanea.
+
+OBJETIVO:
+Crear un plano de planta claro para continuidad cinematografica, no una imagen bonita, no un moodboard, no una escena final.
+La imagen debe servir para entender solo la arquitectura de la tienda, la posicion de la barra, el pasillo central, los anaqueles laterales y el acceso a caja.
+
+FORMATO:
+- Una sola imagen horizontal 16:9.
+- Estilo plano arquitectonico de planta, limpio, simple y legible.
+- Fondo blanco o gris claro limpio.
+- Muros en lineas negras mas gruesas, mobiliario en lineas grises finas.
+- SOLO vista superior. Solo floor plan tecnico.
+- El plano de planta debe ocupar todo el canvas.
+- No incluir fachadas, elevaciones, cortes, vistas laterales, vistas isometricas, perspectivas 3D, thumbnails, renders, miniaturas ni paneles secundarios.
+- No crear una lamina de arquitectura con multiples vistas.
+- Todo debe ser limpio, tecnico, ordenado y facil de leer, parecido a un plano arquitectonico.
+
+IMPORTANTE SOBRE TEXTO:
+Sin texto dentro de la imagen. Evitar palabras, numeros, titulos, labels largos, captions, UI o metadata.
+
+PLANTA FIJA:
+La calle esta al sur, en la parte inferior del plano.
+El fondo del local esta al norte, en la parte superior del plano.
+La cortina metalica y entrada estan al sur, en el frente del local.
+El local es pequeno, rectangular, limpio y profundo.
+Hay anaqueles altos y continuos en pared izquierda. En pared derecha puede haber anaquel parcial hacia el fondo, pero el frente derecho queda reservado para caja y acceso de vendedor.
+Hay anaquel de producto ordenado al fondo y puede haber una puerta discreta de almacen.
+Hay un pasillo central transitable desde la entrada hacia el interior.
+Hay un mostrador de madera cuidado en el lado derecho, cerca de la entrada o a media profundidad, como caja funcional de tienda tradicional. El mostrador debe tener forma de L. La barra larga corre paralela al eje largo del local. El brazo corto de la L queda hacia la entrada y cierra el frente de la caja. No debe haber acceso directo a la caja desde la entrada. No debe ser una isla central. No debe ir pegado a la pared. Debe quedar flotado dentro del local, con un pasillo vendedor libre entre la caja y la pared derecha. El acceso al pasillo vendedor debe estar por el fondo, detras de la barra. El pasillo central del cliente debe quedar libre.
+Sobre el mostrador pueden indicarse props como terminal POS, libreta y pano rojo como formas geometricas simples, sin texto.
+No incluir a Don Rafael. No incluir monitos, siluetas, puntos de personaje ni recorrido de personaje.
+
+ESTRUCTURA DEL PLANO:
+La calle queda abajo.
+El fondo del local queda arriba.
+La entrada estrecha y cortina metalica quedan abajo.
+Los anaqueles altos y continuos van pegados a pared izquierda y fondo. En pared derecha puede haber anaquel parcial al fondo, dejando libre el area de caja.
+El pasillo central queda libre desde entrada hasta fondo.
+La caja lateral derecha queda cerca de la entrada o a media profundidad, flotada dentro del local y con forma de L.
+La caja no es isla central.
+La caja no bloquea el pasillo central.
+La caja esta separada de la pared derecha por un pasillo vendedor claro.
+El brazo corto de la L queda hacia la entrada y cierra el frente de la caja.
+No debe existir acceso a la caja desde la entrada.
+Debe existir un hueco claro de acceso para entrar detras de la caja desde el fondo del local.
+El fondo puede tener una puerta discreta de almacen o mueble cerrado pequeno.
+
+PERSONAJE:
+No mostrar personaje. No mostrar monito de Don Rafael. No mostrar siluetas humanas. No mostrar puntos de recorrido.
+
+CAMARAS:
+No mostrar camaras. No mostrar conos de vision. No mostrar flechas de camara. Las camaras se definiran despues en el location sheet y en el storyboard.
+
+LUZ:
+No mostrar flechas de luz. La luz se definira despues en el location sheet. La planta solo debe fijar arquitectura.
+
+LOOK DEL MAPA:
+Tecnico, minimalista, preciso, clean architectural floor plan, top-view-only store floor plan, thin furniture lines, thicker wall lines, grayscale only.
+
+NEGATIVO:
+no cinematic final frame, no realistic photo scene, no character portrait, no detailed person, no full body person, no realistic Don Rafael, no person icon, no human silhouette, no people crowd, no route dots, no character path, no red route, no arrows, no camera icons, no camera cones, no light cones, no yellow cones, no moodboard, no collage, no storyboard panels, no facade view, no elevation drawing, no side view, no section drawing, no isometric view, no perspective view, no 3D cutaway, no thumbnails, no secondary panels, no multi-view architecture board, no central island counter, no boutique showroom island, no gourmet store island, no luxury retail layout, no open concept showroom, no counter blocking central aisle, no counter fully attached to wall with no seller space, no counter glued to right wall, no access to counter from entrance, no front opening in counter, no blocked access behind counter, no right wall fully occupied by shelves in the counter area, no arbitrary cameras, no camera axis crossing, no messy diagram, no clutter, no excessive text, no captions, no labels, no numbers if avoidable, no UI, no metadata, no logo, no brand, no soccer, no football, no ball, no stadium, no flags, no famous landmarks, no dirty shop, no grime, no trash, no rust, no peeling paint, no abandoned look, no confusing camera positions, no crossed camera axis, no reversed shop layout.
+```
+
+## 02 — Prompt Para Crear Location Sheet Visual L01 Desde Mapa
+
+Usar con el blocking map aprobado como unica imagen de referencia.
+
+```text
+Haz una imagen horizontal 16:9 de location sheet visual cinematografico para una tienda pequena tradicional del Centro Historico de Ciudad de Mexico, zona Donceles/Zocalo.
+
+Usa la imagen adjunta del plano de planta como referencia estricta y unica.
+La imagen final debe traducir ese mapa a una ficha visual cinematografica de la misma tienda.
+No inventes otra planta.
+No cambies la posicion de entrada, cortina, anaqueles, pasillo central, caja lateral, pasillo vendedor ni fondo.
+
+La tienda debe sentirse como comercio real de toda la vida: humilde, honesto, funcional, bien barrido, cuidado y recientemente mantenido.
+No debe sentirse lujosa, boutique, showroom, gourmet ni retail caro.
+
+Fachada:
+Puede incluir piedra volcanica rojiza tipo tezontle o cantera rojiza del Centro Historico, limpia y bien mantenida, combinada con marco claro de cantera o pintura neutra.
+La cortina metalica puede ser gris limpio o rojo T1 #DA3B2B muy sobrio si se integra naturalmente al local.
+Sin logo, sin texto, sin marca.
+
+OBJETIVO:
+Crear una ficha visual de locacion, no un storyboard.
+La imagen debe fijar look, arquitectura, materiales, luz, limpieza, paleta y continuidad visual de la tienda basada en el mapa.
+
+FORMATO:
+- Una sola imagen horizontal 16:9.
+- Location sheet visual de produccion, limpio y cinematografico.
+- Grilla limpia, ordenada y visual.
+- Sin texto, sin numeros, sin titulos, sin captions, sin labels, sin logos, sin marcas de agua.
+- No collage irregular.
+- No texto, no numeros, no titulos, no captions, no labels.
+
+ESTRUCTURA SUGERIDA:
+Crear una grilla limpia de 4 columnas por 3 filas, 12 paneles totales.
+Todos los paneles deben parecer stills cinematograficos horizontales de la misma tienda.
+No dejar paneles vacios.
+
+Paneles 1 a 3: fachada exterior y cortina al amanecer, tienda cerrada, sin personas.
+Paneles 4 a 6: cortina a media altura o abierta, vista desde calle hacia interior, revelando pasillo, anaqueles y caja lateral segun el mapa.
+Paneles 7 a 9: interior desde entrada hacia fondo, anaquel alto izquierdo, anaquel de fondo, pasillo central libre, caja lateral derecha flotada dentro del local.
+Paneles 10 a 12: detalles de materiales y props fijos: metal limpio, madera del mostrador, piso impecable, anaqueles ordenados, luz dorada, terminal POS generica, libreta y pano rojo sin texto si aparecen naturalmente.
+
+GEOMETRIA OBLIGATORIA:
+Entrada y cortina metalica al frente, en la calle.
+Interior rectangular, angosto y profundo.
+Anaqueles altos en pared izquierda y fondo. Anaquel parcial en pared derecha solo si respeta el area de caja.
+Anaquel o producto ordenado al fondo.
+Pasillo central libre desde entrada hacia fondo.
+Mostrador lateral derecho tipo caja, no isla central.
+Mostrador flotado dentro del local, separado de la pared derecha por un pequeno pasillo vendedor.
+Hueco claro para entrar detras del mostrador, como acceso lateral de barra.
+Luz de amanecer entra desde la calle hacia el interior.
+
+CONTINUIDAD OBLIGATORIA:
+Misma tienda en todos los paneles.
+Misma fachada.
+Misma cortina metalica.
+Mismo mostrador.
+Mismos anaqueles.
+Misma direccion de luz.
+Misma paleta.
+Mismo estado limpio, cuidado, humilde, digno y funcional.
+Mismo estado nuevo, ordenado y recientemente mantenido.
+Misma planta del mapa en todos los paneles.
+Mismas posiciones relativas: entrada al frente, anaqueles laterales, pasillo central, mostrador dentro del local.
+Las vistas deben respetar la geometria del mapa.
+
+LOOK:
+Cine independiente mexicano contemporaneo. Sobrio, humano, cercano, honesto y digno. Fotografia suave, contraste medio, negros ligeramente levantados, altas luces con roll-off analogico, grano fino cinematografico. Luz dorada de amanecer. Textura real de metal limpio, concreto cuidado, madera sencilla, vidrio limpio y productos ordenados.
+
+ESTADO DEL MUNDO:
+Todo debe verse limpio, cuidado, recientemente mantenido y en excelente estado. Realismo si, suciedad no. Textura si, deterioro no.
+Fachada limpia, posible tezontle rojizo o cantera rojiza cuidada, marco de cantera clara o pintura neutra uniforme, cortina metalica limpia y pareja, gris o rojo T1 sobrio, sin oxido, sin abolladuras, sin manchas, sin graffiti, sin polvo pesado, sin humedad, sin pintura descarapelada.
+Interior impecable pero sencillo: piso limpio, anaqueles ordenados, mercancia bien acomodada, madera cuidada pero no lujosa, vidrio limpio, cero cables visibles, cero acumulacion, cero cajas viejas, cero deterioro.
+La tienda puede ser humilde, tradicional y pequena, pero debe sentirse funcional, luminosa, digna, bien atendida y en operacion.
+
+ROJO T1:
+Usar rojo T1 #DA3B2B solo como acento natural. Puede aparecer en pano liso, detalle pequeno, ribete, etiqueta sin texto o cortina metalica sobria si se ve propia del local. No generar logo ni texto.
+
+NEGATIVO:
+no people, no character, no storyboard action, no moodboard, no irregular collage, no text, no numbers, no titles, no captions, no labels, no watermarks, no logos, no brands, no UI, no dashboard, no QR, no luxury boutique, no showroom, no gourmet store, no luxury retail, no expensive marble retail, no designer store, no dirty shop, no grime, no trash, no rust, no peeling paint, no broken wall, no poverty look, no abandoned look, no clutter, no cables, no old damaged shutter, no dusty shutter, no dented shutter, no graffiti, no stains, no humidity damage, no cracked floor, no messy shelves, no old boxes, no decayed facade, no inconsistent shop layout, no counter switching sides, no shelves changing position, no reversed layout, no night scene, no harsh HDR, no stock photo look.
+```
+
+## 03 — Formula Para El Story Y Sequence Board Posterior
+
+Usar en una ventana nueva y limpia cuando ya esten aprobados:
+
+1. Character sheet de Don Rafael.
+2. Blocking map L01.
+3. Location sheet visual L01.
+
+```text
+Usa las 3 imagenes adjuntas como referencias estrictas:
+
+1. Character sheet aprobado de Don Rafael:
+Identidad, rostro, edad, pelo entrecano, complexion, manos, vestuario, actitud y props personales.
+
+2. Blocking map aprobado de L01:
+Planta fija, eje de accion, entrada y cortina al sur, interior al norte, ruta fisica, posiciones de camara, direccion de luz y continuidad espacial.
+
+3. Location sheet visual aprobado de L01:
+Arquitectura, fachada, cortina metalica, mostrador, anaqueles, materiales, paleta, luz de amanecer, limpieza y tono cinematografico.
+
+JERARQUIA DE REFERENCIAS:
+La identidad del personaje viene solo de la referencia 1.
+La geometria, eje y recorrido vienen solo de la referencia 2.
+El look, arquitectura y materiales vienen solo de la referencia 3.
+
+No uses ninguna otra imagen como referencia.
+No inventes otra tienda.
+No cambies el layout.
+No cruces eje.
+No cambies al personaje.
+No cambies ropa, edad, rostro, luz, paleta ni epoca.
+```
+
+## 04 — Prompt Para Toma 01 Con Don Rafael En L01
+
+Usar en chat nuevo. Adjuntar exactamente estas referencias:
+
+1. Character sheet aprobado de Don Rafael.
+2. Blocking map aprobado de L01.
+3. Location sheet visual aprobado de L01.
+
+```text
+Haz una imagen horizontal 16:9 tipo sequence sheet cinematografico para la Toma 01 de una tienda pequena tradicional del Centro Historico de Ciudad de Mexico.
+
+Usa las 3 imagenes adjuntas como referencias estrictas y unicas:
+
+1. Character sheet de Don Rafael:
+Usalo solo para identidad del personaje: rostro, edad, pelo entrecano, complexion, manos, vestuario, actitud y presencia.
+
+2. Blocking map de la tienda:
+Usalo solo para geometria y continuidad espacial: entrada/cortina al frente, local angosto y profundo, anaqueles, pasillo central, caja lateral derecha en L, pasillo vendedor, fondo y direccion de entrada desde la calle hacia el interior.
+
+3. Location sheet visual de la tienda:
+Usalo solo para look de locacion: fachada, cortina metalica, tezontle/cantera rojiza si aparece, interior limpio, anaqueles, madera, POS, libreta, pano rojo, luz de amanecer, paleta y tono cinematografico.
+
+No uses ninguna otra imagen como referencia.
+No inventes otra tienda.
+No cambies el layout.
+No cambies a Don Rafael.
+No cambies ropa, edad, rostro, luz, paleta ni epoca.
+
+OBJETIVO:
+Crear un sequence sheet de la primera toma: Don Rafael llega desde la calle, se aproxima a la cortina metalica de su tienda y empieza a abrirla al amanecer.
+La imagen debe servir para fijar continuidad de personaje, locacion, accion, direccion de luz y progresion de la toma.
+
+FORMATO:
+- Una sola imagen horizontal 16:9.
+- Grilla limpia de 4 columnas por 4 filas, 16 paneles totales.
+- Todos los paneles deben parecer stills cinematograficos de la misma toma.
+- Sin texto, sin numeros, sin titulos, sin captions, sin labels, sin logos, sin marcas de agua.
+- No dejar paneles vacios.
+- No hacer collage irregular.
+
+ACCION DE LA TOMA 01:
+Paneles 1 a 4: fachada cerrada al amanecer, cortina metalica abajo, calle tranquila, Don Rafael entra a cuadro desde banqueta.
+Paneles 5 a 8: Don Rafael se acerca a la cortina, se detiene frente al acceso, mira el local con calma y prepara las manos.
+Paneles 9 a 12: Don Rafael toma la cortina metalica desde abajo y empieza a levantarla. La luz dorada entra suavemente.
+Paneles 13 a 16: la cortina queda a media altura, se revela el interior limpio, pasillo central y caja lateral derecha segun el mapa. Don Rafael permanece cerca del umbral; no debe llegar todavia hasta la caja.
+
+CONTINUIDAD OBLIGATORIA:
+Mismo Don Rafael en todos los paneles.
+Misma ropa y misma edad en todos los paneles.
+Misma tienda en todos los paneles.
+Misma fachada y misma cortina.
+Misma direccion de luz de amanecer desde la calle.
+Misma geometria del mapa: entrada al frente, local angosto y profundo, anaqueles laterales, pasillo central libre, caja lateral derecha en L, pasillo vendedor detras de caja.
+La accion siempre va desde calle hacia entrada. No sugerir que Don Rafael viene desde la caja hacia afuera.
+
+LOOK:
+Cine independiente mexicano contemporaneo. Sobrio, humano, cercano, honesto y digno. Fotografia suave, contraste medio, negros ligeramente levantados, altas luces con roll-off analogico, grano fino cinematografico. Luz dorada de amanecer. Textura real de metal limpio, cantera/tezontle cuidado, concreto cuidado, madera sencilla, vidrio limpio y productos ordenados.
+
+ESTADO DEL MUNDO:
+Todo debe verse limpio, cuidado, recientemente mantenido y en excelente estado.
+La tienda es humilde y tradicional, no lujosa. Debe sentirse funcional, luminosa, digna, bien atendida y en operacion.
+
+ROJO T1:
+Usar rojo T1 #DA3B2B solo como acento natural si ya aparece en las referencias: pano liso, detalle pequeno o cortina sobria. No generar logo ni texto.
+
+NEGATIVO:
+no text, no numbers, no titles, no captions, no labels, no logos, no brands, no watermark, no UI, no storyboard captions, no random location, no changed store layout, no different counter position, no central island counter, no luxury boutique, no showroom, no gourmet store, no dirty shop, no grime, no trash, no rust, no graffiti, no peeling paint, no poverty look, no abandoned look, no clutter, no cables, no night scene, no harsh HDR, no stock photo look, no soccer, no football, no ball, no stadium, no flags.
+```

@@ -243,13 +243,23 @@ Contenido por locacion: arquitectura, luz, color, superficies, props de ambiente
 
 No incluir: Don Rafael, Dona Carmen, Miguel, Sofia ni Lupita. Si hay personas de fondo, deben ser anonimas y desenfocadas.
 
+### Fase 1C — Location Blocking Sheets
+
+Objetivo: aprobar planta, eje de accion, recorrido fisico, posiciones de camara y reglas de continuidad espacial antes de generar storyboards o motion.
+
+Salida: ficha de blocking por locacion con diagrama simple de planta, objetos fijos, fuentes de luz, ruta del personaje, screen direction permitida/prohibida, posiciones de camara y negativos especificos de eje.
+
+Contenido por locacion: entrada, mostrador/mesa principal, racks/anaqueles, zonas transitables, zonas prohibidas, eje principal, recorrido narrativo, camaras permitidas, camaras prohibidas, direccion de luz y checklist de continuidad.
+
+Regla: si una toma implica desplazamiento dentro de una locacion, no pasar a storyboard/motion sin blocking sheet aprobado. Esto evita que la IA cambie el layout, cruce el eje, mueva props o teletransporte al personaje entre frames.
+
 ### Fase 2 — Storyboard Rack / Rack De Tomas
 
 Objetivo: combinar por primera vez personajes aprobados + locaciones aprobadas en las 14 tomas.
 
 Salida: rack de 14 tomas o storyboards por bloque.
 
-Contenido por toma: personaje, locacion, accion, lente, composicion, luz, props, continuidad, superficie para post, riesgo principal, negativo especifico.
+Contenido por toma: personaje, locacion, blocking aprobado, accion, lente, composicion, luz, props, continuidad, superficie para post, riesgo principal, negativo especifico.
 
 Aqui si se incrustan los personajes en sus locaciones. Antes de esta fase, no.
 
@@ -299,6 +309,7 @@ Usar nombres neutrales por funcion:
 
 - `v08-character-sheets-isolated-v001.md`
 - `v08-location-sheets-isolated-v001.md`
+- `v08-location-blocking-sheets-v001.md`
 - `v08-storyboard-rack-14-v001.md`
 - `v08-shot-keyframes-v001.md`
 - `v08-motion-prompts-v001.md`
@@ -311,6 +322,8 @@ Los documentos derivados pueden ser autocontenidos para pegar en herramientas, p
 Fase 1A aprobada si los personajes son consistentes, humanos, mexicanos, sin celebridad, sin locacion final incrustada y con vestuario/props claros.
 
 Fase 1B aprobada si las locaciones son limpias, filmables, dignas, consistentes y sin personajes principales mezclados.
+
+Fase 1C aprobada si cada locacion con movimiento tiene planta clara, objetos fijos, eje de accion, screen direction, ruta fisica del personaje, posiciones de camara permitidas/prohibidas y checklist de continuidad espacial.
 
 Fase 2 aprobada si las 14 tomas cuentan la historia completa, cada personaje entra en la locacion correcta y no aparecen elementos prohibidos.
 
