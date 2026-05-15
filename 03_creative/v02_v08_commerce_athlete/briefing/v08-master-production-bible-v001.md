@@ -860,9 +860,9 @@ Objetivo: generar una secuencia visual de una sola toma completa, dividida en 16
 
 Uso recomendado:
 
-1. Adjuntar el frame aprobado de la toma desde `07_assets/figma/`.
-2. Adjuntar la ficha aprobada del personaje.
-3. Adjuntar la ficha aprobada de la locacion.
+1. Adjuntar la ficha aprobada del personaje.
+2. Adjuntar la ficha aprobada de la locacion.
+3. No adjuntar el frame del rack/Figma si contradice el personaje o la locacion aprobada.
 4. Pegar el prompt de la toma.
 5. Si el sequence board funciona, probarlo en Higgsfield como referencia de accion/camara.
 6. Si Higgsfield no respeta la secuencia, extraer keyframes del board y pasar a frame-in/frame-out.
@@ -870,10 +870,11 @@ Uso recomendado:
 ### 19.1 Prompt Base — Shot 01 Sequence Board 16 Frames
 
 ```text
-Usa las 3 imagenes adjuntas como referencias estrictas:
-1. Frame aprobado de la toma 01.
-2. Ficha aprobada de Don Rafael.
-3. Ficha aprobada de la tienda pequena del Centro Historico.
+Usa las 2 imagenes adjuntas como referencias estrictas:
+1. Ficha aprobada de Don Rafael.
+2. Ficha aprobada de la tienda pequena del Centro Historico.
+
+No uses ninguna otra imagen como referencia. No asumas el frame del rack/Figma si no fue adjuntado. La identidad del personaje debe venir de la ficha de Don Rafael y la arquitectura/layout debe venir de la ficha de locacion L01.
 
 Necesito UNA sola imagen final: un sequence board cinematografico de la toma 01.
 
