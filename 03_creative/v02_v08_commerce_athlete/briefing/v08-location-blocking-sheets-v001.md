@@ -403,7 +403,7 @@ Usa la imagen adjunta, si existe, solo como referencia secundaria de cortina met
 
 OBJETIVO:
 Crear un plano de planta claro para continuidad cinematografica, no una imagen bonita, no un moodboard, no una escena final.
-La imagen debe servir para entender solo la arquitectura de la tienda, la posicion de la barra, el pasillo central, los anaqueles laterales y el acceso a caja.
+La imagen debe servir para entender solo la arquitectura de la tienda, la posicion de la barra, el pasillo central, el anaquel izquierdo, el anaquel de fondo y el acceso a caja.
 
 FORMATO:
 - Una sola imagen horizontal 16:9.
@@ -424,28 +424,28 @@ La calle esta al sur, en la parte inferior del plano.
 El fondo del local esta al norte, en la parte superior del plano.
 La cortina metalica y entrada estan al sur, en el frente del local.
 El local es pequeno, rectangular, limpio y profundo.
-Hay anaqueles altos y continuos en pared izquierda. En pared derecha puede haber anaquel parcial hacia el fondo, pero el frente derecho queda reservado para caja y acceso de vendedor.
-Hay anaqueles con mercancia de cuidado personal y barberia: peines, cepillos, brochas, navajas, tijeras, maquinas de corte, pomadas, geles, ceras, tintes, ligas, pasadores y pequenos accesorios para cabello y barba. Todo debe verse ordenado y limpio.
+Hay anaquel alto y continuo en pared izquierda, y anaquel/vitrina de fondo. La pared derecha no debe tener anaquel; queda limpia y reservada para caja, pasillo vendedor y muro.
+Los anaqueles deben verse como muebles/vitrinas anchos, limpios y casi vacios. En el plano de planta no hace falta dibujar toda la mercancia; puede haber solo una insinuacion minima de productos. La prioridad es arquitectura clara, no inventario.
 Hay un pasillo central transitable desde la entrada hacia el interior.
-Hay un mostrador de madera cuidado en el lado derecho, cerca de la entrada o a media profundidad, como caja funcional de tienda tradicional. El mostrador debe tener forma de L. La barra larga corre paralela al eje largo del local. El brazo corto de la L queda hacia la entrada y cierra el frente de la caja. No debe haber acceso directo a la caja desde la entrada. No debe ser una isla central. No debe ir pegado a la pared. Debe quedar flotado dentro del local, con un pasillo vendedor libre entre la caja y la pared derecha. El acceso al pasillo vendedor debe estar por el fondo, detras de la barra. El pasillo central del cliente debe quedar libre.
-Sobre el mostrador pueden indicarse props como terminal POS, libreta y pano rojo como formas geometricas simples, sin texto.
+Hay un mostrador de madera cuidado en el lado derecho, cerca de la entrada o a media profundidad, como caja funcional de tienda tradicional. El mostrador debe tener forma de L, no de C. La barra larga corre paralela al eje largo del local y queda separada de la pared derecha para formar un pasillo vendedor estrecho. El brazo corto de la L queda hacia la entrada, cierra el frente de la caja y puede tocar o llegar hasta la pared derecha. No debe haber acceso directo a la caja desde la entrada. No debe ser una isla central. El extremo posterior de la L queda abierto hacia el fondo para que el vendedor pueda pasar detras de la barra; no dibujar puerta, vano, arco ni entrada formal. El pasillo central del cliente debe quedar libre.
+Sobre el mostrador pueden indicarse props como terminal POS, libreta y pano rojo como formas geometricas simples, sin texto. La pantalla del POS/computadora/tablet debe estar orientada hacia la pared derecha vacia, no hacia el pasillo central del cliente.
 No incluir a Don Rafael. No incluir monitos, siluetas, puntos de personaje ni recorrido de personaje.
 
 ESTRUCTURA DEL PLANO:
 La calle queda abajo.
 El fondo del local queda arriba.
 La entrada estrecha y cortina metalica quedan abajo.
-Los anaqueles altos y continuos van pegados a pared izquierda y fondo. En pared derecha puede haber anaquel parcial al fondo, dejando libre el area de caja.
-La mercancia visible es de cabello, barba y barberia, acomodada en charolas, frascos, empaques pequenos, peines, cepillos y accesorios sin logos legibles.
+Los anaqueles/vitrinas altos, anchos y continuos van pegados a pared izquierda y fondo. La pared derecha queda libre de anaqueles.
+La mercancia visible debe ser minima o apenas sugerida, sin logos legibles y sin llenar los compartimentos. El mapa debe mostrar la ubicacion de muebles y circulacion, no una lista de objetos.
 El pasillo central queda libre desde entrada hasta fondo.
-La caja lateral derecha queda cerca de la entrada o a media profundidad, flotada dentro del local y con forma de L.
+La caja lateral derecha queda cerca de la entrada o a media profundidad, con forma de L.
 La caja no es isla central.
 La caja no bloquea el pasillo central.
-La caja esta separada de la pared derecha por un pasillo vendedor claro.
-El brazo corto de la L queda hacia la entrada y cierra el frente de la caja.
+La barra larga esta separada de la pared derecha por un pasillo vendedor claro.
+El brazo corto de la L queda hacia la entrada, cierra el frente de la caja y puede pegar o llegar hasta la pared derecha.
 No debe existir acceso a la caja desde la entrada.
-Debe existir un hueco claro de acceso para entrar detras de la caja desde el fondo del local.
-El fondo puede tener una puerta discreta de almacen o mueble cerrado pequeno.
+La L queda abierta en su extremo posterior hacia el fondo del local, como espacio libre de paso para el vendedor. No dibujar puerta ni convertir el mostrador en forma de C.
+El fondo no tiene puerta visible. El fondo debe resolverse como anaquel/vitrina continuo, limpio y casi vacio.
 
 PERSONAJE:
 No mostrar personaje. No mostrar monito de Don Rafael. No mostrar siluetas humanas. No mostrar puntos de recorrido.
@@ -457,10 +457,10 @@ LUZ:
 No mostrar flechas de luz. La luz se definira despues en el location sheet. La planta solo debe fijar arquitectura.
 
 LOOK DEL MAPA:
-Tecnico, minimalista, preciso, clean architectural floor plan, top-view-only store floor plan, thin furniture lines, thicker wall lines, grayscale only.
+Tecnico, minimalista, preciso, clean architectural floor plan, top-view-only store floor plan, thin furniture lines, thicker wall lines, grayscale only. Mobiliario claro y simplificado, casi sin mercancia dibujada.
 
 NEGATIVO:
-no cinematic final frame, no realistic photo scene, no character portrait, no detailed person, no full body person, no realistic Don Rafael, no person icon, no human silhouette, no people crowd, no route dots, no character path, no red route, no arrows, no camera icons, no camera cones, no light cones, no yellow cones, no moodboard, no collage, no storyboard panels, no facade view, no elevation drawing, no side view, no section drawing, no isometric view, no perspective view, no 3D cutaway, no thumbnails, no secondary panels, no multi-view architecture board, no central island counter, no boutique showroom island, no gourmet store island, no luxury retail layout, no open concept showroom, no counter blocking central aisle, no counter fully attached to wall with no seller space, no counter glued to right wall, no access to counter from entrance, no front opening in counter, no blocked access behind counter, no right wall fully occupied by shelves in the counter area, no arbitrary cameras, no camera axis crossing, no messy diagram, no clutter, no excessive text, no captions, no labels, no numbers if avoidable, no UI, no metadata, no logo, no brand, no soccer, no football, no ball, no stadium, no flags, no famous landmarks, no dirty shop, no grime, no trash, no rust, no peeling paint, no abandoned look, no confusing camera positions, no crossed camera axis, no reversed shop layout.
+no cinematic final frame, no realistic photo scene, no character portrait, no detailed person, no full body person, no realistic Don Rafael, no person icon, no human silhouette, no people crowd, no route dots, no character path, no red route, no arrows, no camera icons, no camera cones, no light cones, no yellow cones, no moodboard, no collage, no storyboard panels, no facade view, no elevation drawing, no side view, no section drawing, no isometric view, no perspective view, no 3D cutaway, no thumbnails, no secondary panels, no multi-view architecture board, no central island counter, no C-shaped counter, no counter door, no counter gate, no formal doorway behind counter, no boutique showroom island, no gourmet store island, no luxury retail layout, no open concept showroom, no counter blocking central aisle, no long bar fully attached to right wall with no seller space, no access to counter from entrance, no front opening in counter, no blocked access behind counter, no right wall fully occupied by shelves in the counter area, no arbitrary cameras, no camera axis crossing, no messy diagram, no clutter, no overloaded shelves, no tiny-object overload, no every shelf fully packed, no detailed inventory, no product catalog, no excessive text, no captions, no labels, no numbers if avoidable, no UI, no metadata, no logo, no brand, no soccer, no football, no ball, no stadium, no flags, no famous landmarks, no dirty shop, no grime, no trash, no rust, no peeling paint, no abandoned look, no confusing camera positions, no crossed camera axis, no reversed shop layout.
 ```
 
 ## 02 — Prompt Para Crear Location Sheet Visual L01 Desde Mapa
@@ -477,17 +477,23 @@ Usa la imagen adjunta del plano de planta como referencia estricta y unica.
 La imagen final debe traducir ese mapa a una ficha visual cinematografica de la misma tienda.
 No inventes otra planta.
 No cambies la posicion de entrada, cortina, anaqueles, pasillo central, caja lateral en L, pasillo vendedor ni fondo.
+El mapa manda sobre cualquier descripcion escrita si hubiera duda.
+La pared derecha debe permanecer limpia, sin anaquel corrido, porque esa zona pertenece a caja en L y pasillo vendedor.
 
 La tienda debe sentirse como comercio real de toda la vida: humilde, honesto, funcional, bien barrido, cuidado y recientemente mantenido.
 No debe sentirse lujosa, boutique, showroom, gourmet ni retail caro.
+Tradicional no significa antiguo ni deteriorado: el mobiliario debe verse actual, limpio, sencillo y bien mantenido. Los anaqueles deben ser anchos y legibles, tipo vitrina sencilla con vidrio limpio y estructura de madera clara o media. No deben parecer muebles viejos de madera oscura ni anticuario.
 
 Fachada:
 Puede incluir piedra volcanica rojiza tipo tezontle o cantera rojiza del Centro Historico, limpia y bien mantenida, combinada con marco claro de cantera o pintura neutra.
-La cortina metalica puede ser gris limpio o rojo T1 #DA3B2B muy sobrio si se integra naturalmente al local.
+La cortina metalica debe ser de color rojo T1 #DA3B2B, muy sobrio e integrado naturalmente al local.
 Sin logo, sin texto, sin marca.
 
 Mercancia:
 La tienda vende articulos para cabello, barba y cuidado personal: peines, cepillos, brochas, navajas, tijeras, maquinas de corte, pomadas, geles, ceras, tintes, ligas, pasadores y accesorios pequenos. Los productos deben verse reales, humildes, ordenados y sin marcas legibles.
+Importante: la mercancia debe ser minimal y aireada. No llenar todos los anaqueles. Usar pocos grupos de producto bien acomodados, con espacios vacios visibles entre objetos. Priorizar claridad visual sobre cantidad de objetos.
+Evitar que los productos pequenos se vuelvan ruido visual. Mostrar familias de producto reconocibles, no cientos de objetos miniatura.
+Puede haber algunos peines vintage o herramientas clasicas como acento de producto, pero solo los productos; los anaqueles, mostrador, piso y fachada deben verse limpios, recientes y cuidados.
 
 OBJETIVO:
 Crear una ficha visual de locacion, no un storyboard.
@@ -499,7 +505,7 @@ FORMATO:
 - Grilla limpia, ordenada y visual.
 - Sin texto, sin numeros, sin titulos, sin captions, sin labels, sin logos, sin marcas de agua.
 - No collage irregular.
-- No texto, no numeros, no titulos, no captions, no labels.
+- Paneles cinematograficos limpios, no catalogo de productos.
 
 ESTRUCTURA SUGERIDA:
 Crear una grilla limpia de 4 columnas por 3 filas, 12 paneles totales.
@@ -507,22 +513,23 @@ Todos los paneles deben parecer stills cinematograficos horizontales de la misma
 No dejar paneles vacios.
 
 Paneles 1 a 3: fachada exterior y cortina al amanecer, tienda cerrada, sin personas.
-Paneles 4 a 6: cortina a media altura o abierta, vista desde calle hacia interior, revelando pasillo, anaqueles y caja lateral en L segun el mapa.
-Paneles 7 a 9: interior desde entrada hacia fondo, anaquel alto izquierdo, anaquel de fondo, pasillo central libre, caja lateral derecha en L flotada dentro del local.
-Paneles 10 a 12: detalles de materiales y props fijos: metal limpio, madera del mostrador, piso impecable, anaqueles ordenados con peines, cepillos, pomadas, geles, navajas, tijeras, brochas, ligas y accesorios de cabello/barba, luz dorada, terminal POS generica, libreta y pano rojo sin texto si aparecen naturalmente.
+Paneles 4 a 6: cortina a media altura o abierta, vista desde calle hacia interior, revelando pasillo central, anaquel izquierdo, anaquel de fondo, pared derecha limpia y caja lateral en L segun el mapa.
+Paneles 7 a 9: interior desde entrada hacia fondo, anaquel alto izquierdo, anaquel de fondo, pared derecha limpia, pasillo central libre, caja lateral derecha en L: brazo largo separado del muro, brazo corto cerrando hacia la entrada.
+Paneles 10 a 12: detalles limpios y cercanos de materiales y props fijos: metal limpio, madera clara o media del mostrador, piso impecable, anaqueles anchos tipo vitrina sencilla de vidrio limpio con estructura de madera clara o media, pocos peines/cepillos/pomadas/geles/navajas/tijeras/brochas, luz dorada, terminal POS generica orientada hacia la pared derecha vacia, libreta y pano rojo sin texto si aparecen naturalmente. Los detalles deben ser claros, con aire, y no saturados.
 
 GEOMETRIA OBLIGATORIA:
 Entrada y cortina metalica al frente, en la calle.
 Interior rectangular, angosto y profundo.
-Anaqueles altos en pared izquierda y fondo. Anaquel parcial en pared derecha solo si respeta el area de caja.
-Anaquel o producto ordenado al fondo con articulos de cabello, barba y cuidado personal.
+Anaqueles altos, anchos y profundos en pared izquierda y fondo, tipo vitrina sencilla con vidrio limpio y estructura de madera clara o media. No debe haber anaquel en pared derecha.
+Anaquel o producto ordenado al fondo con articulos de cabello, barba y cuidado personal, colocado en grupos simples con espacios vacios visibles.
 Pasillo central libre desde entrada hacia fondo.
 Mostrador lateral derecho tipo caja, con forma de L, no isla central.
-La barra larga corre paralela al eje largo del local.
-El brazo corto de la L queda hacia la entrada y cierra el frente de la caja.
+La barra larga corre paralela al eje largo del local y queda separada de la pared derecha para formar un pasillo vendedor estrecho.
+El brazo corto de la L queda hacia la entrada, cierra el frente de la caja y puede pegar o llegar hasta la pared derecha.
 No debe haber acceso directo a la caja desde la entrada.
-Mostrador flotado dentro del local, separado de la pared derecha por un pequeno pasillo vendedor.
-El acceso al pasillo vendedor esta por el fondo, detras de la barra, no por el frente.
+El mostrador no es una isla: solo la barra larga queda separada del muro; el brazo corto puede cerrar contra la pared derecha.
+El paso al pasillo vendedor ocurre por el extremo posterior abierto de la L, hacia el fondo del local, no por el frente. No dibujar puerta ni vano.
+El POS, computadora o tablet sobre el mostrador debe mirar hacia la pared derecha vacia. No debe mirar hacia el pasillo central ni hacia el cliente.
 Luz de amanecer entra desde la calle hacia el interior.
 
 CONTINUIDAD OBLIGATORIA:
@@ -530,29 +537,30 @@ Misma tienda en todos los paneles.
 Misma fachada.
 Misma cortina metalica.
 Mismo mostrador en L.
-Mismos anaqueles con la misma mercancia de cabello/barba.
+Mismo anaquel izquierdo y mismo anaquel de fondo con la misma mercancia de cabello/barba, siempre ordenada y poco saturada.
 Misma direccion de luz.
 Misma paleta.
 Mismo estado limpio, cuidado, humilde, digno y funcional.
 Mismo estado nuevo, ordenado y recientemente mantenido.
 Misma planta del mapa en todos los paneles.
-Mismas posiciones relativas: entrada al frente, anaqueles laterales, pasillo central libre, mostrador en L dentro del local, pasillo vendedor detras de caja.
+Mismas posiciones relativas: entrada al frente, anaquel izquierdo, anaquel de fondo, pared derecha limpia, pasillo central libre, mostrador en L dentro del local, brazo corto de la L cerrando hacia entrada, pasillo vendedor detras de caja.
+Misma orientacion del POS/computadora/tablet: pantalla hacia la pared derecha vacia, no hacia el pasillo central.
 Las vistas deben respetar la geometria del mapa.
 
 LOOK:
-Cine independiente mexicano contemporaneo. Sobrio, humano, cercano, honesto y digno. Fotografia suave, contraste medio, negros ligeramente levantados, altas luces con roll-off analogico, grano fino cinematografico. Luz dorada de amanecer. Textura real de metal limpio, concreto cuidado, madera sencilla, vidrio limpio y productos de cabello/barba ordenados.
+Cine independiente mexicano contemporaneo. Sobrio, humano, cercano, honesto y digno. Fotografia suave, contraste medio, negros ligeramente levantados, altas luces con roll-off analogico, grano fino cinematografico. Luz dorada de amanecer. Textura real de metal limpio, concreto cuidado, madera sencilla clara o media, anaqueles/vitrinas de vidrio limpio, laminado limpio y productos de cabello/barba ordenados con aire visual. El local debe sentirse tradicional por escala, oficio y fachada, no por mobiliario viejo.
 
 ESTADO DEL MUNDO:
 Todo debe verse limpio, cuidado, recientemente mantenido y en excelente estado. Realismo si, suciedad no. Textura si, deterioro no.
-Fachada limpia, posible tezontle rojizo o cantera rojiza cuidada, marco de cantera clara o pintura neutra uniforme, cortina metalica limpia y pareja, gris o rojo T1 sobrio, sin oxido, sin abolladuras, sin manchas, sin graffiti, sin polvo pesado, sin humedad, sin pintura descarapelada.
-Interior impecable pero sencillo: piso limpio, anaqueles ordenados, mercancia de cabello/barba bien acomodada, madera cuidada pero no lujosa, vidrio limpio, cero cables visibles, cero acumulacion, cero cajas viejas, cero deterioro.
+Fachada limpia, posible tezontle rojizo o cantera rojiza cuidada, marco de cantera clara o pintura neutra uniforme, cortina metalica limpia y pareja, rojo T1 sobrio, sin oxido, sin abolladuras, sin manchas, sin graffiti, sin polvo pesado, sin humedad, sin pintura descarapelada.
+Interior impecable pero sencillo: piso limpio, anaqueles actuales, anchos, de vidrio con madera clara/media, bien mantenidos, ordenados y no saturados, mercancia de cabello/barba bien acomodada en pocos grupos, madera cuidada pero no lujosa, vidrio limpio, cero cables visibles, cero acumulacion, cero cajas viejas, cero deterioro.
 La tienda puede ser humilde, tradicional y pequena, pero debe sentirse funcional, luminosa, digna, bien atendida y en operacion.
 
 ROJO T1:
 Usar rojo T1 #DA3B2B solo como acento natural. Puede aparecer en pano liso, detalle pequeno, ribete, etiqueta sin texto o cortina metalica sobria si se ve propia del local. No generar logo ni texto.
 
 NEGATIVO:
-no people, no character, no storyboard action, no moodboard, no irregular collage, no text, no numbers, no titles, no captions, no labels, no watermarks, no logos, no brands, no UI, no dashboard, no QR, no pharmacy, no supermarket, no grocery store, no liquor store, no luxury boutique, no showroom, no gourmet store, no luxury retail, no expensive marble retail, no designer store, no dirty shop, no grime, no trash, no rust, no peeling paint, no broken wall, no poverty look, no abandoned look, no clutter, no cables, no old damaged shutter, no dusty shutter, no dented shutter, no graffiti, no stains, no humidity damage, no cracked floor, no messy shelves, no old boxes, no decayed facade, no inconsistent shop layout, no counter switching sides, no shelves changing position, no straight counter if the map shows L counter, no counter opening toward entrance, no access to counter from entrance, no reversed layout, no night scene, no harsh HDR, no stock photo look.
+no people, no character, no storyboard action, no moodboard, no irregular collage, no product catalog, no text, no numbers, no titles, no captions, no labels, no watermarks, no logos, no brands, no UI, no dashboard, no QR, no pharmacy, no supermarket, no grocery store, no liquor store, no luxury boutique, no showroom, no gourmet store, no luxury retail, no expensive marble retail, no designer store, no antique store, no old wooden shelves, no dark antique wood shelving, no thin wire racks, no cheap plastic shelving, no dusty vintage shop, no dirty shop, no grime, no trash, no rust, no peeling paint, no broken wall, no poverty look, no abandoned look, no clutter, no overloaded shelves, no tiny-object overload, no fully packed shelves, no hundreds of tiny products, no cables, no old damaged shutter, no dusty shutter, no dented shutter, no graffiti, no stains, no humidity damage, no cracked floor, no messy shelves, no old boxes, no decayed facade, no inconsistent shop layout, no counter switching sides, no shelves changing position, no right wall shelf, no POS facing customer aisle, no computer facing central aisle, no tablet facing central aisle, no straight counter if the map shows L counter, no counter opening toward entrance, no access to counter from entrance, no reversed layout, no night scene, no harsh HDR, no stock photo look.
 ```
 
 ## 03 — Formula Para El Story Y Sequence Board Posterior
@@ -561,7 +569,7 @@ Usar en una ventana nueva y limpia cuando ya esten aprobados:
 
 1. Character sheet de Don Rafael.
 2. Blocking map L01: `07_assets/locations/blocking-maps/L01-tienda-pequena-centro-historico-blocking-map-v009-approved.png`
-3. Location sheet visual L01: `07_assets/locations/model-sheets/approved/L01-tienda-pequena-centro-historico-location-sheet-v009-approved.png`
+3. Location sheet visual L01: `07_assets/locations/model-sheets v03/L01-tienda-pequena-centro-historico-location-sheet-v009-approved.png`
 
 ```text
 Usa las 3 imagenes adjuntas como referencias estrictas:
@@ -594,7 +602,7 @@ Usar en chat nuevo. Adjuntar exactamente estas referencias:
 
 1. Character sheet aprobado de Don Rafael.
 2. Blocking map aprobado de L01: `07_assets/locations/blocking-maps/L01-tienda-pequena-centro-historico-blocking-map-v009-approved.png`
-3. Location sheet visual aprobado de L01: `07_assets/locations/model-sheets/approved/L01-tienda-pequena-centro-historico-location-sheet-v009-approved.png`
+3. Location sheet visual aprobado de L01: `07_assets/locations/model-sheets v03/L01-tienda-pequena-centro-historico-location-sheet-v009-approved.png`
 
 ```text
 Haz una imagen horizontal 16:9 tipo sequence sheet cinematografico para la Toma 01 de una tienda pequena tradicional del Centro Historico de Ciudad de Mexico.
@@ -605,7 +613,7 @@ Usa las 3 imagenes adjuntas como referencias estrictas y unicas:
 Usalo solo para identidad del personaje: rostro, edad, pelo entrecano, complexion, manos, vestuario, actitud y presencia.
 
 2. Blocking map de la tienda:
-Usalo solo para geometria y continuidad espacial: entrada/cortina al frente, local angosto y profundo, anaqueles, pasillo central, caja lateral derecha en L, pasillo vendedor, fondo y direccion de entrada desde la calle hacia el interior.
+Usalo solo para geometria y continuidad espacial: entrada/cortina al frente, local angosto y profundo, anaquel izquierdo, anaquel de fondo, pared derecha limpia, pasillo central, caja lateral derecha en L, pasillo vendedor, fondo y direccion de entrada desde la calle hacia el interior.
 
 3. Location sheet visual de la tienda:
 Usalo solo para look de locacion: fachada de tezontle/cantera rojiza, cortina metalica roja T1, interior limpio, anaqueles con articulos de cabello/barba, mostrador en L de madera, POS, libreta, pano rojo, luz de amanecer, paleta y tono cinematografico.
@@ -633,7 +641,7 @@ ACCION DE LA TOMA 01:
 Paneles 1 a 4: fachada cerrada al amanecer, cortina metalica abajo, calle tranquila, Don Rafael entra a cuadro desde banqueta.
 Paneles 5 a 8: Don Rafael se acerca a la cortina, se detiene frente al acceso, mira el local con calma y prepara las manos.
 Paneles 9 a 12: Don Rafael toma la cortina metalica desde abajo y empieza a levantarla. La luz dorada entra suavemente.
-Paneles 13 a 16: la cortina queda a media altura, se revela el interior limpio, pasillo central, anaqueles de cabello/barba y caja lateral derecha en L segun el mapa. Don Rafael permanece cerca del umbral; no debe llegar todavia hasta la caja.
+Paneles 13 a 16: la cortina queda a media altura, se revela el interior limpio, pasillo central, anaquel izquierdo, anaquel de fondo, pared derecha limpia y caja lateral derecha en L segun el mapa. Don Rafael permanece cerca del umbral; no debe llegar todavia hasta la caja.
 
 CONTINUIDAD OBLIGATORIA:
 Mismo Don Rafael en todos los paneles.
@@ -641,7 +649,7 @@ Misma ropa y misma edad en todos los paneles.
 Misma tienda en todos los paneles.
 Misma fachada y misma cortina.
 Misma direccion de luz de amanecer desde la calle.
-Misma geometria del mapa: entrada al frente, local angosto y profundo, anaqueles laterales con articulos de cabello/barba, pasillo central libre, caja lateral derecha en L, pasillo vendedor detras de caja.
+Misma geometria del mapa: entrada al frente, local angosto y profundo, anaquel izquierdo y anaquel de fondo con articulos de cabello/barba, pared derecha limpia, pasillo central libre, caja lateral derecha en L, pasillo vendedor detras de caja.
 Mismo color rojo T1 de la cortina si aparece abierta o cerrada.
 La accion siempre va desde calle hacia entrada. No sugerir que Don Rafael viene desde la caja hacia afuera.
 
