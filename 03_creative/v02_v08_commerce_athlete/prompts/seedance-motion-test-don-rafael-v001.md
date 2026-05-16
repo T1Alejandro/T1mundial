@@ -28,54 +28,44 @@ Duración ideal: 10-12 segundos.
 
 ## Cómo Usarlo En Seedance
 
-1. Subir la ficha de personaje de Don Rafael como referencia de identidad.
-2. Subir el storyboard aprobado como referencia de movimiento / blocking.
-3. Usar modo image-to-video o reference-to-video, según la interfaz disponible.
-4. Pegar el prompt largo de abajo.
-5. Si Seedance permite varios inputs, marcar la ficha como identidad y el storyboard como composición/motion reference.
-6. Generar primero una prueba corta de 5-6 segundos con beat 1 o beat 2 antes de pedir los 12 segundos completos.
-7. Aprobar identidad, limpieza, terminal POS y movimiento antes de producir tomas finales.
+1. Subir el sequence sheet unido de Don Rafael + L01 como referencia principal.
+2. Configurar Seedance en 7s, 16:9, 1080p.
+3. Pegar el prompt final de abajo.
+4. Revisar primero: identidad, manos, movimiento fisico de la cortina, direccion de entrada y layout de tienda.
 
-## Prompt Seedance — Image To Video
+## Prompt Final Seedance — Toma 01, 7s
 
 ```text
-CINEMATIC HERO CLIP, 12 seconds, 16:9, 1080p. Use the attached character model sheet as strict identity reference for DON RAFAEL. Use the attached storyboard board as strict motion, blocking, camera, and spatial continuity reference. Preserve his exact face, age, salt-and-pepper hair, gray stubble, body type, wardrobe, dignified gaze, skin texture, shirt color, dark gray trousers, black shoes, and subtle red accents. Do not change his identity.
+Animate the attached sequence sheet as a single cinematic shot.
 
-ONE continuous flowing shot covering three moments of a Mexican shopkeeper's morning ritual at dawn.
+Use the attached image as strict reference for Don Rafael, the store, the facade, the red shutter, the dawn light, the clothing, the palette and the action.
 
-CHARACTER:
-Don Rafael, Mexican man 55-60 years old, short salt-and-pepper hair, trimmed gray stubble, weathered dignified working hands, calm composed gaze, respected small-shop owner. Wardrobe locked from reference: dark navy long-sleeve button-up shirt, sleeves rolled naturally, dark gray trousers, black belt, black clean shoes, discreet red cloth/accent in shirt pocket. Real skin texture with pores, age lines, natural hands, no plastic skin.
+Animate only the main action:
+Don Rafael stands in front of the red metal shutter of his store at dawn. He takes the lower edge of the shutter with both hands, lifts it slowly to half height, soft golden light enters from the street, the clean interior of the store is revealed, and Don Rafael takes one calm step toward the threshold. He must end just inside or right at the entrance, without walking to the counter.
 
-SCENE BEAT 1, 0:00-0:05:
-Exterior of his small clean shop in a generic historic downtown Mexican street at dawn. Camera starts behind Don Rafael from the street side, 35mm lens, subtle anamorphic look. Don Rafael stands outside with his back to camera, facing a clean closed metal rolling shutter. The facade is freshly painted, recently maintained, clean, premium-real, no rust, no stains, no peeling paint. He grips the shutter pull-bar from the outside and slowly raises it upward in one dignified precise motion. The shutter rises smoothly, revealing the warm shop interior. Quiet empty street, no famous landmarks, no logos, no signs, no readable text. Warm controlled golden dawn light comes from the entrance/shutter side. He never opens the shutter from inside.
+Camera:
+One continuous frontal shot from the street, human eye level. Very subtle slow push-in. No cuts, no angle changes, no strong pans, no shaky camera.
 
-SCENE BEAT 2, 0:05-0:08:
-Camera smoothly tracks with him as he steps into the shop from the street, shifting to a low-medium over-the-right-shoulder angle. We see his back and the interior opening before him. Firm dignified step. Golden dawn light spills through the open doorway behind him. Interior: warm wooden counter, ordered shelves, clean stone or terracotta floor, immaculate surfaces, fixed shop geography, same counter position as storyboard, no prop teleporting.
+Motion:
+Natural, slow, heavy and realistic. The shutter must move vertically like a heavy rolling metal shutter. Don Rafael moves calmly, like an older shopkeeper opening his lifelong store. Keep his hands in contact with the shutter while he lifts it.
 
-SCENE BEAT 3, 0:08-0:12:
-Camera pushes toward the wooden counter and transitions to tight macro close-up of his hands. Don Rafael physically takes, slides, or aligns a generic portable smart POS terminal with integrated receipt printer: clean white body, T1 red #DA3B2B side accents and buttons instead of purple, vertical black/light-gray blank screen with black bezel, paper slot/roll at the top, compact handheld scale, no logo, no brand, no readable UI, no numbers, no amount, no printed ticket text. The other hand straightens a small notebook, a pen with red clip, and a folded plain red cloth beside it. Hands are sharp, background creamy bokeh of the warm shop interior. Movement is precise, quiet, ritual-like.
+Continuity:
+Keep exactly the same Don Rafael from the sheet.
+Keep the same clothing.
+Keep the same tezontle / reddish cantera facade.
+Keep the same red T1 shutter.
+Keep the same interior: left shelf, back shelf, empty right wall, central aisle and right-side L-shaped counter.
+Do not change the store, age, clothing or layout.
 
-CAMERA:
-35mm lens for exterior and entry, then 50mm/100mm macro feel for hand details. Smooth handheld but stable. Slow contemplative pace. No fast cuts. The clip should feel like one breath.
+Look:
+Contemporary Mexican independent cinema. Golden dawn, sober, human, clean, dignified, medium contrast, fine cinematic grain, real texture of metal, stone, wood and glass.
 
-LIGHT:
-Continuous warm controlled golden dawn light, soft amber key from camera-right, gentle warm fill, slight rim light, lifted blacks, analog highlight roll-off, fine cinematic grain.
-
-PALETTE:
-Golden dawn, soft amber, soft terracotta, noble ochre, warm browns, creamy whites, soft black. Red T1 #DA3B2B only as discreet natural accent in cloth or pen clip. No dominant green, no tricolor palette.
-
-MATERIALS:
-Freshly painted clean facade, clean metal shutter in excellent condition, no rust, no dents, no chipped paint, warm wooden counter, clean floor, ordered shelves, generic portable smart POS terminal with white body and T1 red side accents, real skin texture, fabric fibers, polished shoes, premium-real shop surfaces. Everything new, clean, dignified and cared for.
-
-AUDIO DIRECTION IF AVAILABLE:
-Soft metallic rumble of shutter rising, faint distant city dawn ambience, subtle footsteps on clean tile, very soft terminal touching wood. No dialogue, no voiceover, no music.
-
-NEGATIVE PROMPT:
-no text, no captions, no labels, no numbers, no watermarks, no logos, no fake T1 logo, no brands, no Mercado Pago, no Clip, no Visa, no Mastercard, no software UI, no readable UI, no dashboard, no QR code, no tracking dots, no tracking crosses, no tablet terminal, no laptop terminal, no phone-like terminal, no purple terminal, no oversized screen, no readable payment amount, no keypad numbers, no printed ticket text, no opening shutter from inside, no soccer, no football, no futbol, no ball, no stadium, no cancha, no jersey, no sports uniform, no Mundial, no Copa del Mundo, no Mexico 2026, no flags, no patriotic styling, no green-white-red dominant palette, no famous landmarks, no Catedral, no Angel de la Independencia, no sombrero, no mariachi, no folkloric cliches, no poverty porn, no grime, no trash, no dirt, no dust, no stains, no old facade, no dirty sidewalk, no chipped paint, no peeling paint, no rust, no dented shutter, no dusty shutter, no humidity damage, no cracked walls, no damaged shutter, no clutter, no decay, no abandoned look, no stock photo look, no plastic skin, no waxy skin, no airbrushed skin, no beauty retouching, no distorted hands, no extra fingers, no malformed face, no AI artifacts.
+Negative:
+no text, no captions, no subtitles, no logos, no watermark, no extra people, no crowd, no different character, no different outfit, no different store, no layout change, no night, no rain, no dirty shop, no rust, no graffiti, no trash, no luxury boutique, no showroom, no jump cuts, no camera angle change, no walking to the counter, no reversed action, no shutter moving sideways.
 ```
 
 ## Variante Corta Para Campo De Prompt Limitado
 
 ```text
-12s cinematic image-to-video. Use attached Don Rafael model sheet as strict identity reference and storyboard as motion/blocking reference. Mexican man 55-60, salt-and-pepper hair, gray stubble, dark navy shirt, dark gray trousers, subtle red accent, dignified shopkeeper. One continuous dawn ritual: from outside/back view he raises a clean metal shutter on a freshly painted immaculate facade, smooth over-right-shoulder tracking as he enters a clean small Mexican shop, macro hands aligning a generic portable smart POS terminal with integrated receipt printer, white body, T1 red side accents, blank vertical screen, no UI, no logos, beside notebook, red-clip pen and folded red cloth. Golden dawn light, premium-real clean shop, analog roll-off, lifted blacks, fine grain, 35mm to macro feel, slow stable handheld. No text, no UI, no purple terminal, no tablet terminal, no rust, no dirt, no clutter, no plastic skin, no malformed hands.
+Animate the attached sequence sheet as one 7s cinematic shot. Don Rafael stands outside his clean historic downtown shop at dawn, grips the lower edge of the red metal shutter with both hands, slowly lifts it to half height, warm golden light enters, the clean interior appears, and he takes one calm step to the threshold without walking to the counter. Keep the same Don Rafael, clothing, red shutter, tezontle/cantera facade, left shelf, back shelf, empty right wall, central aisle and right-side L-shaped counter. Frontal street-level camera, subtle slow push-in, no cuts, no angle changes. Natural heavy vertical shutter motion. No text, no logos, no extra people, no layout change, no reversed action, no shutter moving sideways.
 ```
