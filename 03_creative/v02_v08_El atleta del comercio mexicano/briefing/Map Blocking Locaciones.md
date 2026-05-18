@@ -1,17 +1,17 @@
 ---
-title: "T1 v08 Location Blocking Sheets"
+title: "Map Blocking Locaciones"
 doc_type: "location-blocking"
 status: "active-draft"
 owner: "Arturo / Parco"
 version: "0.1"
-last_updated: "2026-05-14"
+last_updated: "2026-05-18"
 language: "es"
 project: "T1 v08 - El atleta del comercio mexicano"
 source_of_truth: false
-parent_source: "v08-master-production-bible-v001.md"
+parent_source: "Master Production Biblia.md"
 ---
 
-# T1 v08 Location Blocking Sheets
+# Map Blocking Locaciones
 
 Este documento agrega la capa que falta entre location sheet y storyboard: planta, eje, recorrido, posiciones de camara y reglas de continuidad espacial.
 
@@ -97,7 +97,7 @@ Ritual de apertura de Don Rafael. La toma debe sentirse como el inicio de una jo
 
 No usar otras imagenes para resolver arquitectura, layout, fachada, interior, ropa o identidad.
 
-## Planta Fija V001
+## Planta Fija Activa
 
 Vista desde arriba. La calle esta abajo. El fondo del local esta arriba.
 
@@ -108,31 +108,47 @@ Vista desde arriba. La calle esta abajo. El fondo del local esta arriba.
         │                                            │
         │        ANAQUEL FONDO CON PRODUCTO ORDENADO │
         │                                            │
-        │  ANAQUEL IZQ.                  ANAQUEL DER.│
-        │                                            │
+        │  ANAQUEL IZQ.                              │
         │                                            │
         │              PASILLO CENTRAL               │
-        │              RUTA DE DON RAFAEL            │
         │                                            │
-        │        ┌──────────────────────────┐        │
-        │        │ MOSTRADOR DE MADERA      │        │
-        │        │ POS, LIBRETA Y PANO      │        │
-        │        └──────────────────────────┘        │
+        │                         PARED DERECHA      │
+        │                         LIMPIA             │
+        │                                            │
+        │               ┌──────────────┐     │        │
+        │               │ MOSTRADOR    │     │        │
+        │               │ LARGO        │     │        │
+        │               │ pano/libreta │     │        │
+        │               │ POS          │     │        │
+        │               │ computadora  │     │        │
+        │               └──────────────┴─────┘        │
+        │                    PASILLO VENDEDOR         │
         │                                            │
         └─────────────── CORTINA Y ENTRADA ──────────┘
 
                          CALLE / SUR
 ```
 
+Regla activa de caja L01:
+
+- No hay anaquel derecho corrido.
+- La pared derecha queda limpia.
+- La caja lateral derecha tiene forma de L, no isla y no C.
+- La barra larga corre norte-sur y queda separada de la pared derecha para crear un pasillo vendedor.
+- El brazo corto/base de la L queda al sur/frente y toca o llega hasta la pared derecha.
+- El acceso al pasillo vendedor queda por el extremo posterior/norte abierto de la L, no por la entrada.
+- La secuencia operativa de props sobre la barra larga sigue el recorrido fisico de Don Rafael, de sur a norte: pano + libreta + pluma -> terminal POS -> computadora.
+
 ## Objetos Fijos
 
 - Cortina metalica: al sur, plano frontal del local, se abre verticalmente.
 - Entrada / umbral: mismo eje que cortina, conecta calle con pasillo central.
-- Mostrador: dentro del local, centrado o ligeramente cargado a derecha, pero debe permanecer fijo durante toda la secuencia.
-- Anaqueles: laterales y fondo, ordenados, sin marcas legibles.
+- Mostrador: caja lateral derecha en forma de L. La barra larga corre norte-sur y queda separada de la pared derecha; el brazo corto/base toca o llega a la pared derecha hacia el sur/frente.
+- Anaqueles: pared izquierda y fondo, ordenados, sin marcas legibles. No hay anaquel derecho corrido.
 - Piso: limpio, continuo, con lineas de perspectiva hacia el fondo.
 - Luz principal: amanecer desde la calle, entra desde el sur hacia el norte.
-- Props de mostrador: terminal generica, libreta, pluma con clip rojo, pano rojo liso. Si aparecen, ya estan sobre el mostrador o Don Rafael los mueve fisicamente.
+- Props de mostrador: sobre la barra larga de la L, de sur a norte por recorrido fisico: pano rojo + libreta + pluma, luego terminal POS, luego computadora/laptop.
+- Orientacion de dispositivos: POS y computadora miran hacia la pared derecha vacia, no hacia el pasillo central ni hacia cliente. Para la computadora, de oeste a este / izquierda a derecha sobre el counter: pantalla -> teclado -> espacio del mueble / pasillo vendedor -> pared derecha.
 
 ## Eje De Accion
 
@@ -241,7 +257,7 @@ Usar este bloque dentro de cualquier prompt de Toma 01:
 
 ```text
 LOCATION BLOCKING LOCK:
-Use a fixed floor plan. The metal shutter and entrance are always at the front/south side of the shop. The clean wooden counter is inside, deeper in the shop, fixed in the same position across all panels. Shelves remain on the side walls and back wall. Dawn light always enters from the street through the shutter/entrance. Don Rafael starts outside, opens the shutter from outside, then turns and takes his first step inside. Keep the same camera side and same screen direction: street -> shutter -> threshold -> interior. Do not cross the axis. Do not reverse the shop. Do not move the counter, shelves, entrance, shutter, props or light direction between panels.
+Use a fixed floor plan. The metal shutter and entrance are always at the front/south side of the shop. The left wall and back wall have shelves; the right wall stays clean. The clean wooden counter is a right-side L-shaped cashier counter, fixed in the same position across all panels: long leg north-south separated from the right wall, short/front leg closing toward the right wall. Dawn light always enters from the street through the shutter/entrance. Don Rafael starts outside, opens the shutter from outside, then turns and takes his first step inside. Keep the same camera side and same screen direction: street -> shutter -> threshold -> interior. Do not cross the axis. Do not reverse the shop. Do not move the counter, shelves, entrance, shutter, props or light direction between panels.
 ```
 
 ## Negativos Especificos De Blocking
@@ -262,148 +278,37 @@ no camera axis crossing, no reversed shop layout, no counter switching sides, no
 - No hay cruce de eje ni inversion de screen direction.
 - No hay paneles que parezcan otra toma, otra tienda u otro actor.
 
-## Revision De Planta L01 V002
+## Decisiones De Planta L01
 
-La version con mostrador tipo isla central funciona para entender el eje, pero puede sentirse demasiado boutique, showroom o tienda gourmet moderna. Para una tienda pequena del Centro Historico de Ciudad de Mexico, conviene una disposicion mas utilitaria y real:
+Estas decisiones sustituyen las iteraciones viejas de planta. No copiar versiones anteriores.
 
-- Local angosto y profundo.
-- Pasillo central libre desde cortina hacia fondo.
-- Anaqueles laterales continuos.
-- Mostrador o caja pegado a pared derecha, cerca de la entrada o a media profundidad.
-- Fondo con anaquel principal o pequeno almacen visualmente ordenado.
-- La luz de amanecer entra desde la cortina y cae sobre el pasillo, no sobre una isla central dominante.
-- Don Rafael puede abrir, respirar, entrar y avanzar sin que el mostrador bloquee la ruta.
-
-Regla creativa:
-
-```text
-Evitar mostrador-isla central para L01 salvo que se quiera sentir como boutique premium. Para Don Rafael, usar mostrador lateral derecho o mostrador al fondo lateral, con pasillo central despejado.
-```
-
-## Revision De Planta L01 V003
-
-La version con mostrador lateral derecho mejora la logica de tienda, pero el mapa no debe hacer que parezca que Don Rafael viene desde la caja hacia la calle. Para Toma 01, la prioridad es una sola accion:
-
-```text
-Don Rafael esta afuera, frente a la cortina. Abre la cortina desde la calle. Luego cruza el umbral y da su primer paso hacia el interior.
-```
-
-El mapa debe separar tres cosas:
-
-- Ruta del personaje: una linea clara desde calle hacia interior. Nunca al reves.
-- Camara principal: exterior frontal desde la calle, mirando hacia dentro, sin cruzar eje.
-- Camara interior: solo una opcion posterior, marcada como "despues de entrar", no como camara principal para la apertura.
-
-Regla creativa:
-
-```text
-Para el sequence board de Toma 01, no usar camara interior mirando hacia afuera salvo en un panel final muy justificado. El mapa debe favorecer una camara exterior frontal o de umbral que acompana el ingreso.
-```
-
-## Revision De Planta L01 V004
-
-El mapa no debe parecer un diagrama de camaras. Debe parecer primero un plano arquitectonico de planta, como un floor plan limpio, y despues agregar solo la informacion minima de blocking.
-
-Regla creativa:
-
-```text
-Prioridad 1: planta arquitectonica clara.
-Prioridad 2: posicion y recorrido de Don Rafael como silueta superior, punto o figura simple.
-Prioridad 3: una camara principal exterior y una camara secundaria de umbral. No llenar de camaras.
-```
-
-El simbolo de Don Rafael debe ayudar a leer direccion de cuerpo:
-
-- Figura simple vista desde arriba.
-- Cabeza o triangulo apuntando hacia la cortina e interior.
-- Tres posiciones sobre la ruta: afuera frente a cortina, en umbral, primer paso interior.
-- La ruta se lee de calle a interior.
-
-Evitar:
-
-- camaras grandes dominantes,
-- conos de vision demasiado teatrales,
-- multiples camaras que compitan con la planta,
-- flechas que parezcan movimiento de camara en vez de recorrido del personaje.
-
-## Revision De Planta L01 V005
-
-La planta debe quedar aun mas arquitectonica y limpia. Para este entregable ya no necesitamos mostrar monito de Don Rafael ni ruta dominante. El objetivo es fijar el set.
-
-Regla creativa:
-
-```text
-Planta limpia primero. Solo direcciones de camara, no recorrido de personaje.
-```
-
-Ajustes:
-
-- Quitar monitos, siluetas y puntos de Don Rafael.
-- Quitar ruta roja dominante del personaje.
-- Mantener camaras pequenas con flecha o cono minimo indicando hacia donde apuntan.
-- Debe existir una camara exterior frontal mirando hacia adentro.
-- Debe existir una camara interior mirando hacia la entrada, pero pequena y claramente secundaria.
-- La barra o mostrador debe quedar separada de la pared derecha por un pequeno pasillo tecnico, no completamente pegada. Debe sentirse como caja funcional de tienda: el vendedor puede colocarse detras de la barra.
-- Debe existir un hueco claro de acceso para entrar al pasillo tecnico detras de la barra.
-- El pasillo central del cliente debe quedar libre.
-- El local debe sentirse pequeno, angosto, profundo, real y operativo, no boutique ni showroom.
-
-## Revision De Planta L01 V006
-
-El mapa debe nacer del arquetipo correcto: una tienda pequena tradicional del Centro Historico, zona Donceles/Zocalo, no boutique, no showroom, no tienda gourmet.
-
-Caracter espacial:
-
-- Local angosto y profundo.
-- Fachada estrecha con cortina metalica enrollable.
-- Umbral directo desde banqueta.
-- Anaqueles altos y continuos en ambos muros laterales.
-- Anaquel o mueble de producto al fondo.
-- Pasillo central libre para clientes.
-- Mostrador funcional lateral derecho, cerca de entrada o a media profundidad.
-- Pasillo tecnico estrecho detras del mostrador para Don Rafael.
-- Hueco claro de acceso al pasillo tecnico desde el umbral o desde el pasillo central.
-- Caja y terminal sobre mostrador, no isla central.
-- El fondo puede tener puerta discreta o pequeno almacen, pero sin robar protagonismo.
-
-Regla creativa:
-
-```text
-Pensar en local tradicional de comercio del Centro Historico: estrecho, alto, profundo, operativo, cuidado, con mercancia ordenada en laterales. No pensar en boutique premium de retail contemporaneo.
-```
-
-## Revision De Planta L01 V007
-
-Las camaras, conos, flechas y diagramas ASCII agregan ruido al mapa. Para fijar la locacion conviene separar tareas:
-
-- El blocking map define solo arquitectura y posiciones fijas.
-- El location sheet define vistas cinematograficas.
-- El storyboard define camara, eje y recorrido de Don Rafael.
-
-Regla creativa:
-
-```text
-Para el mapa L01, generar una planta arquitectonica pura: sin camaras, sin conos, sin ruta, sin personaje y sin diagrama ASCII.
-```
+- El mapa L01 activo es una planta arquitectonica pura: sin camaras, conos, ruta, personaje ni diagrama de accion.
+- El local es angosto y profundo, con calle al sur y fondo al norte.
+- Los anaqueles van solo en pared izquierda y fondo. La pared derecha queda limpia para caja, pasillo vendedor y muro.
+- La caja lateral derecha es una L funcional: barra larga norte-sur separada de pared derecha; brazo corto/base al sur/frente tocando o llegando a pared derecha.
+- El pasillo vendedor se accede por el extremo posterior/norte abierto de la L, no por la entrada.
+- Los props principales van sobre la barra larga, siguiendo el recorrido fisico sur -> norte: pano + libreta + pluma -> terminal POS -> computadora/laptop.
+- POS, computadora o tablet miran hacia la pared derecha vacia; no hacia pasillo central, entrada ni cliente.
+- El storyboard define camara y recorrido de Don Rafael despues. El mapa solo fija arquitectura y objetos.
 
 ---
 
 # Prompts Pegables — L01
 
-## 01 — Prompt Para Crear Mapa Tecnico / Blocking Map L01 V007
+## 01 — Prompt Para Crear Mapa Tecnico / Blocking Map L01 Activo
 
-Usar primero. Adjuntar solo la location visual aprobada de L01 si ya existe. No adjuntar Don Rafael.
+Usar primero en una ventana nueva, sin adjuntar imagenes. Este prompt debe ser autocontenido.
 
 ```text
-Haz una imagen horizontal 16:9 de un plano de planta arquitectonico tecnico para una tienda pequena tradicional del Centro Historico de Ciudad de Mexico, zona Donceles/Zocalo.
+Haz una imagen horizontal 16:9 de un plano de planta arquitectonico tecnico para una tienda pequena tradicional del Centro Historico de Ciudad de Mexico, zona Donceles/Zocalo, propiedad de Don Rafael.
 
 La imagen debe ser SOLO vista superior. Debe verse como floor plan arquitectonico limpio. No debe ser render, no debe ser fachada, no debe ser storyboard, no debe ser moodboard, no debe parecer diagrama de camaras.
 
-Usa la imagen adjunta, si existe, solo como referencia secundaria de cortina metalica, limpieza y escala general. La planta debe responder primero al arquetipo de local tradicional angosto del Centro Historico, tipo Donceles, no a una boutique contemporanea.
+No uses imagenes de referencia para este mapa. La planta debe nacer del arquetipo de local tradicional angosto del Centro Historico, tipo Donceles, no de una boutique contemporanea.
 
 OBJETIVO:
 Crear un plano de planta claro para continuidad cinematografica, no una imagen bonita, no un moodboard, no una escena final.
-La imagen debe servir para entender solo la arquitectura de la tienda, la posicion de la barra, el pasillo central, el anaquel izquierdo, el anaquel de fondo y el acceso a caja.
+La imagen debe servir para entender solo la arquitectura de la tienda, la posicion de la caja en L, el pasillo central, el anaquel izquierdo, el anaquel de fondo, la pared derecha limpia, el pasillo vendedor y el acceso a caja.
 
 FORMATO:
 - Una sola imagen horizontal 16:9.
@@ -417,7 +322,12 @@ FORMATO:
 - Todo debe ser limpio, tecnico, ordenado y facil de leer, parecido a un plano arquitectonico.
 
 IMPORTANTE SOBRE TEXTO:
-Sin texto dentro de la imagen. Evitar palabras, numeros, titulos, labels largos, captions, UI o metadata.
+Sin texto dentro de la imagen salvo una rosa de los vientos pequena. Evitar palabras, numeros, titulos, labels largos, captions, UI o metadata.
+
+ORIENTACION:
+Agregar una rosa de los vientos pequena y limpia fuera de la planta, en la esquina superior derecha, con letras cardinales en espanol: N, S, O, E. Usar O de Oeste, no W.
+Norte = fondo del local.
+Sur = calle / entrada / cortina metalica.
 
 PLANTA FIJA:
 La calle esta al sur, en la parte inferior del plano.
@@ -425,10 +335,35 @@ El fondo del local esta al norte, en la parte superior del plano.
 La cortina metalica y entrada estan al sur, en el frente del local.
 El local es pequeno, rectangular, limpio y profundo.
 Hay anaquel alto y continuo en pared izquierda, y anaquel/vitrina de fondo. La pared derecha no debe tener anaquel; queda limpia y reservada para caja, pasillo vendedor y muro.
-Los anaqueles deben verse como muebles/vitrinas anchos, limpios y casi vacios. En el plano de planta no hace falta dibujar toda la mercancia; puede haber solo una insinuacion minima de productos. La prioridad es arquitectura clara, no inventario.
+Los anaqueles deben verse como muebles/vitrinas anchos, limpios y casi vacios. En el plano de planta no hace falta dibujar toda la mercancia; puede haber solo una insinuacion minima de productos.
+Anaquel izquierdo: vitrina/anaquel continuo de sur a norte, pegado a pared izquierda, con pocas formas simples que sugieran productos de cabello/barba/cuidado personal, sin logos ni etiquetas legibles.
+Anaquel de fondo: vitrina/anaquel continuo en pared norte/fondo, limpio y ordenado, casi vacio, sin puerta visible y sin saturacion de objetos.
+La prioridad es arquitectura clara, no inventario.
 Hay un pasillo central transitable desde la entrada hacia el interior.
-Hay un mostrador de madera cuidado en el lado derecho, cerca de la entrada o a media profundidad, como caja funcional de tienda tradicional. El mostrador debe tener forma de L, no de C. La barra larga corre paralela al eje largo del local y queda separada de la pared derecha para formar un pasillo vendedor estrecho. El brazo corto de la L queda hacia la entrada, cierra el frente de la caja y puede tocar o llegar hasta la pared derecha. No debe haber acceso directo a la caja desde la entrada. No debe ser una isla central. El extremo posterior de la L queda abierto hacia el fondo para que el vendedor pueda pasar detras de la barra; no dibujar puerta, vano, arco ni entrada formal. El pasillo central del cliente debe quedar libre.
-Sobre el mostrador pueden indicarse props como terminal POS, libreta y pano rojo como formas geometricas simples, sin texto. La pantalla del POS/computadora/tablet debe estar orientada hacia la pared derecha vacia, no hacia el pasillo central del cliente.
+Hay un mostrador de madera cuidado en el lado derecho, cerca de la entrada o a media profundidad, como caja funcional de tienda tradicional. El mostrador debe tener forma de L, no de C. La barra larga corre paralela al eje largo del local, de sur a norte, y queda separada de la pared derecha para formar un pasillo vendedor estrecho. El brazo corto/base de la L queda hacia el sur/frente, cierra el frente de la caja y toca o llega hasta la pared derecha. No debe haber acceso directo a la caja desde la entrada. No debe ser una isla central. El extremo posterior/norte de la L queda abierto hacia el fondo para que el vendedor pueda pasar detras de la barra; no dibujar puerta, vano, arco ni entrada formal. El pasillo central del cliente debe quedar libre.
+Sobre el mostrador deben indicarse props como formas geometricas simples, sin texto: pano rojo + libreta + pluma, terminal POS y computadora/laptop.
+
+DISPOSICION DE PROPS SOBRE LA BARRA LARGA:
+Colocar los props principales sobre la barra larga norte-sur de la L, no sobre el brazo corto/base, salvo papeles secundarios pequenos si hicieran falta.
+Ordenar los props por recorrido fisico de Don Rafael, no por lectura normal de pagina. Desde SUR/frente hacia NORTE/fondo sobre la barra larga:
+1. Posicion sur/frente, cerca del brazo corto/base: pano rojo doblado junto a libreta pequena y pluma con clip rojo.
+2. Posicion media: terminal punto de venta / POS generica, compacta, blanca, con pantalla negra vacia y pequeno acento rojo.
+3. Posicion norte/fondo: computadora/laptop pequena y limpia, pantalla negra o mate, sin UI, texto ni iconos.
+
+ORIENTACION DE OBJETOS SOBRE EL MOSTRADOR:
+Separar posicion de orientacion: aunque los props se ordenan de sur a norte, la orientacion fisica de pluma, POS y computadora se define de oeste a este / izquierda a derecha sobre la profundidad del counter.
+
+Pluma: horizontal sobre la barra. Boton/capuchon/clip rojo hacia el lado visual derecho / oeste; punta de escritura hacia el lado visual izquierdo / este, apuntando hacia laptop y POS. No generar texto en la libreta.
+
+Computadora/laptop: abierta sobre el counter, pero debe mirar hacia la pared derecha vacia, no hacia la entrada ni hacia el pasillo del cliente. Usar este corte estricto de izquierda a derecha / oeste a este sobre el counter:
+pantalla/display -> teclado -> espacio libre del counter / pasillo vendedor -> pared derecha.
+La pantalla/display queda del lado visual izquierdo / oeste de la laptop, el teclado inmediatamente a su lado visual derecho / este, y la pantalla mira hacia el este / hacia la pared derecha. Desde la entrada o pasillo central debe verse principalmente la parte trasera o canto de la pantalla, no la pantalla viendo al cliente.
+
+Terminal punto de venta / POS: horizontal sobre el counter, en la misma logica de orientacion que la computadora: debe mirar hacia la pared derecha vacia, no hacia pasillo central, entrada ni cliente. Usar este corte estricto de oeste a este / izquierda a derecha sobre el counter:
+pantalla/frente/botones -> base mas gruesa / impresora de recibos -> espacio libre del counter / pasillo vendedor -> pared derecha.
+La pantalla/frente/botones quedan del lado oeste / visual izquierdo de la terminal, la base mas gruesa o impresora queda inmediatamente hacia el este / visual derecho, y el conjunto mira hacia la pared derecha. Si aparecen botones, deben ser formas vacias sin numeros legibles, sin marcas, sin simbolos de pago, sin UI y sin recibo con texto.
+
+Tamano y lectura: los dispositivos deben ser proporcionales y creibles. La terminal POS debe ser compacta, de escala handheld, no tablet grande ni pantalla en pedestal. La computadora/laptop debe ser pequena, limpia y sin interfaz visible.
 No incluir a Don Rafael. No incluir monitos, siluetas, puntos de personaje ni recorrido de personaje.
 
 ESTRUCTURA DEL PLANO:
@@ -446,6 +381,9 @@ El brazo corto de la L queda hacia la entrada, cierra el frente de la caja y pue
 No debe existir acceso a la caja desde la entrada.
 La L queda abierta en su extremo posterior hacia el fondo del local, como espacio libre de paso para el vendedor. No dibujar puerta ni convertir el mostrador en forma de C.
 El fondo no tiene puerta visible. El fondo debe resolverse como anaquel/vitrina continuo, limpio y casi vacio.
+Los props de caja quedan sobre la barra larga, en orden sur a norte: pano + libreta + pluma, terminal POS, computadora/laptop. No poner los props principales sobre el brazo corto salvo papeles secundarios pequenos.
+La pantalla de la computadora/laptop mira hacia pared derecha; no mira hacia entrada, cliente ni pasillo central.
+La terminal POS sigue la misma orientacion general: pantalla/frente/botones hacia la pared derecha, no hacia entrada, cliente ni pasillo central.
 
 PERSONAJE:
 No mostrar personaje. No mostrar monito de Don Rafael. No mostrar siluetas humanas. No mostrar puntos de recorrido.
@@ -460,7 +398,7 @@ LOOK DEL MAPA:
 Tecnico, minimalista, preciso, clean architectural floor plan, top-view-only store floor plan, thin furniture lines, thicker wall lines, grayscale only. Mobiliario claro y simplificado, casi sin mercancia dibujada.
 
 NEGATIVO:
-no cinematic final frame, no realistic photo scene, no character portrait, no detailed person, no full body person, no realistic Don Rafael, no person icon, no human silhouette, no people crowd, no route dots, no character path, no red route, no arrows, no camera icons, no camera cones, no light cones, no yellow cones, no moodboard, no collage, no storyboard panels, no facade view, no elevation drawing, no side view, no section drawing, no isometric view, no perspective view, no 3D cutaway, no thumbnails, no secondary panels, no multi-view architecture board, no central island counter, no C-shaped counter, no counter door, no counter gate, no formal doorway behind counter, no boutique showroom island, no gourmet store island, no luxury retail layout, no open concept showroom, no counter blocking central aisle, no long bar fully attached to right wall with no seller space, no access to counter from entrance, no front opening in counter, no blocked access behind counter, no right wall fully occupied by shelves in the counter area, no arbitrary cameras, no camera axis crossing, no messy diagram, no clutter, no overloaded shelves, no tiny-object overload, no every shelf fully packed, no detailed inventory, no product catalog, no excessive text, no captions, no labels, no numbers if avoidable, no UI, no metadata, no logo, no brand, no soccer, no football, no ball, no stadium, no flags, no famous landmarks, no dirty shop, no grime, no trash, no rust, no peeling paint, no abandoned look, no confusing camera positions, no crossed camera axis, no reversed shop layout.
+no cinematic final frame, no realistic photo scene, no colorful render, no isometric game map, no character portrait, no detailed person, no full body person, no realistic Don Rafael, no person icon, no human silhouette, no people crowd, no route dots, no character path, no red route, no arrows, no camera icons, no camera cones, no light cones, no yellow cones, no moodboard, no collage, no storyboard panels, no facade view, no elevation drawing, no side view, no section drawing, no isometric view, no perspective view, no 3D cutaway, no thumbnails, no secondary panels, no multi-view architecture board, no central island counter, no C-shaped counter, no counter door, no counter gate, no formal doorway behind counter, no boutique showroom island, no gourmet store island, no luxury retail layout, no open concept showroom, no counter blocking central aisle, no long bar fully attached to right wall with no seller space, no access to counter from entrance, no front opening in counter, no blocked access behind counter, no right wall fully occupied by shelves in the counter area, no POS facing customer aisle, no computer facing central aisle, no tablet facing central aisle, no arbitrary cameras, no camera axis crossing, no messy diagram, no clutter, no overloaded shelves, no tiny-object overload, no every shelf fully packed, no detailed inventory, no product catalog, no excessive text, no captions, no labels, no numbers if avoidable, no UI, no metadata, no logo, no brand, no soccer, no football, no ball, no stadium, no flags, no famous landmarks, no dirty shop, no grime, no trash, no rust, no peeling paint, no abandoned look, no confusing camera positions, no crossed camera axis, no reversed shop layout.
 ```
 
 ## 02 — Prompt Para Crear Location Sheet Visual L01 Desde Mapa
@@ -468,7 +406,7 @@ no cinematic final frame, no realistic photo scene, no character portrait, no de
 Usar con el blocking map aprobado como unica imagen de referencia.
 
 Blocking map aprobado:
-`07_assets/locations/blocking-maps/L01-tienda-pequena-centro-historico-blocking-map-v009-approved.png`
+usar el nuevo mapa L01 aprobado generado desde el prompt 01 activo.
 
 ```text
 Haz una imagen horizontal 16:9 de location sheet visual cinematografico para una tienda pequena tradicional del Centro Historico de Ciudad de Mexico, zona Donceles/Zocalo.
@@ -529,7 +467,9 @@ El brazo corto de la L queda hacia la entrada, cierra el frente de la caja y pue
 No debe haber acceso directo a la caja desde la entrada.
 El mostrador no es una isla: solo la barra larga queda separada del muro; el brazo corto puede cerrar contra la pared derecha.
 El paso al pasillo vendedor ocurre por el extremo posterior abierto de la L, hacia el fondo del local, no por el frente. No dibujar puerta ni vano.
-El POS, computadora o tablet sobre el mostrador debe mirar hacia la pared derecha vacia. No debe mirar hacia el pasillo central ni hacia el cliente.
+El POS, computadora o tablet sobre el mostrador debe mirar hacia la pared derecha vacia. No debe mirar hacia el pasillo central, la entrada ni el cliente.
+Los props fijos de caja deben respetar el mapa: sobre la barra larga, de sur/frente a norte/fondo van pano rojo + libreta + pluma, luego terminal POS, luego computadora/laptop.
+La computadora/laptop debe quedar abierta mirando hacia la pared derecha: pantalla hacia la pared derecha vacia, teclado hacia el interior/pasillo central. Desde la entrada debe verse principalmente la parte trasera o canto de la pantalla, no la pantalla viendo al cliente.
 Luz de amanecer entra desde la calle hacia el interior.
 
 CONTINUIDAD OBLIGATORIA:
@@ -544,7 +484,8 @@ Mismo estado limpio, cuidado, humilde, digno y funcional.
 Mismo estado nuevo, ordenado y recientemente mantenido.
 Misma planta del mapa en todos los paneles.
 Mismas posiciones relativas: entrada al frente, anaquel izquierdo, anaquel de fondo, pared derecha limpia, pasillo central libre, mostrador en L dentro del local, brazo corto de la L cerrando hacia entrada, pasillo vendedor detras de caja.
-Misma orientacion del POS/computadora/tablet: pantalla hacia la pared derecha vacia, no hacia el pasillo central.
+Misma orientacion del POS/computadora/tablet: pantalla hacia la pared derecha vacia, no hacia el pasillo central, entrada ni cliente.
+Misma disposicion de props sobre la barra larga: desde sur/frente hacia norte/fondo, pano rojo + libreta + pluma, luego terminal POS, luego computadora/laptop.
 Las vistas deben respetar la geometria del mapa.
 
 LOOK:
@@ -568,8 +509,8 @@ no people, no character, no storyboard action, no moodboard, no irregular collag
 Usar en una ventana nueva y limpia cuando ya esten aprobados:
 
 1. Character sheet de Don Rafael.
-2. Blocking map L01: `07_assets/locations/blocking-maps/L01-tienda-pequena-centro-historico-blocking-map-v009-approved.png`
-3. Location sheet visual L01: `07_assets/locations/model-sheets v03/L01-tienda-pequena-centro-historico-location-sheet-v009-approved.png`
+2. Blocking map L01: nuevo mapa L01 aprobado generado desde el prompt 01 activo.
+3. Location sheet visual L01 aprobado vigente.
 
 ```text
 Usa las 3 imagenes adjuntas como referencias estrictas:
@@ -578,14 +519,14 @@ Usa las 3 imagenes adjuntas como referencias estrictas:
 Identidad, rostro, edad, pelo entrecano, complexion, manos, vestuario, actitud y props personales.
 
 2. Blocking map aprobado de L01:
-Planta fija, eje de accion, entrada y cortina al sur, interior al norte, ruta fisica, posiciones de camara, direccion de luz y continuidad espacial.
+Planta fija, entrada y cortina al sur, interior al norte, anaquel izquierdo, anaquel de fondo, pared derecha limpia, pasillo central, caja lateral derecha en L, pasillo vendedor, props fijos y continuidad espacial.
 
 3. Location sheet visual aprobado de L01:
 Arquitectura, fachada de tezontle/cantera rojiza, cortina roja T1, mostrador en L, anaqueles con articulos de cabello/barba, materiales, paleta, luz de amanecer, limpieza y tono cinematografico.
 
 JERARQUIA DE REFERENCIAS:
 La identidad del personaje viene solo de la referencia 1.
-La geometria, eje y recorrido vienen solo de la referencia 2.
+La geometria y continuidad espacial vienen solo de la referencia 2.
 El look, arquitectura y materiales vienen solo de la referencia 3.
 
 No uses ninguna otra imagen como referencia.
@@ -601,8 +542,8 @@ No cambies ropa, edad, rostro, luz, paleta ni epoca.
 Usar en chat nuevo. Adjuntar exactamente estas referencias:
 
 1. Character sheet aprobado de Don Rafael.
-2. Blocking map aprobado de L01: `07_assets/locations/blocking-maps/L01-tienda-pequena-centro-historico-blocking-map-v009-approved.png`
-3. Location sheet visual aprobado de L01: `07_assets/locations/model-sheets v03/L01-tienda-pequena-centro-historico-location-sheet-v009-approved.png`
+2. Blocking map aprobado de L01: nuevo mapa L01 aprobado generado desde el prompt 01 activo.
+3. Location sheet visual aprobado de L01 vigente.
 
 ```text
 Haz una imagen horizontal 16:9 tipo sequence sheet cinematografico para la Toma 01 de una tienda pequena tradicional del Centro Historico de Ciudad de Mexico.
@@ -613,7 +554,7 @@ Usa las 3 imagenes adjuntas como referencias estrictas y unicas:
 Usalo solo para identidad del personaje: rostro, edad, pelo entrecano, complexion, manos, vestuario, actitud y presencia.
 
 2. Blocking map de la tienda:
-Usalo solo para geometria y continuidad espacial: entrada/cortina al frente, local angosto y profundo, anaquel izquierdo, anaquel de fondo, pared derecha limpia, pasillo central, caja lateral derecha en L, pasillo vendedor, fondo y direccion de entrada desde la calle hacia el interior.
+Usalo solo para geometria y continuidad espacial: entrada/cortina al frente, local angosto y profundo, anaquel izquierdo, anaquel de fondo, pared derecha limpia, pasillo central, caja lateral derecha en L, pasillo vendedor, fondo, direccion de entrada desde la calle hacia el interior, props fijos de caja y orientacion de POS/computadora hacia la pared derecha.
 
 3. Location sheet visual de la tienda:
 Usalo solo para look de locacion: fachada de tezontle/cantera rojiza, cortina metalica roja T1, interior limpio, anaqueles con articulos de cabello/barba, mostrador en L de madera, POS, libreta, pano rojo, luz de amanecer, paleta y tono cinematografico.

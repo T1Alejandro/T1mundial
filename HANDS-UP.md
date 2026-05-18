@@ -23,7 +23,7 @@ Hero film cinematografico 60-90s para YouTube de T1, lanzamiento 26 mayo 2026.
 
 - `00_admin/source-materials/T1_mundial_v08_Briefing_Alejandro.docx`
 - `00_admin/source-materials/T1_mundial_v08_Anexo_Branding.docx`
-- `03_creative/v02_v08_commerce_athlete/briefing/t1-mundial-v08-extraction-v001.md`
+- `03_creative/v02_v08_commerce_athlete/briefing/Extraccion Briefing T1 Mundial.md`
 - `03_creative/v02_v08_commerce_athlete/script/vo-script-v08-final.md`
 - `03_creative/v02_v08_commerce_athlete/prompts/higgsfield-agent-v08-video-execution-prompt-v001.md`
 - `03_creative/v02_v08_commerce_athlete/prompts/character-location-sheet-prompts-v008-v001.md`
@@ -31,7 +31,7 @@ Hero film cinematografico 60-90s para YouTube de T1, lanzamiento 26 mayo 2026.
 - `03_creative/v02_v08_commerce_athlete/prompts/chatgpt-master-rack-14-v008-commerce-athlete.md`
 - `03_creative/v02_v08_commerce_athlete/prompts/higgsfield-character-location-sheet-v008.md`
 - `03_creative/v02_v08_commerce_athlete/prompts/lora-realism-prompt-system-v001.md`
-- `03_creative/v02_v08_commerce_athlete/briefing/v08-master-production-bible-v001.md`
+- `03_creative/v02_v08_commerce_athlete/briefing/Master Production Biblia.md`
 - `04_production/v08-shot-production-pack-v001.md`
 - `02_references/visual/Storiboard Rack OK.png`
 - `07_assets/figma/`
@@ -139,7 +139,7 @@ Correccion respecto al rack escolar: se eliminan verdes escolares/verde bosque d
   - `07_assets/figma/Figma.png`
   - `07_assets/figma/Storiboard.jpg`
 - El rack funciona como validacion de continuidad general de la secuencia v08: personajes aprobados + locaciones aprobadas + progresion visual de las 14 tomas.
-- La biblia v08 contiene el prompt y criterio del rack en `03_creative/v02_v08_commerce_athlete/briefing/v08-master-production-bible-v001.md`, seccion `18. Prompt Pack — Storyboard Rack 16 Frames`.
+- La biblia v08 contiene el prompt y criterio del rack en `03_creative/v02_v08_commerce_athlete/briefing/Master Production Biblia.md`, seccion `18. Prompt Pack — Storyboard Rack 16 Frames`.
 - La direccion de motion ahora se trabaja por toma usando sequence boards 4x4 de 16 paneles: una micro-secuencia visual por toma, no un moodboard ni frames aislados.
 - La biblia v08 contiene el primer prompt editable de sequence board en la seccion `19. Prompt Pack — Sequence Board Por Toma`.
 - Shot 01 ya tiene flujo de prueba: sequence board de Don Rafael abriendo cortina -> prompt de Seedance 5s -> evaluar si el modelo respeta continuidad.
@@ -159,7 +159,7 @@ Correccion respecto al rack escolar: se eliminan verdes escolares/verde bosque d
 
 ### Entregables vigentes creados
 
-- `03_creative/v02_v08_commerce_athlete/briefing/t1-mundial-v08-extraction-v001.md` - extraccion operativa del briefing v08.
+- `03_creative/v02_v08_commerce_athlete/briefing/Extraccion Briefing T1 Mundial.md` - extraccion operativa del briefing v08.
 - `03_creative/v02_v08_commerce_athlete/script/vo-script-v08-final.md` - guion final con timing.
 - `03_creative/v02_v08_commerce_athlete/prompts/higgsfield-agent-v08-video-execution-prompt-v001.md` - prompt limpio para que el agente produzca el video por fases.
 - `03_creative/v02_v08_commerce_athlete/prompts/character-model-sheet-visual-system-v008-v001.md` - prompt nuevo para fichas visuales individuales 90% imagen / 10% texto, con cuerpo completo 360, cabeza en angulos, props, entorno y prompt base.
@@ -170,7 +170,7 @@ Correccion respecto al rack escolar: se eliminan verdes escolares/verde bosque d
 - `03_creative/v02_v08_commerce_athlete/prompts/higgsfield-character-location-sheet-v008.md` - prompt maestro vigente para sheet de personajes + locaciones con branding T1, limpieza extrema, mood mexicano y negativos legales.
 - `03_creative/v02_v08_commerce_athlete/prompts/lora-realism-prompt-system-v001.md` - modulo de realismo extremo para piel, manos, ojos, materiales limpios y pantallas lisas sin logos/UI generados.
 - `03_creative/v02_v08_commerce_athlete/reviews/step-01-character-location-sheet-validation-v001.md` - checklist de aprobacion de fichas individuales 90/10 y del sheet 6x2 antes de pasar a prompts por toma.
-- `03_creative/v02_v08_commerce_athlete/briefing/v08-master-production-bible-v001.md` - biblia maestra v08 con personajes, locaciones, guion, branding, prompts y rack/storyboard 4x4.
+- `03_creative/v02_v08_commerce_athlete/briefing/Master Production Biblia.md` - biblia maestra v08 con personajes, locaciones, guion, branding, prompts y rack/storyboard 4x4.
 - `04_production/v08-shot-production-pack-v001.md` - mapa operativo de Fase 2B: paquetes por toma, motion permitido, bloqueos, UI/post y orden de pruebas.
 - `02_references/visual/Storiboard Rack OK.png` - rack/storyboard secuencial generado y aprobado como base visual de la secuencia.
 - `07_assets/figma/` - frames individuales del rack, grid/storyboard y tira visual para Figma/produccion.

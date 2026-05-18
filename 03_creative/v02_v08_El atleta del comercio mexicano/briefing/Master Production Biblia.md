@@ -219,7 +219,7 @@ Vista aerea poetica de Mexico sugerido por luces, no mapa literal. Miles de punt
 
 Objetivo: tener una sola fuente de verdad para concepto, VO, look, personajes, locaciones, tomas, negativos y flujo.
 
-Salida principal: `v08-master-production-bible-v001.md`.
+Salida principal: `Master Production Biblia.md`.
 
 Regla: cualquier cambio de edad, vestuario, prop, locacion, paleta, toma o post se edita primero aqui.
 
@@ -309,7 +309,7 @@ Usar nombres neutrales por funcion:
 
 - `v08-character-sheets-isolated-v001.md`
 - `v08-location-sheets-isolated-v001.md`
-- `v08-location-blocking-sheets-v001.md`
+- `Map Blocking Locaciones.md`
 - `v08-storyboard-rack-14-v001.md`
 - `v08-shot-keyframes-v001.md`
 - `v08-motion-prompts-v001.md`

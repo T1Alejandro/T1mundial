@@ -14,7 +14,7 @@ confidence: "high"
 related_docs:
   - "../HANDS-UP.md"
   - "../03_creative/v02_v08_commerce_athlete/prompts/storyboard-rack-16-v008-self-contained.md"
-  - "../03_creative/v02_v08_commerce_athlete/briefing/v08-master-production-bible-v001.md"
+  - "../03_creative/v02_v08_commerce_athlete/briefing/Master Production Biblia.md"
   - "../03_creative/v02_v08_commerce_athlete/script/vo-script-v08-final.md"
   - "../07_assets/figma/"
 ---
