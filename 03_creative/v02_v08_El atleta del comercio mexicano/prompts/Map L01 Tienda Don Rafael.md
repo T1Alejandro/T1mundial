@@ -10,7 +10,7 @@ tags: ["v08", "don-rafael", "l01", "blocking-map", "centro-historico", "seedance
 source_of_truth: "local-project"
 related_assets:
   - "../../../07_assets/locations/model-sheets v03/L01-tienda-pequena-centro-historico-location-sheet-v009-approved.png"
-  - "../../../07_assets/locations/blocking-maps/L01-tienda-pequena-centro-historico-blocking-map-v009-approved.png"
+  - "../../../07_assets/locations/blocking-maps/L_Tienda-pequena-centro-historico-blocking-map.png"
 ---
 
 # L01 Tienda Don Rafael — Blocking Map v010
